@@ -159,9 +159,3 @@ flowchart LR
 **这些是客户案例吗？**
 
 这里使用项目演示预览，不把它们描述为真实用户或客户成交记录。素材与许可说明见 [图片与内容说明](docs/content-policy.md)。
-
-## 来源与贡献
-
-欢迎补充明确输入、用途和限制的案例，见 [贡献说明](CONTRIBUTING.md)。公开产品页与需求参考链接不表示素材授权或合作关系。
-
-本库的组织方式参考了 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的案例导航与 [EvoLink Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) 的案例直达入口；案例文字与基础教程为 dearsketch 单独整理，没有搬运这两个仓库的图片和提示词。
