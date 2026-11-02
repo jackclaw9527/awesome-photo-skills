@@ -1,0 +1,2629 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "宠物与家庭纪念",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "人物与个人形象",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "住宅与空间",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "商品与电商",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "创意与视觉设计",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "宠物定制肖像",
+      "name": "把宠物照片制作成定制肖像",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张宠物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宠物照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "宠物肖像",
+      "useCase": "礼物、家居装饰",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "先比较眼睛、耳朵、花纹与体态，再判断画风是否喜欢。",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宠物照片",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI宠物肖像",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "宠物皇家肖像",
+      "name": "把宠物变成皇家或历史人物肖像",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张宠物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宠物照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "趣味宠物肖像",
+      "useCase": "礼物、墙画",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "服饰和背景可以改变，宠物的脸部与花纹不能被换成另一只。",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宠物照片",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI宠物肖像",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "宠物趣味场景画",
+      "name": "制作宠物浴室、厨房等趣味场景画",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张宠物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宠物照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "趣味宠物墙画",
+      "useCase": "家居装饰、礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查爪子、道具接触和身体结构；趣味场景是创作，不是真实记录。",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宠物照片",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI宠物肖像",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "宠物纪念画",
+      "name": "制作宠物离世纪念画",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张宠物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宠物照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "宠物纪念肖像",
+      "useCase": "追思、纪念礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "姓名、日期或题字只使用本人确认的信息；不需要文字时保持画面干净。",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宠物照片",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI宠物肖像",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "人与宠物家庭肖像",
+      "name": "生成包含宠物的家庭肖像",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "每位成员至少1张家庭成员照片＋每只宠物至少1张宠物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "家庭成员照片",
+          "requirement": "required",
+          "quantity": "每位成员至少1张"
+        },
+        {
+          "kind": "image",
+          "label": "宠物照片",
+          "requirement": "required",
+          "quantity": "每只宠物至少1张"
+        }
+      ],
+      "output": "家庭宠物合影",
+      "useCase": "家居装饰、礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "逐一核对每位成员和宠物，避免漏人、重复或花纹错配。",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "家庭成员照片",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "宠物照片",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor家庭照",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "情侣周年纪念艺术画",
+      "name": "把情侣照片转成周年纪念艺术画",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张情侣照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "情侣照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "周年纪念肖像",
+      "useCase": "周年礼物、墙画",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "先核对双方身份与姿态，再检查艺术表现；姓名和周年日期只使用确认资料。",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "情侣照片",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "分散照片合成全家福",
+      "name": "把分散的家庭成员照片合成为全家福",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "每位成员至少1张全部入画成员照片＋1组人数、人物关系与排列",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "全部入画成员照片",
+          "requirement": "required",
+          "quantity": "每位成员至少1张"
+        },
+        {
+          "kind": "text",
+          "label": "人数、人物关系与排列",
+          "requirement": "required",
+          "quantity": "1组"
+        }
+      ],
+      "output": "完整全家福",
+      "useCase": "家庭纪念、礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "必须提供全部成员照片与人数、关系、排列，合成画面不能当作真实合影记录。",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "待并入的单人成员照",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "已有家庭成员合影",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor家庭照",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "节日主题全家福",
+      "name": "生成圣诞或节日主题全家福",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张家庭照片＋1项节日名称或主题",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "家庭照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "节日名称或主题",
+          "requirement": "required",
+          "quantity": "1项"
+        }
+      ],
+      "output": "节日全家福",
+      "useCase": "贺卡、社交分享",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查人数和身份，节日服装与装饰不能遮挡关键特征。",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "家庭照片",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor家庭照",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "婚礼与婚纱风格肖像",
+      "name": "生成婚礼肖像或婚纱风格照片",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张情侣照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "情侣照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "婚礼肖像",
+      "useCase": "婚礼纪念、请柬",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保留双方身份和自然关系；画面是创作预览，不代表真实婚礼拍摄。",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "情侣照片",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "宝宝成长里程碑照片",
+      "name": "生成宝宝月龄或成长里程碑照片",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "宠物与家庭纪念",
+      "inputSummary": "1张宝宝照片＋1项月龄或里程碑",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宝宝照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "月龄或里程碑",
+          "requirement": "required",
+          "quantity": "1项"
+        }
+      ],
+      "output": "里程碑纪念照",
+      "useCase": "成长记录",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "月龄、日期和成长节点由家长提供；不要从照片猜测这些事实。",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宝宝照片",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "自拍转职业头像",
+      "name": "用自拍生成LinkedIn职业头像",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张本人清楚原照",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "本人清楚原照",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "专业半身头像",
+      "useCase": "LinkedIn个人主页",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查本人身份、五官和自然肤质，避免过度美化与虚构职业标识。",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "本人清楚原照",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor职业照",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "休闲装换正装",
+      "name": "把休闲服装替换为正装",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张穿休闲装的人像",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "穿休闲装的人像",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "正式着装照片",
+      "useCase": "简历、工作资料",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "只调整目标着装，检查领口、手部与身体边缘，避免改变本人外貌。",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "穿休闲装的人像",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor职业照",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "皇家与复古人物肖像",
+      "name": "把自己制作成皇家、复古或历史人物肖像",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张本人清楚原照",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "本人清楚原照",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "历史风格肖像",
+      "useCase": "礼物、墙画、社交",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "服饰和场景是创作，核对人物身份，不把画面当作真实历史照片。",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "本人清楚原照",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor功能中心",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "眼镜试戴预览",
+      "name": "虚拟试戴眼镜",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张人物正面照片＋1张目标眼镜素材或款式描述",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物正面照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "image",
+          "label": "目标眼镜素材或款式描述",
+          "requirement": "conditional",
+          "quantity": "1张",
+          "condition": "精确商品试戴时必需；仅概念款式可用文字描述"
+        }
+      ],
+      "output": "眼镜试戴图",
+      "useCase": "购买决策",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "要试戴具体商品就提供对应款式图；生成画面不能证明实际尺码与佩戴舒适度。",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物正面照片",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "目标眼镜商品图",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "纹身上身预览",
+      "name": "在身体照片上预览纹身",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张人物皮肤原照＋1张目标纹身设计图＋1项纹身位置",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物皮肤原照",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "image",
+          "label": "目标纹身设计图",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "纹身位置",
+          "requirement": "required",
+          "quantity": "1项"
+        }
+      ],
+      "output": "纹身上身预览",
+      "useCase": "纹身决策",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "核对设计轮廓、文字、位置和曲面贴合；成图不是纹身施工模板。",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物皮肤原照",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "目标纹身设计图",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "照片转卡通头像",
+      "name": "把真人照片转成卡通头像",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张本人清楚头部照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "本人清楚头部照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "卡通头像",
+      "useCase": "社交头像、礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "辨认脸型、发型和可见配饰，不要只得到一个泛化卡通人物。",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "本人清楚头部照片",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor功能中心",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "照片转动漫角色",
+      "name": "把真人照片转成动漫角色",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张本人清楚头部照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "本人清楚头部照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "动漫头像",
+      "useCase": "社交头像、同人创作",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保留个人可识别特征，使用原创表现方式，避免把所有人变成同一张脸。",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "本人清楚头部照片",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "包装行动人偶",
+      "name": "把人物制作成带包装的行动人偶",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张人物照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "行动人偶包装图",
+      "useCase": "社交热点、礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查手脚、配件数量与包装文字；这是一张概念图，不是实物商品。",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物照片",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "照片转聊天贴纸",
+      "name": "把照片制作成聊天贴纸",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "1张人物、宠物或物体照片＋0或1项本张贴纸的动作或情绪",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物、宠物或物体照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "本张贴纸的动作或情绪",
+          "requirement": "optional",
+          "quantity": "0或1项"
+        }
+      ],
+      "output": "聊天贴纸包",
+      "useCase": "WhatsApp、Telegram、社媒",
+      "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
+      "check": "一次只做当前选定的一张；系列一致性和平台贴纸打包需要另行检查。",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物、宠物或物体照片",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "个人与情侣电影海报",
+      "name": "把个人或情侣照片制作成电影海报",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "人物与个人形象",
+      "inputSummary": "必需个人、情侣或群体原照(1张)＋必需原创海报题材与片名(1份)＋可选署名与日期(0或1组)",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "个人、情侣或群体原照",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "原创海报题材与片名",
+          "requirement": "required",
+          "quantity": "1份"
+        },
+        {
+          "kind": "text",
+          "label": "署名与日期",
+          "requirement": "optional",
+          "quantity": "0或1组"
+        }
+      ],
+      "output": "个性化电影海报",
+      "useCase": "婚礼、周年、生日和礼物",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "片名与署名使用确认内容；检查文字准确性与人物身份，不冒充真实电影宣传。",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "个人、情侣或群体原照",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "住宅水彩纪念画",
+      "name": "把住宅照片转成水彩或线稿纪念画",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "1张房屋照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "房屋照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "房屋肖像",
+      "useCase": "乔迁、售房纪念",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保留屋顶、门窗与建筑轮廓，不把房屋画成另一栋建筑。",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "房屋照片",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy家庭肖像",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "OpenArt草图转图",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "房间装修风格预览",
+      "name": "上传房间照片预览不同装修风格",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "现有房间照片 → 保持空间结构并替换风格、家具和材质 → 当前单张装修效果图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "现有房间照片",
+          "requirement": "required",
+          "quantity": "1张；多角色或多视角可合并为一张已标注参考板"
+        }
+      ],
+      "output": "装修效果图",
+      "useCase": "装修决策、客户提案",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查门窗与空间结构，效果图不能代替尺寸、预算和施工可行性核查。",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "现有房间照片",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe房间设计",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "Adobe家居概念",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "庭院景观改造",
+      "name": "上传庭院照片生成景观改造方案",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "庭院或外部空间照片＋使用需求、气候或所在地 → 添加植物、铺装和设施 → 当前单张景观效果图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "庭院或外部空间照片",
+          "requirement": "required",
+          "quantity": "1张；多角色或多视角可合并为一张已标注参考板"
+        },
+        {
+          "kind": "text",
+          "label": "使用需求、气候或所在地",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "景观效果图",
+      "useCase": "庭院改造、提案",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保留庭院边界与固定结构，植物、铺装和排水的实际可行性需要另查。",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "庭院或外部空间照片",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "墙漆与地板选材预览",
+      "name": "预览墙漆、地板和墙纸效果",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "室内照片＋目标材料样板＋替换表面与目标颜色/材质 → 替换表面颜色和材料 → 当前单张材料效果预览",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "室内照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "image",
+          "label": "目标材料样板",
+          "requirement": "conditional",
+          "quantity": "0–1张；也可用准确文字或色彩数据",
+          "condition": "需要复现具体纹理或产品样时"
+        },
+        {
+          "kind": "text",
+          "label": "替换表面与目标颜色/材质",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "材料效果预览",
+      "useCase": "装修选材",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "指定产品应提供样板或准确色彩资料；屏幕画面不能保证实物色差一致。",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "室内照片",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "目标材料样板",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Adobe家居概念",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "办公室改造概念",
+      "name": "生成办公室重新设计方案",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "办公室现场照片＋团队、功能区、品牌和分支说明 → 生成工位、会议区和品牌空间 → 当前单张办公室概念图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "办公室现场照片",
+          "requirement": "conditional",
+          "quantity": "1张",
+          "condition": "改造既有办公室时"
+        },
+        {
+          "kind": "text",
+          "label": "团队、功能区、品牌和分支说明",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "办公室概念图",
+      "useCase": "办公室改造",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "团队人数、功能分区和品牌内容需要明确，画面不能证明满足建筑与消防要求。",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "办公室现场照片",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Adobe房间设计",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "空房虚拟布置",
+      "name": "给空置房源添加家具和软装",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "空房照片 → 生成符合空间透视的家具 → 当前单张虚拟布置房源图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "空房照片",
+          "requirement": "required",
+          "quantity": "1张；多角色或多视角可合并为一张已标注参考板"
+        }
+      ],
+      "output": "虚拟布置房源图",
+      "useCase": "房产列表、销售",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保留真实门窗和结构，对外展示时说明虚拟布置，避免把家具当作现有配置。",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "空房照片",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Interior AI",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "房源照片整理",
+      "name": "把随手拍房间照片整理成房源展示图",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "随手拍的有杂物房间照片 → 移除杂物、清理房间并保持真实空间 → 当前单张整洁的房源销售展示图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "随手拍的有杂物房间照片",
+          "requirement": "required",
+          "quantity": "1张；多角色或多视角可合并为一张已标注参考板"
+        }
+      ],
+      "output": "整洁的房源销售展示图",
+      "useCase": "房地产经纪人销售房源",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "不掩盖房屋真实缺陷，不改变房型与固定结构。",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "随手拍的有杂物房间照片",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "建筑外立面概念",
+      "name": "从文字或草图生成建筑外立面概念",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "建筑草图或体块图＋建筑用途、设计关键词 → 生成材料、环境和光线 → 当前单张建筑概念渲染",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "建筑草图或体块图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "用户已有建筑形体、开口或场地草图时"
+        },
+        {
+          "kind": "text",
+          "label": "建筑用途、设计关键词",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "建筑概念渲染",
+      "useCase": "竞赛、提案、汇报",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "明确建筑用途和设计方向，结果用于概念沟通，不是施工图。",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "建筑草图或体块图",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe建筑生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "建筑草图转写实效果",
+      "name": "把室内或建筑草图转成写实效果图",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "室内或建筑草图/CAD线框＋空间用途与草图含义 → 保留结构并补充材质、灯光 → 当前单张写实空间渲染",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "室内或建筑草图/CAD线框",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "空间用途与草图含义",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "写实空间渲染",
+      "useCase": "客户沟通、方案评审",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "核对草图中的开口与结构关系，不能把视觉渲染当作工程验证。",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "室内或建筑草图/CAD线框",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt草图转图",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "Adobe建筑生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "空间设计情绪板",
+      "name": "为建筑或室内项目生成情绪板",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "住宅与空间",
+      "inputSummary": "空间氛围与材料参考板＋项目类型与关键词 → 整理并生成一致视觉方向 → 当前单张Mood Board",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "空间氛围与材料参考板",
+          "requirement": "optional",
+          "quantity": "0–多张；可合成一张按类别标注的情绪板输入",
+          "condition": "用户已有方向素材时"
+        },
+        {
+          "kind": "text",
+          "label": "项目类型与关键词",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "Mood Board",
+      "useCase": "客户对齐、提案",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "情绪板用于设计沟通，不是采购清单；具体产品、尺寸和价格需要确认。",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "空间氛围与材料参考板",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe Firefly功能",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "Adobe建筑生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "商品白底主图",
+      "name": "把普通商品照片制作成白底主图",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张手机拍摄的商品照",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "手机拍摄的商品照",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "平台白底主图",
+      "useCase": "Amazon、淘宝、独立站",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "核对形状、标签与边缘；是否符合上架规范需按实际渠道另查。",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "手机拍摄的商品照",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI工具",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Pixelcut Product Studio",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "透明底商品素材",
+      "name": "生成可复用的透明底商品PNG",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "透明底商品素材",
+      "useCase": "海报、目录、广告",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "检查真实透明通道与细小边缘，不把白底预览当作透明文件证明。",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品照片",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "insMind商品摄影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "商品生活方式场景",
+      "name": "把商品放入真实生活方式场景",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品白底图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品白底图",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "生活方式商品图",
+      "useCase": "详情页、广告、社媒",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "商品本体不应被改款，检查比例、接触面与场景关系。",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品白底图",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI工具",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "OpenArt图片生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "商品影棚照",
+      "name": "把普通照片变成专业影棚产品照",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品照片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品照片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "影棚级产品图",
+      "useCase": "商品目录、品牌官网",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "保持标签、结构与材质事实，检查反光是否自然。",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品照片",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI工具",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Pixelcut Product Studio",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "节日商品场景",
+      "name": "生成圣诞、黑五或季节主题商品图",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品照片＋1项节日或促销主题",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "节日或促销主题",
+          "requirement": "required",
+          "quantity": "1项"
+        }
+      ],
+      "output": "节日促销商品图",
+      "useCase": "节日活动、广告",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "只使用已确认的活动主题与促销信息，装饰不能遮住商品。",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品照片",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "insMind商品摄影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "美图设计室",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "食品与饮品商业摄影",
+      "name": "生成食品、蛋糕、披萨或饮品商业摄影",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张食品照片或产品描述",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "食品照片或产品描述",
+          "requirement": "optional",
+          "quantity": "1张",
+          "condition": "纯文字分支可省略"
+        }
+      ],
+      "output": "食品宣传图",
+      "useCase": "菜单、外卖、广告",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "展示实际商品时核对分量、配料与外观，不把创作效果冒充实际出品。",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "食品照片或产品描述",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "服装平铺图转模特上身图",
+      "name": "把服装平铺图生成真人模特上身图",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张服装平铺图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "服装平铺图",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "服装模特图",
+      "useCase": "电商详情、广告",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "核对款式、印花、面料和细节，生成画面不能证明真实尺码或实际合身程度。",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "服装平铺图",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI工具",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "美图设计室",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "商品手持互动图",
+      "name": "生成手持或使用商品的互动图",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品图片",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品图片",
+          "requirement": "required",
+          "quantity": "1张"
+        }
+      ],
+      "output": "商品互动图",
+      "useCase": "社媒广告、详情页",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "核对手部结构、握持关系与商品尺寸感，避免伪造产品功能。",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品图片",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt图片生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "Pixelcut Product Studio",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "商品卖点信息图",
+      "name": "制作带尺寸、卖点和参数的商品信息图",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "1张商品照片＋1组准确尺寸、卖点和参数",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "商品照片",
+          "requirement": "required",
+          "quantity": "1张"
+        },
+        {
+          "kind": "text",
+          "label": "准确尺寸、卖点和参数",
+          "requirement": "required",
+          "quantity": "1组"
+        }
+      ],
+      "output": "商品信息图",
+      "useCase": "Amazon详情、独立站",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "尺寸、参数与卖点来自用户资料；生成文字必须逐项复核。",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商品照片",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Pixelcut Product Studio",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "电商详情页视觉草稿",
+      "name": "从商品资料生成电商详情页长图",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "商品与电商",
+      "inputSummary": "多张同一商品图片组＋1组卖点与准确文案",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "同一商品图片组",
+          "requirement": "required",
+          "quantity": "多张"
+        },
+        {
+          "kind": "text",
+          "label": "卖点与准确文案",
+          "requirement": "required",
+          "quantity": "1组"
+        }
+      ],
+      "output": "商品详情页",
+      "useCase": "中文电商",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "准确文案与多角度素材需齐全，当前交付是视觉预览，精确排版需另行校验。",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "同款卫衣正面",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "同款卫衣背面",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "同款卫衣细节",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "同款卫衣穿着照",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "美图设计室",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "堆友电商",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "YouTube 视频缩略图",
+      "name": "生成YouTube视频缩略图",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "视频人物或主题物件原图＋视频主题或标题 → 生成高对比构图和标题区域 → 当前单张YouTube Thumbnail",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "视频人物或主题物件原图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "缩略图要出现特定人物、产品或实物时"
+        },
+        {
+          "kind": "text",
+          "label": "视频主题或标题",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "YouTube Thumbnail",
+      "useCase": "视频发布",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "使用真实视频主题，检查缩小后的主体与标题识别度。",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "主题宣传海报",
+      "name": "从主题和文案生成宣传海报",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "活动主视觉素材原稿＋活动名称、核心信息、时间与地点或参与方式 → 生成带文字和图像的海报 → 当前单张活动海报",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "活动主视觉素材原稿",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "海报要使用特定人物、商品、作品或品牌标志时"
+        },
+        {
+          "kind": "text",
+          "label": "活动名称、核心信息、时间与地点或参与方式",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "活动海报",
+      "useCase": "线上线下宣传",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "时间、地点、参与方式和活动名称逐项核对，生成图不能替代最终排版检查。",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "节日促销海报",
+      "name": "生成母亲节、黑五或节日促销海报",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "促销商品原图＋节庆或销售节点、商品或服务、促销信息 → 套用节庆主题并生成版式 → 当前单张节点促销图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "促销商品原图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "节点促销图要展示特定商品时"
+        },
+        {
+          "kind": "text",
+          "label": "节庆或销售节点、商品或服务、促销信息",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "节点促销图",
+      "useCase": "销售活动",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "折扣、价格和活动日期只能使用确认数据。",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "促销商品原图",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "insMind商品摄影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "LightX全部工具",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "会议与展览海报",
+      "name": "生成会议、展览或演讲海报",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "讲者、参展人或展品原图＋活动题目、讲者或参展信息、时间、地点或参与方式 → 生成规范活动海报 → 当前单张会议海报",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "讲者、参展人或展品原图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "海报要展示真实讲者、参展人或展品时"
+        },
+        {
+          "kind": "text",
+          "label": "活动题目、讲者或参展信息、时间、地点或参与方式",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "会议海报",
+      "useCase": "会议宣传",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "不虚构讲者、主办方或背书，照片和文字需逐项确认。",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "概念信息图",
+      "name": "把复杂概念生成信息图主视觉",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "已有信息结构草图＋事实内容、信息结构或关系 → 生成图标、构图和视觉层次 → 当前单张Infographic",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "已有信息结构草图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "用户已有流程、层级或关系草图时"
+        },
+        {
+          "kind": "text",
+          "label": "事实内容、信息结构或关系",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "Infographic",
+      "useCase": "报告、社媒、教育",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "关系、顺序与数字来自已提供资料，视觉合理不代表事实正确。",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "文章与 Newsletter 封面",
+      "name": "生成Newsletter头图和文章封面",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "文章涉及的人物、商品或事件素材原图＋文章主题 → 生成横版封面和品牌化插图 → 当前单张文章头图",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "文章涉及的人物、商品或事件素材原图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "头图必须呈现文章中的特定人物、商品或事件素材时"
+        },
+        {
+          "kind": "text",
+          "label": "文章主题",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "文章头图",
+      "useCase": "邮件、博客",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "围绕文章主题设计，不添加正文没有的事件或事实。",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "App 设备展示图",
+      "name": "生成应用界面设备Mockup和商店宣传图",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "目标应用实际界面截图＋目标设备与真实功能卖点 → 置入手机设备并添加营销背景 → 当前单张App Mockup",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "目标应用实际界面截图",
+          "requirement": "required",
+          "quantity": "当前设备画面1张"
+        },
+        {
+          "kind": "text",
+          "label": "目标设备与真实功能卖点",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "App Mockup",
+      "useCase": "App Store、官网",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "界面与卖点必须来自真实产品，设备样机效果不代表功能已经实现。",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "目标应用实际界面截图",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "菜单与菜品视觉",
+      "name": "生成餐厅菜单视觉和菜品配图",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "真实菜品照片原图＋菜品名称、准确价格、分类 → 生成排版、插图和真实菜图 → 当前单张菜单",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "真实菜品照片原图",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "菜单要展示餐厅实际菜品时"
+        },
+        {
+          "kind": "text",
+          "label": "菜品名称、准确价格、分类",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "菜单",
+      "useCase": "餐厅、外卖",
+      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "check": "价格、名称和分类逐项确认，实际菜品照片与创作示意应清楚区分。",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "Logo 概念探索",
+      "name": "从品牌描述生成Logo概念",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "既有品牌标志与识别资产原稿＋品牌名称、品牌定位、目标受众 → 生成多种标志方向 → 当前单张Logo草案",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "既有品牌标志与识别资产原稿",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "为已有品牌探索 Logo 延展而非从零创建时"
+        },
+        {
+          "kind": "text",
+          "label": "品牌名称、品牌定位、目标受众",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "Logo草案",
+      "useCase": "品牌创建、提案",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "结果是概念草稿，商标检索、字形与矢量交付需要另外处理。",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Photoroom AI工具",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "艺术字与标题效果",
+      "name": "生成可读的艺术字和标题效果",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "创意与视觉设计",
+      "inputSummary": "指定字形或材质字效样板＋准确文字、用途 → 生成带材质和风格的文字 → 当前单张艺术字",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "指定字形或材质字效样板",
+          "requirement": "optional",
+          "quantity": "0–1张；多素材可合并为一张已标注参考板",
+          "condition": "艺术字必须沿用既有字形语言或材质效果时"
+        },
+        {
+          "kind": "text",
+          "label": "准确文字、用途",
+          "requirement": "required",
+          "quantity": "1份"
+        }
+      ],
+      "output": "艺术字",
+      "useCase": "海报、包装、社媒",
+      "deliveryNote": "每次只生成一张图片。",
+      "check": "逐字检查拼写、顺序与可读性；图像中的字形不是可编辑字体文件。",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI工具",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ]
+}
