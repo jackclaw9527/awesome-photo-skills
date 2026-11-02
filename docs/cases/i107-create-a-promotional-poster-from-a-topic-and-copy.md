@@ -4,17 +4,14 @@
 
 [在 dearsketch 查看要求并制作同款](https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta) · [返回案例目录](../../README.md#创意与视觉设计)
 
-## 演示预览
+## 参考素材与结果示例
 
-### 输入素材
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p>本例未附图片参考，请查看素材要求。输入预览待补。</p></td><td valign="top"><a href="https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i107_image"><img src="../../assets/cases/i107-after.webp" alt="主题宣传海报结果示例" width="360"></a></td></tr></tbody>
+</table>
 
-当前项目演示未附图片输入。请按下面的文字或原稿要求准备资料。
-
-### 结果方向
-
-<a href="https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i107_image"><img src="../../assets/cases/i107-after.webp" alt="主题宣传海报演示结果" width="620"></a>
-
-这是项目已有演示预览，不是本仓库基础教程的实测结果，也不代表真实客户案例。
+参考素材来自项目现有演示资料，结果图来自项目已有结果记录；这些配图用于说明视觉方向，不保证按相同素材与教程能复现相同结果。
 
 ## 需要准备什么
 

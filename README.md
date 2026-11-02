@@ -1,24 +1,114 @@
 # Awesome Photo Skills — 照片处理技能与案例库
 
-照片处理 Skills 与案例库｜50 个精选场景，涵盖人像编辑、宠物肖像、商品图优化与空间改造，附处理前后对照和在线体验。示例图片由 GPT Image 2.5 生成。
+照片处理 Skills 与案例库｜50 个精选场景，以及 197 个更多结果示例，涵盖人像编辑、宠物肖像、商品图优化与空间改造，附参考素材与结果对照和在线体验。示例图片由 GPT Image 2.5 生成。
 
 **想用自己的照片试一试？** [打开 dearsketch](https://dearsketch.com/?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=home_hero)，也可以直接点击下面的效果图进入对应需求页面。
 
-[浏览案例目录](#案例目录) · [5 个基础模板](docs/tutorials.md) · [产品架构](docs/architecture.md) · [图片与内容说明](docs/content-policy.md)
+[50 个精选案例](#案例目录) · [更多案例图廊](docs/gallery/index.md) · [5 个基础模板](docs/tutorials.md) · [产品架构](docs/architecture.md)
 
 > 当前为待发布草稿。图片是已有项目演示，教程模板另行编写；图片再分发范围需在正式发布前逐项确认。
 
-## 先看效果
+## 先看 Before / After
+
+### 宠物皇家肖像
 
 <table>
-<tr><td width="50%"><a href="https://dearsketch.com/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i028_image"><img src="assets/cases/i028-after.webp" alt="宠物皇家肖像演示结果" width="380"></a><br><strong>宠物皇家肖像</strong><br><a href="docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i028_cta">制作同款</a></td><td width="50%"><a href="https://dearsketch.com/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i022_image"><img src="assets/cases/i022-after.webp" alt="情侣周年纪念艺术画演示结果" width="380"></a><br><strong>情侣周年纪念艺术画</strong><br><a href="docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i022_cta">制作同款</a></td></tr>
-<tr><td width="50%"><a href="https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i047_image"><img src="assets/cases/i047-after.webp" alt="照片转卡通头像演示结果" width="380"></a><br><strong>照片转卡通头像</strong><br><a href="docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i047_cta">制作同款</a></td><td width="50%"><a href="https://dearsketch.com/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i050_image"><img src="assets/cases/i050-after.webp" alt="包装行动人偶演示结果" width="380"></a><br><strong>包装行动人偶</strong><br><a href="docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i050_cta">制作同款</a></td></tr>
-<tr><td width="50%"><a href="https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i030_image"><img src="assets/cases/i030-after.webp" alt="住宅水彩纪念画演示结果" width="380"></a><br><strong>住宅水彩纪念画</strong><br><a href="docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i030_cta">制作同款</a></td><td width="50%"><a href="https://dearsketch.com/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i169_image"><img src="assets/cases/i169-after.webp" alt="房间装修风格预览演示结果" width="380"></a><br><strong>房间装修风格预览</strong><br><a href="docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i169_cta">制作同款</a></td></tr>
-<tr><td width="50%"><a href="https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i065_image"><img src="assets/cases/i065-after.webp" alt="商品白底主图演示结果" width="380"></a><br><strong>商品白底主图</strong><br><a href="docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i065_cta">制作同款</a></td><td width="50%"><a href="https://dearsketch.com/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i067_image"><img src="assets/cases/i067-after.webp" alt="商品生活方式场景演示结果" width="380"></a><br><strong>商品生活方式场景</strong><br><a href="docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i067_cta">制作同款</a></td></tr>
-<tr><td width="50%"><a href="https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i107_image"><img src="assets/cases/i107-after.webp" alt="主题宣传海报演示结果" width="380"></a><br><strong>主题宣传海报</strong><br><a href="docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i107_cta">制作同款</a></td><td width="50%"><a href="https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i126_image"><img src="assets/cases/i126-after.webp" alt="Logo 概念探索演示结果" width="380"></a><br><strong>Logo 概念探索</strong><br><a href="docs/cases/i126-create-logo-concepts-from-a-brand-description.md">查看素材与检查要点</a> · <a href="https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i126_cta">制作同款</a></td></tr>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>宠物照片</strong><br><img src="assets/cases/i028-before-1.webp" alt="宠物皇家肖像参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i028_image"><img src="assets/cases/i028-after.webp" alt="宠物皇家肖像结果示例" width="360"></a></td></tr></tbody>
 </table>
 
-以上是结果预览；每个案例详情中可查看配套输入示例。图片点击后进入网站，文字链接进入 GitHub 案例说明。
+[查看素材与检查要点](docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i028_cta)
+
+### 情侣周年纪念艺术画
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>情侣照片</strong><br><img src="assets/cases/i022-before-1.webp" alt="情侣周年纪念艺术画参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i022_image"><img src="assets/cases/i022-after.webp" alt="情侣周年纪念艺术画结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i022_cta)
+
+### 照片转卡通头像
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人清楚头部照片</strong><br><img src="assets/cases/i047-before-1.webp" alt="照片转卡通头像参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i047_image"><img src="assets/cases/i047-after.webp" alt="照片转卡通头像结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i047_cta)
+
+### 包装行动人偶
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>人物照片</strong><br><img src="assets/cases/i050-before-1.webp" alt="包装行动人偶参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i050_image"><img src="assets/cases/i050-after.webp" alt="包装行动人偶结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i050_cta)
+
+### 住宅水彩纪念画
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>房屋照片</strong><br><img src="assets/cases/i030-before-1.webp" alt="住宅水彩纪念画参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i030_image"><img src="assets/cases/i030-after.webp" alt="住宅水彩纪念画结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i030_cta)
+
+### 房间装修风格预览
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>现有房间照片</strong><br><img src="assets/cases/i169-before-1.webp" alt="房间装修风格预览参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i169_image"><img src="assets/cases/i169-after.webp" alt="房间装修风格预览结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i169_cta)
+
+### 商品白底主图
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>手机拍摄的商品照</strong><br><img src="assets/cases/i065-before-1.webp" alt="商品白底主图参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i065_image"><img src="assets/cases/i065-after.webp" alt="商品白底主图结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i065_cta)
+
+### 商品生活方式场景
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>商品白底图</strong><br><img src="assets/cases/i067-before-1.webp" alt="商品生活方式场景参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i067_image"><img src="assets/cases/i067-after.webp" alt="商品生活方式场景结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i067_cta)
+
+### 主题宣传海报
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p>本例未附图片参考，请查看素材要求。输入预览待补。</p></td><td valign="top"><a href="https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i107_image"><img src="assets/cases/i107-after.webp" alt="主题宣传海报结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i107_cta)
+
+### Logo 概念探索
+
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p>本例未附图片参考，请查看素材要求。输入预览待补。</p></td><td valign="top"><a href="https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i126_image"><img src="assets/cases/i126-after.webp" alt="Logo 概念探索结果示例" width="360"></a></td></tr></tbody>
+</table>
+
+[查看素材与检查要点](docs/cases/i126-create-logo-concepts-from-a-brand-description.md) · [用自己的素材制作同款](https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i126_cta)
+
+左侧是按需求审核记录整理的参考素材，右侧是结果示例；它们用于说明视觉方向，不是完整复现实验记录。多张参考图全部展示，缺少图片参考时明确标注。结果图片点击后进入网站，文字链接进入案例说明。
+
+## 更多案例图廊
+
+除上述 50 个精选案例，其余 197 个有结果的项目按用途分类展示参考素材与结果，不附完整提示词。
+
+当前共有 247 个可浏览结果示例：175 个有图片参考，72 个未附图片参考。另有 13 个活动需求待补结果，2 个归档需求不进入图廊。
+
+**[打开按分类整理的更多案例图廊 →](docs/gallery/index.md)**
 
 ## 怎么使用
 
@@ -124,9 +214,11 @@
 | [Logo 概念探索](docs/cases/i126-create-logo-concepts-from-a-brand-description.md) | 既有品牌标志与识别资产原稿＋品牌名称、品牌定位、目标受众 → 生成多种标志方向 → 当前单张Logo草案 | [制作同款](https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i126_catalog) |
 | [艺术字与标题效果](docs/cases/i133-create-readable-display-lettering-and-title-effects.md) | 指定字形或材质字效样板＋准确文字、用途 → 生成带材质和风格的文字 → 当前单张艺术字 | [制作同款](https://dearsketch.com/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=i133_catalog) |
 
-## 这个库公开什么
+## 内容与提示词范围
 
-这里公开 50 个案例的用途、输入要求、演示预览、检查要点、需求参考链接，以及 5 个独立编写的基础模板。结构化案例数据位于 [cases.json](data/cases.json)，方便按任务浏览和整理。
+50 个精选案例提供用途、输入要求、演示对照和检查要点；其余案例提供按分类浏览的图片预览。提示词部分目前只有 [5 个另行编写的基础模板](docs/tutorials.md)，不表示 50 个案例已经逐条提供实际生成提示词。
+
+结构化数据分为 [精选案例](data/cases.json) 与 [更多结果示例](data/gallery.json)。完整内部 Skill 和实际生成指令不随图廊导出。
 
 网站按具体任务组织制作入口：先选需求，再提供对应素材。你不需要在网站编写任意提示词。完整服务端 Skill、账户资源与部署配置由在线服务维护。
 

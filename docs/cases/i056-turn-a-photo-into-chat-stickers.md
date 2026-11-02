@@ -4,17 +4,14 @@
 
 [在 dearsketch 查看要求并制作同款](https://dearsketch.com/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta) · [返回案例目录](../../README.md#人物与个人形象)
 
-## 演示预览
+## 参考素材与结果示例
 
-### 输入素材
+<table>
+<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>人物、宠物或物体照片</strong><br><img src="../../assets/cases/i056-before-1.webp" alt="照片转聊天贴纸参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i056_image"><img src="../../assets/cases/i056-after.webp" alt="照片转聊天贴纸结果示例" width="360"></a></td></tr></tbody>
+</table>
 
-<p><img src="../../assets/cases/i056-before-1.webp" alt="人物、宠物或物体照片演示输入" width="280"><br>人物、宠物或物体照片 · 演示素材</p>
-
-### 结果方向
-
-<a href="https://dearsketch.com/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i056_image"><img src="../../assets/cases/i056-after.webp" alt="照片转聊天贴纸演示结果" width="620"></a>
-
-这是项目已有演示预览，不是本仓库基础教程的实测结果，也不代表真实客户案例。
+参考素材来自项目现有演示资料，结果图来自项目已有结果记录；这些配图用于说明视觉方向，不保证按相同素材与教程能复现相同结果。
 
 ## 需要准备什么
 

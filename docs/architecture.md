@@ -83,7 +83,7 @@ flowchart TB
 }
 ```
 
-这些字段解释用户任务，不包含服务端完整生成指令。完整公开案例数据见 [cases.json](../data/cases.json)。
+这些字段解释用户任务，不包含服务端完整生成指令。精选案例数据见 [cases.json](../data/cases.json)，其余结果示例见 [gallery.json](../data/gallery.json)。
 
 ## 访问与内容边界
 
