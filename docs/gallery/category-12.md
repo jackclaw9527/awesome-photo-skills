@@ -9,8 +9,8 @@
 ## I184 · 把产品草图转换为写实产品渲染
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>手绘产品草图</strong><br><img src="../../assets/cases/i184-before-1.webp" alt="把产品草图转换为写实产品渲染参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i184-turn-a-product-sketch-into-a-realistic-product-render.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i184_image"><img src="../../assets/cases/i184-after.webp" alt="把产品草图转换为写实产品渲染结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>手绘产品草图</strong><br><img src="../../assets/cases/i184-before-1.webp" alt="把产品草图转换为写实产品渲染 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i184-turn-a-product-sketch-into-a-realistic-product-render.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i184_image"><img src="../../assets/cases/i184-after.webp" alt="把产品草图转换为写实产品渲染 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -23,10 +23,9 @@
 
 ## I185 · 从需求描述生成多个产品造型方向
 
-<table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p>本例未附图片参考，请查看素材要求。输入预览待补。</p></td><td valign="top"><a href="https://dearsketch.com/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i185_image"><img src="../../assets/cases/i185-after.webp" alt="从需求描述生成多个产品造型方向结果示例" width="340"></a></td></tr></tbody>
-</table>
+<p><strong>结果示例</strong></p>
+<p><a href="https://dearsketch.com/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i185_image"><img src="../../assets/cases/i185-after.webp" alt="从需求描述生成多个产品造型方向 — 结果示例" width="340"></a></p>
+<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
 
 - **输入类型：** 本例仅展示结果示例；图片输入预览待补
 - **素材要求：** 现有产品草图或结构参考＋产品用途、用户与场景、硬性约束 → 生成不同结构和风格方案 → 当前单张产品概念组
@@ -39,8 +38,8 @@
 ## I186 · 预览产品不同颜色、材质和表面处理
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>产品图或3D渲染</strong><br><img src="../../assets/cases/i186-before-1.webp" alt="预览产品不同颜色、材质和表面处理参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i186-preview-product-colors-materials-and-finishes.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i186_image"><img src="../../assets/cases/i186-after.webp" alt="预览产品不同颜色、材质和表面处理结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>产品图或3D渲染</strong><br><img src="../../assets/cases/i186-before-1.webp" alt="预览产品不同颜色、材质和表面处理 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i186-preview-product-colors-materials-and-finishes.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i186_image"><img src="../../assets/cases/i186-after.webp" alt="预览产品不同颜色、材质和表面处理 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -54,8 +53,8 @@
 ## I187 · 从文字或草图生成汽车造型概念
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>汽车草图或车身参考原图</strong><br><img src="../../assets/cases/i187-before-1.webp" alt="从文字或草图生成汽车造型概念参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i187_image"><img src="../../assets/cases/i187-after.webp" alt="从文字或草图生成汽车造型概念结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>汽车草图或车身参考原图</strong><br><img src="../../assets/cases/i187-before-1.webp" alt="从文字或草图生成汽车造型概念 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i187_image"><img src="../../assets/cases/i187-after.webp" alt="从文字或草图生成汽车造型概念 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -69,8 +68,8 @@
 ## I188 · 从草图生成家具产品效果图
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>家具草图</strong><br><img src="../../assets/cases/i188-before-1.webp" alt="从草图生成家具产品效果图参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i188-turn-a-furniture-sketch-into-a-product-render.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i188_image"><img src="../../assets/cases/i188-after.webp" alt="从草图生成家具产品效果图结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>家具草图</strong><br><img src="../../assets/cases/i188-before-1.webp" alt="从草图生成家具产品效果图 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i188-turn-a-furniture-sketch-into-a-product-render.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i188_image"><img src="../../assets/cases/i188-after.webp" alt="从草图生成家具产品效果图 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -84,8 +83,8 @@
 ## I189 · 生成鞋、包和配件设计概念
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>鞋包配件草图原稿</strong><br><img src="../../assets/cases/i189-before-1.webp" alt="生成鞋、包和配件设计概念参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i189_image"><img src="../../assets/cases/i189-after.webp" alt="生成鞋、包和配件设计概念结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>鞋包配件草图原稿</strong><br><img src="../../assets/cases/i189-before-1.webp" alt="生成鞋、包和配件设计概念 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i189_image"><img src="../../assets/cases/i189-after.webp" alt="生成鞋、包和配件设计概念 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -99,8 +98,8 @@
 ## I190 · 快速探索不同包装结构和货架效果
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>产品、Logo与真实包装文案</strong><br><img src="../../assets/cases/i190-before-1.webp" alt="快速探索不同包装结构和货架效果参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i190_image"><img src="../../assets/cases/i190-after.webp" alt="快速探索不同包装结构和货架效果结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>产品、Logo与真实包装文案</strong><br><img src="../../assets/cases/i190-before-1.webp" alt="快速探索不同包装结构和货架效果 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i190_image"><img src="../../assets/cases/i190-after.webp" alt="快速探索不同包装结构和货架效果 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -114,8 +113,8 @@
 ## I191 · 在制作实物前生成可展示的产品原型图
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>产品草图或结构原稿</strong><br><img src="../../assets/cases/i191-before-1.webp" alt="在制作实物前生成可展示的产品原型图参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i191_image"><img src="../../assets/cases/i191-after.webp" alt="在制作实物前生成可展示的产品原型图结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>产品草图或结构原稿</strong><br><img src="../../assets/cases/i191-before-1.webp" alt="在制作实物前生成可展示的产品原型图 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i191_image"><img src="../../assets/cases/i191-after.webp" alt="在制作实物前生成可展示的产品原型图 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -129,8 +128,8 @@
 ## I192 · 把界面草图转换为完成度更高的UI Mockup
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>线框图或现有界面截图</strong><br><img src="../../assets/cases/i192-before-1.webp" alt="把界面草图转换为完成度更高的UI Mockup参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i192-turn-a-ui-sketch-into-a-polished-interface-mockup.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i192_image"><img src="../../assets/cases/i192-after.webp" alt="把界面草图转换为完成度更高的UI Mockup结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>线框图或现有界面截图</strong><br><img src="../../assets/cases/i192-before-1.webp" alt="把界面草图转换为完成度更高的UI Mockup — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i192-turn-a-ui-sketch-into-a-polished-interface-mockup.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i192_image"><img src="../../assets/cases/i192-after.webp" alt="把界面草图转换为完成度更高的UI Mockup — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -143,10 +142,9 @@
 
 ## I193 · 生成产品的3D渲染风静态视觉
 
-<table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p>本例未附图片参考，请查看素材要求。输入预览待补。</p></td><td valign="top"><a href="https://dearsketch.com/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i193_image"><img src="../../assets/cases/i193-after.webp" alt="生成产品的3D渲染风静态视觉结果示例" width="340"></a></td></tr></tbody>
-</table>
+<p><strong>结果示例</strong></p>
+<p><a href="https://dearsketch.com/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i193_image"><img src="../../assets/cases/i193-after.webp" alt="生成产品的3D渲染风静态视觉 — 结果示例" width="340"></a></p>
+<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
 
 - **输入类型：** 本例仅展示结果示例；图片输入预览待补
 - **素材要求：** 目标产品参考原图＋产品描述 → 生成三维材质、透视和灯光 → 当前单张3D风格产品图

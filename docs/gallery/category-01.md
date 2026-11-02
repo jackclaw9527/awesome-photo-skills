@@ -9,8 +9,8 @@
 ## I002 · 为简历或CV生成正式职业照
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i002-before-1.webp" alt="为简历或CV生成正式职业照参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i002-create-a-professional-headshot-for-a-resume-or-cv.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i002_image"><img src="../../assets/cases/i002-after.webp" alt="为简历或CV生成正式职业照结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i002-before-1.webp" alt="为简历或CV生成正式职业照 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i002-create-a-professional-headshot-for-a-resume-or-cv.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i002_image"><img src="../../assets/cases/i002-after.webp" alt="为简历或CV生成正式职业照 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -24,9 +24,9 @@
 ## I003 · 为公司团队统一生成员工头像
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>统一头像样板</strong><br><img src="../../assets/cases/i003-before-1.webp" alt="为公司团队统一生成员工头像参考素材 1" width="340"></p>
-<p><strong>员工本人原照</strong><br><img src="../../assets/cases/i003-before-2.webp" alt="为公司团队统一生成员工头像参考素材 2" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i003-create-consistent-employee-headshots-for-a-company-team.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i003_image"><img src="../../assets/cases/i003-after.webp" alt="为公司团队统一生成员工头像结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>统一头像样板</strong><br><img src="../../assets/cases/i003-before-1.webp" alt="为公司团队统一生成员工头像 — 参考素材 1" width="340"></p>
+<p><strong>员工本人原照</strong><br><img src="../../assets/cases/i003-before-2.webp" alt="为公司团队统一生成员工头像 — 参考素材 2" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i003-create-consistent-employee-headshots-for-a-company-team.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i003_image"><img src="../../assets/cases/i003-after.webp" alt="为公司团队统一生成员工头像 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -40,8 +40,8 @@
 ## I004 · 生成企业高管或创始人形象照
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i004-before-1.webp" alt="生成企业高管或创始人形象照参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i004-create-an-executive-or-founder-portrait.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i004_image"><img src="../../assets/cases/i004-after.webp" alt="生成企业高管或创始人形象照结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i004-before-1.webp" alt="生成企业高管或创始人形象照 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i004-create-an-executive-or-founder-portrait.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i004_image"><img src="../../assets/cases/i004-after.webp" alt="生成企业高管或创始人形象照 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -55,8 +55,8 @@
 ## I005 · 生成房地产经纪人宣传头像
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i005-before-1.webp" alt="生成房地产经纪人宣传头像参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i005-create-a-promotional-headshot-for-a-real-estate-agent.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i005_image"><img src="../../assets/cases/i005-after.webp" alt="生成房地产经纪人宣传头像结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i005-before-1.webp" alt="生成房地产经纪人宣传头像 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i005-create-a-promotional-headshot-for-a-real-estate-agent.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i005_image"><img src="../../assets/cases/i005-after.webp" alt="生成房地产经纪人宣传头像 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -70,8 +70,8 @@
 ## I007 · 生成讲者、作者或专家简介头像
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i007-before-1.webp" alt="生成讲者、作者或专家简介头像参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i007-create-a-bio-headshot-for-a-speaker-author-or-expert.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i007_image"><img src="../../assets/cases/i007-after.webp" alt="生成讲者、作者或专家简介头像结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i007-before-1.webp" alt="生成讲者、作者或专家简介头像 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i007-create-a-bio-headshot-for-a-speaker-author-or-expert.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i007_image"><img src="../../assets/cases/i007-after.webp" alt="生成讲者、作者或专家简介头像 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -85,8 +85,8 @@
 ## I008 · 把普通照片制作成护照照片
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人正面照片</strong><br><img src="../../assets/cases/i008-before-1.webp" alt="把普通照片制作成护照照片参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i008-turn-an-ordinary-photo-into-a-passport-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i008_image"><img src="../../assets/cases/i008-after.webp" alt="把普通照片制作成护照照片结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人正面照片</strong><br><img src="../../assets/cases/i008-before-1.webp" alt="把普通照片制作成护照照片 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i008-turn-an-ordinary-photo-into-a-passport-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i008_image"><img src="../../assets/cases/i008-after.webp" alt="把普通照片制作成护照照片 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -100,8 +100,8 @@
 ## I010 · 替换证件照背景颜色
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>现有证件照原图</strong><br><img src="../../assets/cases/i010-before-1.webp" alt="替换证件照背景颜色参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i010-change-the-background-color-of-an-id-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i010_image"><img src="../../assets/cases/i010-after.webp" alt="替换证件照背景颜色结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>现有证件照原图</strong><br><img src="../../assets/cases/i010-before-1.webp" alt="替换证件照背景颜色 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i010-change-the-background-color-of-an-id-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i010_image"><img src="../../assets/cases/i010-after.webp" alt="替换证件照背景颜色 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -115,8 +115,8 @@
 ## I011 · 生成毕业典礼写真
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i011-before-1.webp" alt="生成毕业典礼写真参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i011-create-graduation-portraits.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i011_image"><img src="../../assets/cases/i011-after.webp" alt="生成毕业典礼写真结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i011-before-1.webp" alt="生成毕业典礼写真 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i011-create-graduation-portraits.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i011_image"><img src="../../assets/cases/i011-after.webp" alt="生成毕业典礼写真 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -130,8 +130,8 @@
 ## I012 · 制作带头像的商务名片视觉
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人头像原图</strong><br><img src="../../assets/cases/i012-before-1.webp" alt="制作带头像的商务名片视觉参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i012-create-a-business-card-visual-with-a-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i012_image"><img src="../../assets/cases/i012-after.webp" alt="制作带头像的商务名片视觉结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人头像原图</strong><br><img src="../../assets/cases/i012-before-1.webp" alt="制作带头像的商务名片视觉 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i012-create-a-business-card-visual-with-a-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i012_image"><img src="../../assets/cases/i012-after.webp" alt="制作带头像的商务名片视觉 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -145,8 +145,8 @@
 ## I013 · 制作邮件签名头像
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i013-before-1.webp" alt="制作邮件签名头像参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i013-create-an-email-signature-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i013_image"><img src="../../assets/cases/i013-after.webp" alt="制作邮件签名头像结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>个人照片</strong><br><img src="../../assets/cases/i013-before-1.webp" alt="制作邮件签名头像 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i013-create-an-email-signature-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i013_image"><img src="../../assets/cases/i013-after.webp" alt="制作邮件签名头像 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -160,8 +160,8 @@
 ## I014 · 生成企业工牌或内部目录照片
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>生活照</strong><br><img src="../../assets/cases/i014-before-1.webp" alt="生成企业工牌或内部目录照片参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i014-create-photos-for-employee-badges-or-staff-directories.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i014_image"><img src="../../assets/cases/i014-after.webp" alt="生成企业工牌或内部目录照片结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>生活照</strong><br><img src="../../assets/cases/i014-before-1.webp" alt="生成企业工牌或内部目录照片 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i014-create-photos-for-employee-badges-or-staff-directories.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i014_image"><img src="../../assets/cases/i014-after.webp" alt="生成企业工牌或内部目录照片 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -175,8 +175,8 @@
 ## I016 · 调整职业照中的姿势和表情
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>现有人像</strong><br><img src="../../assets/cases/i016-before-1.webp" alt="调整职业照中的姿势和表情参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i016-adjust-the-pose-and-expression-in-a-professional-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i016_image"><img src="../../assets/cases/i016-after.webp" alt="调整职业照中的姿势和表情结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>现有人像</strong><br><img src="../../assets/cases/i016-before-1.webp" alt="调整职业照中的姿势和表情 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i016-adjust-the-pose-and-expression-in-a-professional-headshot.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i016_image"><img src="../../assets/cases/i016-after.webp" alt="调整职业照中的姿势和表情 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例
@@ -190,8 +190,8 @@
 ## I283 · 把双人照片制作成中国结婚登记照
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>双方清楚原照</strong><br><img src="../../assets/cases/i283-before-1.webp" alt="把双人照片制作成中国结婚登记照参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i283-turn-a-couple-s-photo-into-a-chinese-marriage-registration-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i283_image"><img src="../../assets/cases/i283-after.webp" alt="把双人照片制作成中国结婚登记照结果示例" width="340"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>双方清楚原照</strong><br><img src="../../assets/cases/i283-before-1.webp" alt="把双人照片制作成中国结婚登记照 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i283-turn-a-couple-s-photo-into-a-chinese-marriage-registration-photo.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i283_image"><img src="../../assets/cases/i283-after.webp" alt="把双人照片制作成中国结婚登记照 — 结果示例" width="340"></a></td></tr></tbody>
 </table>
 
 - **输入类型：** 含参考素材预览与结果示例

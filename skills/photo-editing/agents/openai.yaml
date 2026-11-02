@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Editing"
+  short_description: "Prepare precise prompts for 50 visual image tasks"
+  default_prompt: "Use $photo-editing to prepare a prompt and input checklist for my image task."

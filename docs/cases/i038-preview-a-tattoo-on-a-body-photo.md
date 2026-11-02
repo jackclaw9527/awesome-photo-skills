@@ -1,51 +1,74 @@
-# 纹身上身预览
+# Tattoo Placement Preview · 纹身上身预览
+
+Apply a supplied tattoo design to a specified body area.
 
 在身体照片上预览纹身。用于纹身决策。
 
-[在 dearsketch 查看要求并制作同款](https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta) · [返回案例目录](../../README.md#人物与个人形象)
+[复制公开提示词 / Copy prompt](#public-prompt) · [在 dearsketch 制作 / Try online](https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta) · [返回专题 / Collection](../guides/people.md)
 
-## 参考素材与结果示例
+## 参考素材与结果方向
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>人物皮肤原照</strong><br><img src="../../assets/cases/i038-before-1.webp" alt="纹身上身预览参考素材 1" width="360"></p>
-<p><strong>目标纹身设计图</strong><br><img src="../../assets/cases/i038-before-2.webp" alt="纹身上身预览参考素材 2" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i038_image"><img src="../../assets/cases/i038-after.webp" alt="纹身上身预览结果示例" width="360"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>人物皮肤原照</strong><br><img src="../../assets/cases/i038-before-1.webp" alt="纹身上身预览 — 参考素材 1" width="320"></p>
+<p><strong>目标纹身设计图</strong><br><img src="../../assets/cases/i038-before-2.webp" alt="纹身上身预览 — 参考素材 2" width="320"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i038_image"><img src="../../assets/cases/i038-after.webp" alt="纹身上身预览 — 结果示例" width="320"></a></td></tr></tbody>
 </table>
 
-参考素材来自项目现有演示资料，结果图来自项目已有结果记录；这些配图用于说明视觉方向，不保证按相同素材与教程能复现相同结果。
+参考素材与结果用于说明视觉方向，公开模板不是配图的原始生成指令，不保证复现相同结果。
 
-## 需要准备什么
+## 需要准备什么 / Inputs
 
-| 素材 | 类型 | 数量 | 是否必需 |
+| 素材 / Material | 类型 / Type | 数量 / Quantity | 条件 / Requirement |
 | --- | --- | --- | --- |
-| 人物皮肤原照 | 图片 | 1张 | 必需 |
-| 目标纹身设计图 | 图片 | 1张 | 必需 |
-| 纹身位置 | 文字 | 1项 | 必需 |
+| 人物皮肤原照 | 图片 / Image | 1张 | 必需 / Required |
+| 目标纹身设计图 | 图片 / Image | 1张 | 必需 / Required |
+| 纹身位置 | 文字 / Text | 1项 | 必需 / Required |
 
 每次只生成一张图片。
 
-## 制作步骤
+## 保留与改变 / Editing brief
 
-1. 按上表准备自己的素材，补齐该任务需要的准确文字或指定原稿。
-2. 打开[对应需求页](https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_steps)，确认当前页面提供的输入方式与制作条件。
-3. 选择本次要完成的一张图片或一个方案；多个方案分别制作。
-4. 获取结果后，按下面的要点核对，再决定是否下载或进一步编辑。
+- **Preserve / 保留：** Keep the person, skin texture, body anatomy, and tattoo artwork unchanged.
+- **Change / 改变：** Change only placement, scale, curvature, opacity, and integration.
 
-## 检查重点
+## Public prompt
+
+**新编公开模板 · Newly authored · Not generation-tested.** 替换方括号参数，在支持图片编辑的工具中附上所需素材；可选和条件输入按上表准备。此模板没有用于生成本页示例。
+
+```text
+Create one tattoo placement preview from [BODY PHOTO] and [TATTOO DESIGN IMAGE].
+Place the design at [EXACT BODY LOCATION] with [SIZE] and [ORIENTATION].
+Preserve the person’s identity, body anatomy, skin tone, texture, lighting, and pose.
+Preserve the tattoo artwork’s line work, symbols, lettering, and proportions exactly.
+Warp the design only enough to follow the body’s natural curvature and perspective.
+Blend ink with plausible skin interaction while keeping the design readable.
+Do not add extra symbols, alter lettering, remove scars, or reshape the body.
+Keep boundaries clean and avoid floating, mirrored, or duplicated tattoo elements.
+Treat the result as a visual preview, not a tattoo stencil, placement guarantee, or medical advice.
+Deliver one edited preview image only.
+```
+
+[用自己的素材在线制作 / Make it online](https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_after-prompt) · [让 Agent 帮你整理 / Use the Skill](../quickstart.md#agent-skill)
+
+## 检查重点 / Review
 
 核对设计轮廓、文字、位置和曲面贴合；成图不是纹身施工模板。
 
-结果方向：纹身上身预览。具体可用功能与费用以网站当时的说明为准。
+Verify design details and position; the image is not a stencil or medical preview.
 
-## 需求参考
+结果方向：纹身上身预览。需要准确文字、透明文件、矢量或印刷交付时，检查实际文件；可用功能和费用以网站说明为准。
 
-以下链接是用途和需求背景参考，不是本页图片来源或再分发授权证明，也不表示合作或背书。
+## 相关案例 / Related tasks
+
+- [Create a professional LinkedIn headshot from a selfie · 自拍转职业头像](i001-create-a-professional-linkedin-headshot-from-a-selfie.md#public-prompt)
+- [Replace casual clothing with professional attire · 休闲装换正装](i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
+- [Turn yourself into a royal, vintage, or historical portrait · 皇家与复古人物肖像](i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md#public-prompt)
+
+## 需求背景参考
 
 - [Picsart AI工具](https://picsart.com/ai/)
 - [LightX全部工具](https://www.lightxeditor.com/all-tools/all-tools/)
 
-## 图片与内容说明
+这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-当前为待发布草稿。配图沿用项目演示缩略图；具体来源和公开再分发范围应在正式发布前确认，见[图片与内容说明](../content-policy.md)。基础制作方法可参考[5 个公开教程模板](../tutorials.md)。
-
-[用自己的素材制作这个效果](https://dearsketch.com/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta)
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。

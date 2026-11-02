@@ -1,48 +1,71 @@
-# 皇家与复古人物肖像
+# Historical-Inspired Personal Portrait · 皇家与复古人物肖像
+
+Restyle a real person as an original royal, vintage, or historical-inspired portrait.
 
 把自己制作成皇家、复古或历史人物肖像。用于礼物、墙画、社交。
 
-[在 dearsketch 查看要求并制作同款](https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta) · [返回案例目录](../../README.md#人物与个人形象)
+[复制公开提示词 / Copy prompt](#public-prompt) · [在 dearsketch 制作 / Try online](https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta) · [返回专题 / Collection](../guides/people.md)
 
-## 参考素材与结果示例
+## 参考素材与结果方向
 
 <table>
-<thead><tr><th width="50%">参考素材（Before）</th><th width="50%">结果示例（After）</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i052-before-1.webp" alt="皇家与复古人物肖像参考素材 1" width="360"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i052_image"><img src="../../assets/cases/i052-after.webp" alt="皇家与复古人物肖像结果示例" width="360"></a></td></tr></tbody>
+<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>本人清楚原照</strong><br><img src="../../assets/cases/i052-before-1.webp" alt="皇家与复古人物肖像 — 参考素材 1" width="320"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i052_image"><img src="../../assets/cases/i052-after.webp" alt="皇家与复古人物肖像 — 结果示例" width="320"></a></td></tr></tbody>
 </table>
 
-参考素材来自项目现有演示资料，结果图来自项目已有结果记录；这些配图用于说明视觉方向，不保证按相同素材与教程能复现相同结果。
+参考素材与结果用于说明视觉方向，公开模板不是配图的原始生成指令，不保证复现相同结果。
 
-## 需要准备什么
+## 需要准备什么 / Inputs
 
-| 素材 | 类型 | 数量 | 是否必需 |
+| 素材 / Material | 类型 / Type | 数量 / Quantity | 条件 / Requirement |
 | --- | --- | --- | --- |
-| 本人清楚原照 | 图片 | 1张 | 必需 |
+| 本人清楚原照 | 图片 / Image | 1张 | 必需 / Required |
 
 每次只生成一张图片。
 
-## 制作步骤
+## 保留与改变 / Editing brief
 
-1. 按上表准备自己的素材，补齐该任务需要的准确文字或指定原稿。
-2. 打开[对应需求页](https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_steps)，确认当前页面提供的输入方式与制作条件。
-3. 选择本次要完成的一张图片或一个方案；多个方案分别制作。
-4. 获取结果后，按下面的要点核对，再决定是否下载或进一步编辑。
+- **Preserve / 保留：** Keep the person’s identity, age cues, skin tone, and facial structure.
+- **Change / 改变：** Change costume, background, props, light, and period-inspired atmosphere.
 
-## 检查重点
+## Public prompt
+
+**新编公开模板 · Newly authored · Not generation-tested.** 替换方括号参数，在支持图片编辑的工具中附上所需素材；可选和条件输入按上表准备。此模板没有用于生成本页示例。
+
+```text
+Create one historical-inspired portrait from [PERSON PHOTO].
+Preserve the person’s exact identity, facial proportions, skin tone, age cues, hair, and expression.
+Dress the subject in an original [ERA-INSPIRED / ROYAL / VINTAGE] costume.
+Use [SETTING], [PROPS], [PALETTE], and [LIGHTING] to support the chosen mood.
+Keep garment construction, hands, jewelry, and posture visually coherent.
+Do not copy a named artwork, protected character, or living artist’s distinctive style.
+Do not add real titles, military honors, lineage, or historical claims unless confirmed.
+Treat the result as creative fiction, not an authentic period document.
+Include no text unless [EXACT CAPTION] is supplied.
+Deliver one finished portrait image only.
+```
+
+[用自己的素材在线制作 / Make it online](https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_after-prompt) · [让 Agent 帮你整理 / Use the Skill](../quickstart.md#agent-skill)
+
+## 检查重点 / Review
 
 服饰和场景是创作，核对人物身份，不把画面当作真实历史照片。
 
-结果方向：历史风格肖像。具体可用功能与费用以网站当时的说明为准。
+Verify identity and avoid presenting the fiction as an authentic historical photograph.
 
-## 需求参考
+结果方向：历史风格肖像。需要准确文字、透明文件、矢量或印刷交付时，检查实际文件；可用功能和费用以网站说明为准。
 
-以下链接是用途和需求背景参考，不是本页图片来源或再分发授权证明，也不表示合作或背书。
+## 相关案例 / Related tasks
+
+- [Create a professional LinkedIn headshot from a selfie · 自拍转职业头像](i001-create-a-professional-linkedin-headshot-from-a-selfie.md#public-prompt)
+- [Replace casual clothing with professional attire · 休闲装换正装](i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
+- [Virtually try on glasses · 眼镜试戴预览](i036-virtually-try-on-glasses.md#public-prompt)
+
+## 需求背景参考
 
 - [Fotor功能中心](https://www.fotor.com/features/)
 - [LightX全部工具](https://www.lightxeditor.com/all-tools/all-tools/)
 
-## 图片与内容说明
+这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-当前为待发布草稿。配图沿用项目演示缩略图；具体来源和公开再分发范围应在正式发布前确认，见[图片与内容说明](../content-policy.md)。基础制作方法可参考[5 个公开教程模板](../tutorials.md)。
-
-[用自己的素材制作这个效果](https://dearsketch.com/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta)
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。

@@ -1,0 +1,459 @@
+{
+  "schemaVersion": 1,
+  "origin": "newly-authored-public-templates",
+  "generationTested": false,
+  "usedForExistingExamples": false,
+  "count": 50,
+  "templates": [
+    {
+      "id": "I026",
+      "titleEn": "Custom Pet Portrait",
+      "summaryEn": "Turn one pet photo into a display-ready portrait.",
+      "preserveEn": "Keep the pet’s identity, markings, eye color, ear shape, and body proportions.",
+      "changeEn": "Change the setting, lighting, palette, and artistic treatment.",
+      "checkEn": "Compare eyes, ears, markings, and silhouette before judging the style.",
+      "prompt": "Create one custom pet portrait from [PET PHOTO].\nThe subject is [PET NAME OR “NO NAME”] and the intended style is [ART STYLE].\nPreserve the exact animal identity, facial structure, eye color, coat pattern, ear shape, and body proportions.\nDo not invent collars, tags, scars, or markings that are not visible or specified.\nReplace the original surroundings with [BACKGROUND OR SETTING].\nUse [COLOR PALETTE] and [LIGHTING MOOD] while keeping the pet clearly recognizable.\nCompose the animal as [HEADSHOT / HALF BODY / FULL BODY] for [DISPLAY USE].\nKeep anatomy natural, with clean paws, whiskers, fur edges, and believable depth.\nDo not add text unless [EXACT TEXT] is supplied.\nDeliver one finished portrait image; do not create a sheet, sequence, or alternate version."
+    },
+    {
+      "id": "I028",
+      "titleEn": "Royal Pet Portrait",
+      "summaryEn": "Place a real pet in an original royal or historical portrait concept.",
+      "preserveEn": "Keep the pet’s face, coat pattern, eye color, and species-specific anatomy.",
+      "changeEn": "Change clothing, props, background, and period-inspired atmosphere.",
+      "checkEn": "Confirm the costume never replaces the pet with a different-looking animal.",
+      "prompt": "Create one playful royal portrait using [PET PHOTO] as the identity reference.\nDress the pet in an original [ROYAL / HISTORICAL-INSPIRED] costume for [THEME].\nPreserve the exact face, eyes, muzzle, ears, coat colors, markings, and body proportions.\nKeep the animal’s species anatomy believable beneath the costume.\nDesign clothing that fits naturally without hiding the defining face or coat pattern.\nUse an original setting with [BACKGROUND], [PALETTE], and [LIGHTING].\nAvoid copying a named artwork, living artist, or protected character.\nDo not imply that the scene is a real historical record.\nAdd no wording unless [EXACT CAPTION] is supplied; reproduce supplied wording exactly.\nDeliver one finished portrait image only."
+    },
+    {
+      "id": "I029",
+      "titleEn": "Playful Pet Scene",
+      "summaryEn": "Place a recognizable pet in a humorous bathroom, kitchen, or domestic scene.",
+      "preserveEn": "Keep identity, coat markings, anatomy, and scale consistent.",
+      "changeEn": "Change environment, pose context, and playful props.",
+      "checkEn": "Inspect paws, body structure, object contact, and physical plausibility.",
+      "prompt": "Create one humorous wall-art scene from [PET PHOTO].\nPlace the same pet in [BATHROOM / KITCHEN / OTHER DOMESTIC SCENE] doing [PLAYFUL ACTION].\nPreserve the pet’s face, coat pattern, eye color, ear shape, body type, and scale.\nKeep paws, tail, joints, and posture anatomically coherent.\nMake contact with [PROP] believable; avoid floating, fused, or duplicated objects.\nBuild an original, tidy background using [PALETTE] and [DECOR STYLE].\nKeep the pet as the clear focal point and avoid excessive clutter.\nTreat the scene as fictional artwork, not documentary photography.\nInclude no text unless [EXACT TEXT] is provided.\nDeliver one finished image suitable for [PRINT OR DIGITAL USE]."
+    },
+    {
+      "id": "I027",
+      "titleEn": "Pet Memorial Portrait",
+      "summaryEn": "Create a quiet memorial image from a pet photo and confirmed remembrance details.",
+      "preserveEn": "Keep the pet’s identity and all supplied names and dates exact.",
+      "changeEn": "Change background, light, floral details, and commemorative mood.",
+      "checkEn": "Verify every name, date, and inscription; omit text when none is confirmed.",
+      "prompt": "Create one respectful memorial portrait from [PET PHOTO].\nPreserve the pet’s exact facial identity, markings, eye color, ears, and natural proportions.\nUse a calm [BACKGROUND], [COLOR PALETTE], and gentle [LIGHTING MOOD].\nOptionally include [CONFIRMED SYMBOLS OR FLOWERS] without obscuring the pet.\nIf supplied, place the exact inscription “[EXACT MEMORIAL TEXT]” with [PET NAME] and [CONFIRMED DATES].\nDo not infer a name, date, cause of death, religious symbol, or relationship.\nIf no confirmed wording is supplied, keep the image free of text.\nAvoid sensational, frightening, or overly literal imagery.\nKeep the final composition dignified and suitable for [FRAME / CARD / DIGITAL MEMORIAL].\nDeliver one finished memorial image only, and flag all rendered text for proofreading."
+    },
+    {
+      "id": "I021",
+      "titleEn": "Family Portrait with Pets",
+      "summaryEn": "Combine supplied family-member and pet references into one coherent portrait.",
+      "preserveEn": "Keep every person and pet individually recognizable, with correct count and markings.",
+      "changeEn": "Change shared setting, wardrobe coordination, light, and arrangement.",
+      "checkEn": "Count every subject and check for omissions, duplicates, or identity swaps.",
+      "prompt": "Create one family portrait from [LABELED FAMILY MEMBER PHOTOS] and [LABELED PET PHOTOS].\nInclude exactly [NUMBER OF PEOPLE] people and [NUMBER OF PETS] pets in [REQUESTED ARRANGEMENT].\nPreserve each person’s identity, age cues, skin tone, hair, and visible defining features.\nPreserve each pet’s species, face, coat colors, markings, size, and body type.\nDo not merge faces, duplicate subjects, swap markings, or invent an absent family member.\nCoordinate [WARDROBE DIRECTION] without making everyone identical.\nPlace the group in [SETTING] with consistent perspective, scale, shadows, and eye lines.\nKeep hands, paws, leashes, and body overlaps natural and readable.\nUse no text unless [EXACT TEXT] is supplied.\nDeliver one complete group portrait image only."
+    },
+    {
+      "id": "I022",
+      "titleEn": "Anniversary Couple Artwork",
+      "summaryEn": "Transform one couple photo into commemorative artwork.",
+      "preserveEn": "Keep both identities, relationship, pose logic, and confirmed names or dates.",
+      "changeEn": "Change artistic medium, background, palette, and celebratory details.",
+      "checkEn": "Check both faces first, then proofread any anniversary information.",
+      "prompt": "Create one anniversary artwork from [COUPLE PHOTO].\nPreserve both people’s identities, facial proportions, skin tones, hair, and natural relationship.\nKeep the pose recognizable unless [POSE CHANGE] is explicitly requested.\nRender the scene in [ART MEDIUM OR STYLE] with [PALETTE] and [BACKGROUND].\nAdd only restrained [FLORAL / SYMBOLIC / DECORATIVE DETAILS] that support the couple.\nIf provided, use the exact names “[CONFIRMED NAMES]” and date “[CONFIRMED DATE]”.\nDo not guess an anniversary number, relationship status, venue, or date.\nAvoid replacing either person with a generic idealized face.\nMake the composition suitable for [WALL ART / CARD / DIGITAL GIFT].\nDeliver one finished image only and mark any rendered text for manual proofreading."
+    },
+    {
+      "id": "I017",
+      "titleEn": "Composite Family Portrait",
+      "summaryEn": "Assemble separately photographed relatives into one fictional but coherent family portrait.",
+      "preserveEn": "Keep all supplied identities, requested count, relationships, and arrangement.",
+      "changeEn": "Change shared setting, pose integration, light, and coordinated styling.",
+      "checkEn": "Verify the roster and disclose that the image is a composite, not a real group photograph.",
+      "prompt": "Create one composite family portrait using [LABELED PHOTO FOR EACH PERSON].\nInclude exactly [TOTAL PEOPLE] according to [RELATIONSHIPS AND LEFT-TO-RIGHT ARRANGEMENT].\nPreserve every person’s identity, age cues, skin tone, face shape, hair, and distinctive features.\nDo not omit, duplicate, merge, or substitute any person.\nNormalize scale, camera angle, lighting, and color so the group feels visually coherent.\nUse [SETTING] and [WARDROBE DIRECTION] while keeping clothing plausible for each subject.\nConstruct natural poses, hands, overlaps, eye lines, and floor contact.\nDo not imply this was an actual shared photo session; it is a created composite.\nAdd no names or dates unless exact confirmed wording is supplied.\nDeliver one complete family portrait image only."
+    },
+    {
+      "id": "I020",
+      "titleEn": "Holiday Family Portrait",
+      "summaryEn": "Restyle a family photo for a specified holiday.",
+      "preserveEn": "Keep all people, identities, count, and unobscured facial features.",
+      "changeEn": "Change decor, wardrobe accents, background, and holiday atmosphere.",
+      "checkEn": "Check that decorations never hide faces or alter the family roster.",
+      "prompt": "Create one [HOLIDAY OR FESTIVAL] family portrait from [FAMILY PHOTO].\nPreserve every person’s identity, count, facial features, skin tone, hair, and relative position.\nKeep children and adults age-appropriate and anatomically natural.\nIntroduce [HOLIDAY SETTING], [DECOR], and [WARDROBE DIRECTION] without obscuring faces.\nUse [COLOR PALETTE] and [LIGHTING] appropriate to the requested celebration.\nDo not add cultural or religious symbols beyond [CONFIRMED THEME].\nKeep hands, group overlaps, and floor contact believable.\nIf a greeting is requested, reproduce “[EXACT GREETING]” exactly and keep it readable.\nDo not invent names, dates, or family members.\nDeliver one finished holiday portrait image only."
+    },
+    {
+      "id": "I023",
+      "titleEn": "Wedding-Style Couple Portrait",
+      "summaryEn": "Create a wedding-inspired portrait from a couple photo without presenting it as a real event record.",
+      "preserveEn": "Keep both identities, natural relationship, and body proportions.",
+      "changeEn": "Change wardrobe, setting, floral styling, and ceremonial mood.",
+      "checkEn": "Confirm faces and disclose that the result is a creative preview.",
+      "prompt": "Create one wedding-inspired portrait from [COUPLE PHOTO].\nPreserve both people’s identities, facial structure, skin tone, hair, and natural relationship.\nDress them in [BRIDAL / FORMAL WARDROBE DIRECTION] with believable fabric and fit.\nPlace them in [CEREMONIAL SETTING] using [FLORAL STYLE], [PALETTE], and [LIGHTING].\nKeep hands, rings, garment edges, pose, and body contact anatomically coherent.\nDo not invent a real venue, ceremony, legal status, or event documentation.\nUse an original composition rather than imitating a named photographer or campaign.\nAdd text only when [EXACT NAMES AND DATE] are confirmed.\nTreat the image as a creative style preview, not evidence of a real wedding.\nDeliver one finished portrait image only."
+    },
+    {
+      "id": "I025",
+      "titleEn": "Baby Milestone Portrait",
+      "summaryEn": "Create one milestone image using a baby photo and parent-confirmed facts.",
+      "preserveEn": "Keep the baby’s identity, age-appropriate anatomy, and confirmed milestone wording.",
+      "changeEn": "Change backdrop, props, color palette, and celebratory layout.",
+      "checkEn": "Never infer age or milestone; proofread all supplied facts.",
+      "prompt": "Create one baby milestone portrait from [BABY PHOTO].\nUse only the parent-confirmed milestone “[EXACT AGE OR MILESTONE]” and optional date “[CONFIRMED DATE]”.\nPreserve the baby’s identity, skin tone, facial features, hair, and age-appropriate proportions.\nKeep pose, hands, feet, and support surfaces physically safe and believable.\nDesign [BACKDROP THEME] with [PALETTE] and a small number of [PROPS].\nDo not infer age, birth date, weight, name, or developmental achievement from the photo.\nDo not add unsafe objects or show the baby unsupported in a risky pose.\nIf text is requested, render the supplied wording exactly and leave room for later typesetting.\nKeep the result gentle, uncluttered, and suitable for [ALBUM / CARD / SOCIAL POST].\nDeliver one finished milestone image only and proofread all rendered text."
+    },
+    {
+      "id": "I001",
+      "titleEn": "Professional Headshot from a Selfie",
+      "summaryEn": "Turn one clear selfie into a credible professional headshot.",
+      "preserveEn": "Keep identity, facial geometry, skin tone, age cues, and natural texture.",
+      "changeEn": "Change crop, background, lighting, and professional wardrobe styling.",
+      "checkEn": "Check recognizability and avoid fabricated uniforms, credentials, or excessive retouching.",
+      "prompt": "Create one professional headshot from [CLEAR SELFIE].\nPreserve the person’s exact identity, facial geometry, skin tone, age cues, hairline, and natural skin texture.\nUse a [HEAD-AND-SHOULDERS / HALF-BODY] crop with confident but natural posture.\nReplace the background with [NEUTRAL OR WORK-APPROPRIATE BACKGROUND].\nApply soft, realistic [LIGHTING DIRECTION] and balanced color.\nStyle clothing as [PROFESSIONAL WARDROBE] without adding unrequested uniforms, badges, or credentials.\nKeep glasses, facial hair, and visible accessories unless [SPECIFIC CHANGE] is requested.\nAvoid face slimming, age reversal, plastic skin, or a generic stock-photo appearance.\nLeave appropriate negative space for [PROFILE / RESUME USE].\nDeliver one finished headshot image only."
+    },
+    {
+      "id": "I015",
+      "titleEn": "Replace Casual Clothing with Professional Attire",
+      "summaryEn": "Edit only the clothing in a portrait to a specified professional outfit.",
+      "preserveEn": "Keep identity, face, hair, pose, body shape, hands, and background unless requested.",
+      "changeEn": "Change garment type, color, fit, and visible accessories.",
+      "checkEn": "Inspect collar, cuffs, hands, and body edges for clean integration.",
+      "prompt": "Edit [PORTRAIT PHOTO] to replace only the casual clothing with [PROFESSIONAL OUTFIT].\nPreserve the person’s identity, face, skin tone, hair, expression, pose, body shape, and camera angle.\nKeep the original background and lighting unless [BACKGROUND CHANGE] is explicitly requested.\nFit the new garment naturally around the neck, shoulders, torso, arms, and waist.\nUse [FABRIC], [COLOR], and [FORMALITY LEVEL] appropriate to [PROFESSIONAL CONTEXT].\nRetain or remove visible accessories only according to [ACCESSORY INSTRUCTION].\nDo not add uniforms, employer logos, medals, or credentials that were not supplied.\nKeep hands, collar, lapels, cuffs, seams, and body edges anatomically clean.\nAvoid changing weight, age, makeup, or facial features.\nDeliver one edited portrait image only."
+    },
+    {
+      "id": "I052",
+      "titleEn": "Historical-Inspired Personal Portrait",
+      "summaryEn": "Restyle a real person as an original royal, vintage, or historical-inspired portrait.",
+      "preserveEn": "Keep the person’s identity, age cues, skin tone, and facial structure.",
+      "changeEn": "Change costume, background, props, light, and period-inspired atmosphere.",
+      "checkEn": "Verify identity and avoid presenting the fiction as an authentic historical photograph.",
+      "prompt": "Create one historical-inspired portrait from [PERSON PHOTO].\nPreserve the person’s exact identity, facial proportions, skin tone, age cues, hair, and expression.\nDress the subject in an original [ERA-INSPIRED / ROYAL / VINTAGE] costume.\nUse [SETTING], [PROPS], [PALETTE], and [LIGHTING] to support the chosen mood.\nKeep garment construction, hands, jewelry, and posture visually coherent.\nDo not copy a named artwork, protected character, or living artist’s distinctive style.\nDo not add real titles, military honors, lineage, or historical claims unless confirmed.\nTreat the result as creative fiction, not an authentic period document.\nInclude no text unless [EXACT CAPTION] is supplied.\nDeliver one finished portrait image only."
+    },
+    {
+      "id": "I036",
+      "titleEn": "Virtual Eyewear Preview",
+      "summaryEn": "Place an exact product or a described eyewear concept on a front-facing portrait.",
+      "preserveEn": "Keep identity, face shape, skin, eyes, and the supplied frame details for the chosen branch.",
+      "changeEn": "Change only frame placement, lens appearance, and minimal lighting integration.",
+      "checkEn": "Check bridge, temples, perspective, and note that fit and comfort remain unverified.",
+      "prompt": "Create one eyewear preview using [FRONT-FACING PERSON PHOTO].\nChoose one eyewear branch: use [EYEWEAR PRODUCT IMAGE] for an exact product, or [FRAME STYLE DESCRIPTION] for a concept; do not require both.\nPreserve the person’s identity, face shape, eyes, eyebrows, skin tone, hair, and expression.\nFor the product-image branch, preserve the frame silhouette, color, material, bridge, and temple design exactly.\nFor the description branch, create only the described frame characteristics without implying a real product match.\nAlign the frame to the eyes, nose bridge, ears, head angle, and camera perspective.\nRender [CLEAR / TINTED / PRESCRIPTION-LIKE] lenses with plausible reflections.\nDo not reshape the face or claim exact sizing, optical correction, comfort, or real-world fit.\nKeep the original portrait background unless [BACKGROUND CHANGE] is requested.\nDeliver one preview image only."
+    },
+    {
+      "id": "I038",
+      "titleEn": "Tattoo Placement Preview",
+      "summaryEn": "Apply a supplied tattoo design to a specified body area.",
+      "preserveEn": "Keep the person, skin texture, body anatomy, and tattoo artwork unchanged.",
+      "changeEn": "Change only placement, scale, curvature, opacity, and integration.",
+      "checkEn": "Verify design details and position; the image is not a stencil or medical preview.",
+      "prompt": "Create one tattoo placement preview from [BODY PHOTO] and [TATTOO DESIGN IMAGE].\nPlace the design at [EXACT BODY LOCATION] with [SIZE] and [ORIENTATION].\nPreserve the person’s identity, body anatomy, skin tone, texture, lighting, and pose.\nPreserve the tattoo artwork’s line work, symbols, lettering, and proportions exactly.\nWarp the design only enough to follow the body’s natural curvature and perspective.\nBlend ink with plausible skin interaction while keeping the design readable.\nDo not add extra symbols, alter lettering, remove scars, or reshape the body.\nKeep boundaries clean and avoid floating, mirrored, or duplicated tattoo elements.\nTreat the result as a visual preview, not a tattoo stencil, placement guarantee, or medical advice.\nDeliver one edited preview image only."
+    },
+    {
+      "id": "I047",
+      "titleEn": "Cartoon Avatar from a Portrait",
+      "summaryEn": "Create an original cartoon avatar that remains recognizable as the photographed person.",
+      "preserveEn": "Keep face shape, hair, skin tone, and visible signature accessories.",
+      "changeEn": "Change rendering language, simplification, background, and palette.",
+      "checkEn": "Check recognizability rather than accepting a generic cartoon face.",
+      "prompt": "Create one original cartoon avatar from [CLEAR HEAD PHOTO].\nPreserve the person’s recognizable face shape, skin tone, hairstyle, hair color, and visible signature accessories.\nTranslate features into [CARTOON TREATMENT] without replacing them with a generic character face.\nUse [EXPRESSION] and a clean [HEADSHOT / BUST] composition.\nChoose [COLOR PALETTE] and [BACKGROUND] suitable for [PROFILE OR GIFT USE].\nKeep eyes, mouth, ears, glasses, and hairline internally consistent.\nAvoid copying a protected character, franchise, or living artist’s distinctive style.\nDo not add text, logos, or props unless [EXACT REQUEST] is supplied.\nKeep edges clear and the silhouette readable at small avatar size.\nDeliver one finished avatar image only."
+    },
+    {
+      "id": "I048",
+      "titleEn": "Anime-Inspired Avatar",
+      "summaryEn": "Create an original anime-inspired portrait while retaining personal identity.",
+      "preserveEn": "Keep face shape, skin tone, hair, eye relationship, and defining accessories.",
+      "changeEn": "Change line work, shading, palette, background, and stylization level.",
+      "checkEn": "Ensure the result is recognizable and not a copied franchise character.",
+      "prompt": "Create one original anime-inspired avatar from [CLEAR HEAD PHOTO].\nPreserve the person’s recognizable face shape, skin tone, hairstyle, hair color, and defining accessories.\nStylize the features with [LINE QUALITY], [SHADING METHOD], and [DETAIL LEVEL].\nKeep the relationship between eyes, nose, mouth, jaw, and hair faithful enough for recognition.\nUse [EXPRESSION], [PALETTE], and [BACKGROUND] for [INTENDED USE].\nDo not turn the subject into a pre-existing anime or game character.\nDo not imitate a named living artist or studio-specific signature look.\nKeep anatomy, ears, hands if visible, and clothing edges coherent.\nAdd no writing unless [EXACT TEXT] is supplied.\nDeliver one finished avatar image only."
+    },
+    {
+      "id": "I050",
+      "titleEn": "Packaged Action Figure Concept",
+      "summaryEn": "Turn a person into a fictional packaged action-figure concept image.",
+      "preserveEn": "Keep the person’s identity and requested accessory list.",
+      "changeEn": "Change body into a toy-like figure, packaging, color system, and display layout.",
+      "checkEn": "Count limbs and accessories, proofread package text, and label it as a concept.",
+      "prompt": "Create one fictional packaged action-figure concept from [PERSON PHOTO].\nPreserve the person’s recognizable face, hair, skin tone, and defining clothing cues.\nRender a toy-like full figure in [POSE] inside [PACKAGING STYLE].\nInclude exactly these accessories: [ACCESSORY LIST]; do not duplicate or invent extras.\nUse [PACKAGE COLOR SYSTEM] and [BACKGROUND GRAPHICS] with a clear retail-display hierarchy.\nIf supplied, reproduce the exact package title “[EXACT TITLE]” and subtitle “[EXACT SUBTITLE]”.\nKeep limbs, hands, joints, accessory compartments, plastic reflections, and shadows coherent.\nDo not use third-party logos, franchise marks, or claims that a physical product exists.\nTreat all package lettering as artwork that must be manually proofread.\nDeliver one concept image only, not manufacturing artwork or a product specification."
+    },
+    {
+      "id": "I056",
+      "titleEn": "Single Chat Sticker",
+      "summaryEn": "Turn a person, pet, or object photo into one expressive sticker.",
+      "preserveEn": "Keep the subject recognizable and retain defining markings or features.",
+      "changeEn": "Change expression, pose emphasis, outline, background removal, and sticker styling.",
+      "checkEn": "Check small-size readability and remember that platform packaging is separate.",
+      "prompt": "Create one chat sticker from [SUBJECT PHOTO].\nPreserve the subject’s identity, silhouette, colors, markings, and defining features.\nExpress [ACTION OR EMOTION] through a clear pose and readable facial or object cues.\nUse [STICKER STYLE], a bold clean outline, and simple shading suitable for small display.\nKeep hands, paws, limbs, and object edges coherent and uncluttered.\nUse a transparent-looking or plain preview background according to [BACKGROUND REQUEST].\nIf text is requested, reproduce “[EXACT SHORT TEXT]” exactly and keep it legible.\nDo not create a sheet, pack, or multiple emotional variants in this run.\nIf a transparent file is required, verify the exported alpha channel rather than trusting a checkerboard preview.\nDeliver one sticker image only; platform sizing and pack assembly are separate steps."
+    },
+    {
+      "id": "I252",
+      "titleEn": "Personalized Movie Poster",
+      "summaryEn": "Create an original fictional movie poster around supplied people and a supplied title.",
+      "preserveEn": "Keep every person’s identity and all confirmed billing text.",
+      "changeEn": "Change cinematic setting, genre treatment, lighting, composition, and typography concept.",
+      "checkEn": "Proofread all wording and avoid implying a real film release.",
+      "prompt": "Create one original fictional movie poster from [PERSON / COUPLE / GROUP PHOTO].\nUse the genre and premise [ORIGINAL POSTER CONCEPT] and the exact title “[EXACT MOVIE TITLE]”.\nPreserve every supplied person’s identity, count, facial features, skin tone, hair, and relationship.\nCompose a cinematic [PORTRAIT / LANDSCAPE] layout with [SETTING], [PALETTE], and [LIGHTING].\nIf provided, include only the confirmed credit line “[EXACT CREDIT]” and date “[EXACT DATE]”.\nDo not invent actors, studios, reviews, awards, ratings, or release claims.\nDo not copy an existing movie poster, franchise character, logo, or signature composition.\nKeep hands, overlaps, scale, and atmospheric effects coherent.\nTreat generated lettering as a draft requiring manual proofreading and final typesetting.\nDeliver one poster concept image only, not print-ready production artwork."
+    },
+    {
+      "id": "I030",
+      "titleEn": "House Watercolor Keepsake",
+      "summaryEn": "Transform a house photo into a watercolor or line-art keepsake.",
+      "preserveEn": "Keep roofline, doors, windows, facade proportions, and distinctive site features.",
+      "changeEn": "Change medium, background simplification, landscaping emphasis, and palette.",
+      "checkEn": "Compare the building silhouette and openings so it does not become a different house.",
+      "prompt": "Create one house keepsake artwork from [HOUSE PHOTO].\nPreserve the exact roofline, facade proportions, doors, windows, porch, chimney, and distinctive architectural features.\nRender the building in [WATERCOLOR / INK LINE / MIXED MEDIA] with [PALETTE].\nSimplify distracting cars, bins, or background clutter only as requested in [REMOVAL LIST].\nRetain meaningful landscaping and site features listed in [KEEP LIST].\nKeep perspective, number of stories, and placement of openings faithful to the reference.\nUse a clean [PAPER / MINIMAL BACKGROUND] suitable for [PRINT OR GIFT].\nDo not invent extensions, alter the property design, or present this as a measured drawing.\nAdd an address or caption only when [EXACT TEXT] is supplied and proofread it.\nDeliver one finished keepsake image only."
+    },
+    {
+      "id": "I169",
+      "titleEn": "Room Style Preview",
+      "summaryEn": "Preview a new interior style while retaining the photographed room structure.",
+      "preserveEn": "Keep walls, doors, windows, ceiling, fixed openings, and camera viewpoint.",
+      "changeEn": "Change furniture, finishes, decor, palette, and lighting mood.",
+      "checkEn": "Check structure and disclose that dimensions, cost, and buildability are unverified.",
+      "prompt": "Create one interior style preview from [ROOM PHOTO].\nPreserve the room geometry, walls, doors, windows, ceiling height, fixed openings, and camera viewpoint.\nApply [TARGET INTERIOR STYLE] with [PALETTE], [MATERIAL DIRECTION], and [LIGHTING MOOD].\nReplace or add only the furniture and decor described in [CHANGE LIST].\nKeep circulation paths, perspective, furniture scale, shadows, and floor contact believable.\nDo not move structural elements or enlarge the room unless [EXPLICIT STRUCTURAL CHANGE] is supplied.\nRetain items listed in [KEEP LIST] and remove only items in [REMOVE LIST].\nTreat materials and colors as a visual concept, not a guaranteed product match.\nDo not claim measured dimensions, budget accuracy, code compliance, or construction feasibility.\nDeliver one single-view room concept image only."
+    },
+    {
+      "id": "I178",
+      "titleEn": "Yard Landscape Concept",
+      "summaryEn": "Visualize a landscape makeover for a photographed outdoor space.",
+      "preserveEn": "Keep lot boundaries, building, grades, access, and fixed structures.",
+      "changeEn": "Change planting, paving, furniture, lighting, and amenity concepts.",
+      "checkEn": "Review climate suitability, drainage, dimensions, and construction separately.",
+      "prompt": "Create one landscape makeover concept from [YARD OR EXTERIOR PHOTO].\nPreserve property boundaries, building facade, grade cues, gates, paths, utilities, and fixed structures.\nDesign for [USE NEEDS] in [CLIMATE OR LOCATION] using [LANDSCAPE STYLE].\nAdd [PLANTING DIRECTION], [PAVING], [FURNITURE], and [REQUESTED AMENITIES].\nKeep scale, perspective, access routes, shadows, and transitions physically plausible.\nDo not hide drainage points, exits, hazards, or existing constraints visible in the photo.\nUse plants appropriate in appearance to [CLIMATE], but do not claim horticultural suitability without review.\nTreat the result as concept visualization, not a planting plan or construction document.\nFlag grading, drainage, structural, utility, and local-code questions for professionals.\nDeliver one finished exterior concept image only."
+    },
+    {
+      "id": "I171",
+      "titleEn": "Paint, Flooring, and Wallpaper Preview",
+      "summaryEn": "Replace specified room surfaces using either a supplied sample or an accurate color and material description.",
+      "preserveEn": "Keep room structure, lighting logic, object placement, and untargeted surfaces.",
+      "changeEn": "Change only named walls, floor, or wallpaper areas.",
+      "checkEn": "Compare with a sample when one exists and warn that screens cannot guarantee real material color.",
+      "prompt": "Create one material preview from [INTERIOR PHOTO].\nChoose one target branch: use [TARGET MATERIAL OR COLOR SAMPLE] when matching a specific texture or product, or use [ACCURATE COLOR AND MATERIAL DESCRIPTION] when no sample exists.\nApply the chosen [PAINT / FLOORING / WALLPAPER] only to [EXACT SURFACES TO REPLACE].\nPreserve doors, windows, trim, furniture, room geometry, camera angle, and all untargeted surfaces.\nWhen a sample is supplied, retain its dominant color, pattern scale, grain direction, and finish as closely as possible.\nRespect corners, occlusion, seams, perspective, reflections, and existing light falloff.\nDo not recolor furnishings, skin, artwork, or adjacent surfaces.\nDo not invent named-product availability, dimensions, finish, or performance claims.\nTreat the preview as an approximation; verify physical samples and measured quantities before purchase or installation.\nDeliver one edited material-preview image only."
+    },
+    {
+      "id": "I172",
+      "titleEn": "Office Redesign Concept",
+      "summaryEn": "Visualize either an existing-office redesign from a site photo or a text-led workplace concept.",
+      "preserveEn": "Keep visible structure and constraints only when a site photo is supplied.",
+      "changeEn": "Change workstations, zones, furniture, branding, finishes, and lighting.",
+      "checkEn": "Check capacity and workflow, then separately verify code, accessibility, and fire safety.",
+      "prompt": "Create one office concept for [TEAM SIZE], [WORK MODES], and [FUNCTIONAL ZONES].\nChoose one branch: use [OFFICE SITE PHOTO] when redesigning an existing office, or use [TEXT-ONLY SPACE BRIEF] for a new generic concept.\nFor the site-photo branch, preserve visible walls, columns, windows, doors, exits, ceiling, fixed services, and camera view.\nFor the text-only branch, do not claim to preserve or represent an unknown existing structure.\nUse [BRAND DIRECTION], [PALETTE], [MATERIALS], and [FURNITURE STYLE].\nArrange workstations, meeting areas, storage, and circulation with plausible scale and access.\nDo not invent confirmed floor area, site constraints, or compliance facts absent from the brief.\nShow only brand names or logos supplied in [APPROVED BRAND ASSET].\nTreat the result as a concept, not a measured plan, budget, accessibility review, or fire-code approval.\nDeliver one office concept image only and flag technical questions for professional verification."
+    },
+    {
+      "id": "I175",
+      "titleEn": "Virtual Staging for an Empty Room",
+      "summaryEn": "Add believable furniture and decor to an empty property photo.",
+      "preserveEn": "Keep real architecture, room condition, windows, doors, and camera view.",
+      "changeEn": "Change only movable furnishings, decor, soft goods, and lighting presentation.",
+      "checkEn": "Disclose virtual staging and never imply shown furniture is included.",
+      "prompt": "Create one virtually staged property image from [EMPTY ROOM PHOTO].\nPreserve the real walls, floor, ceiling, windows, doors, built-ins, fixtures, room proportions, and camera viewpoint.\nFurnish the room for [ROOM FUNCTION] in [INTERIOR STYLE].\nAdd [FURNITURE LIST], restrained decor, and [PALETTE] at believable scale.\nKeep perspective, floor contact, shadows, reflections, and circulation realistic.\nDo not alter the room layout, hide damage, change views, or add permanent architectural features.\nDo not imply that furniture, decor, or upgrades are physically present or included with the property.\nLeave the result plausible rather than overfilled or luxury-inflated.\nRequire a clear virtual-staging disclosure wherever the image is published.\nDeliver one staged room image only."
+    },
+    {
+      "id": "I176",
+      "titleEn": "Decluttered Property Photo",
+      "summaryEn": "Clean up visible clutter while preserving the truthful condition and structure of a room.",
+      "preserveEn": "Keep layout, fixed elements, surfaces, lighting, and material defects.",
+      "changeEn": "Remove only listed movable clutter and make restrained presentation corrections.",
+      "checkEn": "Ensure no damage or permanent feature is hidden or altered.",
+      "prompt": "Create one cleaned-up property image from [ROOM PHOTO].\nRemove only these movable items: [APPROVED CLUTTER REMOVAL LIST].\nPreserve the real room layout, walls, doors, windows, floor, ceiling, built-ins, fixtures, and camera view.\nDo not erase cracks, stains, damage, structural issues, utility elements, or permanent features.\nDo not enlarge the room, move openings, replace finishes, or add furniture unless explicitly requested.\nCorrect minor exposure, white balance, and verticals while keeping the scene natural.\nReconstruct exposed background areas consistently after approved objects are removed.\nKeep reflections, shadows, edges, and material texture believable.\nThe result must remain a truthful presentation of the property, not a renovation concept.\nDeliver one cleaned property image only."
+    },
+    {
+      "id": "I177",
+      "titleEn": "Architectural Facade Concept",
+      "summaryEn": "Develop a facade from an optional sketch or from a building-use and design-direction brief.",
+      "preserveEn": "Keep supplied massing and openings only when a sketch or massing reference exists.",
+      "changeEn": "Change facade materials, articulation, environment, landscape, and light.",
+      "checkEn": "Treat output as concept communication, not a drawing for construction.",
+      "prompt": "Create one architectural facade concept for [BUILDING USE] with [DESIGN KEYWORDS].\nChoose one branch: follow [OPTIONAL SKETCH OR MASSING IMAGE] when supplied, or create a text-led concept from the brief when no image exists.\nFor the reference branch, preserve the supplied massing, floor count, principal openings, roof form, proportions, and camera view.\nFor the text-only branch, do not claim that any generated geometry reproduces an existing design.\nDevelop [FACADE MATERIALS], [OPENING TREATMENT], [SHADING ELEMENTS], and [ENTRY EXPRESSION].\nAdd a restrained [SITE CONTEXT], [LANDSCAPE], and [LIGHTING CONDITION] for scale.\nKeep perspective, material joints, shadows, and human scale coherent.\nDo not invent planning approval, structural feasibility, energy performance, or code compliance.\nDo not treat generated details as measured dimensions or construction assemblies.\nDeliver one facade concept rendering only for design discussion."
+    },
+    {
+      "id": "I179",
+      "titleEn": "Sketch-to-Realistic Space Rendering",
+      "summaryEn": "Render a supplied architectural or interior line drawing without changing its intended structure.",
+      "preserveEn": "Keep openings, geometry, layout relationships, and camera framing.",
+      "changeEn": "Change materials, lighting, furnishings, landscape, and atmosphere.",
+      "checkEn": "Compare the render to the source lines and do not treat it as engineering validation.",
+      "prompt": "Create one realistic rendering from [ARCHITECTURAL OR INTERIOR SKETCH / CAD VIEW].\nInterpret the space as [SPACE USE] according to [SKETCH LEGEND OR EXPLANATION].\nPreserve all indicated walls, openings, levels, roof lines, built forms, and camera framing.\nApply [MATERIALS], [COLOR PALETTE], [LIGHTING], and [ENVIRONMENT].\nAdd only the furniture, fixtures, landscape, or people listed in [ADD LIST].\nKeep perspective, scale, structural relationships, shadows, and material transitions coherent.\nDo not erase ambiguous source lines; resolve uncertainty conservatively or flag it.\nDo not claim engineering accuracy, measured dimensions, buildability, or code compliance.\nThe source drawing remains authoritative when the rendering conflicts with it.\nDeliver one realistic concept rendering only."
+    },
+    {
+      "id": "I182",
+      "titleEn": "Interior or Architecture Mood Board",
+      "summaryEn": "Build a design-direction board from optional references or from a project type and keyword brief.",
+      "preserveEn": "Keep supplied reference colors and material identities only when references exist.",
+      "changeEn": "Change layout, hierarchy, crops, annotations, and supporting generated swatches.",
+      "checkEn": "Treat the board as inspiration, not a confirmed product or procurement list.",
+      "prompt": "Create one mood board for [PROJECT TYPE] using [DESIGN KEYWORDS].\nChoose one branch: organize [OPTIONAL REFERENCE BOARD OR LABELED IMAGES] when supplied, or develop a text-led direction when no references exist.\nFor the reference branch, preserve recognizable colors, textures, material identities, and atmosphere.\nFor the text-only branch, use [PALETTE], [MATERIAL DIRECTION], [FORM LANGUAGE], and [LIGHTING MOOD] without implying specific sourced products.\nUse a clear [EDITORIAL / MATERIAL-LIBRARY / COLLAGE] hierarchy with clean spacing.\nLabel only confirmed generic material names or exact product names supplied by the user.\nDo not invent manufacturers, product codes, prices, availability, dimensions, or performance claims.\nDo not imply that visually similar generated materials are actual specified products.\nTreat the board as direction-setting inspiration; procurement and physical samples require separate confirmation.\nDeliver one self-contained mood-board image only."
+    },
+    {
+      "id": "I065",
+      "titleEn": "White-Background Product Listing Image",
+      "summaryEn": "Isolate a real product into a clean marketplace-style white-background image.",
+      "preserveEn": "Keep product shape, proportions, color, labels, surface details, and included parts.",
+      "changeEn": "Change background, crop, lighting balance, and restrained shadow.",
+      "checkEn": "Inspect label fidelity and channel-specific listing requirements.",
+      "prompt": "Create one white-background listing image from [PRODUCT PHOTO].\nPreserve the product’s exact shape, proportions, color, material, label artwork, controls, openings, and included parts.\nRemove the original surroundings and place the product on a clean [PURE WHITE / CHANNEL-SPECIFIED] background.\nCorrect perspective and lighting only enough to present the real product clearly.\nUse a restrained contact shadow if permitted by [TARGET MARKETPLACE].\nDo not redesign packaging, repair labels, add accessories, or invent product features.\nKeep small edges, transparent parts, reflective surfaces, and fine details clean.\nUse [CROP AND MARGIN REQUIREMENT] for the intended listing.\nVerify final dimensions, background value, file format, and channel policy outside the generated preview.\nDeliver one product image only."
+    },
+    {
+      "id": "I066",
+      "titleEn": "Transparent-Background Product Asset",
+      "summaryEn": "Extract a product as a reusable cutout with a real alpha channel.",
+      "preserveEn": "Keep every product edge, opening, label, color, and transparent or reflective detail.",
+      "changeEn": "Change only background removal, edge cleanup, and optional neutral shadow handling.",
+      "checkEn": "Verify the exported file’s alpha channel; a checkerboard preview is not proof.",
+      "prompt": "Create one reusable product cutout from [PRODUCT PHOTO].\nPreserve the exact product shape, proportions, colors, labels, openings, fine edges, transparent parts, and reflective details.\nRemove the entire background without removing real product pixels.\nRefine hair-like, fabric, glass, glossy, perforated, and semi-transparent edges carefully.\nDo not redesign the product, fill openings, straighten labels, or invent hidden geometry.\nKeep or remove the contact shadow according to [SHADOW REQUIREMENT].\nAvoid white halos, dark fringes, jagged edges, color spill, and artificial outlines.\nExport as [PNG / OTHER ALPHA-CAPABLE FORMAT] at [REQUIRED SIZE].\nOpen the delivered file over dark and light backgrounds to verify a genuine alpha channel.\nDeliver one cutout asset only; do not substitute a white-background image."
+    },
+    {
+      "id": "I067",
+      "titleEn": "Lifestyle Product Scene",
+      "summaryEn": "Place an unchanged product cutout in a believable use context.",
+      "preserveEn": "Keep product model, geometry, color, labels, materials, and proportions.",
+      "changeEn": "Change environment, styling, light, camera context, and supporting props.",
+      "checkEn": "Check physical scale, contact, and that no product feature was invented.",
+      "prompt": "Create one lifestyle product image from [PRODUCT CUTOUT OR WHITE-BACKGROUND IMAGE].\nPreserve the exact product model, geometry, color, labels, materials, controls, and proportions.\nPlace it in [LIFESTYLE SETTING] for [TARGET AUDIENCE OR USE CASE].\nUse [CAMERA ANGLE], [LIGHTING], and [PALETTE] consistent with the intended brand mood.\nAdd only supporting props listed in [PROP LIST], keeping the product dominant.\nMake scale, perspective, contact surfaces, reflections, and shadows physically believable.\nDo not change the product design, add accessories, or imply unconfirmed functions.\nKeep labels and packaging readable only where they are genuinely visible in the source.\nAvoid environmental clutter or props that misrepresent product size or use.\nDeliver one finished lifestyle product image only."
+    },
+    {
+      "id": "I068",
+      "titleEn": "Studio Product Photograph",
+      "summaryEn": "Restage a product photo with professional studio lighting while retaining product facts.",
+      "preserveEn": "Keep geometry, labels, colors, materials, texture, and included components.",
+      "changeEn": "Change backdrop, light arrangement, camera polish, and shadow treatment.",
+      "checkEn": "Inspect reflections and ensure no product detail or material claim changed.",
+      "prompt": "Create one polished studio product image from [PRODUCT PHOTO].\nPreserve the product’s exact geometry, proportions, colors, labels, material appearance, controls, openings, and included parts.\nUse [STUDIO BACKDROP], [KEY LIGHT], [FILL], and [RIM OR ACCENT LIGHT] to clarify form.\nChoose [CAMERA ANGLE] and [CROP] appropriate for [CATALOG OR BRAND USE].\nRender contact shadow, reflections, translucency, and highlights consistently with the actual material.\nRemove unrelated dust or capture distractions only when listed in [CLEANUP REQUEST].\nDo not redesign packaging, sharpen unreadable text into invented words, or add features.\nAvoid excessive gloss, fake texture, floating products, and impossible reflections.\nKeep the result credible as a presentation of the supplied item.\nDeliver one studio product image only."
+    },
+    {
+      "id": "I069",
+      "titleEn": "Seasonal Product Campaign Image",
+      "summaryEn": "Build a holiday or sales-season scene around a real product.",
+      "preserveEn": "Keep product identity, design, label, color, and supplied promotion facts.",
+      "changeEn": "Change decor, backdrop, light, palette, and campaign composition.",
+      "checkEn": "Verify dates, discounts, and wording; decorations must not obscure the product.",
+      "prompt": "Create one seasonal campaign image from [PRODUCT PHOTO].\nThe confirmed campaign theme is [HOLIDAY OR SALES MOMENT].\nPreserve the product’s exact design, proportions, colors, labels, materials, and included components.\nPlace it in [SEASONAL SETTING] using [PALETTE], [DECOR], and [LIGHTING].\nKeep the product dominant and ensure decorations do not cover labels or important features.\nUse only the confirmed offer “[EXACT PROMOTION]” and date “[EXACT VALID DATES]” if text is requested.\nDo not invent prices, discounts, urgency, availability, endorsements, or product benefits.\nKeep scale, contact, reflections, and shadows believable.\nTreat generated campaign lettering as a draft requiring manual proofreading.\nDeliver one finished promotional product image only."
+    },
+    {
+      "id": "I080",
+      "titleEn": "Food or Drink Commercial Image",
+      "summaryEn": "Create one appetizing promotional image from either a food photo or an explicit product description.",
+      "preserveEn": "Keep actual portion, ingredients, packaging, and appearance in the photo branch.",
+      "changeEn": "Change plating, set, lighting, background, and camera treatment.",
+      "checkEn": "Do not present a text-led concept as the actual product.",
+      "prompt": "Create one commercial food or drink image using exactly one starting branch.\nFor a real-item branch, use [FOOD PHOTO]; for a concept branch, use [EXACT PRODUCT DESCRIPTION] without requiring a photo.\nIn the photo branch, preserve the actual portion, ingredients, shape, packaging, garnish, and defining appearance.\nIn the text-only branch, clearly treat the image as a concept visualization rather than the actual item.\nStyle the scene for [MENU / DELIVERY / ADVERTISING USE] with [SURFACE], [PROPS], and [BACKGROUND].\nUse [CAMERA ANGLE], [LIGHTING], and [COLOR MOOD] to make the item clear and appealing.\nKeep steam, condensation, splashes, crumbs, and reflections plausible and restrained.\nDo not add ingredients, increase portions, change packaging, or imply nutrition claims unless confirmed.\nAdd no price or wording unless [EXACT TEXT] is supplied and later proofread.\nDeliver one finished food or beverage image only."
+    },
+    {
+      "id": "I089",
+      "titleEn": "Flat-Lay Garment to On-Model Image",
+      "summaryEn": "Visualize a supplied garment on a model without changing the garment design.",
+      "preserveEn": "Keep silhouette, construction, color, print, fabric cues, trims, and branding.",
+      "changeEn": "Change presentation from flat lay to model, pose, setting, and lighting.",
+      "checkEn": "Check all garment details and state that fit and sizing are not proven.",
+      "prompt": "Create one on-model image from [FLAT-LAY GARMENT PHOTO].\nPreserve the garment’s exact silhouette, construction, color, print placement, fabric cues, seams, trims, closures, and branding.\nShow it on [MODEL DESCRIPTION] in [POSE] and [SETTING].\nKeep the garment’s front/back orientation and layering consistent with [WEAR INSTRUCTION].\nRender drape, folds, tension, shadows, and body contact appropriate to the visible fabric.\nDo not redesign the garment, alter the print, add pockets, remove labels, or invent unseen details.\nKeep hands, limbs, neckline, hem, and garment boundaries anatomically coherent.\nDo not claim exact fit, size accuracy, comfort, or real-world appearance on a buyer.\nTreat the image as merchandising visualization, not a fitting-room guarantee.\nDeliver one on-model image only."
+    },
+    {
+      "id": "I075",
+      "titleEn": "Product-in-Hand Interaction Image",
+      "summaryEn": "Show a real product being held or used with plausible scale and contact.",
+      "preserveEn": "Keep product design, size cues, label, color, and functional truth.",
+      "changeEn": "Change hands, user context, environment, camera angle, and light.",
+      "checkEn": "Inspect hand anatomy, grip, scale, and avoid inventing product capability.",
+      "prompt": "Create one interaction image from [PRODUCT IMAGE].\nPreserve the product’s exact shape, dimensions relative to known cues, color, labels, materials, controls, and attachments.\nShow [PERSON OR HAND DESCRIPTION] [HOLDING / USING] it in [CONTEXT].\nUse [CAMERA ANGLE], [LIGHTING], and [BACKGROUND] appropriate to [MARKETING USE].\nMake fingers, grip, pressure, contact points, occlusion, perspective, and shadows anatomically plausible.\nKeep the product at a believable scale and orientation.\nDo not redesign the item, hide important parts, add accessories, or imply an unsupported function.\nAvoid extra fingers, fused hands, floating objects, and impossible use positions.\nIf the context suggests performance, show only behavior confirmed in [PRODUCT FACTS].\nDeliver one finished interaction image only."
+    },
+    {
+      "id": "I076",
+      "titleEn": "Product Feature Infographic",
+      "summaryEn": "Create a single product infographic from a photo and verified specifications.",
+      "preserveEn": "Keep product appearance and every supplied number, unit, and claim exact.",
+      "changeEn": "Change layout, callouts, icons, hierarchy, and supporting background.",
+      "checkEn": "Proofread all text and verify the final production file separately.",
+      "prompt": "Create one product-feature infographic from [PRODUCT PHOTO] and [VERIFIED DIMENSIONS, FEATURES, AND SPECIFICATIONS].\nPreserve the product’s exact geometry, color, labels, materials, and visible components.\nUse a clear [LAYOUT FORMAT] with product image, callout lines, icons, and concise information hierarchy.\nReproduce every supplied number, unit, feature, and qualifier exactly; do not calculate or infer missing values.\nInclude only these approved claims: [APPROVED CLAIMS].\nUse [BRAND PALETTE], [TYPE DIRECTION], and [BACKGROUND] without obscuring the product.\nKeep callout lines attached to the correct feature and maintain readable spacing.\nDo not invent certifications, compatibility, performance, warranty, or comparative claims.\nTreat generated text as a visual draft: manually proofread and typeset the final file.\nDeliver one infographic preview image only, not a verified vector or print-production file."
+    },
+    {
+      "id": "I077",
+      "titleEn": "E-commerce Detail Page Visual Draft",
+      "summaryEn": "Arrange multiple real product views and approved copy into one long-form visual concept.",
+      "preserveEn": "Keep all product views consistent and all supplied claims and wording exact.",
+      "changeEn": "Change section order, graphic hierarchy, backgrounds, callouts, and lifestyle context.",
+      "checkEn": "Verify copy, dimensions, channel rules, and final layout in a production tool.",
+      "prompt": "Create one long-form e-commerce detail-page visual draft from [LABELED PRODUCT IMAGE SET] and [APPROVED COPY].\nPreserve the same product model, shape, color, labels, materials, and components across every section.\nOrganize the page into [SECTION ORDER] for [TARGET CHANNEL AND AUDIENCE].\nUse [BRAND PALETTE], [GRAPHIC STYLE], and a consistent spacing system.\nReproduce supplied headlines, dimensions, claims, and qualifiers exactly; do not invent missing copy.\nUse lifestyle or detail panels only where supported by the provided product images and facts.\nKeep callouts connected to the correct features and avoid contradictory product views.\nDo not invent certifications, comparisons, warranties, prices, or performance results.\nTreat this as a visual preview; rebuild and proofread precise text, vectors, dimensions, and channel specs in a layout tool.\nDeliver one long-page concept image only."
+    },
+    {
+      "id": "I106",
+      "titleEn": "YouTube Thumbnail",
+      "summaryEn": "Create one high-contrast thumbnail around a verified video topic and optional subject image.",
+      "preserveEn": "Keep supplied person or object identity and the exact approved title.",
+      "changeEn": "Change composition, background, expression emphasis, color, and title treatment.",
+      "checkEn": "Test readability at small size and verify the wording matches the video.",
+      "prompt": "Create one YouTube thumbnail for the verified topic [VIDEO TOPIC].\nUse [PERSON OR SUBJECT IMAGE] when supplied and preserve its identity, design, and defining features.\nUse the exact short title “[APPROVED THUMBNAIL TITLE]”; do not add unsupported claims.\nBuild a high-contrast [16:9 OR SPECIFIED] composition with one dominant focal point.\nUse [BACKGROUND CONCEPT], [PALETTE], and [EMOTIONAL TONE] appropriate to the actual video.\nKeep the subject clearly separated from the background without distorted anatomy or cutout halos.\nMake title placement readable at small size and keep important content inside safe margins.\nDo not invent reactions, results, numbers, logos, or clickbait facts absent from the video.\nTreat rendered lettering as a draft and manually proofread the final thumbnail.\nDeliver one thumbnail image only."
+    },
+    {
+      "id": "I107",
+      "titleEn": "Promotional Event Poster",
+      "summaryEn": "Create one event poster from confirmed event facts and optional approved visual material.",
+      "preserveEn": "Keep supplied people, products, artwork, brand marks, and event facts exact.",
+      "changeEn": "Change layout, background, image treatment, hierarchy, and decorative system.",
+      "checkEn": "Proofread every event detail and rebuild precise type or print files separately.",
+      "prompt": "Create one promotional poster for [EVENT NAME] using [OPTIONAL APPROVED KEY VISUAL].\nUse only these confirmed facts: [CORE MESSAGE], [DATE AND TIME], [LOCATION OR PARTICIPATION METHOD], and [CTA].\nPreserve any supplied person, product, artwork, or brand mark without redesigning it.\nBuild a clear hierarchy for event name, message, logistics, and call to action.\nUse [POSTER STYLE], [PALETTE], [IMAGE TREATMENT], and [FORMAT OR ASPECT RATIO].\nDo not invent sponsors, speakers, endorsements, prices, availability, or event details.\nKeep all exact wording readable and separate from decorative imagery.\nTreat generated lettering as a visual draft requiring manual proofreading and final typesetting.\nVerify bleed, resolution, color mode, accessibility, and output dimensions in a production tool when printing.\nDeliver one poster preview image only."
+    },
+    {
+      "id": "I112",
+      "titleEn": "Holiday Sale Poster",
+      "summaryEn": "Create one sales-moment poster from confirmed promotion details and an optional product image.",
+      "preserveEn": "Keep the product and every supplied price, discount, date, and condition exact.",
+      "changeEn": "Change seasonal decor, composition, palette, emphasis, and promotional hierarchy.",
+      "checkEn": "Proofread offer details and never invent urgency or savings.",
+      "prompt": "Create one promotional poster for [HOLIDAY OR SALES MOMENT].\nUse [OPTIONAL PRODUCT IMAGE] and preserve the exact product design, label, color, and proportions.\nUse only the confirmed offer “[EXACT PROMOTION]”, price “[EXACT PRICE]”, dates “[VALID DATES]”, and conditions “[TERMS]”.\nBuild a bold hierarchy for campaign name, product, offer, and [CTA].\nUse [SEASONAL VISUAL DIRECTION], [PALETTE], and [FORMAT].\nKeep decorations supportive and never cover the product or required terms.\nDo not invent discounts, savings calculations, scarcity, deadlines, ratings, or endorsements.\nTreat generated text as a draft; manually proofread every number, currency, date, and qualifier.\nVerify final channel size, safe areas, and print settings outside the image generator.\nDeliver one sale-poster preview image only."
+    },
+    {
+      "id": "I115",
+      "titleEn": "Conference or Exhibition Poster",
+      "summaryEn": "Create one formal event poster using confirmed participants, exhibits, and logistics.",
+      "preserveEn": "Keep supplied portraits or exhibits and all names, titles, organizers, and facts exact.",
+      "changeEn": "Change grid, visual hierarchy, background, palette, and image treatment.",
+      "checkEn": "Proofread details and never fabricate speakers, sponsors, or institutional backing.",
+      "prompt": "Create one poster for [CONFERENCE / EXHIBITION / TALK TITLE] using [OPTIONAL APPROVED PORTRAIT OR EXHIBIT IMAGE].\nUse only confirmed participant names, roles, organizations, date, time, venue, participation method, and CTA from [EVENT FACTS].\nPreserve each supplied person’s identity or each supplied exhibit’s appearance.\nBuild a formal hierarchy for event title, participant information, logistics, and organizer.\nUse [VISUAL DIRECTION], [PALETTE], [FORMAT], and restrained supporting graphics.\nDo not invent speakers, credentials, sponsors, institutions, awards, or endorsements.\nKeep logos undistorted and use only assets explicitly supplied for this event.\nTreat generated lettering as a draft requiring line-by-line proofreading and final typesetting.\nVerify print bleed, resolution, accessibility, and channel dimensions in a production tool.\nDeliver one event-poster preview image only."
+    },
+    {
+      "id": "I118",
+      "titleEn": "Concept Infographic",
+      "summaryEn": "Turn verified facts and relationships into one clear infographic visual.",
+      "preserveEn": "Keep all facts, numbers, order, hierarchy, and relationships exactly as supplied.",
+      "changeEn": "Change iconography, layout, color coding, visual grouping, and emphasis.",
+      "checkEn": "Validate the information independently; visual coherence is not factual proof.",
+      "prompt": "Create one infographic from [VERIFIED FACTS, STRUCTURE, AND RELATIONSHIPS] and [OPTIONAL STRUCTURE SKETCH].\nPreserve every supplied fact, number, unit, sequence, category, and relationship exactly.\nUse [FLOW / HIERARCHY / COMPARISON / TIMELINE] as the primary information structure.\nDesign a clear visual hierarchy with [PALETTE], consistent icons, labels, and generous spacing.\nConnect elements only according to the supplied relationships; do not infer missing links.\nDo not invent statistics, causes, conclusions, citations, or categories.\nKeep text concise but do not paraphrase terms whose exact wording matters.\nTreat generated lettering, charts, and symbols as a draft requiring factual and typographic review.\nRebuild precise charts, vectors, and accessible text in an appropriate production tool.\nDeliver one infographic preview image only."
+    },
+    {
+      "id": "I119",
+      "titleEn": "Article or Newsletter Cover",
+      "summaryEn": "Create one horizontal cover image that accurately reflects a supplied article topic.",
+      "preserveEn": "Keep supplied people, products, events, and brand elements faithful.",
+      "changeEn": "Change visual metaphor, composition, background, palette, and editorial treatment.",
+      "checkEn": "Ensure the cover adds no event or claim absent from the article.",
+      "prompt": "Create one article or newsletter cover for [ARTICLE TOPIC AND SUMMARY].\nUse [OPTIONAL APPROVED PERSON / PRODUCT / EVENT IMAGE] when supplied and preserve its identity and factual appearance.\nDevelop an original editorial visual concept based only on the article’s actual subject.\nUse [HORIZONTAL FORMAT], [PALETTE], [BRAND DIRECTION], and [VISUAL METAPHOR].\nReserve clean space for [HEADLINE PLACEMENT] without rendering text unless requested.\nIf a headline is included, reproduce “[EXACT HEADLINE]” exactly.\nDo not add events, outcomes, quotes, logos, people, or claims absent from the article.\nKeep imagery clear at email and card-thumbnail sizes.\nTreat generated lettering as a draft requiring manual proofreading.\nDeliver one cover image only."
+    },
+    {
+      "id": "I121",
+      "titleEn": "App Device Mockup",
+      "summaryEn": "Place a real app screenshot into a specified device presentation without altering the interface.",
+      "preserveEn": "Keep screenshot content and all approved feature claims exact.",
+      "changeEn": "Change device frame, background, composition, lighting, and marketing context.",
+      "checkEn": "Verify interface legibility and never imply an unimplemented feature.",
+      "prompt": "Create one app device mockup from [ACTUAL APP SCREENSHOT].\nShow it on [TARGET DEVICE] and use only the verified feature message “[APPROVED FEATURE CLAIM]”.\nPreserve every visible interface element, text, icon, state, and screen proportion from the supplied screenshot.\nFit the screenshot to the display without redrawing, rewriting, or inventing UI.\nUse [DEVICE ANGLE], [BACKGROUND], [PALETTE], and [LIGHTING] for [STORE OR WEBSITE USE].\nKeep bezels, corners, reflections, perspective, and screen alignment physically coherent.\nDo not show features, notifications, ratings, awards, or compatibility not confirmed by the product.\nIf marketing text is rendered, proofread it and keep it separate from the app UI.\nVerify final store dimensions and platform rules outside the generator.\nDeliver one mockup preview image only."
+    },
+    {
+      "id": "I124",
+      "titleEn": "Restaurant Menu Visual",
+      "summaryEn": "Create one menu visual from confirmed dish names, prices, categories, and optional real food photography.",
+      "preserveEn": "Keep all menu facts and actual dish appearance exact.",
+      "changeEn": "Change layout, background, decorative system, image crops, and hierarchy.",
+      "checkEn": "Proofread every name and price and distinguish real dish photos from illustrative concepts.",
+      "prompt": "Create one restaurant menu visual using [CONFIRMED DISH NAMES, PRICES, AND CATEGORIES] and [OPTIONAL REAL DISH PHOTO].\nPreserve the actual dish appearance when a restaurant photo is supplied.\nOrganize items under the exact supplied categories with a clear [MENU FORMAT] hierarchy.\nUse [BRAND PALETTE], [TYPE DIRECTION], [BACKGROUND], and restrained [DECORATIVE MOTIFS].\nReproduce every dish name, price, currency, qualifier, and category exactly.\nDo not invent ingredients, allergens, availability, portion size, offers, or prices.\nClearly distinguish an illustrative food concept from a photograph of the actual dish.\nTreat generated lettering as a layout draft requiring line-by-line proofreading and final typesetting.\nVerify accessibility, print size, bleed, and digital dimensions in a production tool.\nDeliver one menu preview image only."
+    },
+    {
+      "id": "I126",
+      "titleEn": "Logo Concept Exploration",
+      "summaryEn": "Create one original logo-concept presentation from a brand brief and optional existing identity assets.",
+      "preserveEn": "Keep exact brand name and supplied identity assets; avoid third-party marks.",
+      "changeEn": "Change symbol ideas, letterform direction, geometry, color, and presentation.",
+      "checkEn": "Run trademark checks and rebuild final vectors and typography separately.",
+      "prompt": "Create one logo concept presentation for the exact brand name “[BRAND NAME]”.\nBase the concept on [BRAND POSITIONING], [TARGET AUDIENCE], and [BRAND ATTRIBUTES].\nIf [EXISTING BRAND ASSET] is supplied, preserve its essential identity according to [KEEP / EVOLVE INSTRUCTION].\nExplore an original [WORDMARK / SYMBOL / COMBINATION MARK] direction using [FORM LANGUAGE] and [PALETTE].\nKeep the mark simple, distinctive, legible, and reproducible at small size.\nDo not copy existing logos, protected symbols, or a living designer’s signature work.\nDo not invent a slogan; use only “[EXACT TAGLINE]” when supplied.\nPresent one coherent concept rather than a sheet of unrelated alternatives.\nTreat the result as a raster concept: perform trademark research and rebuild approved geometry and type as vectors.\nDeliver one logo-concept image only, not final trademark clearance or production files."
+    },
+    {
+      "id": "I133",
+      "titleEn": "Display Lettering Effect",
+      "summaryEn": "Render exact supplied wording as one decorative title treatment.",
+      "preserveEn": "Keep every character, spelling, order, and supplied letterform reference accurate.",
+      "changeEn": "Change material effect, depth, lighting, background, and ornamental treatment.",
+      "checkEn": "Proofread character by character and rebuild editable type separately.",
+      "prompt": "Create one display-lettering image for the exact text “[EXACT TEXT]”.\nThe intended use is [POSTER / PACKAGING / SOCIAL / OTHER] and the language is [LANGUAGE].\nIf [LETTERFORM OR MATERIAL REFERENCE] is supplied, follow its general shape or material direction without copying unrelated branding.\nApply [MATERIAL EFFECT], [DEPTH], [LIGHTING], [PALETTE], and [BACKGROUND].\nKeep every character, accent, punctuation mark, word order, and capitalization exactly as supplied.\nPrioritize readability before decorative effects; avoid merged, missing, or invented characters.\nDo not add slogans, logos, symbols, or extra words.\nUse an original treatment rather than imitating a protected title design or living artist.\nTreat the rendered lettering as a visual concept; proofread it and rebuild editable vector/type files for production.\nDeliver one title-effect image only."
+    }
+  ]
+}
