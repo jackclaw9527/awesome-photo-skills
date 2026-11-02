@@ -163,4 +163,4 @@ The images are project demos. Check text, transparency, dimensions and any vecto
 
 [Image and content policy](docs/content-policy.md) · [Contribute a case](CONTRIBUTING.md) · [Updates](CHANGELOG.md)
 
-Private publication draft. Image redistribution permissions are still being reviewed. Website features and pricing follow the current website.
+Image redistribution permissions are still being reviewed. Public visibility does not grant an unrestricted image license. Website features and pricing follow the current website.

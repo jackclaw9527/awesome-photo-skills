@@ -8,4 +8,4 @@
 - Shortened the README showcase and added repository cover assets. Each result links to its matching dearsketch task.
 - Added source and placement labels to website links. Website conversion measurement is not yet connected.
 
-The repository remains a private publication draft. Internal generation instructions and production credentials are not included.
+This repository contains public-facing case documentation and newly authored templates. Internal generation instructions and production credentials are not included.

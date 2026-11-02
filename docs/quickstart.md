@@ -24,7 +24,7 @@ $skill-installer install the photo-editing skill from
 https://github.com/jackclaw9527/awesome-photo-skills/tree/main/skills/photo-editing
 ```
 
-仓库当前为私有，安装时需要你拥有读取权限。也可下载或克隆仓库，将完整 `skills/photo-editing` 文件夹放到目标项目的 `.agents/skills/` 下；已有同名技能时先比较内容。
+也可下载或克隆仓库，将完整 `skills/photo-editing` 文件夹放到目标项目的 `.agents/skills/` 下；已有同名技能时先比较内容。
 
 然后使用：
 
