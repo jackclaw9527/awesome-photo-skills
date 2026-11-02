@@ -1,6 +1,6 @@
-# dearsketch 图片创作案例库
+# Awesome Photo Skills — 照片处理技能与案例库
 
-50 个精选图片任务，覆盖宠物与家庭纪念、人物形象、住宅空间、商品电商和视觉设计。每个案例说明需要什么素材、希望得到什么结果，以及制作后应该检查什么。
+照片处理 Skills 与案例库｜50 个精选场景，涵盖人像编辑、宠物肖像、商品图优化与空间改造，附处理前后对照和在线体验。示例图片由 GPT Image 2.5 生成。
 
 **想用自己的照片试一试？** [打开 dearsketch](https://dearsketch.com/?utm_source=github&utm_medium=readme&utm_campaign=dearsketch-public-cases&utm_content=home_hero)，也可以直接点击下面的效果图进入对应需求页面。
 
