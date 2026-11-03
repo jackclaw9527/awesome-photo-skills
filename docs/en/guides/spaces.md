@@ -1,0 +1,47 @@
+# Interior, Home & Architecture Image Prompts · Residential, Interior and Architectural Vision
+
+[中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
+
+
+Explore a room redesign, virtual staging, a house portrait or a sketch-to-render concept. These tasks have different boundaries: staging adds furniture, a listing cleanup removes clutter, and a design concept explores a possible future space.
+
+First explain which doors, windows, walls, borders and fixtures cannot be changed, and then specify the materials and styles you want to try. Renderings are used to communicate directions, and dimensions, materials and construction feasibility need to be confirmed separately.
+
+## Choose the right task
+
+Use a clear room or exterior photo for edits, a readable sketch for rendering, and exact swatches for a specified paint or surface product. Mark virtually staged images when used in a listing.
+
+| Task | Preserve | Change | Prompt & inputs |
+| --- | --- | --- | --- |
+| House Watercolor Keepsake / House Watercolor Memorial Painting | Keep roofline, doors, windows, facade proportions, and distinctive site features. | Change medium, background simplification, landscaping emphasis, and palette. | [I030](../cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt) |
+| Room Style Preview / room decoration style preview | Keep walls, doors, windows, ceiling, fixed openings, and camera viewpoint. | Change furniture, finishes, decor, palette, and lighting mood. | [I169](../cases/i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt) |
+| Yard Landscape Concept / courtyard landscape renovation | Keep lot boundaries, building, grades, access, and fixed structures. | Change planting, paving, furniture, lighting, and amenity concepts. | [I178](../cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt) |
+| Paint, Flooring, and Wallpaper Preview / Wall paint and floor material selection preview | Keep room structure, lighting logic, object placement, and untargeted surfaces. | Change only named walls, floor, or wallpaper areas. | [I171](../cases/i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt) |
+| Office Redesign Concept / Office renovation concept | Keep visible structure and constraints only when a site photo is supplied. | Change workstations, zones, furniture, branding, finishes, and lighting. | [I172](../cases/i172-create-an-office-redesign-concept.md#public-prompt) |
+| Virtual Staging for an Empty Room / Virtual Staging for an Empty Room | Keep real architecture, room condition, windows, doors, and camera view. | Change only movable furnishings, decor, soft goods, and lighting presentation. | [I175](../cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md#public-prompt) |
+| Decluttered Property Photo/Decluttered Property Photos | Keep layout, fixed elements, surfaces, lighting, and material defects. | Remove only listed movable clutter and make restrained presentation corrections. | [I176](../cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md#public-prompt) |
+| Architectural Facade Concept / Building facade concept | Keep supplied massing and openings only when a sketch or massing reference exists. | Change facade materials, articulation, environment, landscape, and light. | [I177](../cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md#public-prompt) |
+| Sketch-to-Realistic Space Rendering / Architectural sketch to realistic effect | Keep openings, geometry, layout relationships, and camera framing. | Change materials, lighting, furnishings, landscape, and atmosphere. | [I179](../cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md#public-prompt) |
+| Interior or Architecture Mood Board / Space Design Mood Board | Keep supplied reference colors and material identities only when references exist. | Change layout, hierarchy, crops, annotations, and supporting generated swatches. | [I182](../cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md#public-prompt) |
+
+## Reference material and result direction
+
+### Room Style Preview
+
+<table>
+<thead><tr><th width="50%">Reference material</th><th width="50%">Result example</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>Photos of existing rooms</strong><br><img src="../../../assets/cases/i169-before-1.webp" alt="Preview different interior styles in a room photo — reference photo 1" width="280"></p></td><td valign="top"><a href="https://dearsketch.com/en/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&amp;utm_medium=guide&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i169_image"><img src="../../../assets/cases/i169-after.webp" alt="Preview different interior styles in a room photo — result example" width="280"></a></td></tr></tbody>
+</table>
+
+[Read the prompt and input requirements](../cases/i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt) · [Try with your own material](https://dearsketch.com/en/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=guide&utm_campaign=dearsketch-public-cases&utm_content=i169_cta)
+
+### House Watercolor Keepsake
+
+<table>
+<thead><tr><th width="50%">Reference material</th><th width="50%">Result example</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>house photos</strong><br><img src="../../../assets/cases/i030-before-1.webp" alt="Turn a house photo into a watercolor or line-art keepsake — reference photo 1" width="280"></p></td><td valign="top"><a href="https://dearsketch.com/en/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&amp;utm_medium=guide&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i030_image"><img src="../../../assets/cases/i030-after.webp" alt="Turn a house photo into a watercolor or line-art keepsake — result example" width="280"></a></td></tr></tbody>
+</table>
+
+[Read the prompt and input requirements](../cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt) · [Try with your own material](https://dearsketch.com/en/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=guide&utm_campaign=dearsketch-public-cases&utm_content=i030_cta)
+
+These are visual examples. The public templates are newly written and have not been tested against the pictured inputs. Review identity, content and file requirements before using an output. Image terms: [content policy](../content-policy.md).

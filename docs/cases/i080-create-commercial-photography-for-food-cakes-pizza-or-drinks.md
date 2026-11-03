@@ -1,5 +1,8 @@
 # Food or Drink Commercial Image · 食品与饮品商业摄影
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create one appetizing promotional image from either a food photo or an explicit product description.
 
 生成食品、蛋糕、披萨或饮品商业摄影。用于菜单、外卖、广告。
@@ -57,9 +60,9 @@ Do not present a text-led concept as the actual product.
 
 ## 相关案例 / Related tasks
 
-- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
-- [Create a reusable product PNG with a transparent background · 透明底商品素材](i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
-- [Place a product in a realistic lifestyle scene · 商品生活方式场景](i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
+- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](./i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
+- [Create a reusable product PNG with a transparent background · 透明底商品素材](./i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
+- [Place a product in a realistic lifestyle scene · 商品生活方式场景](./i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
 
 ## 需求背景参考
 

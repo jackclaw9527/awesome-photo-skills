@@ -1,5 +1,8 @@
 # Composite Family Portrait · 分散照片合成全家福
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Assemble separately photographed relatives into one fictional but coherent family portrait.
 
 把分散的家庭成员照片合成为全家福。用于家庭纪念、礼物。
@@ -59,9 +62,9 @@ Verify the roster and disclose that the image is a composite, not a real group p
 
 ## 相关案例 / Related tasks
 
-- [Turn a pet photo into a custom portrait · 宠物定制肖像](i026-turn-a-pet-photo-into-a-custom-portrait.md#public-prompt)
-- [Turn a pet into a royal or historical portrait · 宠物皇家肖像](i028-turn-a-pet-into-a-royal-or-historical-portrait.md#public-prompt)
-- [Place a pet in a playful bathroom or kitchen scene · 宠物趣味场景画](i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md#public-prompt)
+- [Turn a pet photo into a custom portrait · 宠物定制肖像](./i026-turn-a-pet-photo-into-a-custom-portrait.md#public-prompt)
+- [Turn a pet into a royal or historical portrait · 宠物皇家肖像](./i028-turn-a-pet-into-a-royal-or-historical-portrait.md#public-prompt)
+- [Place a pet in a playful bathroom or kitchen scene · 宠物趣味场景画](./i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md#public-prompt)
 
 ## 需求背景参考
 

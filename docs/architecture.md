@@ -1,5 +1,8 @@
 # dearsketch 产品架构
 
+[中文](../README.md) · [English](../README.en.md) · [Português](../README.pt.md) · [Español](../README.es.md) · [Français](../README.fr.md) · [Deutsch](../README.de.md) · [عربي](../README.ar.md) · [русский](../README.ru.md) · [日本語](../README.ja.md) · [हिंदी](../README.hi.md)
+
+
 dearsketch 把“我想完成什么图片”组织成可浏览的需求目录。每个需求有独立页面，解释用途、所需素材和结果要求；用户从对应页面进入制作流程。
 
 这份说明介绍模块职责与数据流。公开内容库、网站服务和生成模型分别承担不同工作；本仓库提供公开案例、50 个新编模板与 Agent Skill，在线制作在网站进行。

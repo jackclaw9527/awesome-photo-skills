@@ -1,5 +1,8 @@
 # Products and Commerce
 
+[中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
+
+
 Listing assets, transparent cutouts, lifestyle and studio images, apparel, food, and product infographics. These are newly authored, untested public templates. Customize bracketed placeholders with user-supplied facts and materials; do not describe them as the prompts that produced repository examples.
 
 ## White-Background Product Listing Image (I065)

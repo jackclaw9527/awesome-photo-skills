@@ -1,5 +1,8 @@
 # Seasonal Product Campaign Image · 节日商品场景
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Build a holiday or sales-season scene around a real product.
 
 生成圣诞、黑五或季节主题商品图。用于节日活动、广告。
@@ -58,9 +61,9 @@ Verify dates, discounts, and wording; decorations must not obscure the product.
 
 ## 相关案例 / Related tasks
 
-- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
-- [Create a reusable product PNG with a transparent background · 透明底商品素材](i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
-- [Place a product in a realistic lifestyle scene · 商品生活方式场景](i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
+- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](./i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
+- [Create a reusable product PNG with a transparent background · 透明底商品素材](./i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
+- [Place a product in a realistic lifestyle scene · 商品生活方式场景](./i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
 
 ## 需求背景参考
 

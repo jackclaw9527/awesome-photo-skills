@@ -1,5 +1,8 @@
 # Personalized Movie Poster · 个人与情侣电影海报
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create an original fictional movie poster around supplied people and a supplied title.
 
 把个人或情侣照片制作成电影海报。用于婚礼、周年、生日和礼物。
@@ -59,9 +62,9 @@ Proofread all wording and avoid implying a real film release.
 
 ## 相关案例 / Related tasks
 
-- [Create a professional LinkedIn headshot from a selfie · 自拍转职业头像](i001-create-a-professional-linkedin-headshot-from-a-selfie.md#public-prompt)
-- [Replace casual clothing with professional attire · 休闲装换正装](i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
-- [Turn yourself into a royal, vintage, or historical portrait · 皇家与复古人物肖像](i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md#public-prompt)
+- [Create a professional LinkedIn headshot from a selfie · 自拍转职业头像](./i001-create-a-professional-linkedin-headshot-from-a-selfie.md#public-prompt)
+- [Replace casual clothing with professional attire · 休闲装换正装](./i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
+- [Turn yourself into a royal, vintage, or historical portrait · 皇家与复古人物肖像](./i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md#public-prompt)
 
 ## 需求背景参考
 

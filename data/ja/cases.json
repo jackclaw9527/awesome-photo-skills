@@ -1,0 +1,2630 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "ペットと家族の記念品",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "登場人物と人物像",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "家と空間",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "商品と電子商取引",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "創造性とビジュアルデザイン",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "ペットのカスタムポートレート",
+      "name": "ペットの写真をカスタムポートレートに変える",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "ペットの写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ペットの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "ペットの肖像画",
+      "useCase": "ギフト、家の装飾",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "まず目、耳、模様、姿勢などを比較して、その絵のスタイルが気に入るかどうかを判断してください。",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ペットの写真",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ペットのポートレート",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "ペットの王室の肖像画",
+      "name": "ペットを王室や歴史上の人物の肖像画に変身させます",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "ペットの写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ペットの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "楽しいペットのポートレート",
+      "useCase": "ギフト、壁画",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "服装や背景は変更できますが、ペットの顔や模様は交換できません。",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ペットの写真",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ペットのポートレート",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "ペットの興味深いシーンの絵",
+      "name": "ペットのバスルームやキッチンなどの興味深いシーンの絵を描きます",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "ペットの写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ペットの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "楽しいペットの壁画",
+      "useCase": "家の装飾、ギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "爪、支柱の接触、本体の構造を確認してください。楽しいシーンは創作物であり、実際の録音ではありません。",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ペットの写真",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ペットのポートレート",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "ペット記念絵画",
+      "name": "ペットの死を記念して記念の絵を描きます",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "ペットの写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ペットの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "ペットの記念ポートレート",
+      "useCase": "記念品・記念品",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "名前、日付、碑文については確認済みの情報のみを使用してください。テキストが必要ないときは、画面をきれいに保ちます。",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ペットの写真",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ペットのポートレート",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "人々とペットとの家族のポートレート",
+      "name": "ペットを含む家族のポートレートを生成する",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "各メンバーにつき少なくとも 1 枚の家族の写真 + 各ペットにつき少なくとも 1 枚のペットの写真",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "家族の写真",
+          "requirement": "required",
+          "quantity": "メンバーごとに少なくとも 1 つ"
+        },
+        {
+          "kind": "image",
+          "label": "ペットの写真",
+          "requirement": "required",
+          "quantity": "ペットごとに少なくとも 1 つ"
+        }
+      ],
+      "output": "家族のペットの写真",
+      "useCase": "家の装飾、ギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "各メンバーとペットを 1 つずつ確認して、人物の欠落、重複、パターンの不一致を防ぎます。",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "家族の写真",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "ペットの写真",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "写真家の家族写真",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "カップルアニバーサリーアートペインティング",
+      "name": "カップルの写真を記念日アートに変える",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "カップル写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "カップルの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "記念日のポートレート",
+      "useCase": "記念日の贈り物、壁画",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "まず双方のアイデンティティと姿勢を確認し、次に芸術的表現を確認します。名前と記念日については確認済みの情報のみを使用してください。",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "カップルの写真",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "散らばった写真を家族のポートレートに",
+      "name": "バラバラになった家族の写真を組み合わせて家族ポートレートを作成する",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "絵に含まれる各メンバーの写真少なくとも 1 枚 + グループのサイズ、キャラクターの関係性、配置 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "メンバー全員の写真が掲載されています",
+          "requirement": "required",
+          "quantity": "メンバーごとに少なくとも 1 つ"
+        },
+        {
+          "kind": "text",
+          "label": "人数、関係性、登場人物の配置",
+          "requirement": "required",
+          "quantity": "1グループ"
+        }
+      ],
+      "output": "完全な家族の肖像画",
+      "useCase": "家族の記念品や贈り物",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "すべてのメンバーの写真、メンバーの番号、関係、配置を提供する必要があります。合成写真は実際の集合写真の記録とはみなされません。",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "統合される個々のメンバーの写真",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "すでに家族が写真を撮っています",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "写真家の家族写真",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "休日をテーマにした家族のポートレート",
+      "name": "クリスマスやホリデーをテーマにした家族写真を生成する",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "家族写真 1 枚 + 休日の名前またはテーマ 1 つ",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "家族の写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "フェスティバルの名前またはテーマ",
+          "requirement": "required",
+          "quantity": "1 件"
+        }
+      ],
+      "output": "休日の家族の肖像画",
+      "useCase": "グリーティングカード、ソーシャルシェアリング",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "人数と身元を確認し、休日の服装や装飾品が主要な特徴を隠してはいけません。",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "家族の写真",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "写真家の家族写真",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "ウェディングドレスを着たウェディングスタイルのポートレート",
+      "name": "ウェディングポートレートまたはウェディングスタイルの写真を生成する",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "カップル写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "カップルの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "結婚式の肖像画",
+      "useCase": "結婚記念、招待状",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "両当事者のアイデンティティと自然な関係は維持されます。この写真はクリエイティブなプレビューであり、実際の結婚式の撮影を表すものではありません。",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "カップルの写真",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "赤ちゃんの成長のマイルストーン写真",
+      "name": "赤ちゃんの年齢または成長のマイルストーン写真を生成する",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "ペットと家族の記念品",
+      "inputSummary": "赤ちゃんの写真 1 枚 + 年齢またはマイルストーン 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "赤ちゃんの写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "月齢またはマイルストーン",
+          "requirement": "required",
+          "quantity": "1 件"
+        }
+      ],
+      "output": "節目の記念写真",
+      "useCase": "成長記録",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "年齢、日付、マイルストーンは保護者によって提供されます。写真からこれらの事実を推測しないでください。",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "赤ちゃんの写真",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "自撮り写真をプロのプロフィール写真に変換",
+      "name": "自撮り写真から LinkedIn プロフェッショナル アバターを生成",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "自分の鮮明でオリジナルの写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "元の写真は知っています",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "プロの胸像ポートレート",
+      "useCase": "LinkedIn プロフィール",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "自分の身元、顔の特徴、自然な肌の質感を確認し、過度の美化や架空の職業上の身分を避けてください。",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "元の写真は知っています",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotorプロの写真",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "カジュアルからフォーマルへの衣替え",
+      "name": "カジュアルな服装をフォーマルな服装に置き換える",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "カジュアルな服を着た人物のポートレート 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "カジュアルな服装のポートレート",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "フォーマル着用写真",
+      "useCase": "履歴書・仕事情報",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "人物の外見が変わらないように、首筋、手、体の端を確認しながら、ターゲットの服装のみを調整してください。",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "カジュアルな服装のポートレート",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotorプロの写真",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "ロイヤルおよびヴィンテージのキャラクターのポートレート",
+      "name": "自分を王室、ヴィンテージ、または歴史的な肖像画に変身させましょう",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "自分の鮮明でオリジナルの写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "元の写真は知っています",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "歴史的なスタイルの肖像画",
+      "useCase": "ギフト、ウォールアート、ソーシャル",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "衣装やシーンは創作であり、登場人物の身元が確認されており、写真は本物の歴史写真とはみなされません。",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "元の写真は知っています",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor 機能センター",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "メガネの試着プレビュー",
+      "name": "メガネのバーチャル試着",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "人物の正面写真 1 枚 + 対象となるメガネの素材またはスタイルの説明 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物の正面写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "image",
+          "label": "対象となるメガネの素材またはスタイルの説明",
+          "requirement": "conditional",
+          "quantity": "1個",
+          "condition": "製品を正確に試着するために必要です。テキストで説明できるのはコンセプト モデルのみです"
+        }
+      ],
+      "output": "メガネ試着写真",
+      "useCase": "購入決定",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "特定の製品を試着したい場合は、対応するスタイル画像を提供してください。生成された画像では実際のサイズや着用感を証明することはできません。",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物の正面写真",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "対象メガネ商品イメージ",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "上半身のタトゥーのプレビュー",
+      "name": "体の写真のタトゥーをプレビュー",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "キャラクタースキンのオリジナル写真 1 枚 + ターゲットのタトゥーデザイン 1 枚 + タトゥーの場所 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "キャラクタースキンのオリジナル写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "image",
+          "label": "ターゲットのタトゥーのデザイン",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "タトゥーの場所",
+          "requirement": "required",
+          "quantity": "1 件"
+        }
+      ],
+      "output": "上半身のタトゥーのプレビュー",
+      "useCase": "タトゥーの決定",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "デザインの輪郭、文字、位置、曲面のフィット感を確認します。完成した図面はタトゥー構築テンプレートではありません。",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "キャラクタースキンのオリジナル写真",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "ターゲットのタトゥーのデザイン",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "写真を漫画のアバターに変換",
+      "name": "本物の写真を漫画のアバターに変換",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "私の頭の鮮明な写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "自分の頭のイメージがはっきりしている",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "漫画のアバター",
+      "useCase": "ソーシャルアバター、ギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "一般的な漫画のキャラクターだけを取得するのではなく、顔の形、髪型、目に見えるアクセサリーを特定します。",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "自分の頭のイメージがはっきりしている",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor 機能センター",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "写真をアニメキャラクターに変換",
+      "name": "本物の写真をアニメキャラクターに変換",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "私の頭の鮮明な写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "自分の頭のイメージがはっきりしている",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "アニメのアバター",
+      "useCase": "ソーシャルアバター、ファンの作品",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "個人を特定できる特徴を保持し、独自の表現を使用し、全員が同じ顔になることを避けてください。",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "自分の頭のイメージがはっきりしている",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "アクションフィギュアのパッケージ化",
+      "name": "キャラクターをパッケージ化したアクションフィギュアにする",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "人物の写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人々の写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "アクションフィギュアのパッケージ写真",
+      "useCase": "社交場、ギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "サイズ、付属品の数、パッケージの文言を確認してください。これはコンセプト画像であり、実際の製品ではありません。",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人々の写真",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "写真でチャットできるステッカー",
+      "name": "写真をチャットステッカーに変える",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "人、ペット、または物の写真 1 枚 + このステッカーの 0 または 1 つのアクションまたは感情",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "人物、ペット、物の写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "このスタンプのアクションや感情",
+          "requirement": "optional",
+          "quantity": "0 または 1 項目"
+        }
+      ],
+      "output": "チャットステッカーパック",
+      "useCase": "WhatsApp、電報、ソーシャルメディア",
+      "deliveryNote": "一度に生成されるのは、現在選択されている画像のみです。シリーズ内の他のイメージは個別に実行されます。",
+      "check": "一度に実行されるのは、現在選択されているものだけです。シリーズの一貫性とプラットフォームのステッカーのパッケージを個別に確認する必要があります。",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物、ペット、物の写真",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "個人およびカップルの映画ポスター",
+      "name": "個人またはカップルの写真を映画ポスターに変える",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "登場人物と人物像",
+      "inputSummary": "個人、カップル、またはグループのオリジナル写真必須（1 枚） + ポスターのテーマとタイトル必須（1 部） + サインと日付は任意（0 または 1 セット）",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "個人、カップル、グループのオリジナル写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "オリジナルポスターのテーマとタイトル",
+          "requirement": "required",
+          "quantity": "1食分"
+        },
+        {
+          "kind": "text",
+          "label": "署名と日付",
+          "requirement": "optional",
+          "quantity": "0 または 1 グループ"
+        }
+      ],
+      "output": "パーソナライズされた映画ポスター",
+      "useCase": "結婚式、記念日、誕生日、プレゼントなど",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "映画のタイトルと署名を使用して内容を確認します。テキストの正確さと登場人物の身元を確認し、本物の映画の宣伝を装わないでください。",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "個人、カップル、グループのオリジナル写真",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "住宅用水彩記念絵画",
+      "name": "住宅写真を水彩画や線画の記念絵画に変換",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "家の写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "家の写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "家の肖像画",
+      "useCase": "住宅の引っ越し・売却記念",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "屋根、ドア、窓、建物の輪郭を維持し、家を別の建物としてペイントしないでください。",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "家の写真",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy の家族のポートレート",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "OpenArt スケッチを画像に変換",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "部屋の装飾スタイルのプレビュー",
+      "name": "部屋の写真をアップロードして、さまざまな装飾スタイルをプレビューする",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "既存の部屋の写真 → 空間の構造を維持し、スタイル、家具、素材を置き換え → 現在の装飾の単一レンダリング",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "既存のお部屋の写真",
+          "requirement": "required",
+          "quantity": "1枚。複数のキャラクターまたはパースペクティブを 1 つのマーク付きリファレンス ボードに組み合わせることができます"
+        }
+      ],
+      "output": "装飾レンダリング",
+      "useCase": "装飾の決定、お客様からの提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "ドア、窓、空間構造を確認してください。レンダリングは、規模、予算、建設の実現可能性の検証に代わるものではありません。",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "既存のお部屋の写真",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "アドビルームのデザイン",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "アドビホームのコンセプト",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "中庭の景観改修",
+      "name": "中庭の写真をアップロードして景観改修計画を作成します",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "中庭または屋外スペースの写真 + 使用要件、気候または場所 → 植物、舗装、施設を追加 → 現在の単一の風景レンダリング",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "庭や屋外スペースの写真",
+          "requirement": "required",
+          "quantity": "1枚。複数のキャラクターまたはパースペクティブを 1 つのマーク付きリファレンス ボードに組み合わせることができます"
+        },
+        {
+          "kind": "text",
+          "label": "使用要件、気候または場所",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "風景のレンダリング",
+      "useCase": "お庭のリノベーションとご提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "中庭の境界と固定構造物、植栽、舗装、排水を維持する実際的な実現可能性は、個別に調査する必要があります。",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "庭や屋外スペースの写真",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "壁塗装と床材の選択プレビュー",
+      "name": "壁のペイント、床、壁紙の効果をプレビューする",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "屋内写真 + ターゲット マテリアル サンプル + 表面とターゲットの色/材質を置換 → 表面の色と材質を置換 → 現在の単一マテリアル効果のプレビュー",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "屋内の写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "image",
+          "label": "ターゲット素材テンプレート",
+          "requirement": "conditional",
+          "quantity": "0 ～ 1 個の画像。正確なテキストまたは色のデータも使用できます",
+          "condition": "特定の質感や製品サンプルを再現したい場合"
+        },
+        {
+          "kind": "text",
+          "label": "表面をターゲットの色/材質に置き換えます",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "マテリアルエフェクトのプレビュー",
+      "useCase": "装飾材料の選択",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "指定された製品にはサンプルまたは正確な色情報が提供されている必要があります。画面上の画像は実際の商品と同じ色の違いを保証するものではありません。",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "屋内の写真",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "ターゲット素材テンプレート",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "アドビホームのコンセプト",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "オフィスリノベーションコンセプト",
+      "name": "オフィスの再設計提案を作成する",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "オフィス敷地の写真 + チーム、機能エリア、ブランドおよび支店の説明 → ワークステーション、会議エリア、およびブランド スペースを生成 → 現在の単一オフィスのコンセプト マップ",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "オフィス風景写真",
+          "requirement": "conditional",
+          "quantity": "1個",
+          "condition": "既存オフィスをリニューアルする場合"
+        },
+        {
+          "kind": "text",
+          "label": "チーム、機能分野、ブランド、支店の説明",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "オフィスコンセプトマップ",
+      "useCase": "オフィスリノベーション",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "チームの規模、機能部門、ブランド コンテンツは明確である必要があり、写真だけでは建物や防火要件を満たしていることを証明できません。",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "オフィス風景写真",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "アドビルームのデザイン",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "空室のバーチャル配置",
+      "name": "空いた物件に家具や室内装飾品を追加する",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "空き部屋の写真 → 空間のパースに合わせた家具を生成 → 現在の単一の仮想住宅レイアウト",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "在庫状況の写真",
+          "requirement": "required",
+          "quantity": "1枚。複数のキャラクターまたはパースペクティブを 1 つのマーク付きリファレンス ボードに組み合わせることができます"
+        }
+      ],
+      "output": "物件マップの仮想レイアウト",
+      "useCase": "物件掲載・販売",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "本物のドア、窓、構造物を保持し、一般に公開する場合は仮想レイアウトを説明し、家具を既存の構成として扱うことは避けてください。",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "在庫状況の写真",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "AIインテリア",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "写真を整理してリストアップする",
+      "name": "ランダムな部屋の写真を物件表示写真に整理します",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "散らかった部屋のランダムな写真 → 散らかったものを取り除き、部屋を片づけて空間をリアルに保つ → 現在の物件のきちんとした 1 枚の販売プレゼンテーション",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "散らかった部屋のランダムな写真",
+          "requirement": "required",
+          "quantity": "1枚。複数のキャラクターまたはパースペクティブを 1 つのマーク付きリファレンス ボードに組み合わせることができます"
+        }
+      ],
+      "output": "きちんとした不動産販売プレゼンテーション",
+      "useCase": "不動産業者の販売物件",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "住宅の本当の欠陥を隠蔽したり、住宅の種類や固定構造を変更したりしないでください。",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "散らかった部屋のランダムな写真",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "建物のファサードのコンセプト",
+      "name": "テキストまたはスケッチから建物のファサードのコンセプトを生成する",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "建築スケッチまたはブロック図 + 建築用途とデザインのキーワード → マテリアル、環境、光を生成 → 現在の単一の建築コンセプトのレンダリング",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "建築スケッチまたは集合図面",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ユーザーがすでに建物の形式、開口部、または敷地のスケッチを持っている場合"
+        },
+        {
+          "kind": "text",
+          "label": "建築用途・デザインキーワード",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "建築コンセプトのレンダリング",
+      "useCase": "コンペ、提案、レポート",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "建築の目的と設計の方向性を明確にし、その結果を施工図ではなく概念的なコミュニケーションに活用します。",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "建築スケッチまたは集合図面",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe アーキテクチャの生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "建築スケッチをリアルな効果に変換",
+      "name": "インテリアまたは建築のスケッチをリアルなレンダリングに変換します",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "インテリアまたは建築スケッチ/CAD ワイヤーフレーム + 空間利用とスケッチの意味 → 構造を保持し、マテリアルと照明を補足 → 現在の単一のリアルな空間レンダリング",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "インテリアまたは建築のスケッチ/CAD ワイヤーフレーム",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "空間利用とスケッチの意味",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "リアルな空間レンダリング",
+      "useCase": "顧客とのコミュニケーション、計画の検討",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "スケッチ内の開口部と構造の関係を確認し、視覚的なレンダリングをエンジニアリング検証として扱わないでください。",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "インテリアまたは建築のスケッチ/CAD ワイヤーフレーム",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt スケッチを画像に変換",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "Adobe アーキテクチャの生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "空間デザインムードボード",
+      "name": "建築またはインテリア プロジェクトのムードボードを生成する",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "家と空間",
+      "inputSummary": "空間の雰囲気と素材のリファレンスボード + プロジェクトの種類とキーワード → 一貫したビジュアル方向性を整理して生成 → 現在の単一のムードボード",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "宇宙雰囲気・物質リファレンスボード",
+          "requirement": "optional",
+          "quantity": "0 – 複数の写真。入力用にカテゴリごとにラベル付けされたムードボードに組み合わせることができます",
+          "condition": "ユーザーがすでにディレクション素材を持っている場合"
+        },
+        {
+          "kind": "text",
+          "label": "プロジェクトの種類とキーワード",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ムードボード",
+      "useCase": "クライアントとの調整、提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "ムードボードはデザインに関するコミュニケーションを目的としたものであり、購入リストではありません。特定の製品、サイズ、価格を確認する必要があります。",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "宇宙雰囲気・物質リファレンスボード",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe Firefly の機能",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "Adobe アーキテクチャの生成",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "白背景の製品メイン画像",
+      "name": "普通の商品写真を白背景のメイン画像に変える",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "携帯電話で撮影した商品写真 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "携帯電話で撮影した商品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "プラットフォーム白背景メイン画像",
+      "useCase": "アマゾン、タオバオ、独立局",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "形状、ラベル、エッジを確認してください。シェルフの仕様を満たしているかどうかは、実際のチャネルに応じて別途確認する必要があります。",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "携帯電話で撮影した商品写真",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI ツール",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "ピクセルカット製品スタジオ",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "透明な底部の製品素材",
+      "name": "再利用可能な透明な底部プロダクト PNG を生成します",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "製品写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "透明な底部の製品素材",
+      "useCase": "ポスター、カタログ、広告",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "真の透明チャンネルと小さなエッジを確認し、白いプレビューを透明の証拠として扱わないでください。",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品写真",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "insMindの製品写真撮影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "コモディティライフシーン",
+      "name": "実際のライフスタイルのシナリオに製品を組み込む",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "1 製品白背景画像",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品白背景画像",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "ライフスタイル商品チャート",
+      "useCase": "詳細ページ、広告、ソーシャルメディア",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "製品本体は改造せず、プロポーション、接触面、シーン関係を確認してください。",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品白背景画像",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI ツール",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "OpenArt 画像の生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "製品のスタジオ写真",
+      "name": "普通の写真をプロのスタジオ製品写真に変える",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "製品写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "スタジオレベルの製品画像",
+      "useCase": "製品カタログ、ブランド公式サイト",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "ラベル、構造、材質を事実に基づいたものにし、反射が自然であることを確認してください。",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品写真",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI ツール",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "ピクセルカット製品スタジオ",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "お祭りの物販風景",
+      "name": "クリスマス、ブラック フライデー、または季節をテーマにした製品画像を生成する",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "製品写真 1 枚 + 休日またはプロモーションのテーマ 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "ホリデーまたはプロモーションのテーマ",
+          "requirement": "required",
+          "quantity": "1 件"
+        }
+      ],
+      "output": "ホリデープロモーション商品イラスト",
+      "useCase": "祭り活動、宣伝",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "確認済みのイベントテーマおよびプロモーション情報のみを使用し、装飾は商品を覆うことはできません。",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品写真",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "insMindの製品写真撮影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "Meitu デザイン スタジオ",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "食品および飲料の商業写真",
+      "name": "食べ物、ケーキ、ピザ、飲み物のコマーシャル写真を生成する",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "食べ物の写真または商品説明 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "食べ物の写真や商品説明",
+          "requirement": "optional",
+          "quantity": "1個",
+          "condition": "純粋なテキスト分岐は省略可能"
+        }
+      ],
+      "output": "食品プロモーションの写真",
+      "useCase": "メニュー、テイクアウト、広告",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "実際の商品を展示する場合は、重量、成分、外観を確認し、クリエイティブな効果を実物と偽らないでください。",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "食べ物の写真や商品説明",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "衣服タイル マップをモデルの上半身マップに変換",
+      "name": "実際のモデルの上半身画像に衣服タイルを生成",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "衣類タイル 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "衣類のタイル",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "服装モデルの写真",
+      "useCase": "Eコマースの詳細、広告",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "スタイル、プリント、生地、詳細の検証、生成された画像は、実際のサイズや実際のフィット感を証明するものではありません。",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "衣類のタイル",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photoroom AI ツール",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Meitu デザイン スタジオ",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "製品のハンドヘルドインタラクティブ画像",
+      "name": "製品が保持または使用されているインタラクティブな画像を生成します",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "製品写真1枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        }
+      ],
+      "output": "製品インタラクティブマップ",
+      "useCase": "ソーシャルメディア広告、詳細ページ",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "製品の機能の偽造を避けるために、ハンドの構造、保持関係、製品サイズを確認してください。",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品写真",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt 画像の生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "ピクセルカット製品スタジオ",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "製品セールスポイントのインフォグラフィック",
+      "name": "寸法、セールスポイント、パラメータを含む製品インフォグラフィックを作成する",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "製品写真 1 枚 + 正確な寸法、セールスポイント、パラメータのセット 1 枚",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "製品写真",
+          "requirement": "required",
+          "quantity": "1個"
+        },
+        {
+          "kind": "text",
+          "label": "正確な寸法、セールスポイント、パラメータ",
+          "requirement": "required",
+          "quantity": "1グループ"
+        }
+      ],
+      "output": "製品インフォグラフィック",
+      "useCase": "アマゾンの詳細、独立局",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "寸法、パラメータ、セールスポイントはユーザー情報から得られます。生成されたテキストは項目ごとに確認する必要があります。",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品写真",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "ピクセルカット製品スタジオ",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "eコマース詳細ページのビジュアルドラフト",
+      "name": "商品情報からEC詳細ページの長い画像を生成",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "商品と電子商取引",
+      "inputSummary": "同じ商品の複数の写真 + 1 セットのセールス ポイントと正確なコピーライティング",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "同じ商品画像グループ",
+          "requirement": "required",
+          "quantity": "複数の写真"
+        },
+        {
+          "kind": "text",
+          "label": "セールスポイントと正確なコピーライティング",
+          "requirement": "required",
+          "quantity": "1グループ"
+        }
+      ],
+      "output": "商品詳細ページ",
+      "useCase": "中国の電子商取引",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "正確なコピーライティングとマルチアングルの資料が完成している必要があります。現在の納品はビジュアルプレビューであり、正確な組版は別途検証する必要があります。",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "同じスタイルのスウェットシャツのフロント",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "同じスウェットシャツの後ろ側",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "同スウェットシャツの詳細",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "同じトレーナーを着た写真",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Meitu デザイン スタジオ",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "滴有電子商取引",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "YouTubeビデオのサムネイル",
+      "name": "YouTubeビデオのサムネイルを生成する",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "動画のキャラクターまたはテーマオブジェクトの元画像 + 動画のテーマまたはタイトル → ハイコントラストの構図とタイトル領域を生成 → 現在の単一の YouTube サムネイル",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ビデオキャラクターまたはテーマオブジェクトの元の画像",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "特定の人物、商品、物体がサムネイルに表示される場合"
+        },
+        {
+          "kind": "text",
+          "label": "動画のトピックまたはタイトル",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "YouTube のサムネイル",
+      "useCase": "ビデオリリース",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "実際のビデオの被写体を使用して、縮小された被写体とタイトルの認識を確認します。",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "テーマ別プロモーションポスター",
+      "name": "テーマとコピーからプロモーションポスターを生成",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "イベントのオリジナルメインビジュアル素材＋イベント名、コア情報、時間と場所または参加方法 → テキストと画像を含むポスターを生成 → 現在の単一イベントポスター",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "イベントメインビジュアル素材の原文",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "投稿者に特定の人物、商品、作品、ブランドロゴ等が使用されている場合"
+        },
+        {
+          "kind": "text",
+          "label": "イベント名、コア情報、日時・場所または参加方法",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "イベントポスター",
+      "useCase": "オンラインとオフラインのプロモーション",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "時間、場所、参加方法、イベント名などを一つ一つ確認していきます。生成された図は、最終的なレイアウト チェックに代わることはできません。",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "ホリデープロモーションポスター",
+      "name": "母の日、ブラック フライデー、またはホリデー プロモーション ポスターを作成する",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "プロモーション製品の元の画像 + フェスティバルまたは販売ノード、商品またはサービス、プロモーション情報 → フェスティバルのテーマを適用し、レイアウトを生成 → 現在の単一ノードのプロモーション画像",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "販促品のオリジナル画像",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ノードプロモーションマップで特定の製品を表示したい場合"
+        },
+        {
+          "kind": "text",
+          "label": "フェスティバルや販売ノード、商品やサービス、プロモーション情報",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ノードプロモーションマップ",
+      "useCase": "営業活動",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "割引、価格、イベント日程については確認済みのデータのみが利用可能です。",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "販促品のオリジナル画像",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "insMindの製品写真撮影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "カンファレンスと展示会のポスター",
+      "name": "カンファレンス、展示会、講演会のポスターを作成する",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "講演者、出展者または展示物のオリジナル画像 + イベントタイトル、講演者または出展者の情報、時間、場所または参加方法 → 標準化されたイベントポスターを生成 → 現在の単一のカンファレンスポスター",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "講演者、出展者、展示品のオリジナル画像",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ポスターに実際の講演者、出展者、展示物を表示する必要がある場合"
+        },
+        {
+          "kind": "text",
+          "label": "イベントタイトル、講演者または出展者情報、時間、場所または参加方法",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "会議ポスター",
+      "useCase": "カンファレンスプロモーション",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "架空の講演者、主催者、推薦は行われず、写真とテキストは項目ごとに確認される必要があります。",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "コンセプトのインフォグラフィック",
+      "name": "複雑なコンセプトをインフォグラフィックのメインビジュアルに変える",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "既存の情報構造のスケッチ + 事実の内容、情報構造または関係 → アイコン、構成、および視覚的な階層を生成 → 現在のリーフレット インフォグラフィック",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "情報構造のスケッチがすでにある",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ユーザーがすでにプロセス、階層、または関係のスケッチを持っている場合"
+        },
+        {
+          "kind": "text",
+          "label": "事実の内容、情報構造または関係",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "インフォグラフィック",
+      "useCase": "報道、ソーシャルメディア、教育",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "関係、順序、番号は提供された情報によるものです。視覚的な合理性は、事実が正しいことを意味するものではありません。",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "記事とニュースレターの表紙",
+      "name": "ニュースレターのヘッダー画像と記事の表紙を生成する",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "記事に関係する人物、製品、またはイベント素材の元の画像 + 記事のトピック → 横向きの表紙とブランドのイラストを生成 → 現在の単一の記事のヘッダー画像",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "記事に登場するキャラクター、商品、イベントなどのオリジナル画像",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ヘッダー画像で記事内の特定の人物、製品、イベント資料を表示する必要がある場合"
+        },
+        {
+          "kind": "text",
+          "label": "記事のトピック",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "記事ヘッダー画像",
+      "useCase": "メール、ブログ",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "記事のトピックを中心にデザインし、本文に含まれていない出来事や事実を追加しないでください。",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "アプリデバイスの表示図",
+      "name": "アプリケーション インターフェイス デバイスのモックアップを生成し、プロモーション画像を保存する",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "ターゲット アプリケーション + ターゲット デバイスの実際のインターフェイスと実際の機能セールス ポイントのスクリーンショット → モバイル デバイスを挿入し、マーケティング背景を追加 → 現在の単一アプリのモックアップ",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "ターゲット アプリケーションの実際のインターフェイスのスクリーンショット",
+          "requirement": "required",
+          "quantity": "現在のデバイスの写真 1 枚"
+        },
+        {
+          "kind": "text",
+          "label": "対象デバイスと実際の機能のセールスポイント",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "アプリのモックアップ",
+      "useCase": "App Store、公式サイト",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "インターフェイスやセールスポイントは実際の製品から来ている必要があり、デバイスのプロトタイプ効果は機能が実現されたことを意味するものではありません。",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ターゲット アプリケーションの実際のインターフェイスのスクリーンショット",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "メニューと料理のビジュアル",
+      "name": "レストランのメニュービジュアルと料理のイラストを生成",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "本物の料理のオリジナル写真 + 料理名、正確な価格、カテゴリー → レイアウト、イラスト、本物の料理写真を生成 → 現在の単一メニュー",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "本物の料理のオリジナル写真",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "メニューにレストランの実際の料理を表示する必要がある場合"
+        },
+        {
+          "kind": "text",
+          "label": "料理名、正確な価格、分類",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "メニュー",
+      "useCase": "レストラン、テイクアウト",
+      "deliveryNote": "今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。",
+      "check": "価格、名前、カテゴリーを一つ一つ確認し、実際の料理の写真と創作指示を明確に区別する必要があります。",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "ロゴコンセプトの探求",
+      "name": "ブランド説明からロゴコンセプトを生成",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "既存のブランドロゴとアイデンティティ資産のオリジナルドラフト + ブランド名、ブランドのポジショニング、対象ユーザー → 複数のロゴの方向性を生成 → 現在の単一のロゴのドラフト",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "オリジナルのブランドロゴとアイデンティティ資産",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "ゼロからロゴを作成するのではなく、既存のブランドのロゴ拡張子を検討する場合"
+        },
+        {
+          "kind": "text",
+          "label": "ブランド名、ブランドのポジショニング、対象ユーザー",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ロゴ案",
+      "useCase": "ブランドの創造と提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "その結果、商標検索、グリフ、ベクター配信に必要な追加の処理を伴うコンセプト ドラフトが作成されます。",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Photoroom AI ツール",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "ワードアートとタイトルの効果",
+      "name": "読みやすいワードアートとタイトル効果を生成する",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "創造性とビジュアルデザイン",
+      "inputSummary": "フォントまたは素材のフォント効果テンプレート + 正確なテキストと目的を指定 → 素材とスタイルでテキストを生成 → 現在の単一フォント アート",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "フォントまたは素材のフォント効果テンプレートを指定します",
+          "requirement": "optional",
+          "quantity": "0–1;複数の材料を 1 つのラベル付きリファレンスボードに組み合わせることができます",
+          "condition": "芸術的な言葉で既存のグリフ言語またはマテリアル効果を使用する必要がある場合"
+        },
+        {
+          "kind": "text",
+          "label": "正確な文章と目的",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ワードアート",
+      "useCase": "ポスター、パッケージ、ソーシャルメディア",
+      "deliveryNote": "一度に生成される画像は 1 つだけです。",
+      "check": "スペル、順序、読みやすさを単語ごとにチェックします。画像内のグリフは編集可能なフォント ファイルではありません。",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ],
+  "locale": "ja"
+}

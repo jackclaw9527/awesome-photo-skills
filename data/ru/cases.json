@@ -1,0 +1,2630 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "Домашние животные и семейные памятники",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "Персонажи и личный имидж",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "Дом и пространство",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "Товары и электронная коммерция",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "Креативность и визуальный дизайн",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "Пользовательские портреты домашних животных",
+      "name": "Превратите фотографии домашних животных в индивидуальные портреты",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фотография домашнего животного",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии домашних животных",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "портрет домашнего животного",
+      "useCase": "подарки, украшение дома",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Сначала сравните глаза, уши, узоры и позу тела, а затем решите, нравится ли вам стиль рисования.",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии домашних животных",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Портреты домашних животных на Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "Королевский портрет домашнего любимца",
+      "name": "Превратите домашних животных в портреты королевских или исторических деятелей.",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фотография домашнего животного",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии домашних животных",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Забавные портреты домашних животных",
+      "useCase": "подарки, настенные росписи",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Одежду и фон можно изменить, но морду и рисунок питомца нельзя поменять на другой.",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии домашних животных",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Портреты домашних животных на Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "Картина с интересной сценой для домашних животных",
+      "name": "Нарисуйте интересные сцены, например, ванные комнаты и кухни для домашних животных.",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фотография домашнего животного",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии домашних животных",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Забавная роспись стен для домашних животных",
+      "useCase": "украшение дома, подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте когти, контакт опоры и структуру тела; веселые сцены — это творения, а не настоящие записи.",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии домашних животных",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Портреты домашних животных на Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "памятная картина о домашнем животном",
+      "name": "Создайте мемориальную картину в память о смерти вашего питомца.",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фотография домашнего животного",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии домашних животных",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Мемориальный портрет домашнего животного",
+      "useCase": "Памятные и памятные подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Используйте только подтвержденную информацию для имен, дат или надписей; держите экран чистым, когда текст не нужен.",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии домашних животных",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Портреты домашних животных на Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "Семейный портрет с людьми и домашними животными",
+      "name": "Создание семейных портретов, включая домашних животных",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "Как минимум 1 фотография члена семьи для каждого члена + как минимум 1 фотография домашнего животного для каждого домашнего животного.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии членов семьи",
+          "requirement": "required",
+          "quantity": "Минимум 1 для каждого участника"
+        },
+        {
+          "kind": "image",
+          "label": "фотографии домашних животных",
+          "requirement": "required",
+          "quantity": "Минимум 1 на каждого питомца"
+        }
+      ],
+      "output": "Семейное фото домашнего любимца",
+      "useCase": "украшение дома, подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверяйте каждого участника и питомца по одному, чтобы избежать пропажи людей, дублирования или несоответствия шаблонов.",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии членов семьи",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "фотографии домашних животных",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фотор семейное фото",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "Художественная роспись на годовщину пары",
+      "name": "Превратите парные фотографии в юбилейное искусство",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фото пары",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "пара фотографий",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "юбилейный портрет",
+      "useCase": "Подарки на юбилей, настенные росписи",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Сначала проверьте личность и позу обеих сторон, а затем проверьте художественное выражение; используйте только подтвержденную информацию для имен и годовщин.",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "пара фотографий",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "Разрозненные фотографии в семейный портрет",
+      "name": "Объедините фотографии разрозненных членов семьи в семейный портрет.",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "Минимум 1 фотография каждого участника, включенного в картину + 1 размер группы, взаимоотношения и расположение персонажей.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Все фотографии участников включены в фотографию",
+          "requirement": "required",
+          "quantity": "Минимум 1 для каждого участника"
+        },
+        {
+          "kind": "text",
+          "label": "Количество людей, взаимоотношения и расположение персонажей",
+          "requirement": "required",
+          "quantity": "1 группа"
+        }
+      ],
+      "output": "полный семейный портрет",
+      "useCase": "Семейные памятники и подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Должны быть предоставлены фотографии всех участников, их количество, взаимоотношения и расположение. Композитный снимок нельзя рассматривать как настоящую групповую фотосессию.",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии отдельных участников, которые будут объединены",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "Члены семьи уже фотографируют",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фотор семейное фото",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "Семейный портрет на праздничную тематику",
+      "name": "Создавайте семейные фотографии на рождественскую или праздничную тематику.",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 семейная фотография + 1 название или тема праздника",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "семейные фотографии",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Название или тема фестиваля",
+          "requirement": "required",
+          "quantity": "1 предмет"
+        }
+      ],
+      "output": "семейный портрет на праздник",
+      "useCase": "Поздравительные открытки, обмен в социальных сетях",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте количество людей и их личности, праздничная одежда и украшения не должны скрывать ключевые особенности.",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "семейные фотографии",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фотор семейное фото",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "Портрет в свадебном стиле со свадебным платьем",
+      "name": "Создание свадебных портретов или фотографий в свадебном стиле",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 фото пары",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "пара фотографий",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "свадебный портрет",
+      "useCase": "Свадебные поминки, приглашения",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Личность и естественные взаимоотношения обеих сторон сохраняются; фотография является творческим превью и не отражает реальную свадебную съемку.",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "пара фотографий",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "Фотографии этапов роста ребенка",
+      "name": "Создавайте фотографии возраста или роста ребенка.",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "Домашние животные и семейные памятники",
+      "inputSummary": "1 детское фото + 1 возраст или веха",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "детские фотографии",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Месячный возраст или веха",
+          "requirement": "required",
+          "quantity": "1 предмет"
+        }
+      ],
+      "output": "Памятные фотографии, посвященные этому событию",
+      "useCase": "Рекорд роста",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Возраст, даты и основные этапы предоставляются родителями; не угадывайте эти факты по фотографиям.",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "детские фотографии",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "Превратите селфи в профессиональное изображение профиля",
+      "name": "Создайте профессиональный аватар LinkedIn из селфи",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 чёткая и оригинальная фотография себя",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Я знаю исходное фото",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Профессиональный портрет бюста",
+      "useCase": "Профиль в LinkedIn",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте свою личность, черты лица и естественную текстуру кожи, избегайте чрезмерного украшения и фиктивной профессиональной идентификации.",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Я знаю исходное фото",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фотор профессиональное фото",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "Переход от повседневной одежды к официальной одежде",
+      "name": "Замените повседневную одежду официальной одеждой.",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 портрет человека в повседневной одежде",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Портрет в повседневной одежде",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Фотографии официальной одежды",
+      "useCase": "Резюме, информация о работе",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Поправляйте одежду объекта только, проверяя вырез, руки и края тела, чтобы не изменить внешний вид человека.",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Портрет в повседневной одежде",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фотор профессиональное фото",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "Королевские и винтажные портреты персонажей",
+      "name": "Превратите себя в королевский, винтажный или исторический портрет.",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 чёткая и оригинальная фотография себя",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Я знаю исходное фото",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "портрет в историческом стиле",
+      "useCase": "подарки, настенное искусство, соц.",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Костюмы и сцены являются творческими, личности персонажей проверены, а снимки не считаются реальными историческими фотографиями.",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Я знаю исходное фото",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Функциональный центр Фотор",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "Предварительный просмотр примерки очков",
+      "name": "Виртуальная примерка очков",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 фронтальная фотография человека + 1 описание материала или стиля очков",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фронтальное фото человека",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "image",
+          "label": "Материал или описание стиля целевых очков",
+          "requirement": "conditional",
+          "quantity": "1 шт.",
+          "condition": "Требуется для точной примерки изделия; только концептуальные модели могут быть описаны текстом"
+        }
+      ],
+      "output": "Фото примерки очков",
+      "useCase": "решение о покупке",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Если вы хотите примерить конкретный товар, предоставьте изображение соответствующего стиля; созданное изображение не может подтвердить реальный размер и удобство ношения.",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фронтальное фото человека",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "Изображение продукта в виде целевых очков",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "Предварительный просмотр татуировки верхней части тела",
+      "name": "Превью татуировки на теле, фото",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 оригинальная фотография скина персонажа + 1 дизайн тату-мишени + 1 место татуировки",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальное фото скина персонажа",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "image",
+          "label": "Целевые Татуировки",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "место татуировки",
+          "requirement": "required",
+          "quantity": "1 предмет"
+        }
+      ],
+      "output": "Предварительный просмотр татуировки верхней части тела",
+      "useCase": "решение о татуировке",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте контур дизайна, текст, положение и соответствие криволинейной поверхности; готовый рисунок не является шаблоном построения татуировки.",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальное фото скина персонажа",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "Целевые Татуировки",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "Преобразование фотографии в мультяшный аватар",
+      "name": "Превратите реальные фотографии в мультяшные аватары",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 четкое фото моей головы",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "У меня есть четкое представление о моей голове",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "мультфильм аватар",
+      "useCase": "Социальные аватары, подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Определите форму лица, прическу и видимые аксессуары, а не просто получите обычного мультяшного персонажа.",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "У меня есть четкое представление о моей голове",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Функциональный центр Фотор",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "Преобразовать фотографию в аниме-персонажа",
+      "name": "Превратите реальные фотографии в персонажей аниме",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 четкое фото моей головы",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "У меня есть четкое представление о моей голове",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "аниме аватар",
+      "useCase": "Социальные аватары, творения фанатов",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Сохраняйте личные характеристики, используйте оригинальные выражения и избегайте превращения всех в одно и то же лицо.",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "У меня есть четкое представление о моей голове",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "Упаковка фигурок",
+      "name": "Превратите персонажей в упакованные фигурки",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 фотография человека",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии людей",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Изображение упаковки фигурки",
+      "useCase": "Социальные точки, подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте размер, количество аксессуаров и текст на упаковке; это концептуальное изображение, а не реальный продукт.",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии людей",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "Наклейка с фотографией в чате",
+      "name": "Превратите фотографии в стикеры для чата",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "1 фотография человека, домашнего животного или предмета + 0 или 1 действие или эмоция из этой наклейки.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии людей, домашних животных или предметов.",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Действие или эмоция этой наклейки",
+          "requirement": "optional",
+          "quantity": "0 или 1 предмет"
+        }
+      ],
+      "output": "Набор стикеров для чата",
+      "useCase": "WhatsApp, Telegram, социальные сети",
+      "deliveryNote": "Одновременно генерируется только выбранное в данный момент изображение; остальные изображения серии выполняются отдельно.",
+      "check": "Одновременно выполняется только выбранное в данный момент; Согласованность серии и упаковку наклеек платформы необходимо проверять отдельно.",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии людей, домашних животных или предметов.",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "Индивидуальные и парные постеры к фильмам",
+      "name": "Превратите отдельные фотографии или пары в постеры к фильмам",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "Персонажи и личный имидж",
+      "inputSummary": "Требуемая оригинальная фотография отдельного человека, пары или группы (1 фотография) + Требуемая оригинальная тема и название плаката (1 экземпляр) + Необязательная подпись и дата (0 или 1 комплект)",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальные фотографии отдельных лиц, пар или групп.",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Оригинальная тема и название постера",
+          "requirement": "required",
+          "quantity": "1 порция"
+        },
+        {
+          "kind": "text",
+          "label": "Подпись и дата",
+          "requirement": "optional",
+          "quantity": "0 или 1 группа"
+        }
+      ],
+      "output": "Персонализированные постеры к фильмам",
+      "useCase": "Свадьбы, юбилеи, дни рождения и подарки",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Используйте название фильма и подпись для подтверждения содержания; проверяйте точность текста и личности персонажей, а не претендуйте на настоящую рекламу фильма.",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальные фотографии отдельных лиц, пар или групп.",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "Жилая акварельная мемориальная картина",
+      "name": "Превратите фотографии домов в акварель или нарисуйте памятные картины.",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "1 фотография дома",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии дома",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "домашний портрет",
+      "useCase": "Память о переезде и продаже дома",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Сохраните крышу, двери, окна и контур здания и не рисуйте дом как другое здание.",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии дома",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Семейный портрет на Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "OpenArt эскиз в изображение",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "Предварительный просмотр стиля оформления помещения",
+      "name": "Загрузите фотографии комнат, чтобы просмотреть различные стили оформления.",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Фотография существующего помещения → Сохраните структуру пространства и замените стили, мебель и материалы → Одиночный рендеринг текущего оформления.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии существующих номеров",
+          "requirement": "required",
+          "quantity": "1 лист; несколько персонажей или точек зрения могут быть объединены в одну отмеченную справочную доску"
+        }
+      ],
+      "output": "Визуализация декораций",
+      "useCase": "Решения по декорированию, предложения клиентов",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте двери, окна и структуру помещения. Визуализации не могут заменить проверку размеров, бюджета и осуществимости строительства.",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии существующих номеров",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Дизайн комнаты Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "Концепции Adobe Home",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "Благоустройство двора",
+      "name": "Загрузите фотографии двора, чтобы составить план реконструкции ландшафта.",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Фотографии внутреннего двора или внешнего пространства + требования к использованию, климат или местоположение → Добавьте растения, тротуарную плитку и объекты → Текущая визуализация единого ландшафта.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии вашего двора или открытого пространства",
+          "requirement": "required",
+          "quantity": "1 лист; несколько персонажей или точек зрения могут быть объединены в одну отмеченную справочную доску"
+        },
+        {
+          "kind": "text",
+          "label": "Требования к использованию, климат или местоположение",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Ландшафтные визуализации",
+      "useCase": "Ремонт и предложение сада",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Практическая целесообразность сохранения границ двора и стационарных построек, растений, дорожного покрытия и дренажа должна быть изучена отдельно.",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии вашего двора или открытого пространства",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "Предварительный просмотр выбора краски для стен и пола",
+      "name": "Предварительный просмотр эффектов окраски стен, пола и обоев",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Фотография в помещении + образец целевого материала + заменяемая поверхность и целевой цвет/материал → Замена цвета и материала поверхности → Предварительный просмотр текущего эффекта одного материала",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "фотографии в помещении",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "image",
+          "label": "Шаблон целевого материала",
+          "requirement": "conditional",
+          "quantity": "0–1 изображение; также могут быть использованы точные текстовые или цветовые данные",
+          "condition": "Когда вам нужно воспроизвести определенные текстуры или образцы продукции"
+        },
+        {
+          "kind": "text",
+          "label": "Заменить поверхность целевым цветом/материалом",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Предварительный просмотр эффекта материала",
+      "useCase": "Выбор отделочного материала",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Указанные продукты должны предоставлять образцы или точную информацию о цвете; Изображение на экране не может гарантировать ту же разницу в цвете, что и реальный продукт.",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "фотографии в помещении",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "Шаблон целевого материала",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Концепции Adobe Home",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "Концепция ремонта офиса",
+      "name": "Составлять предложения по перепланировке офиса",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Фотографии офиса + описание команды, функциональной зоны, бренда и филиала → Создать рабочие места, зоны для встреч и фирменные пространства → Текущая концепция единого офиса",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии сцены в офисе",
+          "requirement": "conditional",
+          "quantity": "1 шт.",
+          "condition": "При ремонте существующего офиса"
+        },
+        {
+          "kind": "text",
+          "label": "Описание команды, функциональной области, бренда и филиала",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концептуальная карта офиса",
+      "useCase": "ремонт офиса",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Размер команды, функциональные подразделения и содержание бренда должны быть ясными, и изображение не может доказать, что оно соответствует требованиям здания и пожарной безопасности.",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии сцены в офисе",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Дизайн комнаты Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "Виртуальное обустройство свободных номеров",
+      "name": "Добавьте мебель и мягкую мебель в пустующее помещение.",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Фотографии свободных комнат → Создать мебель, соответствующую перспективе пространства → Текущая единая виртуальная планировка дома.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Наличие фотографий",
+          "requirement": "required",
+          "quantity": "1 лист; несколько персонажей или точек зрения могут быть объединены в одну отмеченную справочную доску"
+        }
+      ],
+      "output": "Виртуальный макет карты недвижимости",
+      "useCase": "Объявления о недвижимости, Продажа",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Сохраняйте настоящие двери, окна и конструкции, объясняйте виртуальную планировку при показе ее публике и избегайте рассмотрения мебели как существующих конфигураций.",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Наличие фотографий",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "ИИ интерьер",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "Список фотографий организован",
+      "name": "Организуйте случайные фотографии комнат в изображениях для демонстрации недвижимости.",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Случайная фотография захламленной комнаты → Устраните беспорядок, наведите порядок в комнате и сохраните пространство реальным → Единая, аккуратная презентация текущего объекта недвижимости.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Случайные фотографии захламленных комнат",
+          "requirement": "required",
+          "quantity": "1 лист; несколько персонажей или точек зрения могут быть объединены в одну отмеченную справочную доску"
+        }
+      ],
+      "output": "Аккуратная презентация продажи недвижимости",
+      "useCase": "Агент по недвижимости продает объявления",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Не скрывайте реальные дефекты дома и не меняйте тип дома и фиксированную конструкцию.",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Случайные фотографии захламленных комнат",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "концепция фасада здания",
+      "name": "Создавайте концепции фасадов зданий на основе текста или эскизов.",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Архитектурный эскиз или блок-схема + ключевые слова архитектурного использования и дизайна → Создание материалов, окружающей среды и света → Рендеринг текущей единой архитектурной концепции",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Архитектурные эскизы или массовые чертежи",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда у пользователя уже есть эскиз формы здания, проемов или площадки"
+        },
+        {
+          "kind": "text",
+          "label": "Использование здания, ключевые слова дизайна",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Рендеринг архитектурной концепции",
+      "useCase": "Конкурсы, предложения, отчеты",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Назначение здания и направление проектирования уточняются, а результаты используются для концептуальной коммуникации, а не для строительных чертежей.",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Архитектурные эскизы или массовые чертежи",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Архитектурное поколение Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "Архитектурные эскизы, преобразованные в реалистичные эффекты",
+      "name": "Преобразуйте интерьерные или архитектурные эскизы в реалистичные изображения.",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Интерьерный или архитектурный эскиз/каркас САПР + использование пространства и значение эскиза → сохранить структуру и дополнить материалы и освещение → текущий единый реалистичный рендеринг пространства",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Эскизы интерьера или архитектурные эскизы/каркасы САПР",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Использование пространства и значение эскиза",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Реалистичная визуализация пространства",
+      "useCase": "Общение с клиентами, обзор плана",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте взаимосвязь между проемами и конструкциями на эскизе и не рассматривайте визуальную визуализацию как инженерную проверку.",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Эскизы интерьера или архитектурные эскизы/каркасы САПР",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt эскиз в изображение",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "Архитектурное поколение Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "Мудборд космического дизайна",
+      "name": "Создавайте мудборды для архитектурных или интерьерных проектов.",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "Дом и пространство",
+      "inputSummary": "Справочная таблица пространственной атмосферы и материалов + тип проекта и ключевые слова → Организовать и создать единое визуальное направление → Текущая единая доска настроения",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Справочник по космической атмосфере и материалам",
+          "requirement": "optional",
+          "quantity": "0 – Несколько изображений; можно объединить в доску настроений, помеченную по категориям для ввода",
+          "condition": "Когда у пользователя уже есть материал направления"
+        },
+        {
+          "kind": "text",
+          "label": "Тип проекта и ключевые слова",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Доска настроения",
+      "useCase": "Согласование клиентов, предложение",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Мудборд предназначен для дизайнерской коммуникации, а не для списка покупок; конкретные продукты, размеры и цены должны быть подтверждены.",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Справочник по космической атмосфере и материалам",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Возможности Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "Архитектурное поколение Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "Основное изображение продукта на белом фоне",
+      "name": "Превратите обычные фотографии продуктов в основные изображения на белом фоне",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография товара, сделанная на мобильный телефон",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии товара, сделанные на мобильный телефон.",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Основное изображение платформы на белом фоне",
+      "useCase": "Amazon, Taobao, независимая станция",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте форму, этикетки и края; Соответствует ли он спецификациям полки, необходимо проверить отдельно в зависимости от фактического канала.",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии товара, сделанные на мобильный телефон.",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта для фотокомнаты",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Студия продуктов Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "Прозрачный нижний материал продукта",
+      "name": "Создать многоразовое изделие с прозрачным дном PNG",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография товара",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии продукта",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Прозрачный нижний материал продукта",
+      "useCase": "плакаты, каталоги, реклама",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте наличие каналов истинной прозрачности и небольших краев и не рассматривайте белые предварительные изображения как доказательство прозрачности.",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии продукта",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "фотография продукта insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "Сцена товарного образа жизни",
+      "name": "Используйте продукты в реальных сценариях жизни",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 товар на белом фоне",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Изображение продукта на белом фоне",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Таблица продуктов для образа жизни",
+      "useCase": "Страница подробностей, реклама, социальные сети",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Корпус продукта не должен быть изменен, необходимо проверить пропорции, контактную поверхность и соотношение сцены.",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Изображение продукта на белом фоне",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта для фотокомнаты",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Генерация изображений OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "Фотографии студии продукта",
+      "name": "Превратите обычные фотографии в профессиональные фотографии студийной продукции",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография товара",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии продукта",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Изображения продуктов на уровне студии",
+      "useCase": "Каталог продукции, официальный сайт бренда",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Соблюдайте актуальность этикетки, структуры и материала и проверяйте естественность отражений.",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии продукта",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта для фотокомнаты",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Студия продуктов Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "Фестивальная сувенирная сцена",
+      "name": "Создавайте изображения продуктов на тему Рождества, Черной пятницы или сезонных товаров.",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография товара + 1 праздничная или рекламная тема",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии продукта",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Праздничные или рекламные темы",
+          "requirement": "required",
+          "quantity": "1 предмет"
+        }
+      ],
+      "output": "Иллюстрация праздничного промо-продукта",
+      "useCase": "Фестивальная деятельность, реклама",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Используйте только подтвержденные темы мероприятий и рекламную информацию. Украшения не могут закрывать продукцию.",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии продукта",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "фотография продукта insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "Студия дизайна Мэйту",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "Коммерческая фотография продуктов питания и напитков",
+      "name": "Создавайте рекламные фотографии еды, тортов, пиццы или напитков.",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография еды или описание продукта",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии блюд или описания продуктов",
+          "requirement": "optional",
+          "quantity": "1 шт.",
+          "condition": "Чисто текстовые ветки можно опустить"
+        }
+      ],
+      "output": "рекламные фотографии еды",
+      "useCase": "Меню, еда на вынос, реклама",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "При демонстрации реальных продуктов проверяйте вес, ингредиенты и внешний вид и не выдавайте творческие эффекты за реальные продукты.",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии блюд или описания продуктов",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "Карта плитки одежды преобразована в карту верхней части тела модели",
+      "name": "Создавайте плитки одежды в изображения верхней части тела реальных моделей.",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 тайл одежды",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "плитка для одежды",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Фотографии моделей одежды",
+      "useCase": "Детали электронной коммерции, реклама",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверка стилей, принтов, тканей и деталей, созданные изображения не являются доказательством истинного размера или фактического соответствия.",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "плитка для одежды",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта для фотокомнаты",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Студия дизайна Мэйту",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "Портативное интерактивное изображение продукта",
+      "name": "Создавайте интерактивные изображения продуктов, которые хранятся или используются.",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 изображение продукта",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии продукта",
+          "requirement": "required",
+          "quantity": "1 шт."
+        }
+      ],
+      "output": "Интерактивная карта продукта",
+      "useCase": "Реклама в социальных сетях, подробные страницы",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверьте строение рук, положение рук и размер продукта, чтобы избежать подделки функций продукта.",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии продукта",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Генерация изображений OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "Студия продуктов Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "Инфографика точки продажи продукта",
+      "name": "Создайте инфографику продукта с размерами, торговыми точками и параметрами.",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "1 фотография товара + 1 комплект точных размеров, торговых точек и параметров.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Фотографии продукта",
+          "requirement": "required",
+          "quantity": "1 шт."
+        },
+        {
+          "kind": "text",
+          "label": "Точные размеры, торговые точки и параметры.",
+          "requirement": "required",
+          "quantity": "1 группа"
+        }
+      ],
+      "output": "Инфографика продукта",
+      "useCase": "Подробности об Amazon, независимая станция",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Размеры, параметры и преимущества взяты из информации пользователя; сгенерированный текст необходимо просмотреть по пунктам.",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии продукта",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Студия продуктов Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "Визуальный проект страницы сведений об электронной торговле",
+      "name": "Создать длинное изображение страницы сведений об электронной торговле на основе информации о продукте.",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "Товары и электронная коммерция",
+      "inputSummary": "Несколько изображений одного и того же продукта + 1 набор рекламных аргументов и точный копирайтинг.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Та же группа изображений продукта",
+          "requirement": "required",
+          "quantity": "Несколько изображений"
+        },
+        {
+          "kind": "text",
+          "label": "Коммерческие преимущества и точный копирайтинг",
+          "requirement": "required",
+          "quantity": "1 группа"
+        }
+      ],
+      "output": "Страница сведений о продукте",
+      "useCase": "Китайская электронная коммерция",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Точный копирайтинг и многоплановые материалы должны быть полными. Текущая версия представляет собой визуальный предварительный просмотр, и точный набор текста необходимо проверять отдельно.",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Толстовка в том же стиле спереди",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "Задняя часть той же толстовки",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "Детали той же толстовки",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "Фото в одной и той же толстовке",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Студия дизайна Мэйту",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "Электронная коммерция Дуйю",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "Миниатюра видео на YouTube",
+      "name": "Создание миниатюр видео на YouTube",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Исходное изображение видеоперсонажа или объекта темы + тема или заголовок видео → Создать высококонтрастную композицию и область заголовка → Текущий одиночный значок YouTube",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Исходное изображение видеоперсонажа или тематического объекта",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда на миниатюре появляется конкретный человек, товар или объект."
+        },
+        {
+          "kind": "text",
+          "label": "Тема или название видео",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Значок YouTube",
+      "useCase": "видео релиз",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Используя реальные видеообъекты, проверьте уменьшенное распознавание объекта и названия.",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "Тематические рекламные плакаты",
+      "name": "Создавайте рекламные плакаты по темам и копируйте их.",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Исходный основной визуальный материал мероприятия + название мероприятия, основная информация, время и место или способ участия → Создайте плакат с текстом и изображениями → Плакат текущего отдельного мероприятия",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальный текст основного визуального материала мероприятия",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда на плакате используется логотип конкретного человека, продукта, работы или бренда."
+        },
+        {
+          "kind": "text",
+          "label": "Название мероприятия, основная информация, время и место или способ участия",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Афиша мероприятия",
+      "useCase": "Онлайн и оффлайн продвижение",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Время, место, способ участия и название мероприятия проверяются поочередно. Сгенерированная схема не может заменить окончательную проверку макета.",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "Праздничный рекламный плакат",
+      "name": "Создайте рекламные плакаты ко Дню матери, Черной пятнице или праздникам.",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Исходное изображение рекламной продукции + фестиваль или точка продаж, товары или услуги, рекламная информация → Применить тему фестиваля и создать макет → Текущее рекламное изображение одного узла",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальное изображение рекламной продукции",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда карта продвижения узла хочет отображать определенные продукты"
+        },
+        {
+          "kind": "text",
+          "label": "Фестивали или точки продаж, товары или услуги, рекламная информация",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Карта продвижения узла",
+      "useCase": "сбытовая деятельность",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Доступны только подтвержденные данные о скидках, ценах и датах проведения мероприятий.",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальное изображение рекламной продукции",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "фотография продукта insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "Плакаты конференций и выставок",
+      "name": "Создание плакатов для конференций, выставок или лекций",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Оригинальные изображения докладчиков, экспонентов или экспонатов + название мероприятия, информация о докладчике или экспоненте, время, место или способ участия → Создайте стандартизированный плакат мероприятия → Текущий единый плакат конференции",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальные изображения докладчиков, участников или экспонатов",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда на плакате нужно показать реальных спикеров, экспонентов или экспонатов"
+        },
+        {
+          "kind": "text",
+          "label": "Название мероприятия, информация о докладчике или экспоненте, время, место или способ участия",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "плакат конференции",
+      "useCase": "Продвижение конференции",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Никаких вымышленных спикеров, организаторов или рекламных объявлений не допускается, а фотографии и текст должны быть подтверждены по пунктам.",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "Концептуальная инфографика",
+      "name": "Превратите сложные концепции в основной визуальный элемент инфографики",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Эскиз существующей информационной структуры + фактическое содержание, информационная структура или взаимосвязь → Создать значки, композицию и визуальную иерархию → Текущая брошюра Инфографика",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Уже есть эскиз информационной структуры",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда у пользователя уже есть эскиз процесса, иерархии или отношений."
+        },
+        {
+          "kind": "text",
+          "label": "фактическое содержание, информационная структура или отношения",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Инфографика",
+      "useCase": "Репортаж, социальные сети, образование",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Отношения, порядок и числа взяты из предоставленной информации. Визуальная разумность не означает, что факты верны.",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "Обложки статей и информационных бюллетеней",
+      "name": "Создать изображение заголовка информационного бюллетеня и обложку статьи",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Исходное изображение человека, продукта или материала, задействованного в статье, + тема статьи → Создание горизонтальной обложки и фирменных иллюстраций → Текущее изображение заголовка отдельной статьи.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальные изображения персонажей, продуктов или событий, упомянутых в статье.",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда изображение заголовка должно представлять конкретных людей, продукты или материалы мероприятия в статье"
+        },
+        {
+          "kind": "text",
+          "label": "Тема статьи",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Изображение заголовка статьи",
+      "useCase": "Электронная почта, блог",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Оформляйте вокруг темы статьи и не добавляйте события или факты, не вошедшие в основной текст.",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "Схема отображения устройства приложения",
+      "name": "Создайте макет устройства с интерфейсом приложения и сохраните рекламные изображения.",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Снимки экрана фактического интерфейса целевого приложения + целевого устройства и реальных функциональных преимуществ → Вставьте мобильное устройство и добавьте маркетинговый фон → Текущий макет отдельного приложения",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Скриншот реального интерфейса целевого приложения",
+          "requirement": "required",
+          "quantity": "1 изображение текущего устройства"
+        },
+        {
+          "kind": "text",
+          "label": "Целевое устройство и реальные функциональные преимущества",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Мокап приложения",
+      "useCase": "App Store, официальный сайт",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Интерфейс и преимущества должны исходить из реальных продуктов, а эффект прототипа устройства не означает, что функции реализованы.",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Скриншот реального интерфейса целевого приложения",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "Визуализация меню и блюд",
+      "name": "Создание визуальных изображений меню ресторана и иллюстраций блюд.",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Оригинальные фотографии реальных блюд + названия блюд, точные цены, категории → Создать макет, иллюстрации и реальные изображения блюд → Текущее единое меню",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальные фотографии реальных блюд",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда в меню нужно показать актуальные блюда ресторана"
+        },
+        {
+          "kind": "text",
+          "label": "Название блюда, точная цена, классификация",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "меню",
+      "useCase": "Рестораны, еда на вынос",
+      "deliveryNote": "На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.",
+      "check": "Цена, название и категория должны быть подтверждены поочередно, а фотографии реальных блюд и творческие инструкции должны быть четко разделены.",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "Исследование концепции логотипа",
+      "name": "Создать концепцию логотипа из описания бренда",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Существующий логотип бренда и элементы фирменного стиля, первоначальный проект + название бренда, позиционирование бренда, целевая аудитория → Создать несколько направлений логотипа → Текущий проект единого логотипа",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Оригинальный логотип бренда и элементы фирменного стиля",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "При изучении расширений логотипа для существующего бренда, а не при создании его с нуля."
+        },
+        {
+          "kind": "text",
+          "label": "Название бренда, позиционирование бренда, целевая аудитория.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Проект логотипа",
+      "useCase": "Создание и предложение бренда",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Результатом является черновой вариант концепции, требующий дополнительной обработки для поиска товарных знаков, доставки глифов и векторов.",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Инструменты искусственного интеллекта для фотокомнаты",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "Текстовые эффекты и эффекты заголовков",
+      "name": "Создавайте читаемые текстовые изображения и эффекты заголовков",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "Креативность и визуальный дизайн",
+      "inputSummary": "Укажите шрифт или материал, шаблон эффекта шрифта + точный текст и цель → сгенерируйте текст с материалом и стилем → текущее изображение одного шрифта.",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Укажите шрифт или шаблон эффекта шрифта материала",
+          "requirement": "optional",
+          "quantity": "0–1; несколько материалов могут быть объединены в одну маркированную эталонную плату",
+          "condition": "Когда художественное слово должно использовать существующий язык знаков или материальный эффект."
+        },
+        {
+          "kind": "text",
+          "label": "Точный текст и цель",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "словесное искусство",
+      "useCase": "Плакаты, упаковка, социальные сети",
+      "deliveryNote": "Одновременно создается только одно изображение.",
+      "check": "Проверяйте орфографию, порядок и читаемость слово за словом; глифы на изображении не являются редактируемыми файлами шрифтов.",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ],
+  "locale": "ru"
+}

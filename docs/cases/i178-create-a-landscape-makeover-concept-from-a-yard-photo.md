@@ -1,5 +1,8 @@
 # Yard Landscape Concept · 庭院景观改造
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Visualize a landscape makeover for a photographed outdoor space.
 
 上传庭院照片生成景观改造方案。用于庭院改造、提案。
@@ -58,8 +61,8 @@ Review climate suitability, drainage, dimensions, and construction separately.
 
 ## 相关案例 / Related tasks
 
-- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
-- [Preview different interior styles in a room photo · 房间装修风格预览](i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
-- [Preview wall paint, flooring, and wallpaper · 墙漆与地板选材预览](i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
+- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](./i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
+- [Preview different interior styles in a room photo · 房间装修风格预览](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
+- [Preview wall paint, flooring, and wallpaper · 墙漆与地板选材预览](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
 图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。

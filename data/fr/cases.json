@@ -1,0 +1,2630 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "Animaux de compagnie et monuments familiaux",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "Personnages et image personnelle",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "Maison et espace",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "Matières premières et commerce électronique",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "Créativité et design visuel",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "Portraits personnalisés d’animaux de compagnie",
+      "name": "Transformez les photos d'animaux en portraits personnalisés",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo d'animal",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos d'animaux de compagnie",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait d'animal de compagnie",
+      "useCase": "cadeaux, décoration de la maison",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Comparez d'abord les yeux, les oreilles, les motifs et la posture du corps, puis décidez si vous aimez le style de peinture.",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos d'animaux de compagnie",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portraits d'animaux Etsy IA",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "portrait royal pour animaux de compagnie",
+      "name": "Transformez vos animaux de compagnie en portraits de personnages royaux ou historiques",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo d'animal",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos d'animaux de compagnie",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Portraits d'animaux amusants",
+      "useCase": "cadeaux, peintures murales",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Les vêtements et les arrière-plans peuvent être modifiés, mais le visage et le motif de l'animal ne peuvent pas être échangés contre un autre.",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos d'animaux de compagnie",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portraits d'animaux Etsy IA",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "Peinture de scène intéressante pour animaux de compagnie",
+      "name": "Réalisez des peintures de scènes intéressantes telles que des salles de bains et des cuisines pour animaux de compagnie",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo d'animal",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos d'animaux de compagnie",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Peinture murale amusante pour animaux de compagnie",
+      "useCase": "décoration de la maison, cadeaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez les griffes, le contact des accessoires et la structure du corps ; les scènes amusantes sont des créations, pas de vrais enregistrements.",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos d'animaux de compagnie",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portraits d'animaux Etsy IA",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "peinture commémorative pour animaux de compagnie",
+      "name": "Créez une peinture commémorative pour la mort de votre animal",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo d'animal",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos d'animaux de compagnie",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait commémoratif pour animaux de compagnie",
+      "useCase": "Cadeaux commémoratifs et commémoratifs",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Utiliser uniquement des informations confirmées pour les noms, dates ou inscriptions ; gardez l'écran propre lorsque le texte n'est pas nécessaire.",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos d'animaux de compagnie",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portraits d'animaux Etsy IA",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "Portrait de famille avec des personnes et des animaux domestiques",
+      "name": "Générez des portraits de famille, y compris des animaux de compagnie",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "Au moins 1 photo de membre de la famille pour chaque membre + au moins 1 photo d'animal pour chaque animal",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos des membres de la famille",
+          "requirement": "required",
+          "quantity": "Au moins 1 pour chaque membre"
+        },
+        {
+          "kind": "image",
+          "label": "photos d'animaux de compagnie",
+          "requirement": "required",
+          "quantity": "Au moins 1 par animal"
+        }
+      ],
+      "output": "Photo d'un animal de compagnie",
+      "useCase": "décoration de la maison, cadeaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez chaque membre et animal un par un pour éviter les personnes manquantes, les duplications ou les différences de modèles.",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos des membres de la famille",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "photos d'animaux de compagnie",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photo de famille",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "Peinture d’art d’anniversaire de couple",
+      "name": "Transformez des photos de couple en art d'anniversaire",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo de couple",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photo de couple",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait d'anniversaire",
+      "useCase": "Cadeaux d'anniversaire, peintures murales",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez d'abord l'identité et la posture des deux parties, puis vérifiez l'expression artistique ; utilisez uniquement des informations confirmées pour les noms et les dates d’anniversaire.",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photo de couple",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "Photos éparses dans un portrait de famille",
+      "name": "Combinez des photos de membres dispersés de la famille dans un portrait de famille",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "Au moins 1 photo de chaque membre inclus dans le tableau + 1 taille du groupe, relation et disposition des personnages",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Toutes les photos des membres inclus dans la photo",
+          "requirement": "required",
+          "quantity": "Au moins 1 pour chaque membre"
+        },
+        {
+          "kind": "text",
+          "label": "Nombre de personnes, relation et disposition des personnages",
+          "requirement": "required",
+          "quantity": "1 groupe"
+        }
+      ],
+      "output": "portrait de famille complet",
+      "useCase": "Mémoriaux et cadeaux familiaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Des photos de tous les membres, leur nombre, leur relation et leur disposition doivent être fournies. La photo composite ne peut pas être considérée comme une véritable photo de groupe.",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos des membres individuels à fusionner",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "Des membres de votre famille prennent déjà des photos",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photo de famille",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "Portrait de famille sur le thème des fêtes",
+      "name": "Générez des photos de famille sur le thème de Noël ou des vacances",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo de famille + 1 nom ou thème de vacances",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos de famille",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Nom ou thème du festival",
+          "requirement": "required",
+          "quantity": "1 article"
+        }
+      ],
+      "output": "portrait de famille de vacances",
+      "useCase": "Cartes de vœux, partage social",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez le nombre de personnes et leur identité, et les vêtements et décorations de vacances ne doivent pas masquer les éléments clés.",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos de famille",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photo de famille",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "Portrait de style mariage avec robe de mariée",
+      "name": "Générez des portraits de mariage ou des photos de style mariage",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo de couple",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photo de couple",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait de mariage",
+      "useCase": "Commémoration de mariage, invitations",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "L'identité et la relation naturelle des deux parties sont préservées ; l'image est un aperçu créatif et ne représente pas la véritable séance photo du mariage.",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photo de couple",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "Photos des étapes de croissance de bébé",
+      "name": "Générez des photos de l'âge du bébé ou des étapes de croissance",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "Animaux de compagnie et monuments familiaux",
+      "inputSummary": "1 photo bébé + 1 âge ou jalon",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos de bébé",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Âge ou jalon mensuel",
+          "requirement": "required",
+          "quantity": "1 article"
+        }
+      ],
+      "output": "Photos commémoratives marquantes",
+      "useCase": "Record de croissance",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Les âges, les dates et les étapes sont fournis par les parents ; ne devinez pas ces faits à partir de photos.",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos de bébé",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "Convertir un selfie en photo de profil professionnel",
+      "name": "Générer un avatar professionnel LinkedIn à partir d'un selfie",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo claire et originale de moi",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "je connais la photo originale",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Portrait professionnel en buste",
+      "useCase": "Profil LinkedIn",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez votre identité, les traits de votre visage et la texture naturelle de votre peau, et évitez les embellissements excessifs et les identifications professionnelles fictives.",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "je connais la photo originale",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photographe professionnel photo",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "Passer d'une tenue décontractée à une tenue formelle",
+      "name": "Remplacez les vêtements décontractés par des vêtements de cérémonie",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 portrait d'une personne portant des vêtements décontractés",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Portrait en vêtements décontractés",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Photos de tenues de soirée",
+      "useCase": "CV, informations sur le travail",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Ajustez uniquement les vêtements de la cible, en vérifiant le décolleté, les mains et les bords du corps pour éviter de modifier l'apparence de la personne.",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Portrait en vêtements décontractés",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Photographe professionnel photo",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "Portraits de personnages royaux et vintage",
+      "name": "Faites-vous un portrait royal, vintage ou historique",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo claire et originale de moi",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "je connais la photo originale",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait de style historique",
+      "useCase": "cadeaux, art mural, social",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Les costumes et les scènes sont des créations, l'identité des personnages est vérifiée et les photos ne sont pas considérées comme de véritables photos historiques.",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "je connais la photo originale",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Centre de fonctions Fotor",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "Aperçu de l'essayage des lunettes",
+      "name": "Lunettes d'essai virtuel",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo frontale de la personne + 1 description du matériel ou du style des lunettes cibles",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photo frontale de la personne",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "image",
+          "label": "Description du matériau ou du style des lunettes cibles",
+          "requirement": "conditional",
+          "quantity": "1 pièce",
+          "condition": "Nécessaire pour un essai exact du produit ; seuls les modèles conceptuels peuvent être décrits avec du texte"
+        }
+      ],
+      "output": "Photos d'essayage de lunettes",
+      "useCase": "décision d'achat",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Si vous souhaitez essayer un produit spécifique, fournissez la photo de style correspondante ; l'image générée ne peut pas prouver la taille réelle et le confort de port.",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photo frontale de la personne",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "Image du produit des lunettes Target",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "Aperçu du tatouage du haut du corps",
+      "name": "Aperçu du tatouage sur la photo du corps",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo originale de la peau du personnage + 1 motif de tatouage cible + 1 emplacement du tatouage",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photo originale de la peau du personnage",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "image",
+          "label": "Conceptions de tatouage cibles",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "emplacement du tatouage",
+          "requirement": "required",
+          "quantity": "1 article"
+        }
+      ],
+      "output": "Aperçu du tatouage du haut du corps",
+      "useCase": "décision de tatouage",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez le contour de la conception, le texte, la position et l'ajustement de la surface incurvée ; le dessin fini n'est pas un modèle de construction de tatouage.",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photo originale de la peau du personnage",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "Conceptions de tatouage cibles",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "Convertir une photo en avatar de dessin animé",
+      "name": "Convertissez de vraies photos en avatars de dessins animés",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo claire de ma tête",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "J'ai une image claire de ma tête",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "avatar de dessin animé",
+      "useCase": "Avatars sociaux, cadeaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Identifiez la forme du visage, la coiffure et les accessoires visibles, ne vous contentez pas d'un personnage de dessin animé générique.",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "J'ai une image claire de ma tête",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Centre de fonctions Fotor",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "Convertir une photo en personnage d'anime",
+      "name": "Convertissez de vraies photos en personnages d'anime",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo claire de ma tête",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "J'ai une image claire de ma tête",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "avatar animé",
+      "useCase": "Avatars sociaux, créations de fans",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Conservez les caractéristiques personnelles identifiables, utilisez des expressions originales et évitez de transformer tout le monde en le même visage.",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "J'ai une image claire de ma tête",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "Figurines d'action sur l'emballage",
+      "name": "Transformez des personnages en figurines d'action emballées",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo d'une personne",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de personnes",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Photo de l'emballage de la figurine",
+      "useCase": "Points chauds sociaux, cadeaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez la taille, le nombre d'accessoires et le texte de l'emballage ; il s'agit d'une image conceptuelle, pas du produit réel.",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de personnes",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "Autocollant photo pour discuter",
+      "name": "Transformez vos photos en autocollants de discussion",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "1 photo d'une personne, d'un animal ou d'un objet + 0 ou 1 action ou émotion de ce sticker",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de personnes, d'animaux ou d'objets",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "L'action ou l'émotion de cet autocollant",
+          "requirement": "optional",
+          "quantity": "0 ou 1 article"
+        }
+      ],
+      "output": "Pack d'autocollants de chat",
+      "useCase": "WhatsApp, télégramme, réseaux sociaux",
+      "deliveryNote": "Seule l'image actuellement sélectionnée est générée à la fois ; les autres images de la série sont exécutées séparément.",
+      "check": "Seul celui actuellement sélectionné est effectué à la fois ; la cohérence de la série et l'emballage des autocollants de plate-forme doivent être vérifiés séparément.",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de personnes, d'animaux ou d'objets",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "Affiches de films individuelles et en couple",
+      "name": "Transformez des photos individuelles ou de couple en affiches de cinéma",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "Personnages et image personnelle",
+      "inputSummary": "Photo originale obligatoire d'un individu, d'un couple ou d'un groupe (1 photo) + Thème et titre de l'affiche originale obligatoire (1 copie) + Signature et date facultatives (0 ou 1 jeu)",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos originales d'individus, de couples ou de groupes",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Thème et titre de l'affiche originale",
+          "requirement": "required",
+          "quantity": "1 portion"
+        },
+        {
+          "kind": "text",
+          "label": "Signature et date",
+          "requirement": "optional",
+          "quantity": "0 ou 1 groupe"
+        }
+      ],
+      "output": "Affiches de cinéma personnalisées",
+      "useCase": "Mariages, anniversaires, anniversaires et cadeaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Utilisez le titre et la signature du film pour confirmer le contenu ; vérifiez l'exactitude du texte et l'identité des personnages, et ne prétendez pas être une véritable promotion de film.",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos originales d'individus, de couples ou de groupes",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "Peinture commémorative à l’aquarelle résidentielle",
+      "name": "Convertissez des photos résidentielles en peintures commémoratives à l'aquarelle ou au dessin au trait",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "1 photo de la maison",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos de maison",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "portrait de maison",
+      "useCase": "Commémoration du déménagement et de la vente d'une maison",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Conservez le toit, les portes, les fenêtres et les contours du bâtiment, et ne peignez pas la maison comme un autre bâtiment.",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos de maison",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Portrait de famille Etsy",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "Croquis OpenArt en image",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "Aperçu du style de décoration de la pièce",
+      "name": "Téléchargez des photos de la pièce pour prévisualiser différents styles de décoration",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Photo de la pièce existante → Conserver la structure de l'espace et remplacer les styles, meubles et matériaux → Rendu unique de la décoration actuelle",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos des pièces existantes",
+          "requirement": "required",
+          "quantity": "1 feuille ; plusieurs personnages ou perspectives peuvent être combinés dans un seul tableau de référence marqué"
+        }
+      ],
+      "output": "Rendus de décoration",
+      "useCase": "Décisions de décoration, propositions clients",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez les portes, les fenêtres et la structure de l'espace. Les rendus ne peuvent pas remplacer la vérification de la taille, du budget et de la faisabilité de la construction.",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos des pièces existantes",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Conception de salle Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "Concepts Adobe Accueil",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "Rénovation paysagère de cour",
+      "name": "Téléchargez des photos de la cour pour générer des plans de rénovation paysagère",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Photos de la cour ou de l'espace extérieur + exigences d'utilisation, climat ou emplacement → Ajouter des plantes, du pavage et des installations → Rendu paysager unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de votre cour ou espace extérieur",
+          "requirement": "required",
+          "quantity": "1 feuille ; plusieurs personnages ou perspectives peuvent être combinés dans un seul tableau de référence marqué"
+        },
+        {
+          "kind": "text",
+          "label": "Exigences d'utilisation, climat ou emplacement",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Rendus de paysages",
+      "useCase": "Rénovation et proposition de jardin",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "La faisabilité pratique du maintien des limites de la cour et des structures fixes, des plantes, du pavage et du drainage doit être étudiée séparément.",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de votre cour ou espace extérieur",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "Aperçu de la sélection de la peinture murale et des matériaux de sol",
+      "name": "Aperçu des effets de peinture murale, de sol et de papier peint",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Photo intérieure + échantillon de matériau cible + surface de remplacement et couleur/matériau cible → Remplacer la couleur et le matériau de la surface → Aperçu de l'effet de matériau unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "photos d'intérieur",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "image",
+          "label": "Modèle de matériau cible",
+          "requirement": "conditional",
+          "quantity": "0 à 1 image ; du texte exact ou des données de couleur peuvent également être utilisés",
+          "condition": "Lorsque vous devez reproduire des textures ou des échantillons de produits spécifiques"
+        },
+        {
+          "kind": "text",
+          "label": "Remplacer la surface par la couleur/le matériau cible",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Aperçu de l'effet de matière",
+      "useCase": "Sélection des matériaux de décoration",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Les produits spécifiés doivent fournir des échantillons ou des informations précises sur les couleurs ; l'image de l'écran ne peut pas garantir la même différence de couleur que le produit réel.",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "photos d'intérieur",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "Modèle de matériau cible",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Concepts Adobe Accueil",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "Concept de rénovation de bureau",
+      "name": "Générer des propositions de refonte de bureau",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Photos du site du bureau + équipe, domaine fonctionnel, description de la marque et de la succursale → Générer des postes de travail, des zones de réunion et des espaces de marque → Carte conceptuelle actuelle du bureau unique",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de scène de bureau",
+          "requirement": "conditional",
+          "quantity": "1 pièce",
+          "condition": "Lors de la rénovation d'un bureau existant"
+        },
+        {
+          "kind": "text",
+          "label": "Descriptions de l'équipe, du domaine fonctionnel, de la marque et de la succursale",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Carte conceptuelle du bureau",
+      "useCase": "rénovation de bureau",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "La taille de l'équipe, les divisions fonctionnelles et le contenu de la marque doivent être clairs, et le tableau ne peut pas prouver qu'il répond aux exigences en matière de construction et de protection incendie.",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de scène de bureau",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Conception de salle Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "Aménagement virtuel des pièces vacantes",
+      "name": "Ajouter des meubles et des tissus d'ameublement à une propriété vacante",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Photos des pièces vacantes → Générer des meubles conformes à la perspective de l'espace → Disposition virtuelle unique actuelle de la maison",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de disponibilité",
+          "requirement": "required",
+          "quantity": "1 feuille ; plusieurs personnages ou perspectives peuvent être combinés dans un seul tableau de référence marqué"
+        }
+      ],
+      "output": "Disposition virtuelle du plan de propriété",
+      "useCase": "Annonces immobilières, ventes",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Conservez les vraies portes, fenêtres et structures, expliquez la disposition virtuelle lors de la présentation au public et évitez de traiter les meubles comme des configurations existantes.",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de disponibilité",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Intérieur IA",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "Liste des photos organisées",
+      "name": "Organisez des photos de pièces aléatoires en images d'affichage de propriété",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Une photo aléatoire d'une pièce encombrée → Supprimer le désordre, nettoyer la pièce et garder l'espace réel → Une présentation de vente unique et soignée du bien actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos aléatoires de pièces encombrées",
+          "requirement": "required",
+          "quantity": "1 feuille ; plusieurs personnages ou perspectives peuvent être combinés dans un seul tableau de référence marqué"
+        }
+      ],
+      "output": "Présentation de vente immobilière soignée",
+      "useCase": "Agent immobilier vendant des annonces",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Ne dissimulez pas les défauts réels de la maison et ne changez pas le type de maison et la structure fixe.",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos aléatoires de pièces encombrées",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "concept de façade de bâtiment",
+      "name": "Générez des concepts de façade de bâtiment à partir de texte ou de croquis",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Croquis architectural ou schéma fonctionnel + mots-clés d'utilisation architecturale et de conception → Générer des matériaux, un environnement et de la lumière → Rendu de concept architectural unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Croquis architecturaux ou dessins de masse",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque l'utilisateur dispose déjà d'un croquis de la forme du bâtiment, des ouvertures ou du site"
+        },
+        {
+          "kind": "text",
+          "label": "Utilisation du bâtiment, mots-clés de conception",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Rendu de concept architectural",
+      "useCase": "Concours, propositions, rapports",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "L'objectif du bâtiment et l'orientation de la conception sont clarifiés, et les résultats sont utilisés pour la communication conceptuelle, et non pour les dessins de construction.",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Croquis architecturaux ou dessins de masse",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Génération d'architecture Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "Des croquis architecturaux transformés en effets réalistes",
+      "name": "Convertissez des croquis d'intérieur ou d'architecture en rendus réalistes",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Esquisse intérieure ou architecturale/filaire CAO + utilisation de l'espace et signification de l'esquisse → conserver la structure et compléter les matériaux et l'éclairage → rendu de l'espace réaliste unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Croquis d'intérieur ou d'architecture/wireframes CAO",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Utilisation de l'espace et signification du croquis",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Rendu spatial réaliste",
+      "useCase": "Communication client, révision du plan",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez la relation entre les ouvertures et les structures dans l'esquisse et ne considérez pas le rendu visuel comme une vérification technique.",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Croquis d'intérieur ou d'architecture/wireframes CAO",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Croquis OpenArt en image",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "Génération d'architecture Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "Tableau d'ambiance de conception d'espace",
+      "name": "Générez des mood boards pour des projets d'architecture ou d'intérieur",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "Maison et espace",
+      "inputSummary": "Tableau de référence d'ambiance spatiale et de matériaux + type de projet et mots-clés → Organiser et générer une direction visuelle cohérente → Mood Board unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Tableau de référence ambiance spatiale et matériaux",
+          "requirement": "optional",
+          "quantity": "0 – Plusieurs images ; peut être combiné dans un mood board étiqueté par catégorie pour la saisie",
+          "condition": "Lorsque l'utilisateur dispose déjà de matériel de direction"
+        },
+        {
+          "kind": "text",
+          "label": "Type de projet et mots-clés",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Tableau d'humeur",
+      "useCase": "Alignement client, proposition",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Le mood board est destiné à la communication sur le design, pas à une liste d'achats ; les produits, tailles et prix spécifiques doivent être confirmés.",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Tableau de référence ambiance spatiale et matériaux",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fonctionnalités Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "Génération d'architecture Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "Image principale du produit avec fond blanc",
+      "name": "Transformez des photos de produits ordinaires en images principales sur fond blanc",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo de produit prise avec un téléphone portable",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos de produits prises avec un téléphone portable",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Image principale de la plate-forme sur fond blanc",
+      "useCase": "Amazon, Taobao, station indépendante",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez la forme, les étiquettes et les bords ; s'il répond aux spécifications de l'étagère doit être vérifié séparément en fonction du canal réel.",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos de produits prises avec un téléphone portable",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA de Photoroom",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Studio de produits Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "Matériau du produit inférieur transparent",
+      "name": "Générer un produit à fond transparent réutilisable PNG",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo du produit",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Matériau du produit inférieur transparent",
+      "useCase": "affiches, catalogues, publicités",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez les véritables canaux de transparence et les petits bords, et ne considérez pas les aperçus blancs comme une preuve de transparence.",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos du produit",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Découpe.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "photographie de produits insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "Scène de style de vie marchande",
+      "name": "Mettez les produits dans des scénarios de style de vie réels",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 produit photo sur fond blanc",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Image de fond blanc du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Tableau des produits de style de vie",
+      "useCase": "Page de détails, publicité, médias sociaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Le corps du produit ne doit pas être modifié et la proportion, la surface de contact et la relation entre les scènes doivent être vérifiées.",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Image de fond blanc du produit",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA de Photoroom",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Génération d'images OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "Photos du produit en studio",
+      "name": "Transformez des photos ordinaires en photos de produits de studio professionnels",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo du produit",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Images de produits au niveau du studio",
+      "useCase": "Catalogue de produits, site officiel de la marque",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Gardez l'étiquette, la structure et le matériau factuels et vérifiez que les reflets sont naturels.",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos du produit",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA de Photoroom",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Studio de produits Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "Scène de marchandises du festival",
+      "name": "Générez des images de produits sur le thème de Noël, du Black Friday ou de la saison",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo produit + 1 thème vacances ou promotionnel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Thèmes de vacances ou promotionnels",
+          "requirement": "required",
+          "quantity": "1 article"
+        }
+      ],
+      "output": "Illustration de produit de promotion de vacances",
+      "useCase": "Activités du festival, publicité",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Utilisez uniquement des thèmes d'événements et des informations promotionnelles confirmés, et les décorations ne peuvent pas couvrir les produits.",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos du produit",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "photographie de produits insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "Studio de conception Meitu",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "Photographie commerciale d'aliments et de boissons",
+      "name": "Générez des photographies commerciales d'aliments, de gâteaux, de pizzas ou de boissons",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo de plat ou description du produit",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos d'aliments ou descriptions de produits",
+          "requirement": "optional",
+          "quantity": "1 pièce",
+          "condition": "Les branches de texte pur peuvent être omises"
+        }
+      ],
+      "output": "photos de promotion alimentaire",
+      "useCase": "Menu, plats à emporter, publicité",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Lorsque vous présentez des produits réels, vérifiez le poids, les ingrédients et l'apparence, et ne faites pas passer les effets créatifs pour des produits réels.",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos d'aliments ou descriptions de produits",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "Carte de tuiles de vêtements transformée en carte modèle du haut du corps",
+      "name": "Générez des tuiles de vêtements dans des images du haut du corps de modèles réels",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 tuile vêtements",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "carreaux de vêtements",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Photos de modèles de vêtements",
+      "useCase": "Détails du commerce électronique, publicité",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "La vérification des styles, des imprimés, des tissus et des détails, les images générées ne constituent pas une preuve de la vraie taille ou de l'ajustement réel.",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "carreaux de vêtements",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA de Photoroom",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "Studio de conception Meitu",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "Image interactive portable du produit",
+      "name": "Générez des images interactives des produits détenus ou utilisés",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo du produit",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        }
+      ],
+      "output": "Carte interactive du produit",
+      "useCase": "Publicité sur les réseaux sociaux, pages de détails",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifiez la structure de la main, la relation de maintien et la taille du produit pour éviter de forger les fonctions du produit.",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos du produit",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Génération d'images OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "Studio de produits Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "Infographie sur l'argument de vente du produit",
+      "name": "Créez des infographies de produits avec des dimensions, des arguments de vente et des paramètres",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "1 photo du produit + 1 jeu de dimensions précises, arguments de vente et paramètres",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos du produit",
+          "requirement": "required",
+          "quantity": "1 pièce"
+        },
+        {
+          "kind": "text",
+          "label": "Dimensions, arguments de vente et paramètres précis",
+          "requirement": "required",
+          "quantity": "1 groupe"
+        }
+      ],
+      "output": "Infographie produit",
+      "useCase": "Détails Amazon, station indépendante",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "Les dimensions, les paramètres et les arguments de vente proviennent des informations utilisateur ; le texte généré doit être examiné élément par élément.",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos du produit",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Studio de produits Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "Brouillon visuel de la page de détails du commerce électronique",
+      "name": "Générer une longue image de la page de détails du commerce électronique à partir des informations sur le produit",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "Matières premières et commerce électronique",
+      "inputSummary": "Plusieurs photos du même produit + 1 ensemble d'arguments de vente et une rédaction précise",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Même groupe d'images de produit",
+          "requirement": "required",
+          "quantity": "Plusieurs images"
+        },
+        {
+          "kind": "text",
+          "label": "Points de vente et rédaction précise",
+          "requirement": "required",
+          "quantity": "1 groupe"
+        }
+      ],
+      "output": "Page de détails du produit",
+      "useCase": "Le commerce électronique chinois",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "Une rédaction précise et des documents multi-angles doivent être complets. La livraison actuelle est un aperçu visuel et la composition précise doit être vérifiée séparément.",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Devant de sweat-shirt du même style",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "Le dos du même sweat",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "Détails du même sweat-shirt",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "Photos portant le même sweat-shirt",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Studio de conception Meitu",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "Duiyou e-commerce",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "Miniature de la vidéo YouTube",
+      "name": "Générer des miniatures de vidéos YouTube",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Image originale d'un personnage vidéo ou d'un objet thématique + thème ou titre vidéo → Générer une composition et une zone de titre à contraste élevé → Vignette YouTube unique actuelle",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Image originale d'un personnage vidéo ou d'un objet thématique",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsqu'une personne, un produit ou un objet spécifique apparaît dans la vignette"
+        },
+        {
+          "kind": "text",
+          "label": "Sujet ou titre de la vidéo",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Miniature YouTube",
+      "useCase": "sortie vidéo",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "En utilisant de vrais sujets vidéo, vérifiez la reconnaissance réduite du sujet et du titre.",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "Affiches promotionnelles thématiques",
+      "name": "Générer des affiches promotionnelles à partir de thèmes et copier",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Le matériel visuel principal original de l'événement + le nom de l'événement, les informations de base, l'heure et le lieu ou la méthode de participation → Générer une affiche avec du texte et des images → Affiche actuelle de l'événement unique",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Le texte original du matériel visuel principal de l'événement",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque l'affiche utilise le logo d'une personne, d'un produit, d'une œuvre ou d'une marque spécifique"
+        },
+        {
+          "kind": "text",
+          "label": "Nom de l'événement, informations principales, heure et lieu ou méthode de participation",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "affiche de l'événement",
+      "useCase": "Promotion en ligne et hors ligne",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "L'heure, le lieu, le mode de participation et le nom de l'événement sont vérifiés un par un. Le diagramme généré ne peut pas remplacer la vérification finale de la mise en page.",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Découpe.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "Affiche de promotion des fêtes",
+      "name": "Générez des affiches de promotion pour la fête des mères, le Black Friday ou les fêtes",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Image originale des produits promotionnels + festival ou nœud de vente, biens ou services, informations promotionnelles → Appliquer le thème du festival et générer la mise en page → Image de promotion actuelle à un seul nœud",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Image originale du produit promotionnel",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque la carte de promotion du nœud souhaite afficher des produits spécifiques"
+        },
+        {
+          "kind": "text",
+          "label": "Festivals ou nœuds de vente, biens ou services, informations promotionnelles",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Carte de promotion des nœuds",
+      "useCase": "activités de vente",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Seules les données confirmées sont disponibles pour les réductions, les prix et les dates d'événements.",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Image originale du produit promotionnel",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "photographie de produits insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "Tous les outils LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "Affiches de conférences et d'expositions",
+      "name": "Générer des affiches de conférence, d'exposition ou de conférence",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Images originales des conférenciers, des exposants ou des expositions + titre de l'événement, informations sur le conférencier ou l'exposant, l'heure, le lieu ou la méthode de participation → Générer une affiche d'événement standardisée → Affiche actuelle de la conférence unique",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Images originales des conférenciers, des exposants ou des objets exposés",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque l'affiche doit montrer de vrais conférenciers, exposants ou expositions"
+        },
+        {
+          "kind": "text",
+          "label": "Titre de l'événement, informations sur le conférencier ou l'exposant, l'heure, le lieu ou la méthode de participation",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "affiche de la conférence",
+      "useCase": "Promotion de la conférence",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "Aucun conférencier, organisateur ou soutien fictif n'est fait, et les photos et les textes doivent être confirmés élément par élément.",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "Infographie conceptuelle",
+      "name": "Transformez des concepts complexes en visuel principal d’une infographie",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Croquis de la structure de l'information existante + contenu factuel, structure de l'information ou relation → Générer des icônes, une composition et une hiérarchie visuelle → Dépliant actuel Infographie",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Avoir déjà un croquis de la structure de l'information",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque l'utilisateur dispose déjà d'une esquisse de processus, de hiérarchie ou de relation"
+        },
+        {
+          "kind": "text",
+          "label": "contenu factuel, structure de l'information ou relations",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Infographie",
+      "useCase": "Reportage, médias sociaux, éducation",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "Les relations, l'ordre et les numéros proviennent des informations fournies. Le caractère raisonnable sur le plan visuel ne signifie pas que les faits sont exacts.",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "IA gratuite",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "Articles et couvertures de newsletters",
+      "name": "Générer une image d'en-tête de newsletter et une couverture d'article",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Image originale de la personne, du produit ou du matériel événementiel impliqué dans l'article + sujet de l'article → Générer une couverture horizontale et des illustrations de marque → Image d'en-tête actuelle de l'article unique",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Images originales des personnages, produits ou événements impliqués dans l'article",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque l'image d'en-tête doit présenter des personnes, des produits ou du matériel événementiel spécifiques dans l'article"
+        },
+        {
+          "kind": "text",
+          "label": "Sujet de l'article",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Image d’en-tête de l’article",
+      "useCase": "Courriel, blog",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Concevez autour du sujet de l'article et n'ajoutez pas d'événements ou de faits qui ne sont pas inclus dans le texte principal.",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "IA gratuite",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "Schéma d'affichage de l'appareil d'application",
+      "name": "Générez une maquette de périphérique d'interface d'application et stockez des images promotionnelles",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Captures d'écran de l'interface réelle de l'application cible + de l'appareil cible et des arguments de vente fonctionnels réels → Insérer un appareil mobile et ajouter un arrière-plan marketing → Maquette d'application unique actuelle",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Capture d'écran de l'interface réelle de l'application cible",
+          "requirement": "required",
+          "quantity": "1 photo de l'appareil actuel"
+        },
+        {
+          "kind": "text",
+          "label": "Appareil cible et vrais arguments de vente fonctionnels",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Maquette d'application",
+      "useCase": "App Store, site officiel",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "L'interface et les arguments de vente doivent provenir de produits réels, et l'effet prototype de l'appareil ne signifie pas que les fonctions ont été réalisées.",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Capture d'écran de l'interface réelle de l'application cible",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "IA gratuite",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "Visuels menu et plat",
+      "name": "Générer des visuels de menu de restaurant et des illustrations de plats",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Photos originales de vrais plats + noms de plats, prix précis, catégories → Générer une mise en page, des illustrations et des images de plats réels → Menu unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Photos originales de vrais plats",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque le menu doit montrer les plats réels du restaurant"
+        },
+        {
+          "kind": "text",
+          "label": "Nom des plats, prix exact, classement",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "menu",
+      "useCase": "Restaurants, plats à emporter",
+      "deliveryNote": "Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.",
+      "check": "Le prix, le nom et la catégorie doivent être confirmés un par un, et les photos des plats réels et les instructions créatives doivent être clairement distinguées.",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "IA gratuite",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "Exploration du concept du logo",
+      "name": "Générer un concept de logo à partir de la description de la marque",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Projet original de logo de marque et d'actifs d'identité existants + nom de marque, positionnement de la marque, public cible → Générer plusieurs directions de logo → Projet de logo unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Logo de marque original et atouts identitaires",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque vous explorez des extensions de logo pour une marque existante plutôt que d'en créer une à partir de zéro"
+        },
+        {
+          "kind": "text",
+          "label": "Nom de marque, positionnement de marque, public cible",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "Projet de logo",
+      "useCase": "Création et proposition de marque",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Le résultat est une ébauche de concept, avec un traitement supplémentaire requis pour la recherche de marques, la livraison de glyphes et de vecteurs.",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Outils d'IA de Photoroom",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "Word art et effets de titre",
+      "name": "Générez des effets de mots et de titres lisibles",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "Créativité et design visuel",
+      "inputSummary": "Spécifier un modèle d'effet de police ou de matériau + texte et objectif précis → générer du texte avec un matériau et un style → art de police unique actuel",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "Spécifier un modèle d'effet de police ou de matériau",
+          "requirement": "optional",
+          "quantity": "0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté",
+          "condition": "Lorsque le mot artistique doit utiliser le langage des glyphes ou l'effet matériel existant"
+        },
+        {
+          "kind": "text",
+          "label": "Texte et objectif précis",
+          "requirement": "required",
+          "quantity": "1 portion"
+        }
+      ],
+      "output": "art des mots",
+      "useCase": "Affiches, emballages, réseaux sociaux",
+      "deliveryNote": "Une seule image est générée à la fois.",
+      "check": "Vérifier l'orthographe, l'ordre et la lisibilité mot par mot ; les glyphes de l'image ne sont pas des fichiers de polices modifiables.",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Outils d'IA Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "IA gratuite",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/fr/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ],
+  "locale": "fr"
+}

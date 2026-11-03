@@ -1,10 +1,11 @@
 # Quick start · 选案例、换素材、做一张图
 
-[中文首页](../README.md) · [English](../README.en.md) · [50 prompts](prompts.md)
+[中文](../README.md) · [English](../README.en.md) · [Português](../README.pt.md) · [Español](../README.es.md) · [Français](../README.fr.md) · [Deutsch](../README.de.md) · [عربي](../README.ar.md) · [русский](../README.ru.md) · [日本語](../README.ja.md) · [हिंदी](../README.hi.md)
+
 
 ## Copy a prompt
 
-1. 从[50 个模板](prompts.md)里选任务，打开案例页。
+1. 从[50 个模板](./prompts.md)里选任务，打开案例页。
 2. 准备素材表里的必需输入，确认条件素材是否适用于你。
 3. 复制 Public prompt，替换方括号里的内容。需要图片编辑时，在你的工具中附上对应图片；文字不能替代实际图片附件。
 4. 一次制作一个结果，按该案例的检查要点验收。

@@ -1,0 +1,2630 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "पालतू जानवर और परिवार स्मारक",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "पात्र और व्यक्तिगत छवि",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "घर और जगह",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "कमोडिटी और ई-कॉमर्स",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "रचनात्मकता और दृश्य डिजाइन",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "पालतू पशु कस्टम पोर्ट्रेट",
+      "name": "पालतू जानवरों की तस्वीरों को कस्टम पोर्ट्रेट में बदलें",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 पालतू जानवर का फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "पालतू जानवरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "पालतू चित्र",
+      "useCase": "उपहार, घर की सजावट",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "सबसे पहले आंखों, कानों, पैटर्न और शारीरिक मुद्रा की तुलना करें और फिर तय करें कि आपको पेंटिंग शैली पसंद है या नहीं।",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI पालतू चित्र",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "पालतू शाही चित्र",
+      "name": "पालतू जानवरों को शाही या ऐतिहासिक शख्सियतों के चित्रों में बदलें",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 पालतू जानवर का फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "पालतू जानवरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "मज़ेदार पालतू चित्र",
+      "useCase": "उपहार, दीवार पेंटिंग",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "कपड़े और पृष्ठभूमि बदले जा सकते हैं, लेकिन पालतू जानवर का चेहरा और पैटर्न दूसरे से नहीं बदला जा सकता।",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI पालतू चित्र",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "पालतू दिलचस्प दृश्य पेंटिंग",
+      "name": "पालतू जानवरों के बाथरूम और रसोई जैसे दिलचस्प दृश्यों की पेंटिंग बनाएं",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 पालतू जानवर का फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "पालतू जानवरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "मज़ेदार पालतू दीवार पेंटिंग",
+      "useCase": "घर की सजावट, उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "पंजे, प्रोप संपर्क और शरीर संरचना की जाँच करें; मज़ेदार दृश्य रचनाएँ हैं, वास्तविक रिकॉर्डिंग नहीं।",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI पालतू चित्र",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "पालतू स्मारक पेंटिंग",
+      "name": "अपने पालतू जानवर की मृत्यु के लिए एक स्मारक पेंटिंग बनाएं",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 पालतू जानवर का फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "पालतू जानवरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "पालतू स्मारक चित्र",
+      "useCase": "स्मारक और स्मारक उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "नाम, दिनांक या शिलालेखों के लिए केवल पुष्टि की गई जानकारी का उपयोग करें; जब टेक्स्ट की आवश्यकता न हो तो स्क्रीन को साफ रखें।",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI पालतू चित्र",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "लोगों और पालतू जानवरों के साथ पारिवारिक चित्र",
+      "name": "पालतू जानवरों सहित पारिवारिक चित्र बनाएं",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "प्रत्येक सदस्य के लिए परिवार के कम से कम 1 सदस्य का फोटो + प्रत्येक पालतू जानवर के लिए कम से कम 1 पालतू जानवर का फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "परिवार के सदस्य की तस्वीरें",
+          "requirement": "required",
+          "quantity": "प्रत्येक सदस्य के लिए कम से कम 1"
+        },
+        {
+          "kind": "image",
+          "label": "पालतू जानवरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "प्रति पालतू कम से कम 1"
+        }
+      ],
+      "output": "परिवार के पालतू जानवर की तस्वीर",
+      "useCase": "घर की सजावट, उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "लापता लोगों, दोहराव या पैटर्न बेमेल से बचने के लिए प्रत्येक सदस्य और पालतू जानवर की एक-एक करके जांच करें।",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "परिवार के सदस्य की तस्वीरें",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ़ोटोर परिवार फ़ोटो",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "युगल वर्षगांठ कला चित्रकारी",
+      "name": "जोड़े की तस्वीरों को सालगिरह की कला में बदलें",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 युगल फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "युगल तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "सालगिरह चित्र",
+      "useCase": "सालगिरह उपहार, दीवार पेंटिंग",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "पहले दोनों पक्षों की पहचान और मुद्रा की जाँच करें, और फिर कलात्मक अभिव्यक्ति की जाँच करें; नामों और सालगिरह की तारीखों के लिए केवल पुष्टि की गई जानकारी का उपयोग करें।",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "युगल तस्वीरें",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "बिखरी हुई तस्वीरें एक पारिवारिक चित्र में बदल गईं",
+      "name": "बिखरे हुए परिवार के सदस्यों की तस्वीरों को एक पारिवारिक चित्र में संयोजित करें",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "पेंटिंग में शामिल प्रत्येक सदस्य की कम से कम 1 तस्वीर + 1 समूह का आकार, पात्रों का संबंध और व्यवस्था",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "चित्र में सदस्यों की सभी तस्वीरें शामिल हैं",
+          "requirement": "required",
+          "quantity": "प्रत्येक सदस्य के लिए कम से कम 1"
+        },
+        {
+          "kind": "text",
+          "label": "व्यक्तियों की संख्या, संबंध और पात्रों की व्यवस्था",
+          "requirement": "required",
+          "quantity": "1 समूह"
+        }
+      ],
+      "output": "संपूर्ण पारिवारिक चित्र",
+      "useCase": "पारिवारिक स्मृति चिन्ह और उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "सभी सदस्यों की तस्वीरें, उनकी संख्या, संबंध और व्यवस्था प्रदान की जानी चाहिए। समग्र चित्र को वास्तविक समूह फोटो रिकॉर्ड नहीं माना जा सकता।",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मर्ज किए जाने वाले व्यक्तिगत सदस्यों की तस्वीरें",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "परिवार के सदस्य पहले से ही तस्वीरें ले रहे हैं",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ़ोटोर परिवार फ़ोटो",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "अवकाश थीम पर आधारित पारिवारिक चित्र",
+      "name": "क्रिसमस या छुट्टियों की थीम पर आधारित पारिवारिक तस्वीरें बनाएं",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 पारिवारिक फोटो + 1 छुट्टी का नाम या थीम",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "परिवार की फ़ोटोज़",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "उत्सव का नाम या थीम",
+          "requirement": "required",
+          "quantity": "1 समान"
+        }
+      ],
+      "output": "अवकाश पारिवारिक चित्र",
+      "useCase": "ग्रीटिंग कार्ड, सामाजिक साझाकरण",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "लोगों की संख्या और पहचान की जाँच करें, और छुट्टियों के कपड़े और सजावट मुख्य विशेषताओं को अस्पष्ट नहीं करना चाहिए।",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "परिवार की फ़ोटोज़",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ़ोटोर परिवार फ़ोटो",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "शादी की पोशाक के साथ शादी की शैली का चित्र",
+      "name": "शादी के चित्र या शादी की शैली की तस्वीरें बनाएं",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 युगल फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "युगल तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "विवाह चित्र",
+      "useCase": "विवाह स्मरणोत्सव, निमंत्रण",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "दोनों पक्षों की पहचान और प्राकृतिक संबंध संरक्षित हैं; तस्वीर एक रचनात्मक पूर्वावलोकन है और वास्तविक शादी की शूटिंग का प्रतिनिधित्व नहीं करती है।",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "युगल तस्वीरें",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "शिशु के विकास के मील के पत्थर की तस्वीरें",
+      "name": "शिशु की आयु या विकास मील के पत्थर की तस्वीरें उत्पन्न करें",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "पालतू जानवर और परिवार स्मारक",
+      "inputSummary": "1 बच्चे की फोटो + 1 उम्र या मील का पत्थर",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "बच्चे की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "मासिक आयु या मील का पत्थर",
+          "requirement": "required",
+          "quantity": "1 समान"
+        }
+      ],
+      "output": "मील का पत्थर स्मारक तस्वीरें",
+      "useCase": "विकास का रिकॉर्ड",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "उम्र, तिथियां और मील के पत्थर माता-पिता द्वारा प्रदान किए जाते हैं; तस्वीरों से इन तथ्यों का अंदाजा न लगाएं.",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "बच्चे की तस्वीरें",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "सेल्फी को पेशेवर प्रोफ़ाइल चित्र में बदलें",
+      "name": "सेल्फी से लिंक्डइन पेशेवर अवतार उत्पन्न करें",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "मेरा अपना 1 स्पष्ट और मौलिक फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मैं मूल फोटो जानता हूं",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "प्रोफेशनल बस्ट पोर्ट्रेट",
+      "useCase": "लिंक्डइन प्रोफ़ाइल",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "अपनी पहचान, चेहरे की विशेषताओं और प्राकृतिक त्वचा की बनावट की जाँच करें, और अत्यधिक सौंदर्यीकरण और काल्पनिक पेशेवर पहचान से बचें।",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मैं मूल फोटो जानता हूं",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ़ोटोर पेशेवर फ़ोटो",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "कैज़ुअल से फॉर्मल पहनावे में बदलाव करें",
+      "name": "कैज़ुअल कपड़ों को फॉर्मल कपड़ों से बदलें",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "कैज़ुअल कपड़े पहने एक व्यक्ति का 1 चित्र",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "कैज़ुअल कपड़ों में पोर्ट्रेट",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "औपचारिक पहनावे की तस्वीरें",
+      "useCase": "बायोडाटा, कार्य की जानकारी",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "व्यक्ति की उपस्थिति को बदलने से बचने के लिए केवल लक्ष्य के कपड़ों को समायोजित करें, नेकलाइन, हाथों और शरीर के किनारों की जांच करें।",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "कैज़ुअल कपड़ों में पोर्ट्रेट",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ़ोटोर पेशेवर फ़ोटो",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "शाही और पुराने चरित्र चित्र",
+      "name": "अपने आप को एक शाही, विंटेज या ऐतिहासिक चित्र बनाएं",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "मेरा अपना 1 स्पष्ट और मौलिक फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मैं मूल फोटो जानता हूं",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "ऐतिहासिक शैली का चित्र",
+      "useCase": "उपहार, दीवार कला, सामाजिक",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "वेशभूषा और दृश्य रचनाएँ हैं, और पात्रों की पहचान सत्यापित है, और चित्रों को वास्तविक ऐतिहासिक तस्वीरें नहीं माना जाता है।",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मैं मूल फोटो जानता हूं",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटर फ़ंक्शन सेंटर",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "चश्मे का प्रयास-पूर्वावलोकन",
+      "name": "वर्चुअल ट्राई-ऑन चश्मा",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "व्यक्ति की 1 सामने की तस्वीर + 1 लक्ष्य चश्मा सामग्री या शैली विवरण",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "व्यक्ति की सामने की तस्वीर",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "image",
+          "label": "लक्ष्य चश्मे की सामग्री या शैली विवरण",
+          "requirement": "conditional",
+          "quantity": "1 टुकड़ा",
+          "condition": "सटीक उत्पाद परीक्षण के लिए आवश्यक; केवल अवधारणा मॉडल को पाठ के साथ वर्णित किया जा सकता है"
+        }
+      ],
+      "output": "चश्मा आज़माने की तस्वीरें",
+      "useCase": "क्रय निर्णय",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "यदि आप किसी विशिष्ट उत्पाद को आज़माना चाहते हैं, तो संबंधित शैली चित्र प्रदान करें; उत्पन्न चित्र वास्तविक आकार और पहनने के आराम को साबित नहीं कर सकता।",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "व्यक्ति की सामने की तस्वीर",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "लक्ष्य चश्मा उत्पाद छवि",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "ऊपरी शरीर पर टैटू का पूर्वावलोकन",
+      "name": "बॉडी फोटो पर टैटू का पूर्वावलोकन करें",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "चरित्र त्वचा का 1 मूल फ़ोटो + 1 लक्ष्य टैटू डिज़ाइन + 1 टैटू स्थान",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "चरित्र त्वचा की मूल तस्वीर",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "image",
+          "label": "लक्ष्य टैटू डिजाइन",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "टैटू का स्थान",
+          "requirement": "required",
+          "quantity": "1 समान"
+        }
+      ],
+      "output": "ऊपरी शरीर पर टैटू का पूर्वावलोकन",
+      "useCase": "टैटू का निर्णय",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "डिज़ाइन की रूपरेखा, पाठ, स्थिति और घुमावदार सतह फिट की जाँच करें; तैयार ड्राइंग टैटू निर्माण टेम्पलेट नहीं है।",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "चरित्र त्वचा की मूल तस्वीर",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "लक्ष्य टैटू डिजाइन",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "फोटो को कार्टून अवतार में बदलें",
+      "name": "वास्तविक फ़ोटो को कार्टून अवतार में बदलें",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "मेरे सिर की 1 साफ़ फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मेरे पास मेरे सिर की स्पष्ट तस्वीर है",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "कार्टून अवतार",
+      "useCase": "सामाजिक अवतार, उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "चेहरे के आकार, केश और दृश्यमान सामान की पहचान करें, केवल एक सामान्य कार्टून चरित्र न प्राप्त करें।",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मेरे पास मेरे सिर की स्पष्ट तस्वीर है",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटर फ़ंक्शन सेंटर",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "फोटो को एनीमे कैरेक्टर में बदलें",
+      "name": "वास्तविक फ़ोटो को एनीमे पात्रों में बदलें",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "मेरे सिर की 1 साफ़ फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मेरे पास मेरे सिर की स्पष्ट तस्वीर है",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "एनीमे अवतार",
+      "useCase": "सामाजिक अवतार, प्रशंसक रचनाएँ",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "व्यक्तिगत रूप से पहचाने जाने योग्य विशेषताओं को बनाए रखें, मूल अभिव्यक्तियों का उपयोग करें और सभी को एक ही चेहरे में बदलने से बचें।",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मेरे पास मेरे सिर की स्पष्ट तस्वीर है",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "पैकेजिंग कार्रवाई के आंकड़े",
+      "name": "पात्रों को पैकेज्ड एक्शन आकृतियों में बनाएं",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "एक व्यक्ति का 1 फोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "लोगों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "एक्शन फिगर पैकेजिंग चित्र",
+      "useCase": "सामाजिक हॉट स्पॉट, उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "आकार, सहायक उपकरणों की संख्या और पैकेजिंग टेक्स्ट की जाँच करें; यह एक अवधारणा छवि है, वास्तविक उत्पाद नहीं।",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "लोगों की तस्वीरें",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "फोटो टू चैट स्टीकर",
+      "name": "फ़ोटो को चैट स्टिकर में बदलें",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "किसी व्यक्ति, पालतू जानवर या वस्तु की 1 तस्वीर + इस स्टिकर से 0 या 1 क्रिया या भावना",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "लोगों, पालतू जानवरों या वस्तुओं की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "इस स्टिकर की क्रिया या भावना",
+          "requirement": "optional",
+          "quantity": "0 या 1 आइटम"
+        }
+      ],
+      "output": "चैट स्टिकर पैक",
+      "useCase": "व्हाट्सएप, टेलीग्राम, सोशल मीडिया",
+      "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
+      "check": "एक समय में केवल वर्तमान में चयनित कार्य ही किया जाता है; श्रृंखला की स्थिरता और प्लेटफ़ॉर्म स्टिकर पैकेजिंग को अलग से जाँचने की आवश्यकता है।",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "लोगों, पालतू जानवरों या वस्तुओं की तस्वीरें",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "व्यक्तिगत और युगल फिल्म के पोस्टर",
+      "name": "व्यक्तिगत या युगल फ़ोटो को मूवी पोस्टर में बदलें",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "पात्र और व्यक्तिगत छवि",
+      "inputSummary": "किसी व्यक्ति, जोड़े या समूह की आवश्यक मूल फ़ोटो (1 फ़ोटो) + आवश्यक मूल पोस्टर थीम और शीर्षक (1 प्रति) + वैकल्पिक हस्ताक्षर और दिनांक (0 या 1 सेट)",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "व्यक्तियों, जोड़ों या समूहों की मूल तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "मूल पोस्टर थीम और शीर्षक",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        },
+        {
+          "kind": "text",
+          "label": "हस्ताक्षर एवं दिनांक",
+          "requirement": "optional",
+          "quantity": "0 या 1 समूह"
+        }
+      ],
+      "output": "वैयक्तिकृत फ़िल्म पोस्टर",
+      "useCase": "शादियाँ, वर्षगाँठ, जन्मदिन और उपहार",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "सामग्री की पुष्टि के लिए फ़िल्म के शीर्षक और हस्ताक्षर का उपयोग करें; पाठ की सटीकता और पात्रों की पहचान की जाँच करें, और वास्तविक फिल्म प्रचार का दिखावा न करें।",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "व्यक्तियों, जोड़ों या समूहों की मूल तस्वीरें",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "आवासीय जल रंग स्मारक पेंटिंग",
+      "name": "आवासीय तस्वीरों को जल रंग या रेखाचित्र स्मारक चित्रों में परिवर्तित करें",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "घर की 1 तस्वीर",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "घर की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "घर का चित्र",
+      "useCase": "घर ले जाने और बेचने का स्मरणोत्सव",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "छत, दरवाजे, खिड़कियाँ और इमारत की रूपरेखा बनाए रखें, और घर को किसी अन्य इमारत की तरह पेंट न करें।",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "घर की तस्वीरें",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy परिवार का चित्र",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "छवि के लिए ओपनआर्ट स्केच",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "कमरे की सजावट शैली का पूर्वावलोकन",
+      "name": "विभिन्न सजावट शैलियों का पूर्वावलोकन करने के लिए कमरे की तस्वीरें अपलोड करें",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "मौजूदा कमरे का फोटो → स्थान की संरचना बनाए रखें और शैलियों, फर्नीचर और सामग्रियों को बदलें → वर्तमान सजावट का एकल प्रतिपादन",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मौजूदा कमरों की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 शीट; अनेक पात्रों या परिप्रेक्ष्यों को एक चिह्नित संदर्भ बोर्ड में जोड़ा जा सकता है"
+        }
+      ],
+      "output": "सजावट प्रस्तुतिकरण",
+      "useCase": "सजावट के निर्णय, ग्राहक प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "दरवाजे, खिड़कियाँ और स्थान संरचना की जाँच करें। रेंडरिंग आकार, बजट और निर्माण व्यवहार्यता के सत्यापन की जगह नहीं ले सकती।",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मौजूदा कमरों की तस्वीरें",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एडोब रूम डिज़ाइन",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "एडोब होम कॉन्सेप्ट",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "आंगन परिदृश्य नवीकरण",
+      "name": "भूदृश्य नवीनीकरण योजनाएँ तैयार करने के लिए आँगन की तस्वीरें अपलोड करें",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "आंगन या बाहरी स्थान की तस्वीरें + उपयोग की आवश्यकताएं, जलवायु या स्थान → पौधे, फ़र्श और सुविधाएं जोड़ें → वर्तमान एकल परिदृश्य प्रतिपादन",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "आपके आँगन या बाहरी स्थान की तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 शीट; अनेक पात्रों या परिप्रेक्ष्यों को एक चिह्नित संदर्भ बोर्ड में जोड़ा जा सकता है"
+        },
+        {
+          "kind": "text",
+          "label": "आवश्यकताओं, जलवायु या स्थान का उपयोग करें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "लैंडस्केप रेंडरिंग",
+      "useCase": "उद्यान का नवीनीकरण एवं प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "आंगन की सीमाओं और निश्चित संरचनाओं, पौधों, फ़र्श और जल निकासी को बनाए रखने की व्यावहारिक व्यवहार्यता की अलग से जांच की जानी चाहिए।",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "आपके आँगन या बाहरी स्थान की तस्वीरें",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "दीवार पेंट और फर्श सामग्री चयन पूर्वावलोकन",
+      "name": "दीवार पेंट, फर्श और वॉलपेपर प्रभावों का पूर्वावलोकन करें",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "इनडोर फोटो + लक्ष्य सामग्री का नमूना + प्रतिस्थापन सतह और लक्ष्य रंग/सामग्री → सतह का रंग और सामग्री बदलें → वर्तमान एकल सामग्री प्रभाव का पूर्वावलोकन",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "इनडोर तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "image",
+          "label": "लक्ष्य सामग्री टेम्पलेट",
+          "requirement": "conditional",
+          "quantity": "0-1 छवि; सटीक पाठ या रंग डेटा का भी उपयोग किया जा सकता है",
+          "condition": "जब आपको विशिष्ट बनावट या उत्पाद के नमूनों को पुन: पेश करने की आवश्यकता होती है"
+        },
+        {
+          "kind": "text",
+          "label": "सतह को लक्ष्य रंग/सामग्री से बदलें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सामग्री प्रभाव पूर्वावलोकन",
+      "useCase": "सजावट सामग्री का चयन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "निर्दिष्ट उत्पादों को नमूने या सटीक रंग की जानकारी प्रदान करनी चाहिए; स्क्रीन छवि वास्तविक उत्पाद के समान रंग अंतर की गारंटी नहीं दे सकती।",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "इनडोर तस्वीरें",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "लक्ष्य सामग्री टेम्पलेट",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "एडोब होम कॉन्सेप्ट",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "कार्यालय नवीकरण अवधारणा",
+      "name": "कार्यालय रीडिज़ाइन प्रस्ताव तैयार करें",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "कार्यालय साइट फ़ोटो + टीम, कार्यात्मक क्षेत्र, ब्रांड और शाखा विवरण → कार्यस्थान, बैठक क्षेत्र और ब्रांड स्थान उत्पन्न करें → वर्तमान एकल कार्यालय अवधारणा मानचित्र",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "कार्यालय दृश्य तस्वीरें",
+          "requirement": "conditional",
+          "quantity": "1 टुकड़ा",
+          "condition": "किसी मौजूदा कार्यालय का नवीनीकरण करते समय"
+        },
+        {
+          "kind": "text",
+          "label": "टीम, कार्यात्मक क्षेत्र, ब्रांड और शाखा विवरण",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कार्यालय अवधारणा मानचित्र",
+      "useCase": "कार्यालय नवीकरण",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "टीम का आकार, कार्यात्मक प्रभाग और ब्रांड सामग्री स्पष्ट होनी चाहिए, और चित्र यह साबित नहीं कर सकता कि यह भवन और अग्नि सुरक्षा आवश्यकताओं को पूरा करता है।",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "कार्यालय दृश्य तस्वीरें",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "एडोब रूम डिज़ाइन",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "खाली कमरों की आभासी व्यवस्था",
+      "name": "खाली संपत्ति में फर्नीचर और मुलायम साज-सज्जा जोड़ें",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "खाली कमरों की तस्वीरें → अंतरिक्ष के परिप्रेक्ष्य के अनुरूप फर्नीचर तैयार करें → घर का वर्तमान एकल आभासी लेआउट",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उपलब्धता तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 शीट; अनेक पात्रों या परिप्रेक्ष्यों को एक चिह्नित संदर्भ बोर्ड में जोड़ा जा सकता है"
+        }
+      ],
+      "output": "संपत्ति मानचित्र का आभासी लेआउट",
+      "useCase": "संपत्ति लिस्टिंग, बिक्री",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "वास्तविक दरवाजे, खिड़कियां और संरचनाएं रखें, जनता को दिखाते समय वर्चुअल लेआउट समझाएं और फर्नीचर को मौजूदा कॉन्फ़िगरेशन के रूप में मानने से बचें।",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उपलब्धता तस्वीरें",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एआई इंटीरियर",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "फ़ोटो की सूची व्यवस्थित की गई",
+      "name": "यादृच्छिक कमरे की तस्वीरों को संपत्ति प्रदर्शन चित्रों में व्यवस्थित करें",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "अव्यवस्था वाले कमरे की एक यादृच्छिक तस्वीर → अव्यवस्था हटाएं, कमरे को साफ करें और जगह को वास्तविक रखें → वर्तमान संपत्ति की एक एकल, सुव्यवस्थित बिक्री प्रस्तुति",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "अव्यवस्था वाले कमरों की यादृच्छिक तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 शीट; अनेक पात्रों या परिप्रेक्ष्यों को एक चिह्नित संदर्भ बोर्ड में जोड़ा जा सकता है"
+        }
+      ],
+      "output": "साफ-सुथरी संपत्ति बिक्री प्रस्तुति",
+      "useCase": "रियल एस्टेट एजेंट लिस्टिंग बेच रहा है",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "घर के वास्तविक दोषों पर पर्दा न डालें और घर के प्रकार तथा निश्चित संरचना में परिवर्तन न करें।",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "अव्यवस्था वाले कमरों की यादृच्छिक तस्वीरें",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "इमारत के मुखौटे की अवधारणा",
+      "name": "पाठ या रेखाचित्रों से भवन के मुखौटे की अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "वास्तुशिल्प स्केच या ब्लॉक आरेख + वास्तुशिल्प उपयोग और डिजाइन कीवर्ड → सामग्री, पर्यावरण और प्रकाश उत्पन्न करें → वर्तमान एकल वास्तुशिल्प अवधारणा प्रतिपादन",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "वास्तुशिल्प रेखाचित्र या सामूहिक चित्र",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब उपयोगकर्ता के पास पहले से ही भवन के स्वरूप, उद्घाटन या साइट का एक स्केच हो"
+        },
+        {
+          "kind": "text",
+          "label": "भवन का उपयोग, डिज़ाइन कीवर्ड",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "स्थापत्य अवधारणा प्रतिपादन",
+      "useCase": "प्रतियोगिताएं, प्रस्ताव, रिपोर्ट",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "भवन के उद्देश्य और डिज़ाइन की दिशा को स्पष्ट किया गया है, और परिणामों का उपयोग वैचारिक संचार के लिए किया जाता है, न कि निर्माण चित्रों के लिए।",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "वास्तुशिल्प रेखाचित्र या सामूहिक चित्र",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एडोब वास्तुशिल्प पीढ़ी",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "वास्तुशिल्प रेखाचित्र यथार्थवादी प्रभावों में परिवर्तित हो गए",
+      "name": "आंतरिक या वास्तुशिल्प रेखाचित्रों को यथार्थवादी प्रस्तुतिकरण में बदलें",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "आंतरिक या वास्तुशिल्प स्केच/सीएडी वायरफ्रेम + अंतरिक्ष उपयोग और स्केच अर्थ → संरचना और पूरक सामग्री और प्रकाश व्यवस्था को बनाए रखें → वर्तमान एकल यथार्थवादी स्थान प्रतिपादन",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "आंतरिक या वास्तुशिल्प रेखाचित्र/सीएडी वायरफ्रेम",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "स्थान का उपयोग और रेखाचित्र का अर्थ",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "यथार्थवादी स्थान प्रतिपादन",
+      "useCase": "ग्राहक संचार, योजना समीक्षा",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "स्केच में उद्घाटन और संरचनाओं के बीच संबंध की जांच करें, और दृश्य प्रतिपादन को इंजीनियरिंग सत्यापन के रूप में न मानें।",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "आंतरिक या वास्तुशिल्प रेखाचित्र/सीएडी वायरफ्रेम",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "छवि के लिए ओपनआर्ट स्केच",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "एडोब वास्तुशिल्प पीढ़ी",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "अंतरिक्ष डिजाइन मूड बोर्ड",
+      "name": "वास्तुकला या आंतरिक परियोजनाओं के लिए मूड बोर्ड बनाएं",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "घर और जगह",
+      "inputSummary": "स्थानिक वातावरण और सामग्री संदर्भ बोर्ड + परियोजना प्रकार और कीवर्ड → एक सुसंगत दृश्य दिशा व्यवस्थित करें और उत्पन्न करें → वर्तमान एकल मूड बोर्ड",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "अंतरिक्ष वातावरण और सामग्री संदर्भ बोर्ड",
+          "requirement": "optional",
+          "quantity": "0 - एकाधिक चित्र; इनपुट के लिए श्रेणी के अनुसार लेबल किए गए मूड बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब उपयोगकर्ता के पास पहले से ही दिशा सामग्री हो"
+        },
+        {
+          "kind": "text",
+          "label": "प्रोजेक्ट प्रकार और कीवर्ड",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "मूड बोर्ड",
+      "useCase": "ग्राहक संरेखण, प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "मूड बोर्ड डिज़ाइन संचार के लिए है, खरीदारी सूची के लिए नहीं; विशिष्ट उत्पादों, आकारों और कीमतों की पुष्टि की जानी चाहिए।",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "अंतरिक्ष वातावरण और सामग्री संदर्भ बोर्ड",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एडोब जुगनू सुविधाएँ",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "एडोब वास्तुशिल्प पीढ़ी",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "सफेद पृष्ठभूमि के साथ उत्पाद की मुख्य छवि",
+      "name": "सामान्य उत्पाद फ़ोटो को सफ़ेद पृष्ठभूमि वाली मुख्य छवियों में बदलें",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "मोबाइल फ़ोन से लिया गया 1 उत्पाद फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मोबाइल फोन से ली गई उत्पाद तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "प्लेटफ़ॉर्म सफ़ेद पृष्ठभूमि मुख्य छवि",
+      "useCase": "अमेज़ॅन, ताओबाओ, स्वतंत्र स्टेशन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "आकार, लेबल और किनारों की जाँच करें; क्या यह शेल्फ विनिर्देशों को पूरा करता है, इसे वास्तविक चैनल के अनुसार अलग से जांचने की आवश्यकता है।",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मोबाइल फोन से ली गई उत्पाद तस्वीरें",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटोरूम एआई उपकरण",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "पिक्सेलकट उत्पाद स्टूडियो",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "पारदर्शी निचली उत्पाद सामग्री",
+      "name": "पुन: प्रयोज्य पारदर्शी निचला उत्पाद PNG उत्पन्न करें",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "पारदर्शी निचली उत्पाद सामग्री",
+      "useCase": "पोस्टर, कैटलॉग, विज्ञापन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "वास्तविक पारदर्शिता चैनलों और छोटे किनारों की जांच करें, और सफेद पूर्वावलोकन को पारदर्शिता के प्रमाण के रूप में न मानें।",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद तस्वीरें",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "इनमाइंड उत्पाद फोटोग्राफी",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "कमोडिटी जीवन शैली दृश्य",
+      "name": "उत्पादों को वास्तविक जीवनशैली परिदृश्यों में रखें",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद सफेद पृष्ठभूमि चित्र",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद सफ़ेद पृष्ठभूमि चित्र",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "जीवनशैली उत्पाद चार्ट",
+      "useCase": "विवरण पृष्ठ, विज्ञापन, सोशल मीडिया",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "उत्पाद के मुख्य भाग को संशोधित नहीं किया जाना चाहिए, और अनुपात, संपर्क सतह और दृश्य संबंध की जाँच की जानी चाहिए।",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद सफ़ेद पृष्ठभूमि चित्र",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटोरूम एआई उपकरण",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "ओपनआर्ट छवि निर्माण",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "उत्पाद स्टूडियो तस्वीरें",
+      "name": "साधारण फ़ोटो को पेशेवर स्टूडियो उत्पाद फ़ोटो में बदलें",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद फ़ोटो",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "स्टूडियो-स्तरीय उत्पाद छवियां",
+      "useCase": "उत्पाद सूची, ब्रांड आधिकारिक वेबसाइट",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "लेबल, संरचना और सामग्री को तथ्यात्मक रखें और जांचें कि प्रतिबिंब प्राकृतिक हैं।",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद तस्वीरें",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटोरूम एआई उपकरण",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "पिक्सेलकट उत्पाद स्टूडियो",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "उत्सव के माल का दृश्य",
+      "name": "क्रिसमस, ब्लैक फ्राइडे या मौसमी थीम वाले उत्पाद चित्र बनाएं",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद फोटो + 1 अवकाश या प्रचार थीम",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "छुट्टी या प्रचार थीम",
+          "requirement": "required",
+          "quantity": "1 समान"
+        }
+      ],
+      "output": "अवकाश प्रचार उत्पाद चित्रण",
+      "useCase": "त्यौहार की गतिविधियाँ, विज्ञापन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "केवल पुष्टि की गई इवेंट थीम और प्रचारात्मक जानकारी का उपयोग करें, और सजावट उत्पादों को कवर नहीं कर सकती।",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद तस्वीरें",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "इनमाइंड उत्पाद फोटोग्राफी",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "मीटू डिज़ाइन स्टूडियो",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "खाद्य एवं पेय वाणिज्यिक फोटोग्राफी",
+      "name": "भोजन, केक, पिज़्ज़ा या पेय की व्यावसायिक फोटोग्राफी तैयार करें",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 भोजन फोटो या उत्पाद विवरण",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "भोजन की तस्वीरें या उत्पाद विवरण",
+          "requirement": "optional",
+          "quantity": "1 टुकड़ा",
+          "condition": "शुद्ध पाठ शाखाएँ छोड़ी जा सकती हैं"
+        }
+      ],
+      "output": "खाद्य प्रचार चित्र",
+      "useCase": "मेनू, टेकअवे, विज्ञापन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "वास्तविक उत्पादों को प्रदर्शित करते समय, वजन, सामग्री और उपस्थिति की जांच करें, और रचनात्मक प्रभावों को वास्तविक उत्पादों के रूप में पेश न करें।",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "भोजन की तस्वीरें या उत्पाद विवरण",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "कपड़ों का टाइल मानचित्र ऊपरी शरीर के मॉडल मानचित्र में परिवर्तित हो गया",
+      "name": "वास्तविक मॉडलों के ऊपरी शरीर की छवियों में कपड़ों की टाइलें बनाएं",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 कपड़े की टाइल",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "कपड़े की टाइलें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "वस्त्र मॉडल चित्र",
+      "useCase": "ई-कॉमर्स विवरण, विज्ञापन",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "शैलियों, प्रिंटों, कपड़ों और विवरणों का सत्यापन, उत्पन्न छवियां सही आकार या वास्तविक फिट का प्रमाण नहीं हैं।",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "कपड़े की टाइलें",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटोरूम एआई उपकरण",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "मीटू डिज़ाइन स्टूडियो",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "उत्पाद हैंडहेल्ड इंटरैक्टिव चित्र",
+      "name": "रखे या उपयोग किए जा रहे उत्पादों की इंटरैक्टिव छवियां बनाएं",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद चित्र",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद चित्र",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        }
+      ],
+      "output": "उत्पाद इंटरैक्टिव मानचित्र",
+      "useCase": "सोशल मीडिया विज्ञापन, विवरण पृष्ठ",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "जाली उत्पाद कार्यों से बचने के लिए हाथ की संरचना, धारण संबंध और उत्पाद के आकार की जांच करें।",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद चित्र",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "ओपनआर्ट छवि निर्माण",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "पिक्सेलकट उत्पाद स्टूडियो",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "उत्पाद विक्रय बिंदु इन्फोग्राफिक",
+      "name": "आयाम, विक्रय बिंदु और मापदंडों के साथ उत्पाद इन्फोग्राफिक्स बनाएं",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "1 उत्पाद फोटो + सटीक आयाम, विक्रय बिंदु और पैरामीटर का 1 सेट",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "उत्पाद तस्वीरें",
+          "requirement": "required",
+          "quantity": "1 टुकड़ा"
+        },
+        {
+          "kind": "text",
+          "label": "सटीक आयाम, विक्रय बिंदु और पैरामीटर",
+          "requirement": "required",
+          "quantity": "1 समूह"
+        }
+      ],
+      "output": "उत्पाद इन्फोग्राफिक",
+      "useCase": "अमेज़ॅन विवरण, स्वतंत्र स्टेशन",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "आयाम, पैरामीटर और विक्रय बिंदु उपयोगकर्ता की जानकारी से आते हैं; उत्पन्न पाठ की आइटम दर आइटम समीक्षा की जानी चाहिए।",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद तस्वीरें",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सेलकट उत्पाद स्टूडियो",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "ई-कॉमर्स विवरण पृष्ठ का दृश्य प्रारूप",
+      "name": "उत्पाद जानकारी से ई-कॉमर्स विवरण पृष्ठ की लंबी छवि बनाएं",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "कमोडिटी और ई-कॉमर्स",
+      "inputSummary": "एक ही उत्पाद की एकाधिक तस्वीरें + विक्रय बिंदुओं का 1 सेट और सटीक कॉपी राइटिंग",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "वही उत्पाद चित्र समूह",
+          "requirement": "required",
+          "quantity": "अनेक चित्र"
+        },
+        {
+          "kind": "text",
+          "label": "विक्रय बिंदु और सटीक कॉपी राइटिंग",
+          "requirement": "required",
+          "quantity": "1 समूह"
+        }
+      ],
+      "output": "उत्पाद विवरण पृष्ठ",
+      "useCase": "चीनी ई-कॉमर्स",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "सटीक कॉपी राइटिंग और बहुकोणीय सामग्री पूर्ण होनी चाहिए। वर्तमान डिलीवरी एक दृश्य पूर्वावलोकन है, और सटीक टाइपसेटिंग को अलग से सत्यापित करने की आवश्यकता है।",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "सामने एक ही स्टाइल की स्वेटशर्ट",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "उसी स्वेटशर्ट का पिछला भाग",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "उसी स्वेटशर्ट का विवरण",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "एक ही स्वेटशर्ट पहने तस्वीरें",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "मीटू डिज़ाइन स्टूडियो",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "डुइयू ई-कॉमर्स",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "यूट्यूब वीडियो थंबनेल",
+      "name": "YouTube वीडियो थंबनेल जेनरेट करें",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "वीडियो चरित्र या थीम ऑब्जेक्ट की मूल छवि + वीडियो थीम या शीर्षक → उच्च-कंट्रास्ट रचना और शीर्षक क्षेत्र उत्पन्न करें → वर्तमान एकल YouTube थंबनेल",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "वीडियो चरित्र या थीम ऑब्जेक्ट की मूल छवि",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब कोई विशिष्ट व्यक्ति, उत्पाद या वस्तु थंबनेल में दिखाई देती है"
+        },
+        {
+          "kind": "text",
+          "label": "वीडियो का विषय या शीर्षक",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "यूट्यूब थंबनेल",
+      "useCase": "वीडियो रिलीज",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "वास्तविक वीडियो विषयों का उपयोग करके, कम किए गए विषय और शीर्षक पहचान की जाँच करें।",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "थीम प्रचार पोस्टर",
+      "name": "थीम से प्रचार पोस्टर बनाएं और कॉपी करें",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "इवेंट की मूल मुख्य दृश्य सामग्री + इवेंट का नाम, मुख्य जानकारी, समय और स्थान या भागीदारी विधि → पाठ और छवियों के साथ एक पोस्टर बनाएं → वर्तमान एकल इवेंट पोस्टर",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "घटना की मुख्य दृश्य सामग्री का मूल पाठ",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब पोस्टर किसी विशिष्ट व्यक्ति, उत्पाद, कार्य या ब्रांड लोगो का उपयोग करता है"
+        },
+        {
+          "kind": "text",
+          "label": "इवेंट का नाम, मुख्य जानकारी, समय और स्थान या भागीदारी विधि",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "घटना पोस्टर",
+      "useCase": "ऑनलाइन और ऑफलाइन प्रमोशन",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "समय, स्थान, भागीदारी विधि और ईवेंट का नाम एक-एक करके जांचा जाता है। उत्पन्न आरेख अंतिम लेआउट जाँच को प्रतिस्थापित नहीं कर सकता।",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "छुट्टियों का प्रमोशन पोस्टर",
+      "name": "मातृ दिवस, ब्लैक फ्राइडे या छुट्टियों के प्रचार पोस्टर तैयार करें",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "प्रचारक उत्पादों की मूल छवि + त्यौहार या बिक्री नोड, सामान या सेवाएँ, प्रचार संबंधी जानकारी → त्यौहार थीम लागू करें और लेआउट उत्पन्न करें → वर्तमान एकल नोड प्रचार छवि",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "प्रचार उत्पाद की मूल छवि",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब नोड प्रमोशन मानचित्र विशिष्ट उत्पादों को प्रदर्शित करना चाहता है"
+        },
+        {
+          "kind": "text",
+          "label": "त्यौहार या बिक्री नोड, सामान या सेवाएँ, प्रचार संबंधी जानकारी",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "नोड प्रचार मानचित्र",
+      "useCase": "बिक्री गतिविधियाँ",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "छूट, कीमतों और इवेंट की तारीखों के लिए केवल पुष्टि किया गया डेटा ही उपलब्ध है।",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "प्रचार उत्पाद की मूल छवि",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "इनमाइंड उत्पाद फोटोग्राफी",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "सम्मेलन और प्रदर्शनी पोस्टर",
+      "name": "सम्मेलन, प्रदर्शनी या व्याख्यान पोस्टर तैयार करें",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "वक्ताओं, प्रदर्शकों या प्रदर्शनों की मूल छवियां + घटना का शीर्षक, वक्ता या प्रदर्शक की जानकारी, समय, स्थान या भागीदारी विधि → मानकीकृत कार्यक्रम पोस्टर बनाएं → वर्तमान एकल सम्मेलन पोस्टर",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "वक्ताओं, प्रदर्शकों या प्रदर्शनियों की मूल छवियां",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब पोस्टर को वास्तविक वक्ताओं, प्रदर्शकों या प्रदर्शनियों को दिखाने की आवश्यकता हो"
+        },
+        {
+          "kind": "text",
+          "label": "इवेंट का शीर्षक, वक्ता या प्रदर्शक की जानकारी, समय, स्थान या भागीदारी विधि",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सम्मेलन पोस्टर",
+      "useCase": "सम्मेलन प्रचार",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "कोई काल्पनिक वक्ता, आयोजक या समर्थन नहीं किया जाता है, और फ़ोटो और पाठ की प्रत्येक आइटम द्वारा पुष्टि की जानी चाहिए।",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "संकल्पना इन्फोग्राफिक",
+      "name": "जटिल अवधारणाओं को इन्फोग्राफिक के मुख्य दृश्य में बदलें",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "मौजूदा सूचना संरचना स्केच + तथ्यात्मक सामग्री, सूचना संरचना या संबंध → प्रतीक, रचना और दृश्य पदानुक्रम उत्पन्न करें → वर्तमान पत्रक इन्फोग्राफिक",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "सूचना संरचना का एक स्केच पहले से ही मौजूद है",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब उपयोगकर्ता के पास पहले से ही एक प्रक्रिया, पदानुक्रम या संबंध रेखाचित्र हो"
+        },
+        {
+          "kind": "text",
+          "label": "तथ्यात्मक सामग्री, सूचना संरचना या संबंध",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "क",
+      "useCase": "रिपोर्टिंग, सोशल मीडिया, शिक्षा",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "संबंध, क्रम और संख्याएँ प्रदान की गई जानकारी से हैं। दृश्य तार्किकता का मतलब यह नहीं है कि तथ्य सही हैं।",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "लेख और न्यूज़लैटर कवर",
+      "name": "न्यूज़लेटर हेडर छवि और लेख कवर तैयार करें",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "लेख + लेख विषय में शामिल व्यक्ति, उत्पाद या घटना सामग्री की मूल छवि → क्षैतिज कवर और ब्रांडेड चित्र उत्पन्न करें → वर्तमान एकल लेख शीर्षलेख छवि",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "लेख में शामिल पात्रों, उत्पादों या घटनाओं की मूल छवियां",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब हेडर छवि को लेख में विशिष्ट लोगों, उत्पादों या घटना सामग्री को प्रस्तुत करना चाहिए"
+        },
+        {
+          "kind": "text",
+          "label": "आलेख विषय",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "आलेख शीर्षलेख छवि",
+      "useCase": "ईमेल, ब्लॉग",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "लेख को विषय के आधार पर डिज़ाइन करें और उन घटनाओं या तथ्यों को न जोड़ें जो मुख्य पाठ में शामिल नहीं हैं।",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "ऐप डिवाइस डिस्प्ले आरेख",
+      "name": "एप्लिकेशन इंटरफ़ेस डिवाइस मॉकअप जेनरेट करें और प्रचारात्मक छवियां संग्रहीत करें",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "लक्ष्य एप्लिकेशन + लक्ष्य डिवाइस और वास्तविक कार्यात्मक विक्रय बिंदुओं के वास्तविक इंटरफ़ेस के स्क्रीनशॉट → मोबाइल डिवाइस डालें और मार्केटिंग पृष्ठभूमि जोड़ें → वर्तमान एकल ऐप मॉकअप",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "लक्ष्य एप्लिकेशन के वास्तविक इंटरफ़ेस का स्क्रीनशॉट",
+          "requirement": "required",
+          "quantity": "वर्तमान डिवाइस का 1 चित्र"
+        },
+        {
+          "kind": "text",
+          "label": "लक्ष्य डिवाइस और वास्तविक कार्यात्मक विक्रय बिंदु",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "ऐप मॉकअप",
+      "useCase": "ऐप स्टोर, आधिकारिक वेबसाइट",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "इंटरफ़ेस और विक्रय बिंदु वास्तविक उत्पादों से आने चाहिए, और डिवाइस प्रोटोटाइप प्रभाव का मतलब यह नहीं है कि कार्यों का एहसास हो गया है।",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "लक्ष्य एप्लिकेशन के वास्तविक इंटरफ़ेस का स्क्रीनशॉट",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "मेनू और डिश दृश्य",
+      "name": "रेस्तरां मेनू दृश्य और व्यंजन चित्र तैयार करें",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "वास्तविक व्यंजनों की मूल तस्वीरें + पकवान के नाम, सटीक कीमतें, श्रेणियां → लेआउट, चित्र और वास्तविक पकवान चित्र उत्पन्न करें → वर्तमान एकल मेनू",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "असली व्यंजनों की मूल तस्वीरें",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब मेनू को रेस्तरां के वास्तविक व्यंजन दिखाने की आवश्यकता होती है"
+        },
+        {
+          "kind": "text",
+          "label": "व्यंजन का नाम, सटीक कीमत, वर्गीकरण",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "मेनू",
+      "useCase": "रेस्तरां, टेकअवे",
+      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "check": "मूल्य, नाम और श्रेणी की एक-एक करके पुष्टि की जानी चाहिए, और वास्तविक व्यंजनों की तस्वीरें और रचनात्मक निर्देशों को स्पष्ट रूप से अलग किया जाना चाहिए।",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "लोगो संकल्पना अन्वेषण",
+      "name": "ब्रांड विवरण से लोगो अवधारणा उत्पन्न करें",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "मौजूदा ब्रांड लोगो और पहचान परिसंपत्तियां मूल ड्राफ्ट + ब्रांड नाम, ब्रांड स्थिति, लक्षित दर्शक → एकाधिक लोगो दिशानिर्देश उत्पन्न करें → वर्तमान एकल लोगो ड्राफ्ट",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "मूल ब्रांड लोगो और पहचान संपत्तियां",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "किसी मौजूदा ब्रांड के लिए शुरुआत से लोगो एक्सटेंशन बनाने के बजाय लोगो एक्सटेंशन की खोज करते समय"
+        },
+        {
+          "kind": "text",
+          "label": "ब्रांड नाम, ब्रांड स्थिति, लक्षित दर्शक",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "लोगो ड्राफ्ट",
+      "useCase": "ब्रांड निर्माण और प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "परिणाम एक अवधारणा मसौदा है, जिसमें ट्रेडमार्क खोज, ग्लिफ़ और वेक्टर डिलीवरी के लिए अतिरिक्त प्रसंस्करण की आवश्यकता होती है।",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "फोटोरूम एआई उपकरण",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "शब्द कला और शीर्षक प्रभाव",
+      "name": "पठनीय शब्द कला और शीर्षक प्रभाव उत्पन्न करें",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputSummary": "फ़ॉन्ट या सामग्री फ़ॉन्ट प्रभाव टेम्पलेट + सटीक पाठ और उद्देश्य निर्दिष्ट करें → सामग्री और शैली के साथ पाठ उत्पन्न करें → वर्तमान एकल फ़ॉन्ट कला",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "फ़ॉन्ट या सामग्री फ़ॉन्ट प्रभाव टेम्पलेट निर्दिष्ट करें",
+          "requirement": "optional",
+          "quantity": "0-1; कई सामग्रियों को एक लेबल वाले संदर्भ बोर्ड में जोड़ा जा सकता है",
+          "condition": "जब कलात्मक शब्द को मौजूदा ग्लिफ़ भाषा या भौतिक प्रभाव का उपयोग करना चाहिए"
+        },
+        {
+          "kind": "text",
+          "label": "सटीक पाठ और उद्देश्य",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "शब्द कला",
+      "useCase": "पोस्टर, पैकेजिंग, सोशल मीडिया",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
+      "check": "शब्द दर शब्द वर्तनी, क्रम और पठनीयता की जाँच करें; छवि में ग्लिफ़ संपादन योग्य फ़ॉन्ट फ़ाइलें नहीं हैं।",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ],
+  "locale": "hi"
+}

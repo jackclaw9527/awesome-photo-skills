@@ -1,5 +1,8 @@
 # 5 个可以直接尝试的基础模板
 
+[中文](../README.md) · [English](../README.en.md) · [Português](../README.pt.md) · [Español](../README.es.md) · [Français](../README.fr.md) · [Deutsch](../README.de.md) · [عربي](../README.ar.md) · [русский](../README.ru.md) · [日本語](../README.ja.md) · [हिंदी](../README.hi.md)
+
+
 这里提供 5 个为公开内容库单独编写的基础模板。上传自己的素材后，将相应文字交给支持参考图编辑的工具即可尝试。不同工具的输入方式、费用与可用能力不同，请以所用工具说明为准。
 
 这些模板没有从网站的私有 Skill 导出，也没有用来生成本仓库现有的示例图。它们尚未经过逐模板模型实测，不保证复现示例图；示例图与教程模板分别标注。
@@ -18,7 +21,7 @@
 
 检查花纹是否对应、耳朵是否完整、是否仍能认出同一只宠物。
 
-[查看对应案例](cases/i026-turn-a-pet-photo-into-a-custom-portrait.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i026_cta)
+[查看对应案例](./cases/i026-turn-a-pet-photo-into-a-custom-portrait.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i026_cta)
 
 ## 2 真人照片转卡通头像
 
@@ -34,7 +37,7 @@
 
 检查人物是否可识别，再看头发边缘、眼镜和耳朵是否自然。
 
-[查看对应案例](cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i047_cta)
+[查看对应案例](./cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i047_cta)
 
 ## 3 住宅水彩纪念画
 
@@ -50,7 +53,7 @@
 
 先对照屋顶、窗户和入口位置，再检查水彩表现。
 
-[查看对应案例](cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i030_cta)
+[查看对应案例](./cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i030_cta)
 
 ## 4 商品白底主图
 
@@ -66,7 +69,7 @@
 
 核对细小边缘和标签，再按实际销售渠道检查尺寸、留白与主图规范。
 
-[查看对应案例](cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i065_cta)
+[查看对应案例](./cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i065_cta)
 
 ## 5 Logo 概念探索
 
@@ -83,10 +86,10 @@
 
 缩小查看是否仍然清楚，之后再做字标、矢量整理和使用场景验证。
 
-[查看对应案例](cases/i126-create-logo-concepts-from-a-brand-description.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i126_cta)
+[查看对应案例](./cases/i126-create-logo-concepts-from-a-brand-description.md) · [在 dearsketch 查看素材要求](https://dearsketch.com/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=tutorial&utm_campaign=dearsketch-public-cases&utm_content=i126_cta)
 
 ## 从模板到自己的结果
 
 先完成一次小范围尝试，检查主体与事实是否正确，再改变画风、构图或其他变量。遇到姓名、价格、尺寸、活动日期和准确文案，应逐字核对，不让模型代填。
 
-如果希望按具体任务查看输入要求，可以从 [50 个案例目录](prompts.md)进入网站对应页面。
+如果希望按具体任务查看输入要求，可以从 [50 个案例目录](./prompts.md)进入网站对应页面。

@@ -1,0 +1,76 @@
+# समग्र पारिवारिक चित्र · बिखरी हुई तस्वीरें एक पारिवारिक चित्र में बदल जाती हैं
+
+[中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
+
+
+अलग-अलग फोटो खींचे गए रिश्तेदारों को एक काल्पनिक लेकिन सुसंगत पारिवारिक चित्र में इकट्ठा करें।
+
+बिखरे हुए परिवार के सदस्यों की तस्वीरों को एक पारिवारिक चित्र में संयोजित करें। पारिवारिक स्मारकों और उपहारों के लिए.
+
+[कॉपी प्रॉम्प्ट](#public-prompt) · [ dearsketch द्वारा निर्मित है / ऑनलाइन प्रयास करें](https://dearsketch.com/hi/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta) · [विषय पर लौटें / संग्रह](../guides/pets-family.md)
+
+## संदर्भ सामग्री एवं परिणाम दिशा
+
+<table>
+<thead><tr><th width="50%">संदर्भ सामग्री</th><th width="50%">परिणामों का उदाहरण</th></tr></thead>
+<tbody><tr><td valign="top"><p><strong>मर्ज किए जाने वाले व्यक्तिगत सदस्यों की तस्वीरें</strong><br><img src="../../../assets/cases/i017-before-1.webp" alt="पारिवारिक चित्र में बिखरी हुई तस्वीरें - संदर्भ सामग्री 1" width="320"></p>
+<p><strong>परिवार के सदस्य पहले से ही तस्वीरें ले रहे हैं</strong><br><img src="../../../assets/cases/i017-before-2.webp" alt="पारिवारिक चित्र में बिखरी हुई तस्वीरें - संदर्भ सामग्री 2" width="320"></p></td><td valign="top"><a href="https://dearsketch.com/hi/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&amp;utm_medium=case&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i017_image"><img src="../../../assets/cases/i017-after.webp" alt="पारिवारिक चित्र में बिखरी हुई तस्वीरें - उदाहरण परिणाम" width="320"></a></td></tr></tbody>
+</table>
+
+दृश्य दिशा को स्पष्ट करने के लिए संदर्भ सामग्री और परिणामों का उपयोग किया जाता है। सार्वजनिक टेम्प्लेट संलग्न छवियों के लिए मूल पीढ़ी निर्देश नहीं है, और समान परिणामों को पुन: प्रस्तुत करने की गारंटी नहीं है।
+
+## क्या तैयारी करनी है/इनपुट
+
+| सामग्री | प्रकार/प्रकार | मात्रा/मात्रा | शर्त/आवश्यकता |
+| --- | --- | --- | --- |
+| चित्र में सदस्यों की सभी तस्वीरें शामिल हैं | चित्र/छवि | प्रत्येक सदस्य के लिए कम से कम 1 | आवश्यक/आवश्यक |
+| व्यक्तियों की संख्या, संबंध और पात्रों की व्यवस्था | चरित्र/पाठ | 1 समूह | आवश्यक/आवश्यक |
+
+एक समय में केवल एक ही छवि उत्पन्न होती है।
+
+## संक्षिप्त बनाए रखें और बदलें/संपादन करें
+
+- **संरक्षित करें / संदेश:** सभी प्रदान की गई पहचान, अनुरोधित संख्या, संबंध और व्यवस्था रखें।
+- **बदलें / परिवर्तन:** साझा सेटिंग, पोज़ एकीकरण, प्रकाश और समन्वित स्टाइल बदलें।
+
+## Public prompt
+
+** नव संपादित सार्वजनिक टेम्पलेट · ​​नव लिखित · पीढ़ी-परीक्षण नहीं किया गया। ** वर्गाकार ब्रैकेट पैरामीटर बदलें और छवि संपादन का समर्थन करने वाले टूल में आवश्यक सामग्री संलग्न करें; उपरोक्त तालिका के अनुसार वैकल्पिक और सशर्त इनपुट तैयार किए जाते हैं। इस पृष्ठ पर उदाहरण उत्पन्न करने के लिए इस टेम्पलेट का उपयोग नहीं किया गया था।
+
+```text
+Create one composite family portrait using [LABELED PHOTO FOR EACH PERSON].
+Include exactly [TOTAL PEOPLE] according to [RELATIONSHIPS AND LEFT-TO-RIGHT ARRANGEMENT].
+Preserve every person’s identity, age cues, skin tone, face shape, hair, and distinctive features.
+Do not omit, duplicate, merge, or substitute any person.
+Normalize scale, camera angle, lighting, and color so the group feels visually coherent.
+Use [SETTING] and [WARDROBE DIRECTION] while keeping clothing plausible for each subject.
+Construct natural poses, hands, overlaps, eye lines, and floor contact.
+Do not imply this was an actual shared photo session; it is a created composite.
+Add no names or dates unless exact confirmed wording is supplied.
+Deliver one complete family portrait image only.
+```
+
+[इसे अपनी सामग्री से ऑनलाइन बनाएं / इसे ऑनलाइन बनाएं](https://dearsketch.com/hi/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_after-prompt) · [एजेंट को इसे व्यवस्थित करने में मदद करने दें / कौशल का उपयोग करें](../quickstart.md#agent-skill)
+
+## मुख्य बिंदुओं की जाँच करें/समीक्षा करें
+
+सभी सदस्यों की तस्वीरें, उनकी संख्या, संबंध और व्यवस्था प्रदान की जानी चाहिए। समग्र चित्र को वास्तविक समूह फोटो रिकॉर्ड नहीं माना जा सकता।
+
+रोस्टर को सत्यापित करें और खुलासा करें कि छवि एक समग्र है, वास्तविक समूह तस्वीर नहीं है।
+
+परिणाम दिशा: संपूर्ण पारिवारिक चित्र. जब सटीक पाठ, पारदर्शी फ़ाइलें, वैक्टर या प्रिंट डिलीवरी की आवश्यकता हो, तो वास्तविक फ़ाइल की जाँच करें; उपलब्ध सुविधाएँ और शुल्क वेबसाइट विवरण के अधीन हैं।
+
+## संबंधित मामले/संबंधित कार्य
+
+- [एक पालतू जानवर की तस्वीर को एक कस्टम पोर्ट्रेट में बदलें · पालतू जानवर का कस्टम पोर्ट्रेट ](./i026-turn-a-pet-photo-into-a-custom-portrait.md#public-prompt)
+- [एक पालतू जानवर को शाही या ऐतिहासिक चित्र में बदलें · पालतू शाही चित्र](./i028-turn-a-pet-into-a-royal-or-historical-portrait.md#public-prompt)
+- [किसी पालतू जानवर को चंचल बाथरूम या रसोई के दृश्य में रखें · पालतू जानवर की दिलचस्प दृश्य पेंटिंग ](./i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md#public-prompt)
+
+## आवश्यकताएँ पृष्ठभूमि संदर्भ
+
+- [फ़ोटर परिवार फ़ोटो](https://www.fotor.com/features/ai-portrait-generator/family/)
+- [Etsy पारिवारिक पोर्ट्रेट](https://www.etsy.com/market/ai_family_portrait)
+
+ये लिंक केवल उद्देश्य को समझने में सहायता के लिए हैं और इस पृष्ठ पर छवियों के स्रोत या प्राधिकरण का प्रमाण नहीं हैं।
+
+चित्रों और सामग्रियों के उपयोग के दायरे के लिए, [ सामग्री विवरण ](../content-policy.md) देखें। [सभी 50 टेम्पलेट देखें ](../prompts.md).

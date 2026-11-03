@@ -1,5 +1,8 @@
 # Decluttered Property Photo · 房源照片整理
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Clean up visible clutter while preserving the truthful condition and structure of a room.
 
 把随手拍房间照片整理成房源展示图。用于房地产经纪人销售房源。
@@ -57,9 +60,9 @@ Ensure no damage or permanent feature is hidden or altered.
 
 ## 相关案例 / Related tasks
 
-- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
-- [Preview different interior styles in a room photo · 房间装修风格预览](i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
-- [Create a landscape makeover concept from a yard photo · 庭院景观改造](i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
+- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](./i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
+- [Preview different interior styles in a room photo · 房间装修风格预览](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
+- [Create a landscape makeover concept from a yard photo · 庭院景观改造](./i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
 
 ## 需求背景参考
 

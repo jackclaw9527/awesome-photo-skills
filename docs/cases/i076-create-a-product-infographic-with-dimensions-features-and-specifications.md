@@ -1,5 +1,8 @@
 # Product Feature Infographic · 商品卖点信息图
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create a single product infographic from a photo and verified specifications.
 
 制作带尺寸、卖点和参数的商品信息图。用于Amazon详情、独立站。
@@ -58,9 +61,9 @@ Proofread all text and verify the final production file separately.
 
 ## 相关案例 / Related tasks
 
-- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
-- [Create a reusable product PNG with a transparent background · 透明底商品素材](i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
-- [Place a product in a realistic lifestyle scene · 商品生活方式场景](i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
+- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](./i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
+- [Create a reusable product PNG with a transparent background · 透明底商品素材](./i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
+- [Place a product in a realistic lifestyle scene · 商品生活方式场景](./i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
 
 ## 需求背景参考
 

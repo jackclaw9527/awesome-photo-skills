@@ -1,5 +1,8 @@
 # Transparent-Background Product Asset · 透明底商品素材
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Extract a product as a reusable cutout with a real alpha channel.
 
 生成可复用的透明底商品PNG。用于海报、目录、广告。
@@ -57,9 +60,9 @@ Verify the exported file’s alpha channel; a checkerboard preview is not proof.
 
 ## 相关案例 / Related tasks
 
-- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
-- [Place a product in a realistic lifestyle scene · 商品生活方式场景](i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
-- [Turn an ordinary photo into a professional studio product shot · 商品影棚照](i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md#public-prompt)
+- [Turn an ordinary product photo into a white-background listing image · 商品白底主图](./i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md#public-prompt)
+- [Place a product in a realistic lifestyle scene · 商品生活方式场景](./i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
+- [Turn an ordinary photo into a professional studio product shot · 商品影棚照](./i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md#public-prompt)
 
 ## 需求背景参考
 

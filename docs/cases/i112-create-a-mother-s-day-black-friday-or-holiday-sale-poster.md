@@ -1,5 +1,8 @@
 # Holiday Sale Poster · 节日促销海报
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create one sales-moment poster from confirmed promotion details and an optional product image.
 
 生成母亲节、黑五或节日促销海报。用于销售活动。
@@ -58,9 +61,9 @@ Proofread offer details and never invent urgency or savings.
 
 ## 相关案例 / Related tasks
 
-- [Create a YouTube video thumbnail · YouTube 视频缩略图](i106-create-a-youtube-video-thumbnail.md#public-prompt)
-- [Create a promotional poster from a topic and copy · 主题宣传海报](i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
-- [Create a conference, exhibition, or speaking-event poster · 会议与展览海报](i115-create-a-conference-exhibition-or-speaking-event-poster.md#public-prompt)
+- [Create a YouTube video thumbnail · YouTube 视频缩略图](./i106-create-a-youtube-video-thumbnail.md#public-prompt)
+- [Create a promotional poster from a topic and copy · 主题宣传海报](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
+- [Create a conference, exhibition, or speaking-event poster · 会议与展览海报](./i115-create-a-conference-exhibition-or-speaking-event-poster.md#public-prompt)
 
 ## 需求背景参考
 

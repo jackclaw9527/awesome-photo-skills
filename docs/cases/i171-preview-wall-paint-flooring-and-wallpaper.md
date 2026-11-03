@@ -1,5 +1,8 @@
 # Paint, Flooring, and Wallpaper Preview · 墙漆与地板选材预览
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Replace specified room surfaces using either a supplied sample or an accurate color and material description.
 
 预览墙漆、地板和墙纸效果。用于装修选材。
@@ -60,9 +63,9 @@ Compare with a sample when one exists and warn that screens cannot guarantee rea
 
 ## 相关案例 / Related tasks
 
-- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
-- [Preview different interior styles in a room photo · 房间装修风格预览](i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
-- [Create a landscape makeover concept from a yard photo · 庭院景观改造](i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
+- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](./i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
+- [Preview different interior styles in a room photo · 房间装修风格预览](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
+- [Create a landscape makeover concept from a yard photo · 庭院景观改造](./i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
 
 ## 需求背景参考
 

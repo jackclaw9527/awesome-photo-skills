@@ -1,5 +1,8 @@
 # Article or Newsletter Cover · 文章与 Newsletter 封面
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create one horizontal cover image that accurately reflects a supplied article topic.
 
 生成Newsletter头图和文章封面。用于邮件、博客。
@@ -57,9 +60,9 @@ Ensure the cover adds no event or claim absent from the article.
 
 ## 相关案例 / Related tasks
 
-- [Create a YouTube video thumbnail · YouTube 视频缩略图](i106-create-a-youtube-video-thumbnail.md#public-prompt)
-- [Create a promotional poster from a topic and copy · 主题宣传海报](i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
-- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
+- [Create a YouTube video thumbnail · YouTube 视频缩略图](./i106-create-a-youtube-video-thumbnail.md#public-prompt)
+- [Create a promotional poster from a topic and copy · 主题宣传海报](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
+- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
 ## 需求背景参考
 

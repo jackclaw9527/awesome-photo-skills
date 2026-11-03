@@ -1,5 +1,8 @@
 # YouTube Thumbnail · YouTube 视频缩略图
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create one high-contrast thumbnail around a verified video topic and optional subject image.
 
 生成YouTube视频缩略图。用于视频发布。
@@ -57,9 +60,9 @@ Test readability at small size and verify the wording matches the video.
 
 ## 相关案例 / Related tasks
 
-- [Create a promotional poster from a topic and copy · 主题宣传海报](i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
-- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
-- [Create a conference, exhibition, or speaking-event poster · 会议与展览海报](i115-create-a-conference-exhibition-or-speaking-event-poster.md#public-prompt)
+- [Create a promotional poster from a topic and copy · 主题宣传海报](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
+- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
+- [Create a conference, exhibition, or speaking-event poster · 会议与展览海报](./i115-create-a-conference-exhibition-or-speaking-event-poster.md#public-prompt)
 
 ## 需求背景参考
 

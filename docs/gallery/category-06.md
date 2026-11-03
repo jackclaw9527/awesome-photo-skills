@@ -1,8 +1,11 @@
 # 时尚、服装与虚拟试穿
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 精选目录之外的 14 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
 
-[返回更多案例目录](index.md) · [返回仓库首页](../../README.md)
+[返回更多案例目录](./index.md) · [返回仓库首页](../../README.md)
 
 > 参考素材和结果图仅作视觉指引；不保证使用相同素材能复现相同效果。
 

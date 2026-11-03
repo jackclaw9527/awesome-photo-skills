@@ -1,5 +1,8 @@
 # 图片与内容说明
 
+[中文](../README.md) · [English](../README.en.md) · [Português](../README.pt.md) · [Español](../README.es.md) · [Français](../README.fr.md) · [Deutsch](../README.de.md) · [عربي](../README.ar.md) · [русский](../README.ru.md) · [日本語](../README.ja.md) · [हिंदी](../README.hi.md)
+
+
 本仓库用精选演示说明图片任务的输入、输出和适用场景。案例文字与基础教程是公开版内容；示例图片沿用项目现有站点演示预览，不代表真实用户的上传或客户成交案例。
 
 ## 如何理解示例图片

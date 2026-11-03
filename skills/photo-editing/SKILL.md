@@ -9,7 +9,9 @@ Prepare a precise, reusable prompt for the user's image task. The included promp
 
 ## Route the request
 
-Read [references/catalog.md](references/catalog.md), choose the closest task, then read only that group's reference:
+Use the user's language when a matching localized reference directory exists: `references/en`, `references/pt`, `references/es`, `references/fr`, `references/de`, `references/ar`, `references/ru`, `references/ja`, or `references/hi`. Otherwise use the English files directly in `references/`.
+
+Read the matching `catalog.md`, choose the closest task, then read only that group's reference. The English entry point is [references/catalog.md](references/catalog.md):
 
 - [Pets and Family Keepsakes](references/pets-family.md) — Pet portraits, family composites, couple keepsakes, and milestone images.
 - [Portraits and Personal Style](references/people.md) — Professional portraits, clothing edits, virtual previews, avatars, stickers, and poster concepts.

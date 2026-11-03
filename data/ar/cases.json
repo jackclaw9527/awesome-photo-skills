@@ -1,0 +1,2630 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "site": "https://dearsketch.com",
+  "caseCount": 50,
+  "categories": [
+    {
+      "id": "pets-family",
+      "name": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "englishName": "Pets and family keepsakes",
+      "count": 10
+    },
+    {
+      "id": "people",
+      "name": "الشخصيات والصورة الشخصية",
+      "englishName": "Portraits and personal style",
+      "count": 10
+    },
+    {
+      "id": "spaces",
+      "name": "البيت والفضاء",
+      "englishName": "Homes and spaces",
+      "count": 10
+    },
+    {
+      "id": "products",
+      "name": "السلع والتجارة الإلكترونية",
+      "englishName": "Products and commerce",
+      "count": 10
+    },
+    {
+      "id": "design",
+      "name": "الإبداع والتصميم البصري",
+      "englishName": "Creative and visual design",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "id": "I026",
+      "title": "صور الحيوانات الأليفة المخصصة",
+      "name": "تحويل صور الحيوانات الأليفة إلى صور مخصصة",
+      "englishName": "Turn a pet photo into a custom portrait",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة للحيوانات الأليفة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الحيوانات الأليفة",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة الحيوانات الأليفة",
+      "useCase": "الهدايا، ديكور المنزل",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "قارن أولاً بين العينين والأذنين والأنماط ووضعية الجسم، ثم قرر ما إذا كان أسلوب الرسم يعجبك.",
+      "detailPath": "/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html",
+      "document": "docs/cases/i026-turn-a-pet-photo-into-a-custom-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الحيوانات الأليفة",
+            "file": "assets/cases/i026-before-1.webp",
+            "sha256": "e2883a1030b2e11685b5dbefe7358142605fe66ca58fe94405415238222fca08"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i026-after.webp",
+          "sha256": "c455657c181bd4285aa9ea6dc8e4fbd8c7145fda654ecc259eb5d1692a7e0566"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صور الحيوانات الأليفة Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i026-turn-a-pet-photo-into-a-custom-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i026_cta"
+    },
+    {
+      "id": "I028",
+      "title": "صورة ملكية للحيوانات الأليفة",
+      "name": "تحويل الحيوانات الأليفة إلى صور لشخصيات ملكية أو تاريخية",
+      "englishName": "Turn a pet into a royal or historical portrait",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة للحيوانات الأليفة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الحيوانات الأليفة",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صور الحيوانات الأليفة الممتعة",
+      "useCase": "الهدايا واللوحات الجدارية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يمكن تغيير الملابس والخلفيات، لكن لا يمكن استبدال وجه الحيوان الأليف ونمطه بآخر.",
+      "detailPath": "/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html",
+      "document": "docs/cases/i028-turn-a-pet-into-a-royal-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الحيوانات الأليفة",
+            "file": "assets/cases/i028-before-1.webp",
+            "sha256": "135091be99ab1747eafbfde116e70b572446513ee89d291088bc9e7025a70eeb"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i028-after.webp",
+          "sha256": "d7032edd8d741171339c0c8fb05e0d471dafb2a03e5c03d80a6531284eebcf1c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صور الحيوانات الأليفة Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i028-turn-a-pet-into-a-royal-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i028_cta"
+    },
+    {
+      "id": "I029",
+      "title": "رسم مشهد مثير للاهتمام للحيوانات الأليفة",
+      "name": "اصنع لوحات لمشاهد مثيرة للاهتمام مثل حمامات الحيوانات الأليفة والمطابخ",
+      "englishName": "Place a pet in a playful bathroom or kitchen scene",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة للحيوانات الأليفة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الحيوانات الأليفة",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "لوحة جدارية ممتعة للحيوانات الأليفة",
+      "useCase": "ديكورات المنزل، الهدايا",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من المخالب، واتصال الدعامة، وبنية الجسم؛ المشاهد الممتعة هي إبداعات وليست تسجيلات حقيقية.",
+      "detailPath": "/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html",
+      "document": "docs/cases/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الحيوانات الأليفة",
+            "file": "assets/cases/i029-before-1.webp",
+            "sha256": "1b2611d7452d9059fe0bc65a7d90ddb3431592da7b5b7b7bc58e25da9a0db02e"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i029-after.webp",
+          "sha256": "eb34edd097a3a482249455c3a1775e23242360591804747c811f23a1913db02e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صور الحيوانات الأليفة Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i029_cta"
+    },
+    {
+      "id": "I027",
+      "title": "اللوحة التذكارية للحيوانات الأليفة",
+      "name": "قم بإنشاء لوحة تذكارية لموت حيوانك الأليف",
+      "englishName": "Create a pet memorial portrait",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة للحيوانات الأليفة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الحيوانات الأليفة",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة تذكارية للحيوانات الأليفة",
+      "useCase": "الهدايا التذكارية والتذكارات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "استخدم فقط المعلومات المؤكدة للأسماء أو التواريخ أو النقوش؛ حافظ على نظافة الشاشة عندما لا تكون هناك حاجة للنص.",
+      "detailPath": "/intent/i027-create-a-pet-memorial-portrait.html",
+      "document": "docs/cases/i027-create-a-pet-memorial-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الحيوانات الأليفة",
+            "file": "assets/cases/i027-before-1.webp",
+            "sha256": "a476b6ff937ae47327ed9d8b7036560727d6df0c2cd0e0a1aba2db7dd8eb55e9"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i027-after.webp",
+          "sha256": "f43daea19c8473ee484497a4922088078e943202dc3dee7a9d1e804787a4d38d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صور الحيوانات الأليفة Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i027-create-a-pet-memorial-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i027_cta"
+    },
+    {
+      "id": "I021",
+      "title": "صورة عائلية مع الناس والحيوانات الأليفة",
+      "name": "إنشاء صور عائلية بما في ذلك الحيوانات الأليفة",
+      "englishName": "Create a family portrait with pets",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "صورة واحدة على الأقل لأحد أفراد العائلة لكل فرد + صورة واحدة على الأقل للحيوانات الأليفة لكل حيوان أليف",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور أفراد العائلة",
+          "requirement": "required",
+          "quantity": "على الأقل 1 لكل عضو"
+        },
+        {
+          "kind": "image",
+          "label": "صور الحيوانات الأليفة",
+          "requirement": "required",
+          "quantity": "على الأقل 1 لكل حيوان أليف"
+        }
+      ],
+      "output": "صورة الحيوانات الأليفة العائلية",
+      "useCase": "ديكورات المنزل، الهدايا",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تحقق من كل عضو وحيوان أليف واحدًا تلو الآخر لتجنب فقدان الأشخاص أو التكرار أو عدم تطابق النمط.",
+      "detailPath": "/intent/i021-create-a-family-portrait-with-pets.html",
+      "document": "docs/cases/i021-create-a-family-portrait-with-pets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور أفراد العائلة",
+            "file": "assets/cases/i021-before-1.webp",
+            "sha256": "182f26c00b46579c40ef26f504a02f0ed14aee2b70c0f8b385232536964113db"
+          },
+          {
+            "label": "صور الحيوانات الأليفة",
+            "file": "assets/cases/i021-before-2.webp",
+            "sha256": "a9c1e5241551f5a5b7cbec510028189fc5568eba7ed3ae66a61e5b96fb288b37"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i021-after.webp",
+          "sha256": "67b6b2f64eae69e54190fcb7d6b2454ff8d260d027761dcca48d0f034fd22f5e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلية فوتور",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i021-create-a-family-portrait-with-pets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i021_cta"
+    },
+    {
+      "id": "I022",
+      "title": "لوحة فنية للذكرى السنوية للزوجين",
+      "name": "تحويل صور الزوجين إلى فن الذكرى",
+      "englishName": "Turn a couple's photo into anniversary artwork",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة زوجين",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور زوجين",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة الذكرى",
+      "useCase": "هدايا الذكرى السنوية، اللوحات الجدارية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من هوية وموقف كلا الطرفين أولاً، ومن ثم التحقق من التعبير الفني؛ استخدم فقط المعلومات المؤكدة للأسماء وتواريخ الذكرى السنوية.",
+      "detailPath": "/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html",
+      "document": "docs/cases/i022-turn-a-couple-s-photo-into-anniversary-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور زوجين",
+            "file": "assets/cases/i022-before-1.webp",
+            "sha256": "2c69ec91055ee599ddf6b1c67a703ddecd3fbc049116f3b6e1430b6ca580f3ea"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i022-after.webp",
+          "sha256": "3e0bbe2fa126f7a8552afaab5deebfdd41b7e98b52b2a590ca86e322adef8620"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i022-turn-a-couple-s-photo-into-anniversary-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i022_cta"
+    },
+    {
+      "id": "I017",
+      "title": "صور متناثرة في صورة عائلية",
+      "name": "اجمع صور أفراد العائلة المتفرقين في صورة عائلية",
+      "englishName": "Combine separate family photos into one family portrait",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "صورة واحدة على الأقل لكل عضو متضمن في اللوحة + حجم المجموعة وعلاقتها وترتيب الشخصيات",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "جميع صور الأعضاء متضمنة في الصورة",
+          "requirement": "required",
+          "quantity": "على الأقل 1 لكل عضو"
+        },
+        {
+          "kind": "text",
+          "label": "عدد الأشخاص والعلاقات وترتيب الشخصيات",
+          "requirement": "required",
+          "quantity": "1 مجموعة"
+        }
+      ],
+      "output": "صورة عائلية كاملة",
+      "useCase": "تذكارات وهدايا عائلية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يجب توفير صور جميع الأعضاء وعددهم وعلاقتهم وترتيبهم. لا يمكن اعتبار الصورة المركبة بمثابة سجل صور جماعي حقيقي.",
+      "detailPath": "/intent/i017-combine-separate-family-photos-into-one-family-portrait.html",
+      "document": "docs/cases/i017-combine-separate-family-photos-into-one-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "سيتم دمج صور الأعضاء الفرديين",
+            "file": "assets/cases/i017-before-1.webp",
+            "sha256": "59819f2d8620df2205cf58d3e18ae7336acabbc92a2e28992031cffecd6acd5a"
+          },
+          {
+            "label": "لديك بالفعل أفراد من العائلة يلتقطون الصور",
+            "file": "assets/cases/i017-before-2.webp",
+            "sha256": "6c5f72b086d248c27918085df2d4a55d599a52fe02df5465ad806f67f5c2f4ae"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i017-after.webp",
+          "sha256": "12426de3fe94b2bb820e9fa41cfe42ae4ecfed835c8512ff28b6288a81d9c11f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلية فوتور",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i017-combine-separate-family-photos-into-one-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i017_cta"
+    },
+    {
+      "id": "I020",
+      "title": "صورة عائلية تحت عنوان العطلة",
+      "name": "قم بإنشاء صور عائلية تحت عنوان عيد الميلاد أو العطلات",
+      "englishName": "Create a Christmas or holiday family portrait",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة عائلية + 1 اسم أو موضوع للعطلة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور عائلية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "اسم المهرجان أو موضوعه",
+          "requirement": "required",
+          "quantity": "1 عنصر"
+        }
+      ],
+      "output": "صورة عائلية للعطلة",
+      "useCase": "بطاقات المعايدة والمشاركة الاجتماعية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تحقق من عدد الأشخاص والهويات، ويجب ألا تحجب ملابس وديكورات العطلات الملامح الرئيسية.",
+      "detailPath": "/intent/i020-create-a-christmas-or-holiday-family-portrait.html",
+      "document": "docs/cases/i020-create-a-christmas-or-holiday-family-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور عائلية",
+            "file": "assets/cases/i020-before-1.webp",
+            "sha256": "b9b2cdbaed47c8ff02cede46f2d7ceb545c76187f5107b5b49da7c345fcb9aa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i020-after.webp",
+          "sha256": "99f00d768c8860518af83b4ec8bdb070cffbfff533f91e90dd6f5799243ca0fe"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلية فوتور",
+          "url": "https://www.fotor.com/features/ai-portrait-generator/family/"
+        },
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i020-create-a-christmas-or-holiday-family-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i020_cta"
+    },
+    {
+      "id": "I023",
+      "title": "صورة نمط الزفاف مع فستان الزفاف",
+      "name": "إنشاء صور الزفاف أو صور نمط الزفاف",
+      "englishName": "Create a wedding portrait or bridal-style photo",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة زوجين",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور زوجين",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة الزفاف",
+      "useCase": "ذكرى الزفاف، والدعوات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يتم الحفاظ على الهوية والعلاقة الطبيعية بين الطرفين؛ الصورة معاينة إبداعية ولا تمثل التصوير الفعلي لحفل الزفاف.",
+      "detailPath": "/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html",
+      "document": "docs/cases/i023-create-a-wedding-portrait-or-bridal-style-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور زوجين",
+            "file": "assets/cases/i023-before-1.webp",
+            "sha256": "7c3b29b155dfb215e207924bc55b8dff21238ae8d42325918d655e5a7f33ecc4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i023-after.webp",
+          "sha256": "0a74812da5125ca152bfae1dea7f2eb3135d9c8b16fd6bf497c3d0f1c7f9dda3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i023-create-a-wedding-portrait-or-bridal-style-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i023_cta"
+    },
+    {
+      "id": "I025",
+      "title": "صور مراحل نمو الطفل",
+      "name": "قم بإنشاء صور لعمر الطفل أو مراحل نموه",
+      "englishName": "Create baby milestone or monthly growth photos",
+      "group": "pets-family",
+      "category": "الحيوانات الأليفة والنصب التذكارية العائلية",
+      "inputSummary": "1 صورة طفل + 1 العمر أو المعلم",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور اطفال",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "العمر الشهري أو المعلم",
+          "requirement": "required",
+          "quantity": "1 عنصر"
+        }
+      ],
+      "output": "الصور التذكارية للحدث",
+      "useCase": "سجل النمو",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يتم توفير الأعمار والتواريخ والمعالم من قبل أولياء الأمور؛ لا تخمن هذه الحقائق من الصور.",
+      "detailPath": "/intent/i025-create-baby-milestone-or-monthly-growth-photos.html",
+      "document": "docs/cases/i025-create-baby-milestone-or-monthly-growth-photos.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور اطفال",
+            "file": "assets/cases/i025-before-1.webp",
+            "sha256": "3bd421a28c5631cd89d582efca7165ef22e810dcf457d1b78ec146e0b6e03d78"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i025-after.webp",
+          "sha256": "90116b32ed86ce6c67a90f842505a8b4b421fcbcd0c718c282237e95ecc0e1d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i025-create-baby-milestone-or-monthly-growth-photos.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i025_cta"
+    },
+    {
+      "id": "I001",
+      "title": "تحويل صورة شخصية إلى صورة شخصية احترافية",
+      "name": "قم بإنشاء صورة شخصية احترافية لـ LinkedIn من صورة شخصية",
+      "englishName": "Create a professional LinkedIn headshot from a selfie",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة واضحة وأصلية لنفسي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "أنا أعرف الصورة الأصلية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة تمثال نصفي احترافية",
+      "useCase": "الملف الشخصي على لينكدإن",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من هويتك وملامح وجهك وملمس بشرتك الطبيعي، وتجنب الإفراط في التجميل والهوية المهنية الوهمية.",
+      "detailPath": "/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html",
+      "document": "docs/cases/i001-create-a-professional-linkedin-headshot-from-a-selfie.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "أنا أعرف الصورة الأصلية",
+            "file": "assets/cases/i001-before-1.webp",
+            "sha256": "9ce371609f98cb11f8d5a50175688573a5c7bec7eeb4e3fd2dd46914fdc1acc2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i001-after.webp",
+          "sha256": "14a39c9e88ac392e0711da8023ce6be53ca1cacf63c718afa92790b3eca86f7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فوتور الصور المهنية",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i001-create-a-professional-linkedin-headshot-from-a-selfie.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i001_cta"
+    },
+    {
+      "id": "I015",
+      "title": "التغيير من الملابس الكاجوال إلى الملابس الرسمية",
+      "name": "استبدل الملابس غير الرسمية بالملابس الرسمية",
+      "englishName": "Replace casual clothing with professional attire",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة شخصية لشخص يرتدي ملابس غير رسمية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صورة في ملابس غير رسمية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صور ملابس رسمية",
+      "useCase": "السيرة الذاتية، معلومات العمل",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "قم فقط بضبط ملابس الهدف، والتحقق من خط العنق واليدين وحواف الجسم لتجنب تغيير مظهر الشخص.",
+      "detailPath": "/intent/i015-replace-casual-clothing-with-professional-attire.html",
+      "document": "docs/cases/i015-replace-casual-clothing-with-professional-attire.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صورة في ملابس غير رسمية",
+            "file": "assets/cases/i015-before-1.webp",
+            "sha256": "6f136aaa30fa01927dd5577e5d9cbe2f22ae37647a32ee55a7f6448ddf6d0fec"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i015-after.webp",
+          "sha256": "805bea80eed277823f52f2a626d3b7ecf6e9115f5b3e241147ed1cdfa5931ed5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فوتور الصور المهنية",
+          "url": "https://www.fotor.com/features/ai-headshot-generator/"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i015-replace-casual-clothing-with-professional-attire.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i015_cta"
+    },
+    {
+      "id": "I052",
+      "title": "صور شخصية ملكية وعتيقة",
+      "name": "اجعل نفسك في صورة ملكية أو عتيقة أو تاريخية",
+      "englishName": "Turn yourself into a royal, vintage, or historical portrait",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة واضحة وأصلية لنفسي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "أنا أعرف الصورة الأصلية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة النمط التاريخي",
+      "useCase": "الهدايا، جدار الفن، الاجتماعية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "الأزياء والمشاهد إبداعية، ويتم التحقق من هوية الشخصيات، ولا تعتبر الصور صوراً تاريخية حقيقية.",
+      "detailPath": "/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html",
+      "document": "docs/cases/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "أنا أعرف الصورة الأصلية",
+            "file": "assets/cases/i052-before-1.webp",
+            "sha256": "43011f6577a788025ca2e1349a3f4730706a4c750ffc472e6b8e50154862dc01"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i052-after.webp",
+          "sha256": "85a6ab04d4f492117879e84c6f993e9c1c5626bdf70412d8ffcbc8d9246fa3c8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "مركز وظيفة فوتور",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i052_cta"
+    },
+    {
+      "id": "I036",
+      "title": "معاينة تجربة النظارات",
+      "name": "نظارات تجريبية افتراضية",
+      "englishName": "Virtually try on glasses",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة أمامية للشخص + 1 وصف مادة أو نمط النظارة المستهدفة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صورة أمامية للشخص",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "image",
+          "label": "مادة النظارات المستهدفة أو وصف النمط",
+          "requirement": "conditional",
+          "quantity": "1 قطعة",
+          "condition": "مطلوب للتجربة الدقيقة للمنتج؛ يمكن وصف نماذج المفاهيم فقط بالنص"
+        }
+      ],
+      "output": "صور تجربة النظارات",
+      "useCase": "قرار الشراء",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "إذا كنت ترغب في تجربة منتج معين، فقدم صورة النمط المطابق؛ الصورة التي تم إنشاؤها لا يمكن أن تثبت الحجم الفعلي وراحة الارتداء.",
+      "detailPath": "/intent/i036-virtually-try-on-glasses.html",
+      "document": "docs/cases/i036-virtually-try-on-glasses.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صورة أمامية للشخص",
+            "file": "assets/cases/i036-before-1.webp",
+            "sha256": "619e12926353886b84e7d8b054fa1a81c2c738ce8eaceb6f25f9d10426a11a6c"
+          },
+          {
+            "label": "صورة منتج النظارات المستهدفة",
+            "file": "assets/cases/i036-before-2.webp",
+            "sha256": "6263a725834b38d63bc94e3c5f8ba88ef430746081ee72fc6931ce4702c7eaf5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i036-after.webp",
+          "sha256": "187b713ecc9328ab5fa60e61c49bb369deca8871f8736480280e6b66b8bb58d9"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i036-virtually-try-on-glasses.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i036_cta"
+    },
+    {
+      "id": "I038",
+      "title": "معاينة وشم الجزء العلوي من الجسم",
+      "name": "معاينة الوشم على صورة الجسم",
+      "englishName": "Preview a tattoo on a body photo",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة أصلية لجلد الشخصية + 1 تصميم وشم مستهدف + 1 موقع وشم",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصورة الأصلية لجلد الشخصية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "image",
+          "label": "تصاميم الوشم المستهدفة",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "موقع الوشم",
+          "requirement": "required",
+          "quantity": "1 عنصر"
+        }
+      ],
+      "output": "معاينة وشم الجزء العلوي من الجسم",
+      "useCase": "قرار الوشم",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من مخطط التصميم والنص والموضع وملاءمة السطح المنحني؛ الرسم النهائي ليس قالبًا لبناء الوشم.",
+      "detailPath": "/intent/i038-preview-a-tattoo-on-a-body-photo.html",
+      "document": "docs/cases/i038-preview-a-tattoo-on-a-body-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "الصورة الأصلية لجلد الشخصية",
+            "file": "assets/cases/i038-before-1.webp",
+            "sha256": "4e1ec9e0df5798c4c1442eedf7e74f2a45aaa52b22db7a9dff75f351dd86ed02"
+          },
+          {
+            "label": "تصاميم الوشم المستهدفة",
+            "file": "assets/cases/i038-before-2.webp",
+            "sha256": "d3cf8c93c0a6959a8a8ec957a2a66dc9b72ae1812698ac3b9843968aaae022b5"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i038-after.webp",
+          "sha256": "7bad029eedc254abf0a9a5c63dfbc5c1ef06e2cf7bad6a8fd35503d13afc227d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i038-preview-a-tattoo-on-a-body-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i038_cta"
+    },
+    {
+      "id": "I047",
+      "title": "تحويل الصورة إلى شخصية كرتونية",
+      "name": "تحويل الصور الحقيقية إلى صور رمزية كرتونية",
+      "englishName": "Turn a portrait photo into a cartoon avatar",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة واضحة لرأسي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "لدي صورة واضحة لرأسي",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "الصورة الرمزية للرسوم المتحركة",
+      "useCase": "الصور الرمزية الاجتماعية، والهدايا",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "حدد شكل الوجه وتسريحة الشعر والإكسسوارات الظاهرة، ولا تكتفي بالحصول على شخصية كرتونية عامة.",
+      "detailPath": "/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html",
+      "document": "docs/cases/i047-turn-a-portrait-photo-into-a-cartoon-avatar.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "لدي صورة واضحة لرأسي",
+            "file": "assets/cases/i047-before-1.webp",
+            "sha256": "821d296011c84ad14fed3b81efe7f6ca13c834c5cee43c38fb09071acb8794fa"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i047-after.webp",
+          "sha256": "415f64362d4107a409180ef7160b79f48c85afc42bc9ae41fde328a2d6cc3a7d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "مركز وظيفة فوتور",
+          "url": "https://www.fotor.com/features/"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i047-turn-a-portrait-photo-into-a-cartoon-avatar.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i047_cta"
+    },
+    {
+      "id": "I048",
+      "title": "تحويل الصورة الى شخصية انمي",
+      "name": "تحويل الصور الحقيقية إلى شخصيات أنمي",
+      "englishName": "Turn a portrait photo into an anime character",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة واضحة لرأسي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "لدي صورة واضحة لرأسي",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "الصورة الرمزية أنيمي",
+      "useCase": "الصور الرمزية الاجتماعية، وإبداعات المعجبين",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "احتفظ بالخصائص الشخصية، واستخدم التعبيرات الأصلية، وتجنب تحويل الجميع إلى نفس الوجه.",
+      "detailPath": "/intent/i048-turn-a-portrait-photo-into-an-anime-character.html",
+      "document": "docs/cases/i048-turn-a-portrait-photo-into-an-anime-character.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "لدي صورة واضحة لرأسي",
+            "file": "assets/cases/i048-before-1.webp",
+            "sha256": "e6d80c5dc6c68c8598afff409be3588f806844687377b90e940bd63af39c491a"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i048-after.webp",
+          "sha256": "5718ab2ff495513b962970f089682ed64b0d96a97ad24e2527c684e15a918646"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i048-turn-a-portrait-photo-into-an-anime-character.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i048_cta"
+    },
+    {
+      "id": "I050",
+      "title": "شخصيات التعبئة والتغليف",
+      "name": "تحويل الشخصيات إلى شخصيات عمل معبأة",
+      "englishName": "Turn a person into a packaged action figure",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "1 صورة شخصية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الناس",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة التعبئة والتغليف لشخصية العمل",
+      "useCase": "النقاط الساخنة الاجتماعية والهدايا",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من الحجم وعدد الملحقات ونص العبوة؛ هذه صورة تصورية وليست المنتج الفعلي.",
+      "detailPath": "/intent/i050-turn-a-person-into-a-packaged-action-figure.html",
+      "document": "docs/cases/i050-turn-a-person-into-a-packaged-action-figure.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الناس",
+            "file": "assets/cases/i050-before-1.webp",
+            "sha256": "d33f62981f76b5583dafed905e3f7ff623e57c28ebb44761088ada2eaa500598"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i050-after.webp",
+          "sha256": "957128be094044ad61828d95b376af807412f78e328500e5c2dea90dcfbd9127"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i050-turn-a-person-into-a-packaged-action-figure.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i050_cta"
+    },
+    {
+      "id": "I056",
+      "title": "ملصق صور للدردشة",
+      "name": "تحويل الصور إلى ملصقات الدردشة",
+      "englishName": "Turn a photo into chat stickers",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "صورة واحدة لشخص أو حيوان أليف أو كائن + 0 أو 1 فعل أو عاطفة من هذا الملصق",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الأشخاص أو الحيوانات الأليفة أو الأشياء",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "العمل أو العاطفة لهذا الملصق",
+          "requirement": "optional",
+          "quantity": "0 أو 1 عنصر"
+        }
+      ],
+      "output": "حزمة ملصقات الدردشة",
+      "useCase": "واتساب، تيليجرام، مواقع التواصل الاجتماعي",
+      "deliveryNote": "يتم إنشاء الصورة المحددة حاليًا فقط في المرة الواحدة؛ يتم تنفيذ الصور الأخرى في السلسلة بشكل منفصل.",
+      "check": "يتم تنفيذ الخيار المحدد حاليًا فقط في المرة الواحدة؛ يجب فحص تناسق السلسلة وتغليف ملصق المنصة بشكل منفصل.",
+      "detailPath": "/intent/i056-turn-a-photo-into-chat-stickers.html",
+      "document": "docs/cases/i056-turn-a-photo-into-chat-stickers.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الأشخاص أو الحيوانات الأليفة أو الأشياء",
+            "file": "assets/cases/i056-before-1.webp",
+            "sha256": "293a5305db6989c4809237c8f729bade862836bcccf0f075d18b9e55f364f7b1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i056-after.webp",
+          "sha256": "14f1a55c147fd3775f4fe3ac902081ad71e23345a80991fc90c9dad2c78d1247"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i056-turn-a-photo-into-chat-stickers.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i056_cta"
+    },
+    {
+      "id": "I252",
+      "title": "ملصقات الأفلام الفردية والزوجية",
+      "name": "تحويل الصور الفردية أو الزوجية إلى ملصقات الأفلام",
+      "englishName": "Turn a personal or couple photo into a movie poster",
+      "group": "people",
+      "category": "الشخصيات والصورة الشخصية",
+      "inputSummary": "الصورة الأصلية المطلوبة لفرد أو زوجين أو مجموعة (صورة واحدة) + موضوع وعنوان الملصق الأصلي المطلوب (نسخة واحدة) + التوقيع والتاريخ الاختياري (0 أو مجموعة واحدة)",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصور الأصلية للأفراد أو الأزواج أو المجموعات",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "موضوع الملصق الأصلي والعنوان",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        },
+        {
+          "kind": "text",
+          "label": "التوقيع والتاريخ",
+          "requirement": "optional",
+          "quantity": "0 أو 1 مجموعة"
+        }
+      ],
+      "output": "ملصقات الأفلام الشخصية",
+      "useCase": "حفلات الزفاف والمناسبات السنوية وأعياد الميلاد والهدايا",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "استخدم عنوان الفيلم والتوقيع لتأكيد المحتوى؛ التحقق من دقة النص وهوية الشخصيات، ولا تتظاهر بأنه ترويج حقيقي للفيلم.",
+      "detailPath": "/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html",
+      "document": "docs/cases/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "الصور الأصلية للأفراد أو الأزواج أو المجموعات",
+            "file": "assets/cases/i252-before-1.webp",
+            "sha256": "7d44044fcd614062cdfea4141ddcc7fcf0da07e0081a00b5451b45ade76eb968"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i252-after.webp",
+          "sha256": "4d4d64aee275570e8e2a77545f3cd1cf5d6e13a918cb31c74881d5f6007d2700"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i252-turn-a-personal-or-couple-photo-into-a-movie-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i252_cta"
+    },
+    {
+      "id": "I030",
+      "title": "اللوحة التذكارية بالألوان المائية السكنية",
+      "name": "تحويل الصور السكنية إلى لوحات تذكارية بالألوان المائية أو الرسم الخطي",
+      "englishName": "Turn a house photo into a watercolor or line-art keepsake",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "1 صورة للمنزل",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنزل",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صورة المنزل",
+      "useCase": "ذكرى نقل وبيع منزل",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "احتفظ بالسقف والأبواب والنوافذ ومخطط المبنى، ولا ترسم المنزل على أنه مبنى آخر.",
+      "detailPath": "/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html",
+      "document": "docs/cases/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنزل",
+            "file": "assets/cases/i030-before-1.webp",
+            "sha256": "5168fb121594d3e986ec148ab9952047ac894964889216d537621d4cb0446bd1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i030-after.webp",
+          "sha256": "53a800cdb3bbc7a675bf0da8dec0d0323a2a9d0b1828e66ac7a77650a3f14341"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "صورة عائلة إيتسي",
+          "url": "https://www.etsy.com/market/ai_family_portrait"
+        },
+        {
+          "label": "رسم OpenArt للصورة",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i030_cta"
+    },
+    {
+      "id": "I169",
+      "title": "معاينة نمط ديكور الغرفة",
+      "name": "قم بتحميل صور الغرفة لمعاينة أنماط الديكور المختلفة",
+      "englishName": "Preview different interior styles in a room photo",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صورة للغرفة الموجودة → حافظ على هيكل المساحة واستبدل الأنماط والأثاث والمواد → عرض فردي للديكور الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الغرف الموجودة",
+          "requirement": "required",
+          "quantity": "1 ورقة؛ يمكن دمج شخصيات أو وجهات نظر متعددة في لوحة مرجعية واحدة محددة"
+        }
+      ],
+      "output": "عروض الديكور",
+      "useCase": "قرارات الديكور، مقترحات العملاء",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من الأبواب والنوافذ وهيكل الفضاء. لا يمكن للعروض أن تحل محل التحقق من الحجم والميزانية وجدوى البناء.",
+      "detailPath": "/intent/i169-preview-different-interior-styles-in-a-room-photo.html",
+      "document": "docs/cases/i169-preview-different-interior-styles-in-a-room-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الغرف الموجودة",
+            "file": "assets/cases/i169-before-1.webp",
+            "sha256": "a0f865c4c94a480f0f22c721d431fd7d09f27aa16743f7c420dcd21840905381"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i169-after.webp",
+          "sha256": "5323efa7479a82f0cd6f859af31198ea3d9116b65bc7b0ab77e58632ec7ee6d7"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "تصميم غرفة أدوبي",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        },
+        {
+          "label": "مفاهيم أدوبي هوم",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i169-preview-different-interior-styles-in-a-room-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i169_cta"
+    },
+    {
+      "id": "I178",
+      "title": "تجديد المناظر الطبيعية في الفناء",
+      "name": "قم بتحميل صور الفناء لإنشاء خطط تجديد المناظر الطبيعية",
+      "englishName": "Create a landscape makeover concept from a yard photo",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صور الفناء أو المساحة الخارجية + متطلبات الاستخدام أو المناخ أو الموقع ← إضافة نباتات ورصف ومرافق ← عرض المناظر الطبيعية الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور لحديقتك أو المساحة الخارجية",
+          "requirement": "required",
+          "quantity": "1 ورقة؛ يمكن دمج شخصيات أو وجهات نظر متعددة في لوحة مرجعية واحدة محددة"
+        },
+        {
+          "kind": "text",
+          "label": "متطلبات الاستخدام أو المناخ أو الموقع",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "الاداءات المناظر الطبيعية",
+      "useCase": "تجديد الحديقة واقتراح",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يجب دراسة الجدوى العملية للاحتفاظ بحدود الفناء والهياكل الثابتة والنباتات والرصف والصرف بشكل منفصل.",
+      "detailPath": "/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html",
+      "document": "docs/cases/i178-create-a-landscape-makeover-concept-from-a-yard-photo.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور لحديقتك أو المساحة الخارجية",
+            "file": "assets/cases/i178-before-1.webp",
+            "sha256": "e1b219365bd22dd2004ac9b009ef579e2009aca37e740247af92c8dd8b34a7c4"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i178-after.webp",
+          "sha256": "602584e136e44cb47f0198bc32573efb64c7a0b3eba5b6dcec3864e1b398afd7"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i178-create-a-landscape-makeover-concept-from-a-yard-photo.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i178_cta"
+    },
+    {
+      "id": "I171",
+      "title": "معاينة اختيار طلاء الجدران ومواد الأرضيات",
+      "name": "معاينة تأثيرات طلاء الجدران والأرضيات وورق الحائط",
+      "englishName": "Preview wall paint, flooring, and wallpaper",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صورة داخلية + عينة المادة المستهدفة + السطح البديل واللون/المادة المستهدفة ← استبدال لون السطح والمادة ← معاينة تأثير المادة الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور داخلية",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "image",
+          "label": "قالب المواد المستهدفة",
+          "requirement": "conditional",
+          "quantity": "صورة 0–1؛ يمكن أيضًا استخدام النص الدقيق أو بيانات الألوان",
+          "condition": "عندما تحتاج إلى إعادة إنتاج مواد معينة أو عينات من المنتجات"
+        },
+        {
+          "kind": "text",
+          "label": "استبدل السطح باللون/المادة المستهدفة",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "معاينة تأثير المواد",
+      "useCase": "اختيار مواد الديكور",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يجب أن توفر المنتجات المحددة عينات أو معلومات دقيقة عن الألوان؛ لا يمكن أن تضمن صورة الشاشة نفس اختلاف اللون مثل المنتج الفعلي.",
+      "detailPath": "/intent/i171-preview-wall-paint-flooring-and-wallpaper.html",
+      "document": "docs/cases/i171-preview-wall-paint-flooring-and-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور داخلية",
+            "file": "assets/cases/i171-before-1.webp",
+            "sha256": "a4b50f7f1239359caa59f077e030f58e486cb76b0b4efa058a5c14eeb9617c54"
+          },
+          {
+            "label": "قالب المواد المستهدفة",
+            "file": "assets/cases/i171-before-2.webp",
+            "sha256": "dcd22f5095bf675e0b269361b3f90a61b0272de531b41e3fc38c30a7a8bb792b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i171-after.webp",
+          "sha256": "3956d66d7e1d4e556de411da599c67cb0d46f7d00da09e91bb5905a20d93cb21"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "مفاهيم أدوبي هوم",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design/home-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i171-preview-wall-paint-flooring-and-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i171_cta"
+    },
+    {
+      "id": "I172",
+      "title": "مفهوم تجديد المكاتب",
+      "name": "إنشاء مقترحات لإعادة تصميم المكتب",
+      "englishName": "Create an office redesign concept",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صور موقع المكتب + الفريق والمجال الوظيفي ووصف العلامة التجارية والفرع ← إنشاء محطات عمل ومناطق اجتماعات ومساحات للعلامة التجارية ← خريطة مفاهيم المكتب الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور مشهد المكتب",
+          "requirement": "conditional",
+          "quantity": "1 قطعة",
+          "condition": "عند تجديد مكتب موجود"
+        },
+        {
+          "kind": "text",
+          "label": "أوصاف الفريق والمجال الوظيفي والعلامة التجارية والفرع",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "خريطة مفاهيم المكتب",
+      "useCase": "تجديد المكتب",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يجب أن يكون حجم الفريق والأقسام الوظيفية ومحتوى العلامة التجارية واضحًا، ولا يمكن أن تثبت الصورة أنه يلبي متطلبات المبنى والحماية من الحرائق.",
+      "detailPath": "/intent/i172-create-an-office-redesign-concept.html",
+      "document": "docs/cases/i172-create-an-office-redesign-concept.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور مشهد المكتب",
+            "file": "assets/cases/i172-before-1.webp",
+            "sha256": "2f08c6952f561acc84fb349c5979ce46ecb95aa77c7ba5fa5eeb1ea75aae924b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i172-after.webp",
+          "sha256": "a6311cd6fc55701bf332eced800a4a06f16af801d4a3ee485d331bd125442c58"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "تصميم غرفة أدوبي",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i172-create-an-office-redesign-concept.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i172_cta"
+    },
+    {
+      "id": "I175",
+      "title": "الترتيب الافتراضي للغرف الشاغرة",
+      "name": "إضافة الأثاث والمفروشات الناعمة إلى الممتلكات الشاغرة",
+      "englishName": "Virtually stage an empty property with furniture and decor",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صور الغرف الشاغرة ← إنشاء أثاث يتوافق مع منظور المساحة ← التخطيط الافتراضي الفردي الحالي للمنزل",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور التوفر",
+          "requirement": "required",
+          "quantity": "1 ورقة؛ يمكن دمج شخصيات أو وجهات نظر متعددة في لوحة مرجعية واحدة محددة"
+        }
+      ],
+      "output": "التخطيط الظاهري لخريطة الممتلكات",
+      "useCase": "قوائم العقارات، المبيعات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "احتفظ بالأبواب والنوافذ والهياكل الحقيقية، واشرح التصميم الافتراضي عند عرضه للجمهور، وتجنب التعامل مع الأثاث على أنه تكوينات موجودة.",
+      "detailPath": "/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html",
+      "document": "docs/cases/i175-virtually-stage-an-empty-property-with-furniture-and-decor.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور التوفر",
+            "file": "assets/cases/i175-before-1.webp",
+            "sha256": "7898391ed8b24f7ec8179e1fe00f6850e32382c9c6c7a9b84a5e11d876efe05b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i175-after.webp",
+          "sha256": "4809b4884fa95e546925fcb0759ad9eaa5bbbc046666aed98db7d39c70e7331f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "الذكاء الاصطناعي الداخلي",
+          "url": "https://interiorai.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i175-virtually-stage-an-empty-property-with-furniture-and-decor.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i175_cta"
+    },
+    {
+      "id": "I176",
+      "title": "صور القائمة منظمة",
+      "name": "تنظيم صور الغرفة العشوائية في صور عرض الممتلكات",
+      "englishName": "Turn a casual room photo into a polished property listing image",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "صورة عشوائية لغرفة مليئة بالفوضى ← إزالة الفوضى وتنظيف الغرفة والحفاظ على المساحة الحقيقية ← عرض تقديمي واحد ومرتب لمبيعات العقار الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور عشوائية للغرف مع الفوضى",
+          "requirement": "required",
+          "quantity": "1 ورقة؛ يمكن دمج شخصيات أو وجهات نظر متعددة في لوحة مرجعية واحدة محددة"
+        }
+      ],
+      "output": "عرض مبيعات العقارات أنيق",
+      "useCase": "قوائم بيع وكيل العقارات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "لا تستر العيوب الحقيقية للمنزل، ولا تغير نوع المنزل وبنيته الثابتة.",
+      "detailPath": "/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html",
+      "document": "docs/cases/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور عشوائية للغرف مع الفوضى",
+            "file": "assets/cases/i176-before-1.webp",
+            "sha256": "45bdea58e0eac4f9b3340d69b04c50ebb351fd6b624e32db013bbfbd5e67d7ed"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i176-after.webp",
+          "sha256": "8571c5d5aec77b5b8adb77fb90ba989cb910a97dd2c57bf7789617ae7c7d93d6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i176-turn-a-casual-room-photo-into-a-polished-property-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i176_cta"
+    },
+    {
+      "id": "I177",
+      "title": "مفهوم واجهة المبنى",
+      "name": "إنشاء مفاهيم واجهة المبنى من النص أو الرسومات",
+      "englishName": "Create an architectural facade concept from text or a sketch",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "رسم معماري أو رسم تخطيطي + الاستخدام المعماري والكلمات الرئيسية للتصميم ← إنشاء المواد والبيئة والضوء ← عرض المفهوم المعماري الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "المخططات المعمارية أو الرسومات الجماعية",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يكون لدى المستخدم بالفعل رسم تخطيطي لنموذج المبنى أو الفتحات أو الموقع"
+        },
+        {
+          "kind": "text",
+          "label": "استخدام البناء، وتصميم الكلمات الرئيسية",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "تقديم المفهوم المعماري",
+      "useCase": "المسابقات والمقترحات والتقارير",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "يتم توضيح غرض المبنى واتجاه التصميم، ويتم استخدام النتائج للتواصل المفاهيمي، وليس للرسومات الإنشائية.",
+      "detailPath": "/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "المخططات المعمارية أو الرسومات الجماعية",
+            "file": "assets/cases/i177-before-1.webp",
+            "sha256": "62bb4c8bce1598c6b3146d0e8be0afb29ed7c60fdaf6732384ee90f5dfe8d655"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i177-after.webp",
+          "sha256": "21e0f8b2dc03fb63b984b8f26c41d69faaf19ee9fa4c75164554d22f888b26f2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوبي الجيل المعماري",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i177-create-an-architectural-facade-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i177_cta"
+    },
+    {
+      "id": "I179",
+      "title": "تحويل الرسومات المعمارية إلى تأثيرات واقعية",
+      "name": "تحويل الرسومات الداخلية أو المعمارية إلى عروض واقعية",
+      "englishName": "Turn an interior or architectural sketch into a realistic render",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "رسم داخلي أو معماري / إطار سلكي CAD + استخدام المساحة ومعنى الرسم ← الاحتفاظ بالهيكل والمواد التكميلية والإضاءة ← عرض مساحة واقعي واحد حالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الرسومات الداخلية أو المعمارية/الإطارات السلكية CAD",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "استخدام الفضاء ومعنى الرسم",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "تقديم مساحة واقعية",
+      "useCase": "التواصل مع العملاء ومراجعة الخطة",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تحقق من العلاقة بين الفتحات والهياكل في المخطط، ولا تعامل العرض المرئي على أنه تحقق هندسي.",
+      "detailPath": "/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html",
+      "document": "docs/cases/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "الرسومات الداخلية أو المعمارية/الإطارات السلكية CAD",
+            "file": "assets/cases/i179-before-1.webp",
+            "sha256": "ce7a175b6dec35952ab59062110706cb6946b4df9121f3cb4d7ee791a0bdc8a1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i179-after.webp",
+          "sha256": "6cf92f3d20bce2bc7f215e089668d83a2f58fca480c4fb4e724ed6a400dee329"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "رسم OpenArt للصورة",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "أدوبي الجيل المعماري",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i179-turn-an-interior-or-architectural-sketch-into-a-realistic-render.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i179_cta"
+    },
+    {
+      "id": "I182",
+      "title": "لوحة مزاجية لتصميم المساحة",
+      "name": "قم بإنشاء لوحات مزاجية للهندسة المعمارية أو المشاريع الداخلية",
+      "englishName": "Create a mood board for an architecture or interior project",
+      "group": "spaces",
+      "category": "البيت والفضاء",
+      "inputSummary": "الجو المكاني واللوحة المرجعية المادية + نوع المشروع والكلمات الرئيسية ← تنظيم وإنشاء اتجاه مرئي متسق ← لوحة المزاج الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الغلاف الجوي الفضاء والمواد المرجعية",
+          "requirement": "optional",
+          "quantity": "0 – صور متعددة. يمكن دمجها في لوحة مزاجية مصنفة حسب الفئة للإدخال",
+          "condition": "عندما يكون لدى المستخدم بالفعل مادة توجيهية"
+        },
+        {
+          "kind": "text",
+          "label": "نوع المشروع والكلمات الرئيسية",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "مجلس المزاج",
+      "useCase": "محاذاة العميل، الاقتراح",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "لوحة المزاج مخصصة للتواصل التصميمي، وليست لقائمة المشتريات؛ يجب تأكيد المنتجات والأحجام والأسعار المحددة.",
+      "detailPath": "/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html",
+      "document": "docs/cases/i182-create-a-mood-board-for-an-architecture-or-interior-project.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "الغلاف الجوي الفضاء والمواد المرجعية",
+            "file": "assets/cases/i182-before-1.webp",
+            "sha256": "b570232cdaff2c362c02d4d08df9931185145bb4197657ac9a5bbe158cd954f8"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i182-after.webp",
+          "sha256": "92cd097f42dfed0641bffc46e7eca1fa63314c0d7225488f423453202e314e2a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "مميزات برنامج أدوبي فايرفلاي",
+          "url": "https://www.adobe.com/products/firefly/features"
+        },
+        {
+          "label": "أدوبي الجيل المعماري",
+          "url": "https://www.adobe.com/products/firefly/features/ai-architecture-generator.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i182-create-a-mood-board-for-an-architecture-or-interior-project.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i182_cta"
+    },
+    {
+      "id": "I065",
+      "title": "الصورة الرئيسية للمنتج بخلفية بيضاء",
+      "name": "تحويل صور المنتج العادية إلى صور رئيسية بخلفية بيضاء",
+      "englishName": "Turn an ordinary product photo into a white-background listing image",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "عدد 1 صورة للمنتج تم التقاطها بالهاتف المحمول",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج ملتقطة بالهاتف المحمول",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "الصورة الرئيسية للمنصة بخلفية بيضاء",
+      "useCase": "أمازون، تاوباو، محطة مستقلة",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من الشكل والملصقات والحواف؛ يجب التحقق مما إذا كان يلبي مواصفات الرف بشكل منفصل وفقًا للقناة الفعلية.",
+      "detailPath": "/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html",
+      "document": "docs/cases/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج ملتقطة بالهاتف المحمول",
+            "file": "assets/cases/i065-before-1.webp",
+            "sha256": "17ab4225488fb5e512e77cca81e102ab4d48f138fbd1a3c603645d41a7e18662"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i065-after.webp",
+          "sha256": "1920627201721bb7a1db81dab8ba88b0cd15173d68940c765449b712e76c3e67"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Photoroom AI",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "استوديو منتجات Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i065-turn-an-ordinary-product-photo-into-a-white-background-listing-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i065_cta"
+    },
+    {
+      "id": "I066",
+      "title": "مادة المنتج السفلية الشفافة",
+      "name": "قم بإنشاء منتج ذو قاع شفاف وقابل لإعادة الاستخدام PNG",
+      "englishName": "Create a reusable product PNG with a transparent background",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "1 صورة المنتج",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "مادة المنتج السفلية الشفافة",
+      "useCase": "الملصقات والكتالوجات والإعلانات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تحقق من قنوات الشفافية الحقيقية والحواف الصغيرة، ولا تعامل المعاينات البيضاء كدليل على الشفافية.",
+      "detailPath": "/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html",
+      "document": "docs/cases/i066-create-a-reusable-product-png-with-a-transparent-background.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج",
+            "file": "assets/cases/i066-before-1.webp",
+            "sha256": "28ec443cce5ef29504a63e1e6cfef1bb04132045bc1d9fc31540213bc11eec89"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i066-after.webp",
+          "sha256": "f09db78f12cecf33b4ca954e00fdcddecb0b2f13e299ea0de077e2f56df20212"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "تصوير المنتجات insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i066-create-a-reusable-product-png-with-a-transparent-background.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i066_cta"
+    },
+    {
+      "id": "I067",
+      "title": "مشهد نمط حياة السلع",
+      "name": "ضع المنتجات في سيناريوهات نمط الحياة الحقيقية",
+      "englishName": "Place a product in a realistic lifestyle scene",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "عدد 1 صورة خلفية بيضاء للمنتج",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صورة المنتج بخلفية بيضاء",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "مخطط منتجات نمط الحياة",
+      "useCase": "صفحة التفاصيل، الإعلانات، وسائل التواصل الاجتماعي",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "لا ينبغي تعديل جسم المنتج، ويجب التحقق من النسبة وسطح التلامس والعلاقة بين المشهد.",
+      "detailPath": "/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html",
+      "document": "docs/cases/i067-place-a-product-in-a-realistic-lifestyle-scene.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صورة المنتج بخلفية بيضاء",
+            "file": "assets/cases/i067-before-1.webp",
+            "sha256": "98c1fb81220cff01bb033c3ab96e68d5589ead9a45923fd46d2e96e0fe82de57"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i067-after.webp",
+          "sha256": "8d29f43968e43ecc04e8614d8e28aacb25bcb1a77d8fd28719468af2ea2530bf"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Photoroom AI",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "توليد الصور بتقنية OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i067-place-a-product-in-a-realistic-lifestyle-scene.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i067_cta"
+    },
+    {
+      "id": "I068",
+      "title": "صور استوديو المنتج",
+      "name": "تحويل الصور العادية إلى صور منتجات استوديو احترافية",
+      "englishName": "Turn an ordinary photo into a professional studio product shot",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "1 صورة المنتج",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صور المنتج على مستوى الاستوديو",
+      "useCase": "كتالوج المنتجات، الموقع الرسمي للعلامة التجارية",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "احتفظ بالملصق والهيكل والمواد الواقعية وتأكد من أن الانعكاسات طبيعية.",
+      "detailPath": "/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html",
+      "document": "docs/cases/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج",
+            "file": "assets/cases/i068-before-1.webp",
+            "sha256": "ec285b3d5536bb74b63629a0e4bca65e72da26c7d5b8a8bf0501708607088fd7"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i068-after.webp",
+          "sha256": "0b6511bb895f5d2717aebe20b9cbc2a4e9112dbcaa418275e3c99c672ef4dfe6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Photoroom AI",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "استوديو منتجات Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i068_cta"
+    },
+    {
+      "id": "I069",
+      "title": "مشهد بضائع المهرجان",
+      "name": "أنشئ صورًا لعيد الميلاد أو الجمعة السوداء أو صور المنتجات ذات الطابع الموسمي",
+      "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "صورة منتج واحدة + موضوع ترويجي أو عطلة واحدة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "عطلة أو المواضيع الترويجية",
+          "requirement": "required",
+          "quantity": "1 عنصر"
+        }
+      ],
+      "output": "رسم توضيحي لمنتج ترويج العطلات",
+      "useCase": "أنشطة المهرجان والإعلان",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "استخدم فقط موضوعات الأحداث المؤكدة والمعلومات الترويجية، ولا يمكن للديكورات أن تغطي المنتجات.",
+      "detailPath": "/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html",
+      "document": "docs/cases/i069-create-christmas-black-friday-or-seasonal-product-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج",
+            "file": "assets/cases/i069-before-1.webp",
+            "sha256": "d8806e48da11ef37dc742b263bb76a2183dbc40726112976c3094e21fe982890"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i069-after.webp",
+          "sha256": "a21dd128ee0ec45c8187528f75a27ebcae7d453a81aeddb835b9692fd034b270"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "تصوير المنتجات insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "استوديو ميتو للتصميم",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i069-create-christmas-black-friday-or-seasonal-product-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i069_cta"
+    },
+    {
+      "id": "I080",
+      "title": "التصوير التجاري للأغذية والمشروبات",
+      "name": "قم بإنشاء صور فوتوغرافية تجارية للطعام أو الكيك أو البيتزا أو الشراب",
+      "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "1 صورة طعام أو وصف المنتج",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور الطعام أو وصف المنتج",
+          "requirement": "optional",
+          "quantity": "1 قطعة",
+          "condition": "يمكن حذف فروع النص الخالص"
+        }
+      ],
+      "output": "صور ترويج المواد الغذائية",
+      "useCase": "القائمة، الوجبات الجاهزة، الإعلان",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "عند عرض المنتجات الفعلية، تحقق من الوزن والمكونات والمظهر، ولا تمرر التأثيرات الإبداعية على أنها منتجات فعلية.",
+      "detailPath": "/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html",
+      "document": "docs/cases/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور الطعام أو وصف المنتج",
+            "file": "assets/cases/i080-before-1.webp",
+            "sha256": "f5b1104db3348a6ab2219b62bf9b09ac73c8c4d757dff6fba8b0042b3ddc22bf"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i080-after.webp",
+          "sha256": "e6ffd1f590469a80f8db4508adf4d188233351cf9bbe389cf0c07190508c8d7c"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i080-create-commercial-photography-for-food-cakes-pizza-or-drinks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i080_cta"
+    },
+    {
+      "id": "I089",
+      "title": "تم تحويل خريطة بلاط الملابس إلى خريطة نموذجية للجزء العلوي من الجسم",
+      "name": "قم بإنشاء مربعات الملابس في صور الجزء العلوي من الجسم لعارضات حقيقية",
+      "englishName": "Turn flat-lay clothing into an on-model image",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "1 بلاط ملابس",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "بلاط الملابس",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "صور موديلات ملابس",
+      "useCase": "تفاصيل التجارة الإلكترونية والإعلان",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من الأنماط والمطبوعات والأقمشة والتفاصيل والصور التي تم إنشاؤها ليست دليلاً على الحجم الحقيقي أو الملاءمة الفعلية.",
+      "detailPath": "/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html",
+      "document": "docs/cases/i089-turn-flat-lay-clothing-into-an-on-model-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "بلاط الملابس",
+            "file": "assets/cases/i089-before-1.webp",
+            "sha256": "92afb6a63ce3c8b87a7deccd38d0af331cae3f67a2fb4083ffd5682b8c8ff963"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i089-after.webp",
+          "sha256": "f3a3f26a29891b04f99b88267d514292edb9f75eb13ac2fba3eae0a6bc6223b5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Photoroom AI",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        },
+        {
+          "label": "استوديو ميتو للتصميم",
+          "url": "https://www.designkit.cn/help/143"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i089-turn-flat-lay-clothing-into-an-on-model-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i089_cta"
+    },
+    {
+      "id": "I075",
+      "title": "صورة تفاعلية للمنتج",
+      "name": "إنشاء صور تفاعلية للمنتجات التي يتم الاحتفاظ بها أو استخدامها",
+      "englishName": "Show a product being held or used",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "1 صورة المنتج",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        }
+      ],
+      "output": "خريطة تفاعلية للمنتج",
+      "useCase": "إعلانات وسائل التواصل الاجتماعي، صفحات التفاصيل",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تحقق من هيكل اليد وعلاقة الإمساك وحجم المنتج لتجنب تزوير وظائف المنتج.",
+      "detailPath": "/intent/i075-show-a-product-being-held-or-used.html",
+      "document": "docs/cases/i075-show-a-product-being-held-or-used.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج",
+            "file": "assets/cases/i075-before-1.webp",
+            "sha256": "a852a1d4afb71383e755dbb186d4e5b0d29098bf180f0b41fc176c421f04d4f2"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i075-after.webp",
+          "sha256": "097cc4af4c3713e86e9634ddf63eb2a6a3b3e157318336f14299802698805848"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "توليد الصور بتقنية OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "استوديو منتجات Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i075-show-a-product-being-held-or-used.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i075_cta"
+    },
+    {
+      "id": "I076",
+      "title": "إنفوجرافيك نقطة بيع المنتج",
+      "name": "قم بإنشاء الرسوم البيانية للمنتج بالأبعاد ونقاط البيع والمعلمات",
+      "englishName": "Create a product infographic with dimensions, features, and specifications",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "صورة منتج واحدة + مجموعة واحدة من الأبعاد الدقيقة ونقاط البيع والمعلمات",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "صور المنتج",
+          "requirement": "required",
+          "quantity": "1 قطعة"
+        },
+        {
+          "kind": "text",
+          "label": "أبعاد دقيقة ونقاط البيع والمعلمات",
+          "requirement": "required",
+          "quantity": "1 مجموعة"
+        }
+      ],
+      "output": "رسم بياني للمنتج",
+      "useCase": "تفاصيل أمازون، محطة مستقلة",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "الأبعاد والمعلمات ونقاط البيع تأتي من معلومات المستخدم؛ يجب مراجعة النص الذي تم إنشاؤه بندًا بندًا.",
+      "detailPath": "/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html",
+      "document": "docs/cases/i076-create-a-product-infographic-with-dimensions-features-and-specifications.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "صور المنتج",
+            "file": "assets/cases/i076-before-1.webp",
+            "sha256": "7b4a9e0b3f6aba7089a6725643964ea9a68b1102966107c98c515c18550cdaa3"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i076-after.webp",
+          "sha256": "c14168b221cd5ab62625622283ebc6edb1de2567605850fdf3613342872ad15e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "استوديو منتجات Pixelcut",
+          "url": "https://www.pixelcut.ai/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i076-create-a-product-infographic-with-dimensions-features-and-specifications.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i076_cta"
+    },
+    {
+      "id": "I077",
+      "title": "مسودة مرئية لصفحة تفاصيل التجارة الإلكترونية",
+      "name": "قم بإنشاء صورة طويلة لصفحة تفاصيل التجارة الإلكترونية من معلومات المنتج",
+      "englishName": "Create a long-form e-commerce detail image from product information",
+      "group": "products",
+      "category": "السلع والتجارة الإلكترونية",
+      "inputSummary": "صور متعددة لنفس المنتج + 1 مجموعة نقاط بيع وكتابة دقيقة",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "نفس مجموعة صور المنتج",
+          "requirement": "required",
+          "quantity": "صور متعددة"
+        },
+        {
+          "kind": "text",
+          "label": "نقاط البيع والكتابة الدقيقة",
+          "requirement": "required",
+          "quantity": "1 مجموعة"
+        }
+      ],
+      "output": "صفحة تفاصيل المنتج",
+      "useCase": "التجارة الإلكترونية الصينية",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "يجب أن تكون كتابة النصوص الدقيقة والمواد متعددة الزوايا كاملة. التسليم الحالي عبارة عن معاينة مرئية، ويجب التحقق من التنضيد الدقيق بشكل منفصل.",
+      "detailPath": "/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html",
+      "document": "docs/cases/i077-create-a-long-form-e-commerce-detail-image-from-product-information.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "نفس النمط من السترة الأمامية",
+            "file": "assets/cases/i077-before-1.webp",
+            "sha256": "2fcf7873ebe08d3348c0d79a7438c15d43fa8c9625f765d560e3330fbb1c5441"
+          },
+          {
+            "label": "الجزء الخلفي من نفس البلوز",
+            "file": "assets/cases/i077-before-2.webp",
+            "sha256": "8ca4ef872da7a1f552e96f0937c85577660c776981502615ba87110ab8abf5cf"
+          },
+          {
+            "label": "تفاصيل نفس البلوز",
+            "file": "assets/cases/i077-before-3.webp",
+            "sha256": "7c8773b04d06aed8249fd3a0da7cbf18006d0b6c732e2c0962233be3d479f48e"
+          },
+          {
+            "label": "صور ترتدي نفس القميص من النوع الثقيل",
+            "file": "assets/cases/i077-before-4.webp",
+            "sha256": "88f228e07d59d390666cc324c852c75cb80230481f78d2ffda2d636478c0979c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i077-after.webp",
+          "sha256": "3509c98903202bdc83e0ca8af47db66ccdd828bd0f99d9628174697f30b66783"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "استوديو ميتو للتصميم",
+          "url": "https://www.designkit.cn/help/143"
+        },
+        {
+          "label": "دويو للتجارة الإلكترونية",
+          "url": "https://d.design/ecommerce"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i077-create-a-long-form-e-commerce-detail-image-from-product-information.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i077_cta"
+    },
+    {
+      "id": "I106",
+      "title": "الصورة المصغرة لفيديو اليوتيوب",
+      "name": "إنشاء صور مصغرة لفيديوهات اليوتيوب",
+      "englishName": "Create a YouTube video thumbnail",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "الصورة الأصلية لشخصية الفيديو أو كائن السمة + سمة الفيديو أو عنوانه ← إنشاء تركيبة عالية التباين ومنطقة العنوان ← الصورة المصغرة الفردية الحالية على YouTube",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصورة الأصلية لشخصية الفيديو أو كائن الموضوع",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يظهر شخص أو منتج أو كائن معين في الصورة المصغرة"
+        },
+        {
+          "kind": "text",
+          "label": "موضوع الفيديو أو عنوانه",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "يوتيوب الصورة المصغرة",
+      "useCase": "إصدار الفيديو",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "باستخدام موضوعات فيديو حقيقية، تحقق من الموضوع المصغر والتعرف على العنوان.",
+      "detailPath": "/intent/i106-create-a-youtube-video-thumbnail.html",
+      "document": "docs/cases/i106-create-a-youtube-video-thumbnail.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i106-after.webp",
+          "sha256": "a93ab16d69b848621c6d14887a391508f4220ba597358b8c1d8ece45498102a1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "إعادة صياغة",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i106-create-a-youtube-video-thumbnail.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i106_cta"
+    },
+    {
+      "id": "I107",
+      "title": "الملصقات الترويجية الموضوعية",
+      "name": "إنشاء ملصقات ترويجية من المواضيع والنسخ",
+      "englishName": "Create a promotional poster from a topic and copy",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "المادة المرئية الرئيسية الأصلية للحدث + اسم الحدث والمعلومات الأساسية والوقت والموقع أو طريقة المشاركة ← إنشاء ملصق يحتوي على نص وصور ← ملصق الحدث الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "النص الأصلي للمادة المرئية الرئيسية للحدث",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يستخدم الملصق شعار شخص أو منتج أو عمل أو علامة تجارية معينة"
+        },
+        {
+          "kind": "text",
+          "label": "اسم الحدث والمعلومات الأساسية والوقت والمكان أو طريقة المشاركة",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "ملصق الحدث",
+      "useCase": "الترويج عبر الإنترنت وغير متصل",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "يتم التحقق من الوقت والموقع وطريقة المشاركة واسم الحدث واحدًا تلو الآخر. لا يمكن للرسم التخطيطي الذي تم إنشاؤه أن يحل محل فحص التخطيط النهائي.",
+      "detailPath": "/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html",
+      "document": "docs/cases/i107-create-a-promotional-poster-from-a-topic-and-copy.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i107-after.webp",
+          "sha256": "360e777858e7dd9985bbc5582fd45c3a5824e87349226862b97fef5d8ea14b09"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i107-create-a-promotional-poster-from-a-topic-and-copy.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i107_cta"
+    },
+    {
+      "id": "I112",
+      "title": "ملصق الترويج للعطلة",
+      "name": "قم بإنشاء ملصقات ترويجية لعيد الأم أو الجمعة السوداء أو العطلات",
+      "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "الصورة الأصلية للمنتجات الترويجية + عقدة المهرجان أو المبيعات أو السلع أو الخدمات والمعلومات الترويجية → تطبيق سمة المهرجان وإنشاء التخطيط → الصورة الترويجية للعقدة الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصورة الأصلية للمنتج الترويجي",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما تريد خريطة ترويج العقدة عرض منتجات محددة"
+        },
+        {
+          "kind": "text",
+          "label": "المهرجانات أو نقاط البيع، السلع أو الخدمات، المعلومات الترويجية",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "خريطة تعزيز العقدة",
+      "useCase": "أنشطة المبيعات",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "تتوفر البيانات المؤكدة فقط للخصومات والأسعار وتواريخ الأحداث.",
+      "detailPath": "/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html",
+      "document": "docs/cases/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "الصورة الأصلية للمنتج الترويجي",
+            "file": "assets/cases/i112-before-1.webp",
+            "sha256": "cbd3002be5b6d7dfedbd7e0107c4f8b4b9da1ace49e5901fd5aef1d3d422d51c"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i112-after.webp",
+          "sha256": "227ae631372e329529c06dbf557767e5cc6e9c84652ad4089e68c76bb4058d81"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "تصوير المنتجات insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        },
+        {
+          "label": "جميع أدوات LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i112_cta"
+    },
+    {
+      "id": "I115",
+      "title": "ملصقات المؤتمرات والمعارض",
+      "name": "إنشاء ملصقات للمؤتمرات أو المعارض أو المحاضرات",
+      "englishName": "Create a conference, exhibition, or speaking-event poster",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "الصور الأصلية للمتحدثين أو العارضين أو المعروضات + عنوان الحدث أو معلومات المتحدث أو العارض أو الوقت أو الموقع أو طريقة المشاركة ← إنشاء ملصق حدث موحد ← ملصق المؤتمر الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصور الأصلية للمتحدثين أو العارضين أو المعروضات",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يحتاج الملصق إلى إظهار متحدثين أو عارضين أو معروضات حقيقية"
+        },
+        {
+          "kind": "text",
+          "label": "عنوان الحدث أو معلومات المتحدث أو العارض أو الوقت أو الموقع أو طريقة المشاركة",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "ملصق المؤتمر",
+      "useCase": "الترويج للمؤتمر",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "لا يتم إجراء أي متحدثين أو منظمين أو موافقات وهمية، ويجب تأكيد الصور والنصوص بندًا بندًا.",
+      "detailPath": "/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html",
+      "document": "docs/cases/i115-create-a-conference-exhibition-or-speaking-event-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i115-after.webp",
+          "sha256": "d42e3b80af5eae32eace54e6fd59635618ea108c0c19db06a5ede234bd0dda14"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i115-create-a-conference-exhibition-or-speaking-event-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i115_cta"
+    },
+    {
+      "id": "I118",
+      "title": "رسم بياني للمفهوم",
+      "name": "تحويل المفاهيم المعقدة إلى الصورة الرئيسية للإنفوجرافيك",
+      "englishName": "Turn a complex concept into an infographic visual",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "رسم تخطيطي لهيكل المعلومات الحالي + المحتوى الفعلي أو هيكل المعلومات أو العلاقة ← إنشاء أيقونات وتكوين وتسلسل هرمي مرئي ← رسم بياني للنشرة الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "لديك بالفعل رسم تخطيطي لهيكل المعلومات",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يكون لدى المستخدم بالفعل عملية أو تسلسل هرمي أو رسم تخطيطي للعلاقة"
+        },
+        {
+          "kind": "text",
+          "label": "المحتوى الواقعي أو بنية المعلومات أو العلاقات",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "رسم بياني",
+      "useCase": "التقارير، وسائل التواصل الاجتماعي، التعليم",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "العلاقات والترتيب والأرقام هي من المعلومات المقدمة. المعقولية البصرية لا تعني أن الحقائق صحيحة.",
+      "detailPath": "/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html",
+      "document": "docs/cases/i118-turn-a-complex-concept-into-an-infographic-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i118-after.webp",
+          "sha256": "2146dca9358748059daef8486a343ab84957eb491c565e9d60b6c12c5166c24b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فريبيك منظمة العفو الدولية",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i118-turn-a-complex-concept-into-an-infographic-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i118_cta"
+    },
+    {
+      "id": "I119",
+      "title": "المقالات وأغلفة الرسائل الإخبارية",
+      "name": "إنشاء صورة رأس الرسالة الإخبارية وغلاف المقالة",
+      "englishName": "Create a newsletter header or article cover",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "الصورة الأصلية للشخص أو المنتج أو مادة الحدث المشاركة في المقالة + موضوع المقالة → إنشاء غلاف أفقي ورسوم توضيحية للعلامة التجارية → صورة رأس المقالة الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصور الأصلية للشخصيات أو المنتجات أو الأحداث المشاركة في المقالة",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يجب أن تعرض صورة الرأس أشخاصًا أو منتجات أو مواد حدث معينة في المقالة"
+        },
+        {
+          "kind": "text",
+          "label": "موضوع المقال",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "صورة رأس المقال",
+      "useCase": "البريد الإلكتروني، بلوق",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التصميم حول موضوع المقال وعدم إضافة أحداث أو حقائق غير مدرجة في النص الرئيسي.",
+      "detailPath": "/intent/i119-create-a-newsletter-header-or-article-cover.html",
+      "document": "docs/cases/i119-create-a-newsletter-header-or-article-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i119-after.webp",
+          "sha256": "4dab2ec4dca5be6dd9039f35b7753595ff61ede2c4b359611c0acde02210338e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فريبيك منظمة العفو الدولية",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i119-create-a-newsletter-header-or-article-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i119_cta"
+    },
+    {
+      "id": "I121",
+      "title": "مخطط عرض جهاز التطبيق",
+      "name": "إنشاء نموذج بالحجم الطبيعي لجهاز واجهة التطبيق وتخزين الصور الترويجية",
+      "englishName": "Create device mockups and app-store promotional images",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "لقطات شاشة للواجهة الفعلية للتطبيق المستهدف + الجهاز المستهدف ونقاط البيع الوظيفية الحقيقية ← أدخل جهاز محمول وأضف خلفية تسويقية ← نموذج التطبيق الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "لقطة شاشة للواجهة الفعلية للتطبيق المستهدف",
+          "requirement": "required",
+          "quantity": "1 صورة للجهاز الحالي"
+        },
+        {
+          "kind": "text",
+          "label": "الجهاز المستهدف ونقاط البيع الوظيفية الحقيقية",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "نموذج التطبيق",
+      "useCase": "متجر التطبيقات، الموقع الرسمي",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "يجب أن تأتي الواجهة ونقاط البيع من منتجات حقيقية، ولا يعني تأثير النموذج الأولي للجهاز أن الوظائف قد تم تحقيقها.",
+      "detailPath": "/intent/i121-create-device-mockups-and-app-store-promotional-images.html",
+      "document": "docs/cases/i121-create-device-mockups-and-app-store-promotional-images.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "لقطة شاشة للواجهة الفعلية للتطبيق المستهدف",
+            "file": "assets/cases/i121-before-1.webp",
+            "sha256": "60e80c53bb92a74e5ece09ff32b712cfb5e0ab38267ca3617aa620142b480795"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i121-after.webp",
+          "sha256": "49535bb31de7cc35a45a5809fa52756d2fe7769ad2fab09a5a9ddeca84d8aa73"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فريبيك منظمة العفو الدولية",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i121-create-device-mockups-and-app-store-promotional-images.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i121_cta"
+    },
+    {
+      "id": "I124",
+      "title": "صور القائمة والطبق",
+      "name": "إنشاء صور لقائمة المطاعم ورسوم توضيحية للأطباق",
+      "englishName": "Create restaurant menu visuals and dish imagery",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "الصور الأصلية للأطباق الحقيقية + أسماء الأطباق والأسعار الدقيقة والفئات → إنشاء تخطيط ورسوم توضيحية وصور طبق حقيقية → القائمة الفردية الحالية",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "الصور الأصلية للأطباق الحقيقية",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما تحتاج القائمة إلى إظهار الأطباق الفعلية للمطعم"
+        },
+        {
+          "kind": "text",
+          "label": "اسم الأطباق والسعر الدقيق والتصنيف",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "قائمة طعام",
+      "useCase": "مطاعم، وجبات سريعة",
+      "deliveryNote": "هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.",
+      "check": "ويجب التأكد من السعر والاسم والفئة واحدة تلو الأخرى، ويجب تمييز صور الأطباق الفعلية والتعليمات الإبداعية بوضوح.",
+      "detailPath": "/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html",
+      "document": "docs/cases/i124-create-restaurant-menu-visuals-and-dish-imagery.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i124-after.webp",
+          "sha256": "de8093e545c832addd4727621f846cff7f1780390af80f8cb4d0eb27c2567e69"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "فريبيك منظمة العفو الدولية",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i124-create-restaurant-menu-visuals-and-dish-imagery.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i124_cta"
+    },
+    {
+      "id": "I126",
+      "title": "استكشاف مفهوم الشعار",
+      "name": "إنشاء مفهوم الشعار من وصف العلامة التجارية",
+      "englishName": "Create logo concepts from a brand description",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "المسودة الأصلية لشعار العلامة التجارية الحالية وأصول الهوية + اسم العلامة التجارية، ووضع العلامة التجارية، والجمهور المستهدف ← إنشاء اتجاهات متعددة للشعار ← مسودة الشعار الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "شعار العلامة التجارية الأصلية وأصول الهوية",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عند استكشاف امتدادات الشعار لعلامة تجارية حالية بدلاً من إنشاء علامة تجارية من البداية"
+        },
+        {
+          "kind": "text",
+          "label": "اسم العلامة التجارية، ووضع العلامة التجارية، والجمهور المستهدف",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "مسودة الشعار",
+      "useCase": "إنشاء العلامة التجارية واقتراحها",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "والنتيجة هي مسودة مفهوم، مع معالجة إضافية مطلوبة للبحث عن العلامات التجارية، والصورة الرمزية، وتسليم المتجهات.",
+      "detailPath": "/intent/i126-create-logo-concepts-from-a-brand-description.html",
+      "document": "docs/cases/i126-create-logo-concepts-from-a-brand-description.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i126-after.webp",
+          "sha256": "b4931ecd7fe812adcd55000026024bc8fe516f77e41b21174a1ba5705591c5ea"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "أدوات Photoroom AI",
+          "url": "https://help.photoroom.com/en/articles/11495331-introduction-to-ai-tools-in-photoroom"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i126-create-logo-concepts-from-a-brand-description.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i126_cta"
+    },
+    {
+      "id": "I133",
+      "title": "فن الكلمات وتأثيرات العنوان",
+      "name": "إنشاء كلمات فنية وتأثيرات عنوان قابلة للقراءة",
+      "englishName": "Create readable display lettering and title effects",
+      "group": "design",
+      "category": "الإبداع والتصميم البصري",
+      "inputSummary": "حدد قالب تأثير خط الخط أو المادة + النص والغرض الدقيق ← إنشاء نص باستخدام المادة والنمط ← صورة الخط الفردي الحالي",
+      "roles": [
+        {
+          "kind": "image",
+          "label": "حدد الخط أو قالب تأثير الخط المادي",
+          "requirement": "optional",
+          "quantity": "0-1؛ يمكن دمج مواد متعددة في لوحة مرجعية واحدة تحمل علامة",
+          "condition": "عندما يجب أن تستخدم الكلمة الفنية اللغة الرسومية الموجودة أو التأثير المادي"
+        },
+        {
+          "kind": "text",
+          "label": "دقة النص والهدف",
+          "requirement": "required",
+          "quantity": "1 حصة"
+        }
+      ],
+      "output": "فن الكلمة",
+      "useCase": "الملصقات والتغليف ووسائل التواصل الاجتماعي",
+      "deliveryNote": "يتم إنشاء صورة واحدة فقط في كل مرة.",
+      "check": "التحقق من الإملاء والترتيب وسهولة القراءة كلمة بكلمة؛ الحروف الرسومية الموجودة في الصورة ليست ملفات خطوط قابلة للتحرير.",
+      "detailPath": "/intent/i133-create-readable-display-lettering-and-title-effects.html",
+      "document": "docs/cases/i133-create-readable-display-lettering-and-title-effects.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i133-after.webp",
+          "sha256": "e0c9c3ffcda601914c71871efe3530513bb96513a63e237b1cf4f2eb61e4edd0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "أدوات Picsart للذكاء الاصطناعي",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "فريبيك منظمة العفو الدولية",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ar/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    }
+  ],
+  "locale": "ar"
+}

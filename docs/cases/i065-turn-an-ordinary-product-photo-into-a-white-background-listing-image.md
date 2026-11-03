@@ -1,5 +1,8 @@
 # White-Background Product Listing Image · 商品白底主图
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Isolate a real product into a clean marketplace-style white-background image.
 
 把普通商品照片制作成白底主图。用于Amazon、淘宝、独立站。
@@ -57,9 +60,9 @@ Inspect label fidelity and channel-specific listing requirements.
 
 ## 相关案例 / Related tasks
 
-- [Create a reusable product PNG with a transparent background · 透明底商品素材](i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
-- [Place a product in a realistic lifestyle scene · 商品生活方式场景](i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
-- [Turn an ordinary photo into a professional studio product shot · 商品影棚照](i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md#public-prompt)
+- [Create a reusable product PNG with a transparent background · 透明底商品素材](./i066-create-a-reusable-product-png-with-a-transparent-background.md#public-prompt)
+- [Place a product in a realistic lifestyle scene · 商品生活方式场景](./i067-place-a-product-in-a-realistic-lifestyle-scene.md#public-prompt)
+- [Turn an ordinary photo into a professional studio product shot · 商品影棚照](./i068-turn-an-ordinary-photo-into-a-professional-studio-product-shot.md#public-prompt)
 
 ## 需求背景参考
 

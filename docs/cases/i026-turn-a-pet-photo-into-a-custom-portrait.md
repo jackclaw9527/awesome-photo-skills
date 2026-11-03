@@ -1,5 +1,8 @@
 # Custom Pet Portrait · 宠物定制肖像
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Turn one pet photo into a display-ready portrait.
 
 把宠物照片制作成定制肖像。用于礼物、家居装饰。
@@ -57,9 +60,9 @@ Compare eyes, ears, markings, and silhouette before judging the style.
 
 ## 相关案例 / Related tasks
 
-- [Turn a pet into a royal or historical portrait · 宠物皇家肖像](i028-turn-a-pet-into-a-royal-or-historical-portrait.md#public-prompt)
-- [Place a pet in a playful bathroom or kitchen scene · 宠物趣味场景画](i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md#public-prompt)
-- [Create a pet memorial portrait · 宠物纪念画](i027-create-a-pet-memorial-portrait.md#public-prompt)
+- [Turn a pet into a royal or historical portrait · 宠物皇家肖像](./i028-turn-a-pet-into-a-royal-or-historical-portrait.md#public-prompt)
+- [Place a pet in a playful bathroom or kitchen scene · 宠物趣味场景画](./i029-place-a-pet-in-a-playful-bathroom-or-kitchen-scene.md#public-prompt)
+- [Create a pet memorial portrait · 宠物纪念画](./i027-create-a-pet-memorial-portrait.md#public-prompt)
 
 ## 需求背景参考
 

@@ -1,5 +1,8 @@
 # Architectural Facade Concept · 建筑外立面概念
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Develop a facade from an optional sketch or from a building-use and design-direction brief.
 
 从文字或草图生成建筑外立面概念。用于竞赛、提案、汇报。
@@ -58,9 +61,9 @@ Treat output as concept communication, not a drawing for construction.
 
 ## 相关案例 / Related tasks
 
-- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
-- [Preview different interior styles in a room photo · 房间装修风格预览](i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
-- [Create a landscape makeover concept from a yard photo · 庭院景观改造](i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
+- [Turn a house photo into a watercolor or line-art keepsake · 住宅水彩纪念画](./i030-turn-a-house-photo-into-a-watercolor-or-line-art-keepsake.md#public-prompt)
+- [Preview different interior styles in a room photo · 房间装修风格预览](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
+- [Create a landscape makeover concept from a yard photo · 庭院景观改造](./i178-create-a-landscape-makeover-concept-from-a-yard-photo.md#public-prompt)
 
 ## 需求背景参考
 

@@ -1,5 +1,8 @@
 # Professional Headshot from a Selfie · 自拍转职业头像
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Turn one clear selfie into a credible professional headshot.
 
 用自拍生成LinkedIn职业头像。用于LinkedIn个人主页。
@@ -57,9 +60,9 @@ Check recognizability and avoid fabricated uniforms, credentials, or excessive r
 
 ## 相关案例 / Related tasks
 
-- [Replace casual clothing with professional attire · 休闲装换正装](i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
-- [Turn yourself into a royal, vintage, or historical portrait · 皇家与复古人物肖像](i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md#public-prompt)
-- [Virtually try on glasses · 眼镜试戴预览](i036-virtually-try-on-glasses.md#public-prompt)
+- [Replace casual clothing with professional attire · 休闲装换正装](./i015-replace-casual-clothing-with-professional-attire.md#public-prompt)
+- [Turn yourself into a royal, vintage, or historical portrait · 皇家与复古人物肖像](./i052-turn-yourself-into-a-royal-vintage-or-historical-portrait.md#public-prompt)
+- [Virtually try on glasses · 眼镜试戴预览](./i036-virtually-try-on-glasses.md#public-prompt)
 
 ## 需求背景参考
 

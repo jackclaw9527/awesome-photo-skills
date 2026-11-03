@@ -1,5 +1,8 @@
 # Conference or Exhibition Poster · 会议与展览海报
 
+[中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
+
+
 Create one formal event poster using confirmed participants, exhibits, and logistics.
 
 生成会议、展览或演讲海报。用于会议宣传。
@@ -57,8 +60,8 @@ Proofread details and never fabricate speakers, sponsors, or institutional backi
 
 ## 相关案例 / Related tasks
 
-- [Create a YouTube video thumbnail · YouTube 视频缩略图](i106-create-a-youtube-video-thumbnail.md#public-prompt)
-- [Create a promotional poster from a topic and copy · 主题宣传海报](i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
-- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
+- [Create a YouTube video thumbnail · YouTube 视频缩略图](./i106-create-a-youtube-video-thumbnail.md#public-prompt)
+- [Create a promotional poster from a topic and copy · 主题宣传海报](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
+- [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
 图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
