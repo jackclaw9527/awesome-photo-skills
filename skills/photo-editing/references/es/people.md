@@ -9,6 +9,7 @@ Retratos profesionales, ediciones de ropa, vistas previas virtuales, avatares, p
 
 Convierte una selfie nítida en una foto profesional creíble.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Entiendo la foto original - requerida
 - **Preservar:** Conserva la identidad, la geometría facial, el tono de la piel, las señales de edad y la textura natural.
 - **Cambio:** Cambie el recorte, el fondo, la iluminación y el estilo de vestuario profesional.
@@ -34,6 +35,7 @@ Deliver one finished headshot image only.
 
 Edite solo la ropa de un retrato según un atuendo profesional específico.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** Retrato de una persona vestida con ropa informal: obligatorio
 - **Preservar:** Conservar la identidad, el rostro, el cabello, la pose, la forma del cuerpo, las manos y el fondo a menos que se solicite.
 - **Cambio:** Cambia el tipo de prenda, color, ajuste y accesorios visibles.
@@ -59,6 +61,7 @@ Deliver one edited portrait image only.
 
 Cambie el estilo de una persona real como un retrato original real, vintage o de inspiración histórica.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Entiendo la foto original - requerida
 - **Preservar:** Conserva la identidad de la persona, las señales de edad, el tono de piel y la estructura facial.
 - **Cambio:** Cambia el vestuario, el fondo, los accesorios, la luz y la atmósfera inspirada en la época.
@@ -84,6 +87,7 @@ Deliver one finished portrait image only.
 
 Coloque un producto exacto o un concepto de gafas descrito en un retrato de frente.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** Foto frontal de la persona: obligatoria; descripción del estilo o material de las gafas objetivo: condicional (obligatorio para la prueba exacta del producto; solo los estilos conceptuales se pueden describir con texto)
 - **Conservar:** Conserva la identidad, la forma del rostro, la piel, los ojos y los detalles del marco proporcionados para la rama elegida.
 - **Cambio:** Cambie solo la ubicación del marco, la apariencia de las lentes y la integración mínima de iluminación.
@@ -109,6 +113,7 @@ Deliver one preview image only.
 
 Aplique un diseño de tatuaje suministrado a un área específica del cuerpo.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Foto original de la piel del personaje: obligatoria; Diseño de tatuaje objetivo: obligatorio; Ubicación del tatuaje: obligatorio
 - **Preservar:** Mantenga la persona, la textura de la piel, la anatomía del cuerpo y el arte del tatuaje sin cambios.
 - **Cambiar:** Cambie solo la ubicación, escala, curvatura, opacidad e integración.
@@ -134,6 +139,7 @@ Deliver one edited preview image only.
 
 Crea un avatar de dibujos animados original que siga siendo reconocible como la persona fotografiada.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Tengo una foto de cabeza clara: obligatoria
 - **Conservar:** Mantén la forma del rostro, el cabello, el tono de piel y los accesorios distintivos visibles.
 - **Cambiar:** Cambia el idioma de renderizado, la simplificación, el fondo y la paleta.
@@ -159,6 +165,7 @@ Deliver one finished avatar image only.
 
 Crea un retrato original inspirado en el anime manteniendo tu identidad personal.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Tengo una foto de cabeza clara: obligatoria
 - **Conservar:** Conserva la forma del rostro, el tono de la piel, el cabello, la relación de los ojos y los accesorios que definen.
 - **Cambiar:** Cambie las líneas, el sombreado, la paleta, el fondo y el nivel de estilización.
@@ -184,6 +191,7 @@ Deliver one finished avatar image only.
 
 Convierte a una persona en una imagen conceptual ficticia de figura de acción empaquetada.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de personas: obligatorias
 - **Preservar:** Conservar la identidad de la persona y la lista de accesorios solicitados.
 - **Cambio:** Cambia el cuerpo a una figura, empaque, sistema de color y diseño de exhibición similares a los de un juguete.
@@ -209,6 +217,7 @@ Deliver one concept image only, not manufacturing artwork or a product specifica
 
 Convierte la foto de una persona, mascota u objeto en una pegatina expresiva.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Foto de una persona, mascota u objeto: obligatoria; Acción o emoción de esta pegatina – opcional
 - **Preservar:** Mantenga el sujeto reconocible y conserve las marcas o características definitorias.
 - **Cambio:** Cambia la expresión, el énfasis de la pose, el contorno, la eliminación del fondo y el estilo de las pegatinas.
@@ -234,6 +243,7 @@ Deliver one sticker image only; platform sizing and pack assembly are separate s
 
 Cree un póster de película ficticio original en torno a las personas proporcionadas y un título proporcionado.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotografías originales de individuos, parejas o grupos: obligatorias; Asunto y título del póster original: obligatorio; Firma y fecha: opcional
 - **Conservar:** Conserva la identidad de cada persona y todos los textos de facturación confirmados.
 - **Cambio:** Cambia la configuración cinematográfica, el tratamiento del género, la iluminación, la composición y el concepto de tipografía.

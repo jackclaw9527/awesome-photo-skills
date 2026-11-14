@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Originalfotos von echten Gerichten | Bild/Bild | 0–1; Mehrere Materialien können zu einer beschrifteten Referenztafel kombiniert werden | Optional/Optional: Wenn die Speisekarte die tatsächlichen Gerichte des Restaurants anzeigen möchte |
 | Name der Gerichte, genauer Preis, Klassifizierung | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Diesmal wird eine einzelne visuelle Vorschau generiert. Datenberechnung, präziser Satz, Vektor- oder Produktionsdateien müssen noch durch entsprechende Tools überprüft werden.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -70,4 +71,4 @@ Ergebnisrichtung: Menü. Wenn exakter Text, transparente Dateien, Vektoren oder 
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

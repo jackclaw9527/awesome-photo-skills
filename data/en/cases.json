@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "draft",
   "site": "https://dearsketch.com",
-  "caseCount": 50,
+  "caseCount": 100,
   "categories": [
     {
       "id": "pets-family",
@@ -33,6 +33,12 @@
       "name": "Creativity and Visual Design",
       "englishName": "Creative and visual design",
       "count": 10
+    },
+    {
+      "id": "text-only",
+      "name": "Pure text generation · No reference pictures required",
+      "englishName": "Text to image · No reference needed",
+      "count": 50
     }
   ],
   "cases": [
@@ -43,6 +49,7 @@
       "englishName": "Turn a pet photo into a custom portrait",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 pet photo",
       "roles": [
         {
@@ -89,6 +96,7 @@
       "englishName": "Turn a pet into a royal or historical portrait",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 pet photo",
       "roles": [
         {
@@ -135,6 +143,7 @@
       "englishName": "Place a pet in a playful bathroom or kitchen scene",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 pet photo",
       "roles": [
         {
@@ -181,6 +190,7 @@
       "englishName": "Create a pet memorial portrait",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 pet photo",
       "roles": [
         {
@@ -227,6 +237,7 @@
       "englishName": "Create a family portrait with pets",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "At least 1 family member photo for each member + at least 1 pet photo for each pet",
       "roles": [
         {
@@ -288,6 +299,7 @@
       "englishName": "Turn a couple's photo into anniversary artwork",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 couple photo",
       "roles": [
         {
@@ -334,6 +346,7 @@
       "englishName": "Combine separate family photos into one family portrait",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "At least 1 photo of each member included in the painting + 1 group size, relationship and arrangement of characters",
       "roles": [
         {
@@ -395,6 +408,7 @@
       "englishName": "Create a Christmas or holiday family portrait",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 family photo + 1 holiday name or theme",
       "roles": [
         {
@@ -451,6 +465,7 @@
       "englishName": "Create a wedding portrait or bridal-style photo",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 couple photo",
       "roles": [
         {
@@ -501,6 +516,7 @@
       "englishName": "Create baby milestone or monthly growth photos",
       "group": "pets-family",
       "category": "Pets and Family Memorials",
+      "inputMode": "task-specific",
       "inputSummary": "1 baby photo + 1 age or milestone",
       "roles": [
         {
@@ -553,6 +569,7 @@
       "englishName": "Create a professional LinkedIn headshot from a selfie",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 clear and original photo of myself",
       "roles": [
         {
@@ -599,6 +616,7 @@
       "englishName": "Replace casual clothing with professional attire",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 portrait of a person wearing casual clothes",
       "roles": [
         {
@@ -649,6 +667,7 @@
       "englishName": "Turn yourself into a royal, vintage, or historical portrait",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 clear and original photo of myself",
       "roles": [
         {
@@ -699,6 +718,7 @@
       "englishName": "Virtually try on glasses",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 frontal photo of the person + 1 target glasses material or style description",
       "roles": [
         {
@@ -757,6 +777,7 @@
       "englishName": "Preview a tattoo on a body photo",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 original photo of character skin + 1 target tattoo design + 1 tattoo location",
       "roles": [
         {
@@ -824,6 +845,7 @@
       "englishName": "Turn a portrait photo into a cartoon avatar",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 clear photo of my head",
       "roles": [
         {
@@ -874,6 +896,7 @@
       "englishName": "Turn a portrait photo into an anime character",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 clear photo of my head",
       "roles": [
         {
@@ -924,6 +947,7 @@
       "englishName": "Turn a person into a packaged action figure",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 photo of a person",
       "roles": [
         {
@@ -970,6 +994,7 @@
       "englishName": "Turn a photo into chat stickers",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "1 photo of a person, pet or object + 0 or 1 action or emotion from this sticker",
       "roles": [
         {
@@ -1022,6 +1047,7 @@
       "englishName": "Turn a personal or couple photo into a movie poster",
       "group": "people",
       "category": "Characters and personal image",
+      "inputMode": "task-specific",
       "inputSummary": "Required original photo of an individual, couple or group (1 photo) + Required original poster theme and title (1 copy) + Optional signature and date (0 or 1 set)",
       "roles": [
         {
@@ -1080,6 +1106,7 @@
       "englishName": "Turn a house photo into a watercolor or line-art keepsake",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "1 photo of the house",
       "roles": [
         {
@@ -1130,6 +1157,7 @@
       "englishName": "Preview different interior styles in a room photo",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Photo of the existing room → Keep the structure of the space and replace styles, furniture and materials → Single rendering of the current decoration",
       "roles": [
         {
@@ -1180,6 +1208,7 @@
       "englishName": "Create a landscape makeover concept from a yard photo",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Photos of courtyard or exterior space + usage requirements, climate or location → Add plants, paving and facilities → Current single landscape rendering",
       "roles": [
         {
@@ -1227,6 +1256,7 @@
       "englishName": "Preview wall paint, flooring, and wallpaper",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Indoor photo + target material sample + replacement surface and target color/material → Replace surface color and material → Preview of current single material effect",
       "roles": [
         {
@@ -1295,6 +1325,7 @@
       "englishName": "Create an office redesign concept",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Office site photos + team, functional area, brand and branch description → Generate workstations, meeting areas and brand spaces → Current single office concept map",
       "roles": [
         {
@@ -1352,6 +1383,7 @@
       "englishName": "Virtually stage an empty property with furniture and decor",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Photos of vacant rooms → Generate furniture that conforms to the perspective of the space → Current single virtual layout of the house",
       "roles": [
         {
@@ -1398,6 +1430,7 @@
       "englishName": "Turn a casual room photo into a polished property listing image",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "A random photo of a room with clutter → Remove clutter, clean up the room and keep the space real → A single, tidy sales presentation of the current property",
       "roles": [
         {
@@ -1444,6 +1477,7 @@
       "englishName": "Create an architectural facade concept from text or a sketch",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Architectural sketch or block diagram + architectural use and design keywords → Generate materials, environment and light → Current single architectural concept rendering",
       "roles": [
         {
@@ -1497,6 +1531,7 @@
       "englishName": "Turn an interior or architectural sketch into a realistic render",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Interior or architectural sketch/CAD wireframe + space usage and sketch meaning → retain the structure and supplement materials and lighting → current single realistic space rendering",
       "roles": [
         {
@@ -1553,6 +1588,7 @@
       "englishName": "Create a mood board for an architecture or interior project",
       "group": "spaces",
       "category": "House and space",
+      "inputMode": "task-specific",
       "inputSummary": "Spatial atmosphere and material reference board + project type and keywords → Organize and generate a consistent visual direction → Current single Mood Board",
       "roles": [
         {
@@ -1610,6 +1646,7 @@
       "englishName": "Turn an ordinary product photo into a white-background listing image",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product photo taken with mobile phone",
       "roles": [
         {
@@ -1660,6 +1697,7 @@
       "englishName": "Create a reusable product PNG with a transparent background",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product photo",
       "roles": [
         {
@@ -1710,6 +1748,7 @@
       "englishName": "Place a product in a realistic lifestyle scene",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product white background picture",
       "roles": [
         {
@@ -1760,6 +1799,7 @@
       "englishName": "Turn an ordinary photo into a professional studio product shot",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product photo",
       "roles": [
         {
@@ -1810,6 +1850,7 @@
       "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product photo + 1 holiday or promotional theme",
       "roles": [
         {
@@ -1866,6 +1907,7 @@
       "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 food photo or product description",
       "roles": [
         {
@@ -1913,6 +1955,7 @@
       "englishName": "Turn flat-lay clothing into an on-model image",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 clothing tile",
       "roles": [
         {
@@ -1963,6 +2006,7 @@
       "englishName": "Show a product being held or used",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product picture",
       "roles": [
         {
@@ -2013,6 +2057,7 @@
       "englishName": "Create a product infographic with dimensions, features, and specifications",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "1 product photo + 1 set of accurate dimensions, selling points and parameters",
       "roles": [
         {
@@ -2065,6 +2110,7 @@
       "englishName": "Create a long-form e-commerce detail image from product information",
       "group": "products",
       "category": "Commodity and e-commerce",
+      "inputMode": "task-specific",
       "inputSummary": "Multiple pictures of the same product + 1 set of selling points and accurate copywriting",
       "roles": [
         {
@@ -2136,6 +2182,7 @@
       "englishName": "Create a YouTube video thumbnail",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Original image of video character or theme object + video theme or title → Generate high-contrast composition and title area → Current single YouTube Thumbnail",
       "roles": [
         {
@@ -2187,6 +2234,7 @@
       "englishName": "Create a promotional poster from a topic and copy",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "The original main visual material of the event + event name, core information, time and location or participation method → ​​Generate a poster with text and images → Current single event poster",
       "roles": [
         {
@@ -2238,6 +2286,7 @@
       "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Original image of promotional products + festival or sales node, goods or services, promotional information → Apply festival theme and generate layout → Current single node promotion image",
       "roles": [
         {
@@ -2295,6 +2344,7 @@
       "englishName": "Create a conference, exhibition, or speaking-event poster",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Original images of speakers, exhibitors or exhibits + event title, speaker or exhibitor information, time, location or participation method → ​​Generate standardized event poster → Current single conference poster",
       "roles": [
         {
@@ -2337,6 +2387,7 @@
       "englishName": "Turn a complex concept into an infographic visual",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Existing information structure sketch + factual content, information structure or relationship → Generate icons, composition and visual hierarchy → Current leaflet Infographic",
       "roles": [
         {
@@ -2384,6 +2435,7 @@
       "englishName": "Create a newsletter header or article cover",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Original image of the person, product or event material involved in the article + article topic → Generate horizontal cover and branded illustrations → Current single article header image",
       "roles": [
         {
@@ -2431,6 +2483,7 @@
       "englishName": "Create device mockups and app-store promotional images",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Screenshots of the actual interface of the target application + target device and real functional selling points → Insert mobile device and add marketing background → Current single App Mockup",
       "roles": [
         {
@@ -2483,6 +2536,7 @@
       "englishName": "Create restaurant menu visuals and dish imagery",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Original photos of real dishes + dish names, accurate prices, categories → Generate layout, illustrations and real dish pictures → Current single menu",
       "roles": [
         {
@@ -2530,6 +2584,7 @@
       "englishName": "Create logo concepts from a brand description",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Existing brand logo and identity assets original draft + brand name, brand positioning, target audience → Generate multiple logo directions → Current single logo draft",
       "roles": [
         {
@@ -2581,6 +2636,7 @@
       "englishName": "Create readable display lettering and title effects",
       "group": "design",
       "category": "Creativity and Visual Design",
+      "inputMode": "task-specific",
       "inputSummary": "Specify font or material font effect template + accurate text and purpose → generate text with material and style → current single font art",
       "roles": [
         {
@@ -2624,6 +2680,2222 @@
       ],
       "publicationStatus": "draft",
       "websiteUrl": "https://dearsketch.com/en/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    },
+    {
+      "id": "I054",
+      "title": "Text generation channel avatar",
+      "name": "Generate YouTube channel or live broadcast avatar",
+      "englishName": "Create a profile picture for YouTube or streaming",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Creator avatar",
+      "useCase": "YouTube, live broadcast platform",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not depict a real host or claim resemblance to an existing character.",
+      "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
+      "document": "docs/cases/i054-create-a-profile-picture-for-youtube-or-streaming.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photos of people or drawings of existing characters",
+            "file": "assets/cases/i054-before-1.webp",
+            "sha256": "158fd0c5a855731caca41fbfd4311da7d97ca2f20d14d18ad9fcbea32dfabe39"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i054-after.webp",
+          "sha256": "993ae428751bde41666b11ab90ab9bef6fb7e0282c1f8c6b991278e0cf4c1ab8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI tools",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta"
+    },
+    {
+      "id": "I057",
+      "title": "Custom Emoji",
+      "name": "Generate custom Emoji based on text",
+      "englishName": "Create a custom emoji from text",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Custom Emoji",
+      "useCase": "Community, chat, content",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check the expression at small size; platform emoji packaging is a separate step.",
+      "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
+      "document": "docs/cases/i057-create-a-custom-emoji-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i057-after.webp",
+          "sha256": "a02888b0c3da700d0577e2d133e58ba9d432db8fb9c4a672b7e10a5fd6ae6122"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta"
+    },
+    {
+      "id": "I100",
+      "title": "Garment seamless printing",
+      "name": "Generate seamless prints and fabric patterns for clothing",
+      "englishName": "Create seamless prints and fabric patterns for clothing",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "fabric printing",
+      "useCase": "Clothing production, POD",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Test a 3-by-3 repeat for seams, accidental stripes and awkward gaps before fabric production.",
+      "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
+      "document": "docs/cases/i100-create-seamless-prints-and-fabric-patterns-for-clothing.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i100-after.webp",
+          "sha256": "015459b67be436513fb08d0208a00179e9f9202c1b6c4a7c96567cef5cbe9133"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta"
+    },
+    {
+      "id": "I104",
+      "title": "Social post main visual",
+      "name": "Generate daily post visuals suitable for social platforms",
+      "englishName": "Create everyday social media post visuals",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "social media posts",
+      "useCase": "Instagram, Facebook, Xiaohongshu",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent a real product, testimonial or news event; proofread the headline.",
+      "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
+      "document": "docs/cases/i104-create-everyday-social-media-post-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i104-after.webp",
+          "sha256": "8605f5086a4db0d9bafac47476a6e6fe97ebabe66c4155275abefb9fe9079749"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI tools",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta"
+    },
+    {
+      "id": "I109",
+      "title": "event banner",
+      "name": "Generate website, advertising and event banners",
+      "englishName": "Create a website, advertising, or event banner",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Banner",
+      "useCase": "Website, exhibition, advertising",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Use only supplied campaign facts; do not invent discounts, dates or endorsements.",
+      "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
+      "document": "docs/cases/i109-create-a-website-advertising-or-event-banner.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i109-after.webp",
+          "sha256": "9e252b20640665af7e76f1e2e58ba58436b06e7b5649849d6f82cc9226c5f307"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta"
+    },
+    {
+      "id": "I113",
+      "title": "text invitation",
+      "name": "Generate wedding, birthday or party invitations",
+      "englishName": "Create a wedding, birthday, or party invitation",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "invitation letter",
+      "useCase": "Weddings, birthdays, parties",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Omit any unspecified personal detail; proofread all event information before sending.",
+      "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
+      "document": "docs/cases/i113-create-a-wedding-birthday-or-party-invitation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i113-after.webp",
+          "sha256": "9c6a2e8ed3bd7762404803b9bce913560987fdc52c6dfd0bfb4cdf45fba96bd8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor function center",
+          "url": "https://www.fotor.com/features/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta"
+    },
+    {
+      "id": "I114",
+      "title": "holiday greeting card",
+      "name": "Generate holiday or personalized greeting cards",
+      "englishName": "Create a holiday or personalized greeting card",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Greeting Card",
+      "useCase": "Holiday greetings, customer relations",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Use only the requested cultural symbols; do not infer a recipient’s religion or personal circumstances.",
+      "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
+      "document": "docs/cases/i114-create-a-holiday-or-personalized-greeting-card.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Greeting Cards Personalized People or Pet Photos",
+            "file": "assets/cases/i114-before-1.webp",
+            "sha256": "9348c5cd9e3592e651b71c7a53e775713d2cf6ba0104853f088acf5ac69b90de"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i114-after.webp",
+          "sha256": "87b5021b56fafc10dd6e818d29a7534017a9a26c371c77d4bbbabde92d76684b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta"
+    },
+    {
+      "id": "I116",
+      "title": "campus event poster",
+      "name": "Generate school event or course posters",
+      "englishName": "Create a school event or course poster",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "campus poster",
+      "useCase": "Campus activities, classes",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent school emblems, staff identities or approval claims; verify every event fact.",
+      "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
+      "document": "docs/cases/i116-create-a-school-event-or-course-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i116-after.webp",
+          "sha256": "f31f1036aa478020876d3a420917ff3af5cbda2bdd27859797f8aa924ea62faf"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta"
+    },
+    {
+      "id": "I117",
+      "title": "Demo theme pictures",
+      "name": "Generate theme-matching images for PPT",
+      "englishName": "Create theme-matched visuals for a presentation",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "PPT with pictures",
+      "useCase": "Business presentations, classroom reports",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent data or labels; show only the supplied conceptual relationship.",
+      "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
+      "document": "docs/cases/i117-create-theme-matched-visuals-for-a-presentation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i117-after.webp",
+          "sha256": "58facce1335e5354d9da6c674ac4a9c5d91f31104ee60e47a2d1dac6dc119268"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta"
+    },
+    {
+      "id": "I120",
+      "title": "Website Hero concept visual",
+      "name": "Generate website homepage Hero vision",
+      "englishName": "Create a website homepage hero visual",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Website Hero Image",
+      "useCase": "Official website home page",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not fabricate a real interface, user testimonial or product feature; keep it a brand concept.",
+      "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
+      "document": "docs/cases/i120-create-a-website-homepage-hero-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i120-after.webp",
+          "sha256": "bf2a4de3913ebe163cd712c8816c5283dba209a0bb43de65478c815136eaebd3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta"
+    },
+    {
+      "id": "I122",
+      "title": "text quotation card",
+      "name": "Generate quotation cards and knowledge cards with text",
+      "englishName": "Create quote cards and educational cards with text",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Quote Card",
+      "useCase": "social media",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Include “[CONFIRMED ATTRIBUTION OR NONE]” only as supplied; do not invent a quotation source.",
+      "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
+      "document": "docs/cases/i122-create-quote-cards-and-educational-cards-with-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i122-after.webp",
+          "sha256": "2a117561d56d40cd09a063e010d079d82562fd1697998eef80f77bd578147516"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI tools",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta"
+    },
+    {
+      "id": "I127",
+      "title": "New icon style",
+      "name": "Generate product or interface icons",
+      "englishName": "Create product or interface icons",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "icon asset",
+      "useCase": "Apps, websites, demos",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check it at [TARGET PIXEL SIZE]; this creates a new direction and does not match an unseen icon system.",
+      "detailPath": "/intent/i127-create-product-or-interface-icons.html",
+      "document": "docs/cases/i127-create-product-or-interface-icons.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i127-after.webp",
+          "sha256": "7627ac87fc6964bec5d0333339c981336a0a3b316c23ef5a883f0984f83e896b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta"
+    },
+    {
+      "id": "I128",
+      "title": "Geometric vector wind illustration",
+      "name": "Generate editable vector illustrations from text",
+      "englishName": "Create an editable vector illustration from text",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "vector illustration",
+      "useCase": "Brand, printing, web page",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "A raster preview is not an editable SVG; inspect and rebuild paths in a vector editor if needed.",
+      "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
+      "document": "docs/cases/i128-create-an-editable-vector-illustration-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i128-after.webp",
+          "sha256": "d28fa7c7b5cb1eb4d61f849f95c80945a9f69afff4c41e90da3702a0a366be28"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta"
+    },
+    {
+      "id": "I129",
+      "title": "Custom gallery concept",
+      "name": "Generate theme-specific custom gallery images",
+      "englishName": "Create custom stock imagery for a specific theme",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Custom Stock Image",
+      "useCase": "Articles, ads, presentations",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Use fictional people and unbranded objects; do not represent a real event or actual product.",
+      "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
+      "document": "docs/cases/i129-create-custom-stock-imagery-for-a-specific-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i129-after.webp",
+          "sha256": "6543306587dd83c34b86ceab0df6185a954720a7d3d5220f4752da7117762827"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta"
+    },
+    {
+      "id": "I134",
+      "title": "New packaging visual concept",
+      "name": "Generate visual concepts for packaging labels and box shapes",
+      "englishName": "Create packaging label and box concepts",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "packaging design concept",
+      "useCase": "New product proposals and testing",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not infer certification, ingredients or performance; this is not a dieline or manufacturing file.",
+      "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
+      "document": "docs/cases/i134-create-packaging-label-and-box-concepts.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i134-after.webp",
+          "sha256": "8cc806d6d7ced177e8f4141f48b94a9acf1abdde0da55b38dc3e97f2b631304f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta"
+    },
+    {
+      "id": "I135",
+      "title": "Brand background pattern",
+      "name": "Generate repeatable backgrounds, textures and branding patterns",
+      "englishName": "Create repeatable backgrounds, textures, and brand patterns",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Pattern and Texture",
+      "useCase": "Packaging, web, printing",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "This defines a new pattern rather than preserving unseen brand artwork; test the repeat.",
+      "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
+      "document": "docs/cases/i135-create-repeatable-backgrounds-textures-and-brand-patterns.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i135-after.webp",
+          "sha256": "5d6f77bbadb952a57ba1c5adf6ce9953993123b0123396eb9ac2805a82f9515a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta"
+    },
+    {
+      "id": "I143",
+      "title": "text book cover",
+      "name": "Generate book cover based on book title and content",
+      "englishName": "Create a book cover from its title and content",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Book Cover",
+      "useCase": "e-books, paper books",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent endorsements or series branding; verify title typography and actual print dimensions separately.",
+      "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
+      "document": "docs/cases/i143-create-a-book-cover-from-its-title-and-content.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i143-after.webp",
+          "sha256": "2cbcfc06ec66ffa87799fbffdf0013166f0da364e92099170e84873514c6bede"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Canva AI generated page",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta"
+    },
+    {
+      "id": "I146",
+      "title": "New character set sheet",
+      "name": "Generate character sheets and multi-angle views",
+      "englishName": "Create a character sheet with multiple views",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Character Sheet",
+      "useCase": "animation, games, stories",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images. Site Conditions Reference Image Selection Not Applicable.",
+      "check": "This establishes a new character; check view consistency and avoid inventing an unseen existing identity.",
+      "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
+      "document": "docs/cases/i146-create-a-character-sheet-with-multiple-views.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i146-after.webp",
+          "sha256": "f94946ce3b0bb33397570289229d252cb40f6333acec1d8155347f6711571d07"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt image generation",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta"
+    },
+    {
+      "id": "I147",
+      "title": "worldview concept art",
+      "name": "Generate movie, game or advertising concept art from text",
+      "englishName": "Create concept art for film, games, or advertising from text",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Concept Art",
+      "useCase": "Early development and proposals",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Make geography, foreground and background readable; use original designs rather than existing franchise assets.",
+      "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
+      "document": "docs/cases/i147-create-concept-art-for-film-games-or-advertising-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i147-after.webp",
+          "sha256": "f90d9e2297c50f0ed281778f68f0206bdd8f64fbdcd818bd62951528219c1f87"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "OpenArt image generation",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta"
+    },
+    {
+      "id": "I150",
+      "title": "adult coloring pages",
+      "name": "Batch generate adult coloring book pages",
+      "englishName": "Create adult coloring book pages in batches",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "adult coloring book",
+      "useCase": "Etsy、KDP",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check broken lines, unfillable slivers and print margins; this run delivers one page, not a whole book.",
+      "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
+      "document": "docs/cases/i150-create-adult-coloring-book-pages-in-batches.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i150-after.webp",
+          "sha256": "af0a6adec0734f8cbb8f6d359a4008c6eb9056e899594e43a89d3a27d0030af5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI coloring book",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta"
+    },
+    {
+      "id": "I151",
+      "title": "Illustrations for age-appropriate textbooks",
+      "name": "Generate age-appropriate illustrations for teaching materials or worksheets",
+      "englishName": "Create age-appropriate illustrations for textbooks or worksheets",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "educational illustration",
+      "useCase": "Classroom, teaching materials",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not add unsupported scientific facts or labels; have a teacher check the concept and age suitability.",
+      "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
+      "document": "docs/cases/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i151-after.webp",
+          "sha256": "5f9b36c0e078ce47abce0b974ba479e3554504a64a17931b348251a3a72f0872"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta"
+    },
+    {
+      "id": "I152",
+      "title": "Cultural story illustrations",
+      "name": "Generate religious stories, historical or cultural themed illustrations",
+      "englishName": "Create religious, historical, or cultural illustrations",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Cultural Narrative Illustrations",
+      "useCase": "Publishing, education, events",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Keep unspecified historical details understated; identify it as an interpretation and check cultural accuracy separately.",
+      "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
+      "document": "docs/cases/i152-create-religious-historical-or-cultural-illustrations.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i152-after.webp",
+          "sha256": "6d8730a65b421783cd2e22d59e27ad0c9b019776821be9283d948c733cd1272f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta"
+    },
+    {
+      "id": "I154",
+      "title": "Article concept illustration",
+      "name": "Generate concept illustrations for articles, magazines and reports",
+      "englishName": "Create editorial illustrations for articles, magazines, and reports",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Editorial Illustration",
+      "useCase": "media, reports",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not depict fictional actions as factual events or invent portraits of real people.",
+      "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
+      "document": "docs/cases/i154-create-editorial-illustrations-for-articles-magazines-and-reports.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i154-after.webp",
+          "sha256": "2619f24d13b94e891053cde5d58c2e31a47cf8e37f82d5aca289a1972bdf8997"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta"
+    },
+    {
+      "id": "I155",
+      "title": "music release cover",
+      "name": "Generate album covers and music release visuals",
+      "englishName": "Create album cover art and music-release visuals",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Album Cover",
+      "useCase": "Music platform, promotion",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Add only “[EXACT TITLE AND ARTIST OR NO TEXT]”; do not invent a likeness or claim a real artist’s endorsement.",
+      "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
+      "document": "docs/cases/i155-create-album-cover-art-and-music-release-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Original artist photo",
+            "file": "assets/cases/i155-before-1.webp",
+            "sha256": "6a6bb192a92ed9fa5a7e6dd3ded31ee13732f3bc08780437e0a5cb932ae3434d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i155-after.webp",
+          "sha256": "8225681c4c33302e5040e905a500e79823dc0ef56a56bd75672800080c2ae3f6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta"
+    },
+    {
+      "id": "I156",
+      "title": "Original T-shirt graphic",
+      "name": "Generate printable T-shirt graphics",
+      "englishName": "Create a print-ready T-shirt design",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "T-shirt printing",
+      "useCase": "POD shop, event peripherals",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Show the artwork without a garment mockup; verify resolution, ink limits and file transparency before production.",
+      "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
+      "document": "docs/cases/i156-create-a-print-ready-t-shirt-design.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i156-after.webp",
+          "sha256": "7e9e610afde406e9533edaca7660979ab65f258c38c12cd4a96c441818e86b35"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        },
+        {
+          "label": "Adobe T-shirt design",
+          "url": "https://www.adobe.com/products/firefly/features/ai-graphic-design-generator/custom-t-shirt-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta"
+    },
+    {
+      "id": "I157",
+      "title": "Original sticker design",
+      "name": "Generate themed sticker sets",
+      "englishName": "Create a themed sticker set",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "sticker pack",
+      "useCase": "Etsy, cultural and creative",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Deliver one sticker only; verify alpha and cut contour separately rather than assuming a preview is print-ready.",
+      "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
+      "document": "docs/cases/i157-create-a-themed-sticker-set.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i157-after.webp",
+          "sha256": "366e082ff8bd8d80d74e0abbdc6c372f4c6cc03466d480b2952ef5d0c2fb9632"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI tools",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta"
+    },
+    {
+      "id": "I158",
+      "title": "character wall painting",
+      "name": "Generate printable wall art and decorative art",
+      "englishName": "Create printable wall art and decorative artwork",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Wall Art",
+      "useCase": "Etsy, Home Decor",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent a personal memory or real place; check delivered pixels, crop and print proof before printing.",
+      "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
+      "document": "docs/cases/i158-create-printable-wall-art-and-decorative-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i158-after.webp",
+          "sha256": "5e38b9fb94f8bd68300bcb4f089429fc1a4cf044f03e40543e43316080b87485"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Etsy AI wall art",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta"
+    },
+    {
+      "id": "I159",
+      "title": "Personalized wallpaper",
+      "name": "Generate personalized wallpaper for mobile phone or desktop",
+      "englishName": "Create a personalized phone or desktop wallpaper",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "wallpaper",
+      "useCase": "mobile phone, desktop",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check the actual device crop and icon readability; no real person or supplied photo is required.",
+      "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
+      "document": "docs/cases/i159-create-a-personalized-phone-or-desktop-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i159-after.webp",
+          "sha256": "417a0df16163806c28f37213c710b0c30afd08b816086047303156b9a17c5109"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta"
+    },
+    {
+      "id": "I160",
+      "title": "Embroidery style pattern concept",
+      "name": "Convert text or pictures into embroidery pattern directions",
+      "englishName": "Turn text or an image into an embroidery design direction",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "embroidery design",
+      "useCase": "Clothing, badges, handicrafts",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images. Choose the text-only theme branch for the website.",
+      "check": "This is a visual motif, not digitized stitch instructions; stitch count, density and machine files need separate work.",
+      "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
+      "document": "docs/cases/i160-turn-text-or-an-image-into-an-embroidery-design-direction.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Photo or original logo",
+            "file": "assets/cases/i160-before-1.webp",
+            "sha256": "bc47fd8fdd15534fccf3b793f81bd83ec06ecca8755e98c9008a505b60f87f61"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i160-after.webp",
+          "sha256": "fa554ac3b0cc37b35a46aec0522362c00e13be56ee338a059c3bc99f325f2953"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta"
+    },
+    {
+      "id": "I161",
+      "title": "Original tattoo sketch",
+      "name": "Generate custom tattoo sketches based on theme",
+      "englishName": "Create a custom tattoo sketch from a theme",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "tattoo design draft",
+      "useCase": "tattoo consultation",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check spelling and symbol meaning; have a tattoo artist assess line spacing and practical placement.",
+      "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
+      "document": "docs/cases/i161-create-a-custom-tattoo-sketch-from-a-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i161-after.webp",
+          "sha256": "247acbe783240c095f9680a97659c0a75d9584182778965efba966bec1a602b1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Picsart AI tools",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta"
+    },
+    {
+      "id": "I163",
+      "title": "Tote bag or phone case pattern",
+      "name": "Generate personalized patterns for handbags or mobile phone cases",
+      "englishName": "Create personalized artwork for a tote bag or phone case",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Product pattern",
+      "useCase": "POD, customized gifts",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Deliver artwork, not a product mockup; exact fit requires the manufacturer’s template and a print proof.",
+      "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
+      "document": "docs/cases/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i163-after.webp",
+          "sha256": "c3a129d50971a2910705987b16daea77a8ff65f08aaf661b1c2e15f6f462951e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI pet portraits",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        },
+        {
+          "label": "Etsy AI Mockup",
+          "url": "https://www.etsy.com/market/ai_generated_mockups"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta"
+    },
+    {
+      "id": "I164",
+      "title": "Holiday series greeting card leaflet",
+      "name": "Generate sellable holiday card packages",
+      "englishName": "Create a sellable set of holiday greeting cards",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Printable greeting cards",
+      "useCase": "Etsy, branded gifts",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Create only this entry; keeping later cards identical in style requires reusing these written rules and reviewing the series.",
+      "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
+      "document": "docs/cases/i164-create-a-sellable-set-of-holiday-greeting-cards.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i164-after.webp",
+          "sha256": "574d8facd70daad8f3111f5b1217d090956f58f05ee8fcd8245fdb47b106eb77"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta"
+    },
+    {
+      "id": "I165",
+      "title": "Decorative seamless pattern",
+      "name": "Generate seamless patterns for fabrics, wrapping papers and wallpapers",
+      "englishName": "Create seamless patterns for fabric, wrapping paper, or wallpaper",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Seamless Pattern",
+      "useCase": "Fabric, packaging, home furnishing",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Inspect a repeated grid at the intended physical scale; do not claim certified production readiness.",
+      "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
+      "document": "docs/cases/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i165-after.webp",
+          "sha256": "5c7a0af7d23c35554a0e2d4797fbc9f46e294d112ff3419e4fd7d46124f00a0f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta"
+    },
+    {
+      "id": "I166",
+      "title": "Cutting line drawing concept",
+      "name": "Generate vector line art suitable for Cricut or laser cutting",
+      "englishName": "Create vector line art for Cricut or laser cutting",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "SVG cutting file",
+      "useCase": "Cricut, laser cutting",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "The image is a drafting reference, not an executable cut file; rebuild and test vector paths in the cutting software.",
+      "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
+      "document": "docs/cases/i166-create-vector-line-art-for-cricut-or-laser-cutting.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Original image to be converted",
+            "file": "assets/cases/i166-before-1.webp",
+            "sha256": "5b60ae3103e34ad380bda35d2a76249784ccd6477ba1df4e38680629e06f4bb1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i166-after.webp",
+          "sha256": "89468bba6e49bc2ef3f2c701174a050eda37eeb8fd1853352560e17d72b294d2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI wall art",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta"
+    },
+    {
+      "id": "I167",
+      "title": "Children's coloring book single page",
+      "name": "Generate a complete set of pages and covers for a KDP coloring book",
+      "englishName": "Create a complete KDP coloring book with pages and a cover",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "KDP coloring book",
+      "useCase": "Amazon KDP",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "No cover, page grid or complete book in this run; review age suitability, line continuity and print dimensions.",
+      "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
+      "document": "docs/cases/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i167-after.webp",
+          "sha256": "bff8b4fb1ad7eebdf3be0a956ba5e94040f8b14eae067879134a90a164c42cf0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI coloring book",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        },
+        {
+          "label": "Stelar Children's Storybook",
+          "url": "https://www.usestelar.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta"
+    },
+    {
+      "id": "I168",
+      "title": "Print poster visual",
+      "name": "Generate high-resolution printable posters",
+      "englishName": "Create a high-resolution printable poster",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Print-ready Poster",
+      "useCase": "exhibitions, walls, events",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check actual pixel dimensions, typography, bleed and a physical proof; prompting alone cannot guarantee print resolution.",
+      "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
+      "document": "docs/cases/i168-create-a-high-resolution-printable-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i168-after.webp",
+          "sha256": "e8518bbcc1362cca6945c70a5969bbb2bd0e7524271f1b8e6e2e0ff4bb8a68a6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta"
+    },
+    {
+      "id": "I173",
+      "title": "New design direction for commercial space",
+      "name": "Generate restaurant, store or showroom design directions",
+      "englishName": "Create design directions for a restaurant, shop, or showroom",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Commercial space concept map",
+      "useCase": "Store opening, renovation, proposal",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "With no site photo this is a fictional space concept, not an alteration of an actual property or a construction plan.",
+      "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
+      "document": "docs/cases/i173-create-design-directions-for-a-restaurant-shop-or-showroom.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Original picture of commercial space scene",
+            "file": "assets/cases/i173-before-1.webp",
+            "sha256": "8f623b91bcaf5e68e8f55a74e7e3ffd9b36ba6387782f2117df3bc06cff4a74b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i173-after.webp",
+          "sha256": "6f1b2fdb3fdd3bcec5a9ec10770be99ace4912f9d03b905b42100b3f44effffd"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Adobe room design",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta"
+    },
+    {
+      "id": "I185",
+      "title": "New direction in product styling",
+      "name": "Generate multiple product styling directions from demand descriptions",
+      "englishName": "Create multiple product form directions from a brief",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "product concept group",
+      "useCase": "Brainstorming and preliminary design",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Choose one direction per run; do not claim mechanical validation or preservation of an unseen existing product.",
+      "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
+      "document": "docs/cases/i185-create-multiple-product-form-directions-from-a-brief.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i185-after.webp",
+          "sha256": "f2d99f2180dfabb1b736be8884befe00795e2193ef3c53f068d589fbdaa88918"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta"
+    },
+    {
+      "id": "I187",
+      "title": "text car shape",
+      "name": "Generate car styling concepts from text or sketches",
+      "englishName": "Create a car design concept from text or a sketch",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "car concept illustration",
+      "useCase": "design exploration, content",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "This is an exterior concept, not validated aerodynamics, engineering or a redesign of an unseen real model.",
+      "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i187-create-a-car-design-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Car sketch or body reference original drawing",
+            "file": "assets/cases/i187-before-1.webp",
+            "sha256": "015edd8d00dd90e1907df8f18220f543d4694e7b7b0ccd8d9791d2e5a53811cc"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i187-after.webp",
+          "sha256": "6fefebe2c3ea4fbcebca351ad1dcc9919debad9d4ce7e294c52d7e028efd607a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "OpenArt sketch to image",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta"
+    },
+    {
+      "id": "I189",
+      "title": "Shoe bag accessories design",
+      "name": "Generate shoe, bag and accessory design concepts",
+      "englishName": "Create design concepts for shoes, bags, and accessories",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Accessories concept drawing",
+      "useCase": "Series designs and proposals",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not invent brand marks or promise fit, strength or manufacturability; review those against a physical prototype.",
+      "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
+      "document": "docs/cases/i189-create-design-concepts-for-shoes-bags-and-accessories.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Original sketch of shoe and bag accessories",
+            "file": "assets/cases/i189-before-1.webp",
+            "sha256": "beef87e21fb9b63b1ff09dabe268f525e5a2a511c7838a5de4af145ebae2c7cd"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i189-after.webp",
+          "sha256": "8c6c04b616b6fc768100f913cca8e60e5adc3fa8e86eab94c211560407dc2a56"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "OpenArt sketch to image",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta"
+    },
+    {
+      "id": "I190",
+      "title": "Packaging structure and display concepts",
+      "name": "Quickly explore different packaging structures and shelf effects",
+      "englishName": "Explore packaging structures and shelf presence",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Packaging concept map",
+      "useCase": "New product decision-making and testing",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images. Site Conditions Reference Image Selection Not Applicable.",
+      "check": "Keep repeated packs consistent; do not imply a tested dieline, shelf load rating or actual stocked product.",
+      "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
+      "document": "docs/cases/i190-explore-packaging-structures-and-shelf-presence.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Product, logo and real packaging copywriting",
+            "file": "assets/cases/i190-before-1.webp",
+            "sha256": "200267d2e135f7d97c2311cf2ab0bffe7da0a762fc839a67afb650a35f0fa00d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i190-after.webp",
+          "sha256": "eb063e79165c04c9866dc9093a5d2021f6d7ffcd84cb0b0efce7340883a7f493"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta"
+    },
+    {
+      "id": "I191",
+      "title": "virtual product prototype",
+      "name": "Generate displayable product prototypes before making physical objects",
+      "englishName": "Create a presentation-ready product prototype image before production",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "virtual product prototype",
+      "useCase": "Financing, user interviews, crowdfunding",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "This visualizes the written brief only; it does not establish internal engineering, safety or real-world performance.",
+      "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
+      "document": "docs/cases/i191-create-a-presentation-ready-product-prototype-image-before-production.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Product sketch or structural manuscript",
+            "file": "assets/cases/i191-before-1.webp",
+            "sha256": "0bdb574406864f5123718ba2ad445200a2059d3bf45cf5da4d4d55c2bf70e19f"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i191-after.webp",
+          "sha256": "18d37e69528418bc2768aaa026ee92f7be22bcf6400caf1202a3a6b470985f8f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt sketch to image",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "insMind product photography",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta"
+    },
+    {
+      "id": "I193",
+      "title": "Three-dimensional style product concept map",
+      "name": "Generate 3D renderings of static visuals of products",
+      "englishName": "Create a 3D-render-style product visual",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "3D style product images",
+      "useCase": "Advertisements, proposals",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "This is a fictional product visualization and a flat image, not an existing item photograph or a downloadable 3D model.",
+      "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
+      "document": "docs/cases/i193-create-a-3d-render-style-product-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i193-after.webp",
+          "sha256": "92be8d810954b8d5b8815cbe75f17202555d737558ba3980f4e1d4287766e66b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Canva AI generated page",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta"
+    },
+    {
+      "id": "I194",
+      "title": "Original 2D Sprite",
+      "name": "Generate 2D game sprites from text or reference images",
+      "englishName": "Create a 2D game sprite from text or a reference image",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Game Sprite",
+      "useCase": "Prototyping and game production",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Create one pose only; verify the real alpha channel, pixel dimensions and game-engine import separately.",
+      "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
+      "document": "docs/cases/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i194-after.webp",
+          "sha256": "6c56dc6d46316a0736eab168acddba614272f784519138794b5b2f1c15a9684d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Unity Sprite generation",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        },
+        {
+          "label": "Ludo.ai game assets",
+          "url": "https://ludo.ai/docs/game-asset-generation"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta"
+    },
+    {
+      "id": "I196",
+      "title": "text pixel asset",
+      "name": "Convert images or descriptions into pixel style game assets",
+      "englishName": "Turn an image or description into pixel-art game assets",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Pixel ArtAsset",
+      "useCase": "Retro games, prototypes",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Do not convert or imitate an unseen photo; check the actual pixel grid at native size before game use.",
+      "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
+      "document": "docs/cases/i196-turn-an-image-or-description-into-pixel-art-game-assets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i196-after.webp",
+          "sha256": "79b1cd9349befff01f211b21412e5c20589f3bdfc4d863c447fd08823edfd4f4"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Unity Sprite generation",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta"
+    },
+    {
+      "id": "I197",
+      "title": "Game character and costume concepts",
+      "name": "Generate game character concepts and costume directions",
+      "englishName": "Create game character concepts and outfit directions",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Character concept art",
+      "useCase": "Early game development",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Use new character design from the written brief; do not claim continuity with an unseen existing character.",
+      "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
+      "document": "docs/cases/i197-create-game-character-concepts-and-outfit-directions.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i197-after.webp",
+          "sha256": "99a0c192812913032553fa8f263a8932720235c648a1b033a84690391582ab65"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt image generation",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta"
+    },
+    {
+      "id": "I198",
+      "title": "Board game character portrait",
+      "name": "Generate DND or tabletop game character portraits",
+      "englishName": "Create a D&D or tabletop character portrait",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "DND character map",
+      "useCase": "Running group, character card",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Keep anatomy and equipment coherent; create a new fictional identity without requiring a player photo.",
+      "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
+      "document": "docs/cases/i198-create-a-d-and-d-or-tabletop-character-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i198-after.webp",
+          "sha256": "68514597158e26c61f2760b6a5b73cb351854dccfed067a713849bcd48ffe1c0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta"
+    },
+    {
+      "id": "I201",
+      "title": "Game props concept",
+      "name": "Generate weapons, props, and pickup concepts",
+      "englishName": "Create concepts for weapons, props, and pickups",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Game props map",
+      "useCase": "Prop system, concept stage",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Keep it readable at [ON-SCREEN SIZE]; a concept image is not a production mesh or an engineering drawing.",
+      "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
+      "document": "docs/cases/i201-create-concepts-for-weapons-props-and-pickups.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i201-after.webp",
+          "sha256": "20b578c21c1cd8608db77d40ccc78918c0d26a053ca7ea56b230c59332b50aa5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta"
+    },
+    {
+      "id": "I202",
+      "title": "Game scenes and landmarks",
+      "name": "Generate game background, scene and landmark concepts",
+      "englishName": "Create concepts for game backgrounds, scenes, and landmarks",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "Game environment concept map",
+      "useCase": "Pre-level design",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Check spatial readability and consistent perspective; this is one flat concept frame, not a playable level.",
+      "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
+      "document": "docs/cases/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i202-after.webp",
+          "sha256": "d231d3cdd0b67912ea81873d063eadb037bdfe91563be4eed8c97d1265559551"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Recraft",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta"
+    },
+    {
+      "id": "I203",
+      "title": "Original illustrations for cards",
+      "name": "Generate character and scene illustrations for card games",
+      "englishName": "Create character and scene artwork for a card game",
+      "group": "text-only",
+      "category": "Pure text generation · No reference pictures required",
+      "inputMode": "text-only",
+      "inputSummary": "Just text, no reference pictures or other attachments needed; generate new concepts.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Text creation brief: fill in the theme, purpose and factual parameters in the prompt words",
+          "requirement": "required",
+          "quantity": "1 serving"
+        }
+      ],
+      "output": "card game art",
+      "useCase": "Physical or digital cards",
+      "deliveryNote": "Only one image is generated at a time, no need to upload images.",
+      "check": "Leave rules text, numbers and card frame for separate layout; this creates a new visual direction without an existing deck reference.",
+      "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
+      "document": "docs/cases/i203-create-character-and-scene-artwork-for-a-card-game.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i203-after.webp",
+          "sha256": "1d040a1932c98945bfacc663a32cf8e32e9eca5145d3bef8862402861f23ab30"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "All LightX tools",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/en/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta"
     }
   ],
   "locale": "en"

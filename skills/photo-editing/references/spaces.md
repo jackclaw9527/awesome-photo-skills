@@ -9,6 +9,7 @@ House keepsakes, interior previews, property presentation, landscape concepts, a
 
 Transform a house photo into a watercolor or line-art keepsake.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 房屋照片 — required
 - **Preserve:** Keep roofline, doors, windows, facade proportions, and distinctive site features.
 - **Change:** Change medium, background simplification, landscaping emphasis, and palette.
@@ -34,6 +35,7 @@ Deliver one finished keepsake image only.
 
 Preview a new interior style while retaining the photographed room structure.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 现有房间照片 — required
 - **Preserve:** Keep walls, doors, windows, ceiling, fixed openings, and camera viewpoint.
 - **Change:** Change furniture, finishes, decor, palette, and lighting mood.
@@ -59,6 +61,7 @@ Deliver one single-view room concept image only.
 
 Visualize a landscape makeover for a photographed outdoor space.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 庭院或外部空间照片 — required; 使用需求、气候或所在地 — required
 - **Preserve:** Keep lot boundaries, building, grades, access, and fixed structures.
 - **Change:** Change planting, paving, furniture, lighting, and amenity concepts.
@@ -84,6 +87,7 @@ Deliver one finished exterior concept image only.
 
 Replace specified room surfaces using either a supplied sample or an accurate color and material description.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 室内照片 — required; 目标材料样板 — conditional (需要复现具体纹理或产品样时); 替换表面与目标颜色/材质 — required
 - **Preserve:** Keep room structure, lighting logic, object placement, and untargeted surfaces.
 - **Change:** Change only named walls, floor, or wallpaper areas.
@@ -109,6 +113,7 @@ Deliver one edited material-preview image only.
 
 Visualize either an existing-office redesign from a site photo or a text-led workplace concept.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 办公室现场照片 — conditional (改造既有办公室时); 团队、功能区、品牌和分支说明 — required
 - **Preserve:** Keep visible structure and constraints only when a site photo is supplied.
 - **Change:** Change workstations, zones, furniture, branding, finishes, and lighting.
@@ -134,6 +139,7 @@ Deliver one office concept image only and flag technical questions for professio
 
 Add believable furniture and decor to an empty property photo.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 空房照片 — required
 - **Preserve:** Keep real architecture, room condition, windows, doors, and camera view.
 - **Change:** Change only movable furnishings, decor, soft goods, and lighting presentation.
@@ -159,6 +165,7 @@ Deliver one staged room image only.
 
 Clean up visible clutter while preserving the truthful condition and structure of a room.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 随手拍的有杂物房间照片 — required
 - **Preserve:** Keep layout, fixed elements, surfaces, lighting, and material defects.
 - **Change:** Remove only listed movable clutter and make restrained presentation corrections.
@@ -184,6 +191,7 @@ Deliver one cleaned property image only.
 
 Develop a facade from an optional sketch or from a building-use and design-direction brief.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 建筑草图或体块图 — optional (用户已有建筑形体、开口或场地草图时); 建筑用途、设计关键词 — required
 - **Preserve:** Keep supplied massing and openings only when a sketch or massing reference exists.
 - **Change:** Change facade materials, articulation, environment, landscape, and light.
@@ -209,6 +217,7 @@ Deliver one facade concept rendering only for design discussion.
 
 Render a supplied architectural or interior line drawing without changing its intended structure.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 室内或建筑草图/CAD线框 — required; 空间用途与草图含义 — required
 - **Preserve:** Keep openings, geometry, layout relationships, and camera framing.
 - **Change:** Change materials, lighting, furnishings, landscape, and atmosphere.
@@ -234,6 +243,7 @@ Deliver one realistic concept rendering only.
 
 Build a design-direction board from optional references or from a project type and keyword brief.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 空间氛围与材料参考板 — optional (用户已有方向素材时); 项目类型与关键词 — required
 - **Preserve:** Keep supplied reference colors and material identities only when references exist.
 - **Change:** Change layout, hierarchy, crops, annotations, and supporting generated swatches.

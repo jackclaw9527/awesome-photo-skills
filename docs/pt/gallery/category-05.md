@@ -33,7 +33,7 @@
 
 - **Tipo de entrada:** Inclui visualização do material de referência e exemplo de resultado
 - **Requisitos de material:** 1 foto do produto em ângulo único + 1 ângulo de observação alvo para este período
-- **Descrição:** Somente o atualmente selecionado é gerado por vez; outras fotos da série são executadas separadamente.
+- **Descrição:** Apenas uma imagem é gerada por vez.
 
 [ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta)
 

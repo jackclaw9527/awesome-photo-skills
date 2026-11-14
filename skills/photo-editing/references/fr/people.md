@@ -9,6 +9,7 @@ Portraits professionnels, retouches vestimentaires, aperçus virtuels, avatars, 
 
 Transformez un selfie clair en une photo professionnelle crédible.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Je comprends la photo originale – obligatoire
 - **Préserver :** Conservez l'identité, la géométrie du visage, le teint, les indices d'âge et la texture naturelle.
 - **Modification :** Modifiez le recadrage, l'arrière-plan, l'éclairage et le style de garde-robe professionnelle.
@@ -34,6 +35,7 @@ Deliver one finished headshot image only.
 
 Modifiez uniquement les vêtements d'un portrait avec une tenue professionnelle spécifiée.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Inputs :** Portrait d'une personne portant des vêtements décontractés – obligatoire
 - **Préserver :** Conservez l'identité, le visage, les cheveux, la pose, la forme du corps, les mains et l'arrière-plan, sauf demande.
 - **Modification :** Modifiez le type de vêtement, la couleur, la coupe et les accessoires visibles.
@@ -59,6 +61,7 @@ Deliver one edited portrait image only.
 
 Relookez une personne réelle en un portrait original royal, vintage ou d'inspiration historique.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Je comprends la photo originale – obligatoire
 - **Préserver :** Conservez l'identité de la personne, les indices d'âge, le teint et la structure du visage.
 - **Changement :** Changez le costume, l'arrière-plan, les accessoires, la lumière et l'atmosphère inspirée de l'époque.
@@ -84,6 +87,7 @@ Deliver one finished portrait image only.
 
 Placez un produit exact ou un concept de lunettes décrit sur un portrait de face.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photo frontale de la personne – obligatoire ; description du matériau ou du style des lunettes cibles - conditionnelle (obligatoire pour l'essai exact du produit ; seuls les styles conceptuels peuvent être décrits avec du texte)
 - **Préserver :** Conservez l'identité, la forme du visage, la peau, les yeux et les détails de la monture fournis pour la branche choisie.
 - **Modification :** Modifiez uniquement l'emplacement de la monture, l'apparence des verres et l'intégration minimale de l'éclairage.
@@ -109,6 +113,7 @@ Deliver one preview image only.
 
 Appliquez un motif de tatouage fourni sur une zone du corps spécifiée.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photo originale de la peau du personnage – obligatoire ; Conception de tatouage cible – obligatoire ; Emplacement du tatouage – obligatoire
 - **Préserver :** Gardez la personne, la texture de la peau, l'anatomie du corps et les illustrations du tatouage inchangées.
 - **Modifier :** Modifiez uniquement le placement, l'échelle, la courbure, l'opacité et l'intégration.
@@ -134,6 +139,7 @@ Deliver one edited preview image only.
 
 Créez un avatar de dessin animé original qui reste reconnaissable comme la personne photographiée.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** J'ai une photo claire - obligatoire
 - **Préserver :** Conservez la forme du visage, les cheveux, le teint et les accessoires emblématiques visibles.
 - **Modification :** Modifiez la langue de rendu, la simplification, l'arrière-plan et la palette.
@@ -159,6 +165,7 @@ Deliver one finished avatar image only.
 
 Créez un portrait original inspiré de l'anime tout en conservant votre identité personnelle.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** J'ai une photo claire - obligatoire
 - **Préserver :** Conservez la forme du visage, le teint, les cheveux, la relation avec les yeux et les accessoires définis.
 - **Modifier :** Modifiez le travail au trait, l'ombrage, la palette, l'arrière-plan et le niveau de stylisation.
@@ -184,6 +191,7 @@ Deliver one finished avatar image only.
 
 Transformez une personne en une image conceptuelle fictive de figurine d'action.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de personnes – obligatoire
 - **Préserver :** Conservez l'identité de la personne et la liste des accessoires demandés.
 - **Changement :** Transformez le corps en une figurine, un emballage, un système de couleurs et une disposition d'affichage ressemblant à un jouet.
@@ -209,6 +217,7 @@ Deliver one concept image only, not manufacturing artwork or a product specifica
 
 Transformez la photo d'une personne, d'un animal ou d'un objet en un seul autocollant expressif.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photo d'une personne, d'un animal ou d'un objet – obligatoire ; Action ou émotion de cet autocollant — facultatif
 - **Préserver :** Gardez le sujet reconnaissable et conservez les marques ou caractéristiques déterminantes.
 - **Modification :** Modifiez l'expression, l'accentuation de la pose, le contour, la suppression de l'arrière-plan et le style des autocollants.
@@ -234,6 +243,7 @@ Deliver one sticker image only; platform sizing and pack assembly are separate s
 
 Créez une affiche originale de film de fiction autour de personnes fournies et d'un titre fourni.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos originales d'individus, de couples ou de groupes – obligatoires ; Sujet et titre de l’affiche originale – obligatoires ; Signature et date – facultatif
 - **Préserver :** Conservez l'identité de chaque personne et tous les textes de facturation confirmés.
 - **Modification :** Modifiez le décor cinématographique, le traitement du genre, l'éclairage, la composition et le concept de typographie.

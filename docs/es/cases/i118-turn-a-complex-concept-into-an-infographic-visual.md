@@ -24,6 +24,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Ya tengo un boceto de la estructura de información. | Imagen/Imagen | 0–1; Se pueden combinar varios materiales en un tablero de referencia etiquetado. | Opcional/Opcional: Cuando el usuario ya tiene un boceto de proceso, jerarquía o relación |
 | Contenido fáctico, estructura de la información o relaciones. | Carácter / Texto | 1 porción | Requerido / Requerido |
 
+
 Esta vez se genera una única vista previa visual. Los cálculos de datos, la composición tipográfica precisa, los archivos vectoriales o de producción aún deben ser verificados por las herramientas correspondientes.
 
 ## Conservar y cambiar / Editar resumen
@@ -70,4 +71,4 @@ Dirección del resultado: Infografía. Cuando se requiera texto exacto, archivos
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

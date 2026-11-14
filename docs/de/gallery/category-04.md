@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-11 Fälle außerhalb des vorgestellten Katalogs. Die Aufforderungsworte werden hier nicht offengelegt, es werden lediglich die vorhandenen Referenzmaterialien, Ergebnisanweisungen und Mindestmaterialanforderungen angezeigt.
+9 Fälle außerhalb des vorgestellten Katalogs. Die Aufforderungsworte werden hier nicht offengelegt, es werden lediglich die vorhandenen Referenzmaterialien, Ergebnisanweisungen und Mindestmaterialanforderungen angezeigt.
 
 [Zurück zu weiteren Kofferkatalogen](./index.md) · [Zurück zur Lager-Homepage](../../../README.de.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · Erstellen Sie einen YouTube-Kanal oder einen Live-Übertragungs-Avatar
-
-<table>
-<thead><tr><th width="50%">Referenzmaterial</th><th width="50%">Beispiel für Ergebnisse</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Fotos von Personen oder Zeichnungen bestehender Charaktere</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="Erstellen Sie einen YouTube-Kanal oder einen Live-Übertragungs-Avatar – Referenzmaterial 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/de/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="Erstellen Sie einen YouTube-Kanal oder einen Live-Avatar – Beispielergebnisse" width="340"></a></td></tr></tbody>
-</table>
-
-- **Eingabetyp:** Enthält eine Vorschau des Referenzmaterials und ein Ergebnisbeispiel
-- **Materialanforderungen:** 0 oder 1 Personenfotos oder vorhandene Charakterbilder + 1 Kanalthema
-- **Beschreibung:** Es wird jeweils nur ein Bild generiert.
-
-[ Überprüfen Sie die spezifischen Anforderungen in dearsketch und erstellen Sie ](https://dearsketch.com/de/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta)
-
----
-
 ## I055 · Generieren Sie natürliche und attraktive Avatare für Dating-Apps
 
 <table>
@@ -81,20 +66,6 @@
 - **Beschreibung:** Es wird jeweils nur ein Bild generiert.
 
 [ Überprüfen Sie die spezifischen Anforderungen in dearsketch und erstellen Sie ](https://dearsketch.com/de/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta)
-
----
-
-## I057 · Generieren Sie benutzerdefinierte Emojis basierend auf Text
-
-<p><strong>Beispiel für Ergebnisse</strong></p>
-<p><a href="https://dearsketch.com/de/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="Generieren Sie benutzerdefinierte Emojis aus Text – Beispielergebnisse" width="340"></a></p>
-<p>Bei diesem Beispiel handelt es sich um eine Texteingabe, es ist kein Bildverweis beigefügt.</p>
-
-- **Eingabetyp:** Texteingabe; Dieses Beispiel zeigt nur Ergebnisbeispiele
-- **Materialanforderungen:** 1 Emotion oder Bedeutung + 1 Satz Themen- oder Symbolbeschreibung
-- **Beschreibung:** Es wird jeweils nur ein Bild generiert.
-
-[ Überprüfen Sie die spezifischen Anforderungen in dearsketch und erstellen Sie ](https://dearsketch.com/de/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta)
 
 ---
 

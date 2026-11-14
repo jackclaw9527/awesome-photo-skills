@@ -3,53 +3,11 @@
 [中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
 
 
-精选目录之外的 12 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
+精选目录之外的 7 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
 
 [返回更多案例目录](./index.md) · [返回仓库首页](../../README.md)
 
 > 参考素材和结果图仅作视觉指引；不保证使用相同素材能复现相同效果。
-
-## I127 · 生成产品或界面图标
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../assets/cases/i127-after.webp" alt="生成产品或界面图标 — 结果示例" width="340"></a></p>
-<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
-
-- **输入类型：** 本例仅展示结果示例；图片输入预览待补
-- **素材要求：** 既有图标系统样板＋功能清单 → 生成一致的图标集合 → 当前单张图标资产
-- **说明：** 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta)
-
----
-
-## I128 · 从文字生成可编辑矢量插图
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../assets/cases/i128-after.webp" alt="从文字生成可编辑矢量插图 — 结果示例" width="340"></a></p>
-<p>本例为文字输入，未附图片参考。</p>
-
-- **输入类型：** 文字输入；本例仅展示结果示例
-- **素材要求：** 插图主题、用途 → 生成SVG和分层几何 → 当前单张矢量插图
-- **说明：** 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta)
-
----
-
-## I129 · 生成特定主题的定制图库图片
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../assets/cases/i129-after.webp" alt="生成特定主题的定制图库图片 — 结果示例" width="340"></a></p>
-<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
-
-- **输入类型：** 本例仅展示结果示例；图片输入预览待补
-- **素材要求：** 需植入场景的产品或人物原图＋具体场景、使用语境 → 生成无现成图库限制的图片 → 当前单张定制Stock Image
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta)
-
----
 
 ## I130 · 创建可重复使用的品牌吉祥物的品牌VI视觉设计
 
@@ -80,34 +38,6 @@
 - **说明：** 每次只生成当前选定的一张；系列中的其他图片分别执行。
 
 [在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta)
-
----
-
-## I134 · 生成包装标签和盒型视觉概念
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../assets/cases/i134-after.webp" alt="生成包装标签和盒型视觉概念 — 结果示例" width="340"></a></p>
-<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
-
-- **输入类型：** 本例仅展示结果示例；图片输入预览待补
-- **素材要求：** 品牌与包装结构原稿板＋产品类型、品牌名称、包装文案、容器或盒型 → 生成带可读文字的包装方向 → 当前单张包装设计概念
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta)
-
----
-
-## I135 · 生成可重复背景、纹理和品牌图案
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../assets/cases/i135-after.webp" alt="生成可重复背景、纹理和品牌图案 — 结果示例" width="340"></a></p>
-<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
-
-- **输入类型：** 本例仅展示结果示例；图片输入预览待补
-- **素材要求：** 品牌图形单元原稿＋主题、应用场景 → 生成无缝图案 → 当前单张Pattern与Texture
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta)
 
 ---
 

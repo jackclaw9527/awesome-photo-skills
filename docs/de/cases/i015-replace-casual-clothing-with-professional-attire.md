@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | --- | --- | --- | --- |
 | Porträt in Freizeitkleidung | Bild/Bild | 1 Stück | Erforderlich / Erforderlich |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -71,4 +72,4 @@ Ergebnisrichtung: Fotos von formeller Kleidung. Wenn exakter Text, transparente 
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

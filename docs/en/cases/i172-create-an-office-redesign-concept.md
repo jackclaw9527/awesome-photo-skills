@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Office scene photos | Picture/Image | 1 piece | Conditional: When renovating an existing office |
 | Team, functional area, brand, and branch descriptions | Character / Text | 1 serving | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -72,4 +73,4 @@ Result direction: Office concept drawing. When exact text, transparent files, ve
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

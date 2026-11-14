@@ -92,4 +92,4 @@ Effectuez un zoom arrière pour voir s'il est toujours clair, puis effectuez la 
 
 Effectuez d'abord une tentative à petite échelle pour vérifier si le sujet et les faits sont corrects, puis modifiez le style de peinture, la composition ou d'autres variables. Lorsque vous rencontrez le nom, le prix, la taille, la date de l'événement et une rédaction précise, vous devez les vérifier mot pour mot et ne pas laisser le modèle les remplir à votre place.
 
-Si vous souhaitez consulter les exigences de saisie par tâches spécifiques, vous pouvez accéder à la page correspondante du site Web à partir du répertoire de cas [50 ](./prompts.md).
+Si vous souhaitez consulter les exigences de saisie par tâches spécifiques, vous pouvez accéder à la page correspondante du site Web à partir du répertoire de cas [100 ](./prompts.md).

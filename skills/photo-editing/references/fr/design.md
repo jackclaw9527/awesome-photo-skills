@@ -9,6 +9,7 @@ Miniatures, affiches, infographies, couvertures, maquettes, menus, logos et lett
 
 Créez une miniature à contraste élevé autour d'un sujet vidéo vérifié et d'une image de sujet facultative.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Image originale d'un personnage vidéo ou d'un objet thématique – facultatif (lorsqu'un personnage, un produit ou un objet spécifique doit apparaître dans la vignette) ; Thème ou titre de la vidéo – obligatoire
 - **Préserver :** Conservez l'identité de la personne ou de l'objet fournie ainsi que le titre exact approuvé.
 - **Modification :** Modifiez la composition, l'arrière-plan, l'accentuation de l'expression, la couleur et le traitement du titre.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Créez une affiche d'événement à partir de faits confirmés sur l'événement et de matériel visuel approuvé en option.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Inputs :** Le matériel visuel principal original de l'événement — facultatif (lorsque l'affiche utilise des personnes, des produits, des œuvres ou des logos de marque spécifiques) ; nom de l'événement, informations de base, heure et lieu ou méthodes de participation - requis
 - **Préserver :** Gardez les personnes, les produits, les illustrations, les marques et les faits fournis exacts.
 - **Modification :** Modifiez la mise en page, l'arrière-plan, le traitement de l'image, la hiérarchie et le système décoratif.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Créez une affiche de moment de vente à partir des détails de la promotion confirmés et d'une image de produit facultative.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Image originale des produits promotionnels – facultatif (lorsque l'image de promotion du nœud doit afficher des produits spécifiques) ; nœuds de festival ou de vente, biens ou services, informations promotionnelles – requis
 - **Préserver :** Conservez le produit ainsi que tous les prix, remises, dates et conditions fournis exacts.
 - **Modification :** Modifiez le décor saisonnier, la composition, la palette, l'accent et la hiérarchie promotionnelle.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Créez une affiche d'événement formelle en utilisant les participants confirmés, les expositions et la logistique.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Inputs :** Images originales de conférenciers, d'exposants ou d'expositions — facultatives (lorsque l'affiche doit montrer de vrais conférenciers, exposants ou expositions) ; titre de l'événement, informations sur le conférencier ou l'exposant, l'heure, le lieu ou la méthode de participation - requis
 - **Préserver :** Conservez les portraits ou les expositions fournis ainsi que tous les noms, titres, organisateurs et faits exacts.
 - **Modifier :** Modifiez la grille, la hiérarchie visuelle, l'arrière-plan, la palette et le traitement de l'image.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Transformez les faits et les relations vérifiés en un visuel infographique clair.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Esquisse de structure d'information existante – facultatif (lorsque l'utilisateur dispose déjà d'une esquisse de processus, de hiérarchie ou de relation) ; contenu factuel, structure de l’information ou relation – requis
 - **Préserver :** Conservez tous les faits, chiffres, ordres, hiérarchies et relations exactement tels que fournis.
 - **Modification :** Modifiez l'iconographie, la mise en page, le code couleur, le regroupement visuel et l'accentuation.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Créez une image de couverture horizontale qui reflète avec précision le sujet d'un article fourni.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Inputs :** Image originale de la personne, du produit ou du matériel événementiel impliqué dans l'article — facultatif (l'image d'en-tête doit présenter la personne, le produit ou le matériel événementiel spécifique dans l'article) ; Sujet de l'article - obligatoire
 - **Préserver :** Gardez fidèles les personnes, les produits, les événements et les éléments de marque fournis.
 - **Modification :** Modifiez la métaphore visuelle, la composition, l'arrière-plan, la palette et le traitement éditorial.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Placez une véritable capture d'écran d'application dans une présentation d'appareil spécifiée sans modifier l'interface.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Capture d'écran de l'interface réelle de l'application cible – obligatoire ; Arguments de vente de l’appareil cible et fonctions réelles – requis
 - **Préserver :** Conservez le contenu des captures d'écran et toutes les revendications de fonctionnalités approuvées exactes.
 - **Modifier :** modifiez le cadre, l'arrière-plan, la composition, l'éclairage et le contexte marketing de l'appareil.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Créez un visuel de menu à partir des noms de plats confirmés, des prix, des catégories et de vraies photos de plats en option.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos originales de vrais plats — facultatif (lorsque le menu doit montrer les plats réels du restaurant) ; noms de plats, prix précis, catégories - obligatoire
 - **Conserver :** Conservez exactement tous les détails du menu et l'apparence réelle du plat.
 - **Modification :** Modifiez la mise en page, l'arrière-plan, le système décoratif, les recadrages d'images et la hiérarchie.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Créez une présentation originale de concept de logo à partir d'un brief de marque et d'éléments d'identité existants facultatifs.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Logo de marque original et éléments d'identité – facultatifs (lors de l'exploration des extensions de logo pour une marque existante plutôt que d'en créer une à partir de zéro) ; Nom de marque, positionnement de la marque, public cible – obligatoire
 - **Préserver :** Conserver le nom exact de la marque et les éléments d'identité fournis ; évitez les marques de tiers.
 - **Modification :** Modifiez les idées de symboles, la direction de la forme des lettres, la géométrie, la couleur et la présentation.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Rendre le libellé exact fourni comme un traitement de titre décoratif.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Spécifiez un modèle de glyphe ou d'effet de matériau – facultatif (lorsque la police de caractères doit suivre le langage de glyphe ou l'effet de matériau existant) ; texte et objectif précis – obligatoire
 - **Préserver :** Conservez l'exactitude de chaque caractère, orthographe, ordre et référence de forme de lettre fournie.
 - **Modification :** Modifiez l'effet de matériau, la profondeur, l'éclairage, l'arrière-plan et le traitement ornemental.

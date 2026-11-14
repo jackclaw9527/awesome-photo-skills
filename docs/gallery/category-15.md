@@ -3,26 +3,11 @@
 [中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
 
 
-精选目录之外的 23 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
+精选目录之外的 22 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
 
 [返回更多案例目录](./index.md) · [返回仓库首页](../../README.md)
 
 > 参考素材和结果图仅作视觉指引；不保证使用相同素材能复现相同效果。
-
-## I218 · 自动移除人物或商品背景
-
-<table>
-<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>待抠图的人物或商品原照</strong><br><img src="../../assets/cases/i218-before-1.webp" alt="自动移除人物或商品背景 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../assets/cases/i218-after.webp" alt="自动移除人物或商品背景 — 结果示例" width="340"></a></td></tr></tbody>
-</table>
-
-- **输入类型：** 含参考素材预览与结果示例
-- **素材要求：** 必需待抠图的人物或商品原照(1张)＋条件需保留的主体(1个)
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta)
-
----
 
 ## I219 · 移除照片中的路人、杂物或干扰元素
 

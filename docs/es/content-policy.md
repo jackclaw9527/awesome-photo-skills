@@ -10,7 +10,7 @@ Este repositorio utiliza demostraciones seleccionadas para ilustrar la entrada, 
 - Antes muestra materiales de referencia organizados según los registros de revisión de requisitos y Después muestra ejemplos de resultados existentes; esta visualización no es un registro completo de trazabilidad de entradas a nivel de tarea.
 - Varias imágenes de referencia se muestran por separado por función; Si no se adjunta ninguna imagen de referencia, está claramente marcada y no está falsificada. Los requisitos a los que les faltan resultados se colocan en el trabajo pendiente.
 - Los ejemplos no prueban que una tarea logre la misma calidad para todos los insumos, ni constituyen una comparación del desempeño del modelo.
-- Las 50 palabras clave públicas y las 5 plantillas introductorias son tutoriales escritos por separado que no se han probado uno por uno y no son las palabras clave originales generadas para las imágenes de muestra.
+- Las 100 palabras clave públicas y las 5 plantillas introductorias son tutoriales escritos por separado que aún no se han probado en cada imagen. No son las palabras clave originales generadas para las imágenes de muestra.
 - Cuando se requiere texto preciso, transparencia, dimensiones físicas, vectores o entrega de producción, el archivo real debe inspeccionarse y no confirmarse únicamente con miniaturas.
 
 ## Fuente de la imagen y ámbito de uso.

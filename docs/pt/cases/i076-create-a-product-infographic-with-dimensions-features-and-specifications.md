@@ -25,6 +25,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Fotos do produto | Foto/Imagem | 1 peça | Obrigatório / Obrigatório |
 | Dimensões precisas, pontos de venda e parâmetros | Personagem/Texto | 1 grupo | Obrigatório / Obrigatório |
 
+
 Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
 
 ## Manter e alterar/Editar resumo
@@ -71,4 +72,4 @@ Direção do resultado: infográfico do produto. Quando for necessário texto ex
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

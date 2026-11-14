@@ -9,6 +9,7 @@ Hausandenken, Innenvorschauen, Immobilienpräsentation, Landschaftskonzepte und 
 
 Verwandeln Sie ein Hausfoto in ein Aquarell- oder Strichzeichnungen-Andenken.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Hausfotos – erforderlich
 - **Beibehalten:** Behalten Sie Dachlinie, Türen, Fenster, Fassadenproportionen und charakteristische Merkmale des Standorts bei.
 - **Änderung:** Medium, Hintergrundvereinfachung, Landschaftsbetonung und Palette ändern.
@@ -34,6 +35,7 @@ Deliver one finished keepsake image only.
 
 Vorschau auf einen neuen Einrichtungsstil unter Beibehaltung der fotografierten Raumstruktur.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos vorhandener Räume – erforderlich
 - **Beibehalten:** Behalten Sie Wände, Türen, Fenster, Decke, feste Öffnungen und Kameraperspektive bei.
 - **Änderung:** Möbel, Oberflächen, Dekor, Farbpalette und Lichtstimmung ändern.
@@ -59,6 +61,7 @@ Deliver one single-view room concept image only.
 
 Visualisieren Sie eine Landschaftsgestaltung für einen fotografierten Außenbereich.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos vom Hof ​​oder Außenbereich – erforderlich; Nutzungsanforderungen, Klima oder Standort – erforderlich
 - **Beibehalten:** Grundstücksgrenzen, Gebäude, Steigungen, Zugänge und feste Strukturen beibehalten.
 - **Änderung:** Bepflanzung, Pflasterung, Möbel, Beleuchtung und Ausstattungskonzepte ändern.
@@ -84,6 +87,7 @@ Deliver one finished exterior concept image only.
 
 Ersetzen Sie spezifizierte Raumoberflächen entweder anhand eines mitgelieferten Musters oder einer genauen Farb- und Materialbeschreibung.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Innenfotos – erforderlich; Zielmaterialproben – bedingt (wenn bestimmte Texturen oder Produktproben reproduziert werden müssen); Alternative Oberflächen und Zielfarben/-materialien – erforderlich
 - **Beibehalten:** Behalten Sie die Raumstruktur, die Beleuchtungslogik, die Objektplatzierung und nicht anvisierte Oberflächen bei.
 - **Änderung:** Nur benannte Wände, Böden oder Tapetenbereiche ändern.
@@ -109,6 +113,7 @@ Deliver one edited material-preview image only.
 
 Visualisieren Sie entweder die Neugestaltung eines bestehenden Büros anhand eines Fotos vor Ort oder eines textbasierten Arbeitsplatzkonzepts.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos des Bürostandorts – bedingt (beim Umbau eines bestehenden Büros); Team-, Funktionsbereichs-, Marken- und Branchenbeschreibungen – erforderlich
 - **Beibehalten:** Struktur und Einschränkungen bleiben nur sichtbar, wenn ein Standortfoto bereitgestellt wird.
 - **Änderung:** Ändern Sie Arbeitsplätze, Zonen, Möbel, Branding, Oberflächen und Beleuchtung.
@@ -134,6 +139,7 @@ Deliver one office concept image only and flag technical questions for professio
 
 Fügen Sie einem leeren Immobilienfoto glaubwürdige Möbel und Dekorationen hinzu.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos der verfügbaren Zimmer – erforderlich
 - **Bewahren:** Behalten Sie die reale Architektur, den Raumzustand, die Fenster, Türen und die Kameraansicht bei.
 - **Änderung:** Es werden nur bewegliche Möbel, Dekor, Textilien und Lichtpräsentation geändert.
@@ -159,6 +165,7 @@ Deliver one staged room image only.
 
 Beseitigen Sie sichtbare Unordnung und bewahren Sie gleichzeitig den authentischen Zustand und die Struktur eines Raums.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Zufällige Fotos von Räumen mit Unordnung – erforderlich
 - **Beibehalten:** Behalten Sie Layout, feste Elemente, Oberflächen, Beleuchtung und Materialfehler bei.
 - **Änderung:** Entfernen Sie nur die aufgelisteten beweglichen Unordnung und nehmen Sie zurückhaltende Darstellungskorrekturen vor.
@@ -184,6 +191,7 @@ Deliver one cleaned property image only.
 
 Entwickeln Sie eine Fassade auf der Grundlage einer optionalen Skizze oder eines Gebäudenutzungs- und Entwurfsleitfadens.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Architekturskizze oder Blockdiagramm – optional (wenn der Benutzer bereits über eine Gebäudeform, Öffnung oder Standortskizze verfügt); Architektonische Nutzung, Designschlüsselwörter – erforderlich
 - **Beibehalten:** Behalten Sie die bereitgestellten Körperteile und Öffnungen nur bei, wenn eine Skizze oder Körperteilreferenz vorhanden ist.
 - **Änderung:** Fassadenmaterialien, Artikulation, Umgebung, Landschaft und Licht ändern.
@@ -209,6 +217,7 @@ Deliver one facade concept rendering only for design discussion.
 
 Rendern Sie eine bereitgestellte Architektur- oder Innenraumzeichnung, ohne die beabsichtigte Struktur zu ändern.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Innen- oder Architekturskizze/CAD-Drahtmodell – erforderlich; Raumnutzung und Skizzenbedeutung – erforderlich
 - **Beibehalten:** Öffnungen, Geometrie, Layoutbeziehungen und Kamerarahmen bleiben erhalten.
 - **Änderung:** Materialien, Beleuchtung, Einrichtung, Landschaft und Atmosphäre ändern.
@@ -234,6 +243,7 @@ Deliver one realistic concept rendering only.
 
 Erstellen Sie eine Design-Richtungstafel aus optionalen Referenzen oder aus einem Projekttyp- und Keyword-Briefing.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Räumliche Atmosphäre und Materialreferenztafel – optional (wenn der Benutzer bereits über Anleitungsmaterialien verfügt); Projekttyp und Schlüsselwörter – erforderlich
 - **Beibehalten:** Behalten Sie die bereitgestellten Referenzfarben und Materialidentitäten nur bei, wenn Referenzen vorhanden sind.
 - **Änderung:** Layout, Hierarchie, Zuschnitte, Anmerkungen und unterstützende generierte Farbfelder ändern.

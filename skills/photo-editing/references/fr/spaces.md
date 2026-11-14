@@ -9,6 +9,7 @@ Souvenirs de maison, aperçus intérieurs, présentation de propriétés, concep
 
 Transformez une photo de maison en un souvenir d'aquarelle ou de dessin au trait.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de la maison – obligatoire
 - **Préserver :** Conservez la ligne de toit, les portes, les fenêtres, les proportions de la façade et les caractéristiques distinctives du site.
 - **Changement :** Changement de support, simplification de l'arrière-plan, accent sur l'aménagement paysager et palette.
@@ -34,6 +35,7 @@ Deliver one finished keepsake image only.
 
 Prévisualisez un nouveau style d’intérieur tout en conservant la structure de la pièce photographiée.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos des pièces existantes – obligatoire
 - **Préserver :** Conservez les murs, les portes, les fenêtres, le plafond, les ouvertures fixes et le point de vue de la caméra.
 - **Changement :** Modifiez les meubles, les finitions, la décoration, la palette et l'ambiance lumineuse.
@@ -59,6 +61,7 @@ Deliver one single-view room concept image only.
 
 Visualisez une métamorphose paysagère pour un espace extérieur photographié.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Intrants :** Photos de la cour ou de l'espace extérieur – obligatoires ; exigences d'utilisation, climat ou emplacement - requis
 - **Préserver :** Conservez les limites des lots, les bâtiments, les niveaux, les accès et les structures fixes.
 - **Changement :** Modifiez les concepts de plantation, de pavage, de mobilier, d'éclairage et d'aménagement.
@@ -84,6 +87,7 @@ Deliver one finished exterior concept image only.
 
 Remplacez les surfaces spécifiées de la pièce en utilisant soit un échantillon fourni, soit une description précise de la couleur et du matériau.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos intérieures – obligatoire ; Échantillons de matériaux cibles — conditionnels (lorsque des textures ou des échantillons de produits spécifiques doivent être reproduits) ; Surfaces alternatives et couleurs/matériaux cibles – requis
 - **Préserver :** Conservez la structure de la pièce, la logique d'éclairage, le placement des objets et les surfaces non ciblées.
 - **Modifier :** Modifiez uniquement les zones nommées des murs, du sol ou du papier peint.
@@ -109,6 +113,7 @@ Deliver one edited material-preview image only.
 
 Visualisez soit la refonte d'un bureau existant à partir d'une photo du site, soit un concept de lieu de travail basé sur du texte.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos du site du bureau — conditionnelles (lors de la rénovation d'un bureau existant) ; descriptions de l'équipe, du domaine fonctionnel, de la marque et de la succursale - obligatoires
 - **Préserver :** Conserver la structure et les contraintes visibles uniquement lorsqu'une photo du site est fournie.
 - **Changement :** Modifiez les postes de travail, les zones, le mobilier, l'image de marque, les finitions et l'éclairage.
@@ -134,6 +139,7 @@ Deliver one office concept image only and flag technical questions for professio
 
 Ajoutez des meubles et une décoration crédibles à une photo de propriété vide.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos des chambres disponibles – obligatoire
 - **Préserver :** Conservez l'architecture réelle, l'état de la pièce, les fenêtres, les portes et la vue de la caméra.
 - **Modification :** Modifiez uniquement les meubles mobiles, la décoration, les articles textiles et la présentation de l'éclairage.
@@ -159,6 +165,7 @@ Deliver one staged room image only.
 
 Nettoyez l'encombrement visible tout en préservant l'état et la structure authentiques d'une pièce.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos aléatoires de pièces encombrées – obligatoires
 - **Préserver :** Conserver l'agencement, les éléments fixes, les surfaces, l'éclairage et les défauts de matériaux.
 - **Modification :** Supprimez uniquement l'encombrement mobile répertorié et apportez des corrections de présentation restreintes.
@@ -184,6 +191,7 @@ Deliver one cleaned property image only.
 
 Développez une façade à partir d’un croquis facultatif ou d’un dossier d’utilisation du bâtiment et d’orientation de la conception.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Esquisse architecturale ou schéma fonctionnel — facultatif (lorsque l'utilisateur dispose déjà d'une forme de bâtiment, d'une ouverture ou d'une esquisse de site) ; Utilisation architecturale, mots-clés de conception — obligatoires
 - **Conserver :** Conservez le volume et les ouvertures fournis uniquement lorsqu'une esquisse ou une référence de volume existe.
 - **Changement :** Modifiez les matériaux de façade, l'articulation, l'environnement, le paysage et la lumière.
@@ -209,6 +217,7 @@ Deliver one facade concept rendering only for design discussion.
 
 Effectuez le rendu d'un dessin de ligne architectural ou intérieur fourni sans modifier sa structure prévue.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Esquisse intérieure ou architecturale/filaire CAO – obligatoire ; Utilisation de l'espace et signification de l'esquisse – obligatoire
 - **Préserver :** Conserver les ouvertures, la géométrie, les relations de disposition et le cadrage de la caméra.
 - **Changement :** Changez les matériaux, l'éclairage, le mobilier, le paysage et l'atmosphère.
@@ -234,6 +243,7 @@ Deliver one realistic concept rendering only.
 
 Créez un tableau d'orientation de conception à partir de références facultatives ou à partir d'un type de projet et d'un résumé de mots clés.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Tableau de référence de l'atmosphère spatiale et des matériaux — facultatif (si l'utilisateur dispose déjà de matériaux de direction) ; type de projet et mots-clés – obligatoires
 - **Préserver :** Conservez les couleurs de référence fournies et les identités des matériaux uniquement lorsque des références existent.
 - **Modifier :** Modifiez la mise en page, la hiérarchie, les recadrages, les annotations et les échantillons générés.

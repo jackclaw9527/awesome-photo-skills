@@ -9,6 +9,7 @@ Thumbnails, posters, infographics, covers, mockups, menus, logos, and display le
 
 Create one high-contrast thumbnail around a verified video topic and optional subject image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original image of video character or theme object — optional (when a specific character, product or object is to appear in the thumbnail); Video theme or title — required
 - **Preserve:** Keep supplied person or object identity and the exact approved title.
 - **Change:** Change composition, background, expression emphasis, color, and title treatment.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Create one event poster from confirmed event facts and optional approved visual material.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** The original main visual material of the event — optional (when the poster uses specific people, products, works or brand logos); event name, core information, time and location or participation methods — required
 - **Preserve:** Keep supplied people, products, artwork, brand marks, and event facts exact.
 - **Change:** Change layout, background, image treatment, hierarchy, and decorative system.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Create one sales-moment poster from confirmed promotion details and an optional product image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original image of promotional products — optional (when the node promotion image needs to display specific products); festival or sales nodes, goods or services, promotional information — required
 - **Preserve:** Keep the product and every supplied price, discount, date, and condition exact.
 - **Change:** Change seasonal decor, composition, palette, emphasis, and promotional hierarchy.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Create one formal event poster using confirmed participants, exhibits, and logistics.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original images of speakers, exhibitors or exhibits — optional (when the poster needs to show real speakers, exhibitors or exhibits); event title, speaker or exhibitor information, time, location or participation method — required
 - **Preserve:** Keep supplied portraits or exhibits and all names, titles, organizers, and facts exact.
 - **Change:** Change grid, visual hierarchy, background, palette, and image treatment.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Turn verified facts and relationships into one clear infographic visual.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Existing information structure sketch — optional (when the user already has a process, hierarchy or relationship sketch); factual content, information structure or relationship — required
 - **Preserve:** Keep all facts, numbers, order, hierarchy, and relationships exactly as supplied.
 - **Change:** Change iconography, layout, color coding, visual grouping, and emphasis.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Create one horizontal cover image that accurately reflects a supplied article topic.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original image of the person, product or event material involved in the article — optional (the header image must present the specific person, product or event material in the article); Article topic — required
 - **Preserve:** Keep supplied people, products, events, and brand elements faithful.
 - **Change:** Change visual metaphor, composition, background, palette, and editorial treatment.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Place a real app screenshot into a specified device presentation without altering the interface.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Screenshot of the actual interface of the target application — required; Selling points of the target device and real functions — required
 - **Preserve:** Keep screenshot content and all approved feature claims exact.
 - **Change:** Change device frame, background, composition, lighting, and marketing context.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Create one menu visual from confirmed dish names, prices, categories, and optional real food photography.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original photos of real dishes — optional (when the menu needs to show the actual dishes of the restaurant); dish names, accurate prices, categories — required
 - **Preserve:** Keep all menu facts and actual dish appearance exact.
 - **Change:** Change layout, background, decorative system, image crops, and hierarchy.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Create one original logo-concept presentation from a brand brief and optional existing identity assets.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original brand logo and identity assets — optional (when exploring logo extensions for an existing brand rather than creating one from scratch); Brand name, brand positioning, target audience — required
 - **Preserve:** Keep exact brand name and supplied identity assets; avoid third-party marks.
 - **Change:** Change symbol ideas, letterform direction, geometry, color, and presentation.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Render exact supplied wording as one decorative title treatment.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Specify glyph or material effect template — optional (when font art must follow the existing glyph language or material effect); accurate text and purpose — required
 - **Preserve:** Keep every character, spelling, order, and supplied letterform reference accurate.
 - **Change:** Change material effect, depth, lighting, background, and ornamental treatment.

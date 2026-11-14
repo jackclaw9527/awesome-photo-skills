@@ -24,6 +24,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | --- | --- | --- | --- |
 | Fotos de disponibilidad | Imagen/Imagen | 1 hoja; Se pueden combinar múltiples personajes o perspectivas en un tablero de referencia marcado. | Requerido / Requerido |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -70,4 +71,4 @@ Dirección del resultado: montar virtualmente un mapa de la casa. Cuando se requ
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

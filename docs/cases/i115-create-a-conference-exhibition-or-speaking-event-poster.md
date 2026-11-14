@@ -24,6 +24,7 @@ Create one formal event poster using confirmed participants, exhibits, and logis
 | 讲者、参展人或展品原图 | 图片 / Image | 0–1张；多素材可合并为一张已标注参考板 | 可选 / Optional：海报要展示真实讲者、参展人或展品时 |
 | 活动题目、讲者或参展信息、时间、地点或参与方式 | 文字 / Text | 1份 | 必需 / Required |
 
+
 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
 
 ## 保留与改变 / Editing brief
@@ -64,4 +65,4 @@ Proofread details and never fabricate speakers, sponsors, or institutional backi
 - [Create a promotional poster from a topic and copy · 主题宣传海报](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Create a Mother's Day, Black Friday, or holiday sale poster · 节日促销海报](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

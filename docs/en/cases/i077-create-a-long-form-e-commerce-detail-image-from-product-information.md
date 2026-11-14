@@ -28,6 +28,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Same product picture group | Picture/Image | Multiple pictures | Required / Required |
 | Selling Points and Accurate Copywriting | Character / Text | 1 group | Required / Required |
 
+
 This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
 
 ## Retain and change / Editing brief
@@ -75,4 +76,4 @@ Result direction: Product details page. When exact text, transparent files, vect
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

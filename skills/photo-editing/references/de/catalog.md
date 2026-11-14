@@ -3,10 +3,11 @@
 [中文](../../../../README.md) · [English](../../../../README.en.md) · [Português](../../../../README.pt.md) · [Español](../../../../README.es.md) · [Français](../../../../README.fr.md) · [Deutsch](../../../../README.de.md) · [عربي](../../../../README.ar.md) · [русский](../../../../README.ru.md) · [日本語](../../../../README.ja.md) · [हिंदी](../../../../README.hi.md)
 
 
-Wählen Sie die Aufgabe anhand des vom Benutzer beabsichtigten Ergebnisses aus, nicht nur anhand einer Bearbeitungstechnik. Jede Gruppe enthält zehn vollständige Eingabeaufforderungen.
+Wählen Sie die Aufgabe anhand des vom Benutzer beabsichtigten Ergebnisses aus, nicht nur anhand einer Bearbeitungstechnik. Die Nur-Text-Gruppe enthält 50 Eingabeaufforderungen, für die keine Anhänge erforderlich sind. Die anderen fünf Gruppen enthalten jeweils zehn aufgabenspezifische Eingabeaufforderungen.
 
 | Gruppe | Verwendung für | Referenz |
 | --- | --- | --- |
+| Text zu Bild – Keine Referenz erforderlich | 50 originelle textbasierte Briefings. Kein Bild oder sonstiger Anhang erforderlich; Erstellen Sie neue Konzepte aus schriftlichen Fakten. | [Eingabeaufforderungen öffnen](./text-only.md) |
 | Haustiere und Familienandenken | Tierporträts, Familienfotos, Paarandenken und Meilensteinbilder. | [Eingabeaufforderungen öffnen](./pets-family.md) |
 | Porträts und persönlicher Stil | Professionelle Porträts, Kleidungsbearbeitungen, virtuelle Vorschauen, Avatare, Aufkleber und Posterkonzepte. | [Eingabeaufforderungen öffnen](./people.md) |
 | Häuser und Räume | Hausandenken, Innenvorschauen, Immobilienpräsentation, Landschaftskonzepte und Architekturvisualisierung. | [Eingabeaufforderungen öffnen](./spaces.md) |

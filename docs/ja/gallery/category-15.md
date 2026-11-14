@@ -3,26 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-カタログ掲載外の23件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
+カタログ掲載外の22件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
 
 [その他のケース カタログに戻る](./index.md) · [倉庫のホームページに戻る](../../../README.ja.md)
 
 > 参考資料と結果画像は視覚的なガイダンスのみを目的としています。同じ材料を使用して同じ効果が再現できるという保証はありません。
-
-## I218 · キャラクターや商品の背景を自動的に削除します
-
-<table>
-<thead><tr><th width="50%">参考資料</th><th width="50%">結果の例</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>切り出す人物や商品のオリジナル写真</strong><br><img src="../../../assets/cases/i218-before-1.webp" alt="人物や製品の背景を自動的に削除 — 参考資料 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/ja/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../../assets/cases/i218-after.webp" alt="人物や製品の背景を自動的に削除 - 結果の例" width="340"></a></td></tr></tbody>
-</table>
-
-- **入力タイプ:** 参考資料のプレビューと結果の例が含まれます
-- **素材要件:** 人物または商品の切り抜きが必要なオリジナル写真 (1 枚) + 保存する必要のある被写体 (1 枚)
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta) を作成します
-
----
 
 ## I219 · 通行人、乱雑な要素、または気を散らす要素を写真から削除します
 

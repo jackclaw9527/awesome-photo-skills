@@ -27,6 +27,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Modèle de matériau cible | Photo/Image | 0 à 1 image ; du texte exact ou des données de couleur peuvent également être utilisés | Conditionnel : lorsque vous devez reproduire des textures ou des échantillons de produits spécifiques |
 | Remplacer la surface par la couleur/le matériau cible | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -74,4 +75,4 @@ Direction du résultat : aperçu des effets de matière. Lorsque du texte exact
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

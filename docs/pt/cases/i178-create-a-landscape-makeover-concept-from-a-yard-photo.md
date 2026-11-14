@@ -25,6 +25,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Fotos do seu quintal ou espaço externo | Foto/Imagem | 1 folha; vários personagens ou perspectivas podem ser combinados em um quadro de referência marcado | Obrigatório / Obrigatório |
 | Requisitos de uso, clima ou localização | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -65,4 +66,4 @@ Direção do resultado: renderizações de paisagens. Quando for necessário tex
 - [Visualizar diferentes estilos de interiores em uma foto de quarto · Visualização de estilo de decoração de quarto](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Visualizar pintura de parede, piso e papel de parede · Visualização da seleção de pintura de parede e material de piso ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

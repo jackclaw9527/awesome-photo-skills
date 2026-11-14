@@ -24,6 +24,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Especificar fuente o plantilla de efecto de fuente de material | Imagen/Imagen | 0–1; Se pueden combinar varios materiales en un tablero de referencia etiquetado. | Opcional/Opcional: Cuando la fuente artística debe seguir el lenguaje de glifos o el efecto material existente |
 | Texto y propósito precisos | Carácter / Texto | 1 porción | Requerido / Requerido |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -71,4 +72,4 @@ Dirección del resultado: WordArt. Cuando se requiera texto exacto, archivos tra
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

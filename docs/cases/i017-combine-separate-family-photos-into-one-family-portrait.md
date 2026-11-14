@@ -26,6 +26,7 @@ Assemble separately photographed relatives into one fictional but coherent famil
 | 全部入画成员照片 | 图片 / Image | 每位成员至少1张 | 必需 / Required |
 | 人数、人物关系与排列 | 文字 / Text | 1组 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -73,4 +74,4 @@ Verify the roster and disclose that the image is a composite, not a real group p
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

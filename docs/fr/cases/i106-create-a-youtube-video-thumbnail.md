@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Image originale d'un personnage vidéo ou d'un objet thématique | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif/Facultatif : lorsqu'une personne, un produit ou un objet spécifique doit apparaître dans la vignette |
 | Sujet ou titre de la vidéo | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -71,4 +72,4 @@ Direction du résultat : vignette YouTube. Lorsque du texte exact, des fichiers
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

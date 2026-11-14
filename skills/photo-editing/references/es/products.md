@@ -9,6 +9,7 @@ Listado de activos, recortes transparentes, imágenes de estilo de vida y de est
 
 Aísle un producto real en una imagen limpia con fondo blanco al estilo de un mercado.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de productos tomadas con teléfonos móviles (requeridas)
 - **Conservar:** Conserva la forma, las proporciones, el color, las etiquetas, los detalles de la superficie y las piezas incluidas del producto.
 - **Cambiar:** Cambia el fondo, el recorte, el equilibrio de iluminación y la sombra restringida.
@@ -34,6 +35,7 @@ Deliver one product image only.
 
 Extraiga un producto como un recorte reutilizable con un canal alfa real.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos del producto: obligatorias
 - **Conservar:** Conserve todos los bordes, aberturas, etiquetas, colores y detalles transparentes o reflectantes del producto.
 - **Cambio:** Cambie solo la eliminación del fondo, la limpieza de bordes y el manejo opcional de sombras neutras.
@@ -59,6 +61,7 @@ Deliver one cutout asset only; do not substitute a white-background image.
 
 Coloque un recorte de producto sin cambios en un contexto de uso creíble.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imagen de fondo blanco del producto: obligatoria
 - **Conservar:** Conserva el modelo, la geometría, el color, las etiquetas, los materiales y las proporciones del producto.
 - **Cambio:** Cambie el entorno, el estilo, la luz, el contexto de la cámara y los accesorios de apoyo.
@@ -84,6 +87,7 @@ Deliver one finished lifestyle product image only.
 
 Vuelva a montar una fotografía de producto con iluminación de estudio profesional conservando los datos del producto.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos del producto: obligatorias
 - **Conservar:** Conserva la geometría, las etiquetas, los colores, los materiales, la textura y los componentes incluidos.
 - **Cambio:** Cambie el fondo, la disposición de las luces, el pulido de la cámara y el tratamiento de las sombras.
@@ -109,6 +113,7 @@ Deliver one studio product image only.
 
 Cree una escena navideña o de temporada de rebajas en torno a un producto real.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos del producto: obligatorias; Temas festivos o promocionales: obligatorios
 - **Conservar:** Conservar la identidad, el diseño, la etiqueta, el color y los datos promocionales proporcionados del producto.
 - **Cambiar:** Cambie la decoración, el fondo, la luz, la paleta y la composición de la campaña.
@@ -134,6 +139,7 @@ Deliver one finished promotional product image only.
 
 Cree una imagen promocional apetitosa a partir de una fotografía de comida o una descripción explícita del producto.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotografías de alimentos o descripciones de productos: opcional (se puede omitir la rama de texto sin formato)
 - **Conservar:** Mantenga la porción, los ingredientes, el empaque y la apariencia reales en la rama de la foto.
 - **Cambio:** Cambia el revestimiento, el escenario, la iluminación, el fondo y el tratamiento de la cámara.
@@ -159,6 +165,7 @@ Deliver one finished food or beverage image only.
 
 Visualice una prenda suministrada en un modelo sin cambiar el diseño de la prenda.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** Azulejos de ropa: obligatorios
 - **Conservar:** Mantenga la silueta, la construcción, el color, el estampado, las señales de tela, los adornos y la marca.
 - **Cambio:** Cambie la presentación de plano a modelo, pose, escenario e iluminación.
@@ -184,6 +191,7 @@ Deliver one on-model image only.
 
 Muestre un producto real sostenido o utilizado con escala y contacto plausibles.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imagen del producto: obligatoria
 - **Conservar:** Mantenga el diseño del producto, las indicaciones de tamaño, la etiqueta, el color y la verdad funcional.
 - **Cambiar:** Cambia de manos, contexto de usuario, entorno, ángulo de cámara y luz.
@@ -209,6 +217,7 @@ Deliver one finished interaction image only.
 
 Cree una infografía de producto único a partir de una fotografía y especificaciones verificadas.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos del producto: obligatorias; Dimensiones, puntos de venta y parámetros precisos: obligatorios
 - **Conservar:** Mantenga exacta la apariencia del producto y cada número, unidad y reclamo suministrado.
 - **Cambiar:** Cambie el diseño, las leyendas, los íconos, la jerarquía y el fondo de apoyo.
@@ -234,6 +243,7 @@ Deliver one infographic preview image only, not a verified vector or print-produ
 
 Organice múltiples vistas de productos reales y textos aprobados en un concepto visual de formato largo.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Mismo grupo de imágenes de productos: obligatorio; Puntos de venta y redacción precisa: obligatorios
 - **Preservar:** Mantenga todas las vistas del producto consistentes y todas las afirmaciones y textos proporcionados exactos.
 - **Cambiar:** Cambiar el orden de las secciones, la jerarquía gráfica, los fondos, las leyendas y el contexto del estilo de vida.

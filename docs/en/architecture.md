@@ -5,7 +5,7 @@
 
 dearsketch organizes "What pictures do I want to complete" into a browsable directory of requirements. Each requirement has an independent page that explains the purpose, required materials and result requirements; users enter the production process from the corresponding page.
 
-This description describes module responsibilities and data flow. The public content library, website services and generated models each undertake different tasks; this warehouse provides public cases, 50 newly edited templates and Agent Skill, and online production is performed on the website.
+This description describes module responsibilities and data flow. The public content library, website services and generated models each undertake different tasks; this warehouse provides public cases, 100 newly edited templates and Agent Skill, and online production is performed on the website.
 
 ## User path
 

@@ -25,6 +25,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Fotos Ihres Gartens oder Außenbereichs | Bild/Bild | 1 Blatt; Mehrere Charaktere oder Perspektiven können in einer markierten Referenztafel kombiniert werden | Erforderlich / Erforderlich |
 | Nutzungsanforderungen, Klima oder Standort | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -65,4 +66,4 @@ Ergebnisrichtung: Landschaftsrenderings. Wenn exakter Text, transparente Dateien
 - [Vorschau verschiedener Einrichtungsstile in einem Raumfoto · Vorschau des Raumdekorationsstils](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Vorschau für Wandfarben, Bodenbeläge und Tapeten · Vorschau auf die Auswahl von Wandfarben und Bodenmaterialien ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

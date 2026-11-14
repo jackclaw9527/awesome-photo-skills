@@ -92,4 +92,4 @@ Zoomen Sie heraus, um zu sehen, ob es noch klar ist, und überprüfen Sie dann d
 
 Führen Sie zunächst einen kleinen Versuch durch, um zu überprüfen, ob das Thema und die Fakten korrekt sind, und ändern Sie dann den Malstil, die Komposition oder andere Variablen. Wenn Sie auf Name, Preis, Größe, Veranstaltungsdatum und genaue Texte stoßen, sollten Sie diese Wort für Wort überprüfen und nicht das Model für Sie ausfüllen lassen.
 
-Wenn Sie die Eingabeanforderungen nach bestimmten Aufgaben anzeigen möchten, können Sie die entsprechende Seite der Website aus dem Fallverzeichnis [50 ](./prompts.md) aufrufen.
+Wenn Sie die Eingabeanforderungen nach bestimmten Aufgaben anzeigen möchten, können Sie die entsprechende Seite der Website aus dem Fallverzeichnis [100 ](./prompts.md) aufrufen.

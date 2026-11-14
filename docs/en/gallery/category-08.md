@@ -3,53 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-12 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
+7 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
 
 [Return to more case catalogs](./index.md) · [Return to warehouse homepage](../../../README.en.md)
 
 > Reference materials and result images are for visual guidance only; there is no guarantee that the same effect can be reproduced using the same materials.
-
-## I127 · Generate product or interface icon
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../../assets/cases/i127-after.webp" alt="Generate product or interface icons - example results" width="340"></a></p>
-<p>This example does not include a picture reference, and the input preview is to be completed; see the material requirements below.</p>
-
-- **Input type:** This example only shows result examples; image input preview is to be added
-- **Material requirements:** Existing icon system template + function list → Generate a consistent icon collection → Current single icon asset
-- **Description:** This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta)
-
----
-
-## I128 · Generate editable vector illustrations from text
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../../assets/cases/i128-after.webp" alt="Generate editable vector illustrations from text — example of results" width="340"></a></p>
-<p>This example is text input, no picture reference is attached.</p>
-
-- **Input type:** Text input; this example only shows result examples
-- **Material requirements:** Illustration theme and purpose → Generate SVG and layered geometry → Current single vector illustration
-- **Description:** This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta)
-
----
-
-## I129 · Generate theme-specific custom gallery images
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../../assets/cases/i129-after.webp" alt="Generate theme-specific custom gallery images — example results" width="340"></a></p>
-<p>This example does not include a picture reference, and the input preview is to be completed; see the material requirements below.</p>
-
-- **Input type:** This example only shows result examples; image input preview is to be added
-- **Material requirements:** Original images of products or characters that need to be embedded in scenes + specific scenes and usage context → Generate images without ready-made library restrictions → Customize the current single Stock Image
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta)
-
----
 
 ## I130 · Create reusable brand mascot brand VI visual design
 
@@ -80,34 +38,6 @@
 - **Description:** Only the currently selected one is generated at a time; other pictures in the series are executed separately.
 
 [ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta)
-
----
-
-## I134 · Generate packaging label and box visual concepts
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../../assets/cases/i134-after.webp" alt="Generating visual concepts for packaging labels and box shapes - example results" width="340"></a></p>
-<p>This example does not include a picture reference, and the input preview is to be completed; see the material requirements below.</p>
-
-- **Input type:** This example only shows result examples; image input preview is to be added
-- **Material requirements:** Brand and packaging structure original board + product type, brand name, packaging copy, container or box type → Generate packaging direction with readable text → Current single-sheet packaging design concept
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta)
-
----
-
-## I135 · Generate repeatable backgrounds, textures and branding patterns
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../../assets/cases/i135-after.webp" alt="Generate repeatable backgrounds, textures, and branding patterns—examples of results" width="340"></a></p>
-<p>This example does not include a picture reference, and the input preview is to be completed; see the material requirements below.</p>
-
-- **Input type:** This example only shows result examples; image input preview is to be added
-- **Material requirements:** Brand graphic unit original + theme, application scenario → Generate seamless pattern → Current single Pattern and Texture
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta)
 
 ---
 

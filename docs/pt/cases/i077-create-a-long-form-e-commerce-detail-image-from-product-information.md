@@ -28,6 +28,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Mesmo grupo de imagens de produtos | Foto/Imagem | Várias fotos | Obrigatório / Obrigatório |
 | Pontos de venda e redação precisa | Personagem/Texto | 1 grupo | Obrigatório / Obrigatório |
 
+
 Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
 
 ## Manter e alterar/Editar resumo
@@ -75,4 +76,4 @@ Direção do resultado: página de detalhes do produto. Quando for necessário t
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

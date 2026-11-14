@@ -25,6 +25,7 @@ Render a supplied architectural or interior line drawing without changing its in
 | 室内或建筑草图/CAD线框 | 图片 / Image | 1张 | 必需 / Required |
 | 空间用途与草图含义 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -72,4 +73,4 @@ Compare the render to the source lines and do not treat it as engineering valida
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

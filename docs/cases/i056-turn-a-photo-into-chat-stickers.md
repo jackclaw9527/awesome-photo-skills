@@ -25,6 +25,7 @@ Turn a person, pet, or object photo into one expressive sticker.
 | 人物、宠物或物体照片 | 图片 / Image | 1张 | 必需 / Required |
 | 本张贴纸的动作或情绪 | 文字 / Text | 0或1项 | 可选 / Optional |
 
+
 每次只生成当前选定的一张；系列中的其他图片分别执行。
 
 ## 保留与改变 / Editing brief
@@ -71,4 +72,4 @@ Check small-size readability and remember that platform packaging is separate.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

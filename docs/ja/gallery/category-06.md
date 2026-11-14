@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-掲載カタログ外の14件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
+掲載カタログ外の13件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
 
 [その他のケース カタログに戻る](./index.md) · [倉庫のホームページに戻る](../../../README.ja.md)
 
@@ -157,20 +157,6 @@
 - **説明:** 一度に生成される画像は 1 つだけです。
 
 [ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta) を作成します
-
----
-
-## I100 · 衣服用のシームレスなプリントと生地のパターンを生成します
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="衣服用のシームレスなプリントと生地のパターンを生成 - 結果の例" width="340"></a></p>
-<p>この例には画像参照が含まれておらず、入力プレビューが完了する必要があります。以下の材料要件を参照してください。</p>
-
-- **入力タイプ:** この例は結果の例のみを示しています。画像入力プレビューを追加します
-- **マテリアル要件:** テーマ要素 1 セット + 0 または 1 つのスタイル参照
-- **説明:** 今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta) を作成します
 
 ---
 

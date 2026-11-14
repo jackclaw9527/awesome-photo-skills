@@ -9,6 +9,7 @@ Professional portraits, clothing edits, virtual previews, avatars, stickers, and
 
 Turn one clear selfie into a credible professional headshot.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** I understand the original photo — required
 - **Preserve:** Keep identity, facial geometry, skin tone, age cues, and natural texture.
 - **Change:** Change crop, background, lighting, and professional wardrobe styling.
@@ -34,6 +35,7 @@ Deliver one finished headshot image only.
 
 Edit only the clothing in a portrait to a specified professional outfit.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Portrait of person wearing casual clothing — required
 - **Preserve:** Keep identity, face, hair, pose, body shape, hands, and background unless requested.
 - **Change:** Change garment type, color, fit, and visible accessories.
@@ -59,6 +61,7 @@ Deliver one edited portrait image only.
 
 Restyle a real person as an original royal, vintage, or historical-inspired portrait.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** I understand the original photo — required
 - **Preserve:** Keep the person’s identity, age cues, skin tone, and facial structure.
 - **Change:** Change costume, background, props, light, and period-inspired atmosphere.
@@ -84,6 +87,7 @@ Deliver one finished portrait image only.
 
 Place an exact product or a described eyewear concept on a front-facing portrait.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Frontal photo of the person — required; target glasses material or style description — conditional (required for exact product try-on; only conceptual styles can be described with text)
 - **Preserve:** Keep identity, face shape, skin, eyes, and the supplied frame details for the chosen branch.
 - **Change:** Change only frame placement, lens appearance, and minimal lighting integration.
@@ -109,6 +113,7 @@ Deliver one preview image only.
 
 Apply a supplied tattoo design to a specified body area.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original photo of the character’s skin — required; Target tattoo design — required; Tattoo location — required
 - **Preserve:** Keep the person, skin texture, body anatomy, and tattoo artwork unchanged.
 - **Change:** Change only placement, scale, curvature, opacity, and integration.
@@ -134,6 +139,7 @@ Deliver one edited preview image only.
 
 Create an original cartoon avatar that remains recognizable as the photographed person.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** I have a clear head photo — required
 - **Preserve:** Keep face shape, hair, skin tone, and visible signature accessories.
 - **Change:** Change rendering language, simplification, background, and palette.
@@ -159,6 +165,7 @@ Deliver one finished avatar image only.
 
 Create an original anime-inspired portrait while retaining personal identity.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** I have a clear head photo — required
 - **Preserve:** Keep face shape, skin tone, hair, eye relationship, and defining accessories.
 - **Change:** Change line work, shading, palette, background, and stylization level.
@@ -184,6 +191,7 @@ Deliver one finished avatar image only.
 
 Turn a person into a fictional packaged action-figure concept image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** People photos — required
 - **Preserve:** Keep the person’s identity and requested accessory list.
 - **Change:** Change body into a toy-like figure, packaging, color system, and display layout.
@@ -209,6 +217,7 @@ Deliver one concept image only, not manufacturing artwork or a product specifica
 
 Turn a person, pet, or object photo into one expressive sticker.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Photo of a person, pet or object — required; Action or emotion of this sticker — optional
 - **Preserve:** Keep the subject recognizable and retain defining markings or features.
 - **Change:** Change expression, pose emphasis, outline, background removal, and sticker styling.
@@ -234,6 +243,7 @@ Deliver one sticker image only; platform sizing and pack assembly are separate s
 
 Create an original fictional movie poster around supplied people and a supplied title.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** Original photos of individuals, couples or groups — required; Original poster subject and title — required; Signature and date — optional
 - **Preserve:** Keep every person’s identity and all confirmed billing text.
 - **Change:** Change cinematic setting, genre treatment, lighting, composition, and typography concept.

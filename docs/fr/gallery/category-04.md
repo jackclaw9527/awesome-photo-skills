@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-11 cas hors catalogue présenté. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
+9 caisses hors catalogue présenté. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
 
 [Retourner à d'autres catalogues de caisses](./index.md) · [Retourner à la page d'accueil de l'entrepôt](../../../README.fr.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · Générer une chaîne YouTube ou un avatar de diffusion en direct
-
-<table>
-<thead><tr><th width="50%">Matériel de référence</th><th width="50%">Exemple de résultats</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Photos de personnes ou dessins de personnages existants</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="Générer une chaîne YouTube ou un avatar de diffusion en direct — matériel de référence 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/fr/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="Générer une chaîne YouTube ou un avatar en direct – exemples de résultats" width="340"></a></td></tr></tbody>
-</table>
-
-- **Type d'entrée :** Comprend un aperçu du matériau de référence et un exemple de résultat
-- **Exigences matérielles :** Photos de 0 ou 1 personne ou photos de personnages existants + 1 thème de chaîne
-- **Description :** Une seule image est générée à la fois.
-
-[ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta)
-
----
-
 ## I055 · Générez des avatars naturels et attrayants pour les applications de rencontres
 
 <table>
@@ -81,20 +66,6 @@
 - **Description :** Une seule image est générée à la fois.
 
 [ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta)
-
----
-
-## I057 · Générer des Emoji personnalisés basés sur du texte
-
-<p><strong>Exemple de résultats</strong></p>
-<p><a href="https://dearsketch.com/fr/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="Générer des Emoji personnalisés à partir de texte – exemples de résultats" width="340"></a></p>
-<p>Cet exemple est une saisie de texte, aucune référence d'image n'est jointe.</p>
-
-- **Type de saisie :** Saisie de texte ; cet exemple ne montre que des exemples de résultats
-- **Exigences matérielles :** 1 émotion ou signification + 1 ensemble de description du sujet ou du symbole
-- **Description :** Une seule image est générée à la fois.
-
-[ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta)
 
 ---
 

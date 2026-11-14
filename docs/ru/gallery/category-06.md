@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 чехлов вне представленного каталога. Слова-подсказки здесь не раскрываются, отображаются только существующие справочные материалы, направления результатов и минимальные требования к материалам.
+13 чехлов вне представленного каталога. Слова-подсказки здесь не раскрываются, отображаются только существующие справочные материалы, направления результатов и минимальные требования к материалам.
 
 [Вернуться к другим каталогам ящиков](./index.md) · [Вернуться на домашнюю страницу склада](../../../README.ru.md)
 
@@ -157,20 +157,6 @@
 - **Описание:** Одновременно создается только одно изображение.
 
 [ Проверьте конкретные требования в dearsketch и создайте ](https://dearsketch.com/ru/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta).
-
----
-
-## I100 · Создание бесшовных принтов и выкроек тканей для одежды
-
-<p><strong>Пример результатов</strong></p>
-<p><a href="https://dearsketch.com/ru/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="Создание бесшовных принтов и рисунков ткани для одежды — примеры результатов" width="340"></a></p>
-<p>Этот пример не включает ссылку на изображение, и предварительный просмотр ввода должен быть завершен; см. требования к материалам ниже.</p>
-
-- **Тип ввода:** В этом примере показаны только примеры результатов; предварительный просмотр изображения должен быть добавлен
-- **Требования к материалам:** 1 набор элементов темы + 0 или 1 образец стиля.
-- **Описание:** На этот раз создается один визуальный предварительный просмотр. Расчет данных, точная верстка, векторные или производственные файлы по-прежнему требуют проверки соответствующими инструментами.
-
-[ Проверьте конкретные требования в dearsketch и создайте ](https://dearsketch.com/ru/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta).
 
 ---
 

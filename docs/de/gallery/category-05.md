@@ -33,7 +33,7 @@
 
 - **Eingabetyp:** Enthält eine Vorschau des Referenzmaterials und ein Ergebnisbeispiel
 - **Materialbedarf:** 1 Einzelwinkel-Produktfoto + 1 Zielbeobachtungswinkel für diese Zeit
-- **Beschreibung:** Es wird jeweils nur die aktuell ausgewählte generiert. andere Bilder der Serie werden separat ausgeführt.
+- **Beschreibung:** Es wird jeweils nur ein Bild generiert.
 
 [ Überprüfen Sie die spezifischen Anforderungen in dearsketch und erstellen Sie ](https://dearsketch.com/de/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta)
 

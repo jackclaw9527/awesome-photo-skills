@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 caisses hors catalogue présenté. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
+13 caisses hors catalogue présenté. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
 
 [Retourner à d'autres catalogues de caisses](./index.md) · [Retourner à la page d'accueil de l'entrepôt](../../../README.fr.md)
 
@@ -157,20 +157,6 @@
 - **Description :** Une seule image est générée à la fois.
 
 [ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta)
-
----
-
-## I100 · Générer des impressions et des motifs de tissu sans couture pour les vêtements
-
-<p><strong>Exemple de résultats</strong></p>
-<p><a href="https://dearsketch.com/fr/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="Générez des impressions et des motifs de tissus sans couture pour les vêtements - exemples de résultats" width="340"></a></p>
-<p>Cet exemple n'inclut pas de référence d'image et l'aperçu d'entrée doit être complété ; voir les exigences matérielles ci-dessous.</p>
-
-- **Type d'entrée :** Cet exemple montre uniquement des exemples de résultats ; L'aperçu de l'entrée d'image doit être ajouté
-- **Exigences matérielles :** 1 ensemble d'éléments de thème + 0 ou 1 référence de style
-- **Description :** Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.
-
-[ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta)
 
 ---
 

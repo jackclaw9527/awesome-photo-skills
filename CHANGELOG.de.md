@@ -3,6 +3,12 @@
 [中文](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [عربي](README.ar.md) · [русский](README.ru.md) · [日本語](README.ja.md) · [हिंदी](README.hi.md)
 
 
+## 2026-11-14
+
+- Erweitert auf 100 öffentliche Vorlagen, darunter 50 reine Textbriefe, die keine Referenzanhänge erfordern.
+- Eine dedizierte Nur-Text-Sammlung und explizite Eingabemodus-Metadaten hinzugefügt. Vorhandene Beispielbilder dienen weiterhin der Veranschaulichung; Die neuen Eingabeaufforderungen wurden nicht generativ getestet.
+
+
 ## 2026-11-02
 
 - 50 neu erstellte öffentliche Vorlagen hinzugefügt, eine für jeden ausgewählten Fall, mit Aufbewahrungszielen und Ergebnisprüfungen. Sie wurden nicht generationsgeprüft.

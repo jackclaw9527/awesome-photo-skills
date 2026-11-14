@@ -3,6 +3,12 @@
 [中文](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [عربي](README.ar.md) · [русский](README.ru.md) · [日本語](README.ja.md) · [हिंदी](README.hi.md)
 
 
+## 2026-11-14
+
+- Expandido para 100 modelos públicos, incluindo 50 resumos somente em texto que não requerem anexos de referência.
+- Adicionada uma coleção dedicada somente de texto e metadados explícitos no modo de entrada. As imagens de exemplo existentes permanecem ilustrativas; os novos prompts não foram testados em geração.
+
+
 ## 2026-11-02
 
 - Adicionados 50 modelos públicos recém-criados, um para cada caso selecionado, com metas de preservação e verificações de resultados. Eles não foram testados por gerações.

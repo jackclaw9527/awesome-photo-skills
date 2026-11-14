@@ -3,26 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-23 Fälle außerhalb des vorgestellten Katalogs. Die Aufforderungsworte werden hier nicht offengelegt, es werden lediglich die vorhandenen Referenzmaterialien, Ergebnisanweisungen und Mindestmaterialanforderungen angezeigt.
+22 Fälle außerhalb des vorgestellten Katalogs. Die Aufforderungsworte werden hier nicht offengelegt, es werden lediglich die vorhandenen Referenzmaterialien, Ergebnisanweisungen und Mindestmaterialanforderungen angezeigt.
 
 [Zurück zu weiteren Kofferkatalogen](./index.md) · [Zurück zur Lager-Homepage](../../../README.de.md)
 
 > Referenzmaterialien und Ergebnisbilder dienen nur zur visuellen Orientierung; Es gibt keine Garantie dafür, dass der gleiche Effekt mit den gleichen Materialien reproduziert werden kann.
-
-## I218 · Charakter- oder Produkthintergründe automatisch entfernen
-
-<table>
-<thead><tr><th width="50%">Referenzmaterial</th><th width="50%">Beispiel für Ergebnisse</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Originalfoto der auszuschneidenden Person oder des Produkts</strong><br><img src="../../../assets/cases/i218-before-1.webp" alt="Personen oder Produkthintergründe automatisch entfernen – Referenzmaterial 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/de/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../../assets/cases/i218-after.webp" alt="Personen oder Produkthintergründe automatisch entfernen – Beispielergebnisse" width="340"></a></td></tr></tbody>
-</table>
-
-- **Eingabetyp:** Enthält eine Vorschau des Referenzmaterials und ein Ergebnisbeispiel
-- **Materialanforderungen:** Erforderliche Originalfotos der auszuschneidenden Personen oder Produkte (1 Foto) + Motive, die beibehalten werden müssen (1 Foto)
-- **Beschreibung:** Es wird jeweils nur ein Bild generiert.
-
-[ Überprüfen Sie die spezifischen Anforderungen in dearsketch und erstellen Sie ](https://dearsketch.com/de/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta)
-
----
 
 ## I219 · Entfernen Sie Passanten, Unordnung oder störende Elemente aus Fotos
 

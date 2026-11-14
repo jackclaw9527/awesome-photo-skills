@@ -24,6 +24,7 @@ Create one horizontal cover image that accurately reflects a supplied article to
 | 文章涉及的人物、商品或事件素材原图 | 图片 / Image | 0–1张；多素材可合并为一张已标注参考板 | 可选 / Optional：头图必须呈现文章中的特定人物、商品或事件素材时 |
 | 文章主题 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -70,4 +71,4 @@ Ensure the cover adds no event or claim absent from the article.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

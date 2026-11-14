@@ -3,10 +3,11 @@
 [中文](../../../../README.md) · [English](../../../../README.en.md) · [Português](../../../../README.pt.md) · [Español](../../../../README.es.md) · [Français](../../../../README.fr.md) · [Deutsch](../../../../README.de.md) · [عربي](../../../../README.ar.md) · [русский](../../../../README.ru.md) · [日本語](../../../../README.ja.md) · [हिंदी](../../../../README.hi.md)
 
 
-Elija la tarea según el resultado deseado por el usuario, no simplemente mediante una técnica de edición. Cada grupo contiene diez indicaciones completas.
+Elija la tarea según el resultado deseado por el usuario, no simplemente mediante una técnica de edición. El grupo de sólo texto contiene 50 indicaciones que no requieren archivos adjuntos; los otros cinco grupos contienen cada uno diez indicaciones para tareas específicas.
 
 | Grupo | Usar para | Referencia |
 | --- | --- | --- |
+| Texto a imagen: no se necesita referencia | 50 resúmenes originales basados ​​en texto. No se requiere imagen ni ningún otro archivo adjunto; Crear nuevos conceptos a partir de hechos escritos. | [abrir mensajes](./text-only.md) |
 | Mascotas y recuerdos familiares | Retratos de mascotas, composiciones familiares, recuerdos de parejas e imágenes de hitos. | [abrir mensajes](./pets-family.md) |
 | Retratos y estilo personal | Retratos profesionales, ediciones de ropa, vistas previas virtuales, avatares, pegatinas y conceptos de carteles. | [abrir mensajes](./people.md) |
 | Hogares y Espacios | Recuerdos de casas, vistas previas de interiores, presentación de propiedades, conceptos de paisaje y visualización arquitectónica. | [abrir mensajes](./spaces.md) |

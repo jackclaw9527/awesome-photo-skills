@@ -24,6 +24,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | --- | --- | --- | --- |
 | Fotos de alimentos ou descrições de produtos | Foto/Imagem | 1 peça | Opcional/Opcional: a ramificação de texto simples pode ser omitida |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -70,4 +71,4 @@ Direção do resultado: gráficos promocionais de alimentos. Quando for necessá
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

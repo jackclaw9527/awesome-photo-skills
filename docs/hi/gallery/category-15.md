@@ -3,26 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-फ़ीचर्ड कैटलॉग के बाहर 23 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
+फ़ीचर्ड कैटलॉग के बाहर 22 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
 
 [अधिक केस कैटलॉग पर लौटें](./index.md) · [वेयरहाउस होमपेज पर लौटें](../../../README.hi.md)
 
 > संदर्भ सामग्री और परिणाम छवियां केवल दृश्य मार्गदर्शन के लिए हैं; इस बात की कोई गारंटी नहीं है कि समान सामग्रियों का उपयोग करके समान प्रभाव को पुन: उत्पन्न किया जा सकता है।
-
-## I218 · चरित्र या उत्पाद पृष्ठभूमि को स्वचालित रूप से हटा दें
-
-<table>
-<thead><tr><th width="50%">संदर्भ सामग्री</th><th width="50%">परिणामों का उदाहरण</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>काटे जाने वाले व्यक्ति या उत्पाद की मूल फ़ोटो</strong><br><img src="../../../assets/cases/i218-before-1.webp" alt="लोगों या उत्पाद पृष्ठभूमियों को स्वचालित रूप से हटा दें - संदर्भ सामग्री 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/hi/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../../assets/cases/i218-after.webp" alt="लोगों या उत्पाद पृष्ठभूमियों को स्वचालित रूप से हटा दें - उदाहरण परिणाम" width="340"></a></td></tr></tbody>
-</table>
-
-- **इनपुट प्रकार:** इसमें संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं
-- **सामग्री संबंधी आवश्यकताएँ:** काटे जाने वाले लोगों या उत्पादों की आवश्यक मूल फ़ोटो (1 फ़ोटो) + जिन विषयों को बनाए रखने की आवश्यकता है (1 फ़ोटो)
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta) बनाएं
-
----
 
 ## I219 · तस्वीरों से राहगीरों, अव्यवस्था या ध्यान भटकाने वाले तत्वों को हटा दें
 

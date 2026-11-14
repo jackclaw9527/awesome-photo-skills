@@ -27,6 +27,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Ziel-Tattoo-Designs | Bild/Bild | 1 Stück | Erforderlich / Erforderlich |
 | Tätowierungsort | Zeichen / Text | 1 Artikel | Erforderlich / Erforderlich |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -74,4 +75,4 @@ Ergebnisse in Richtung: Tattoo-Oberkörper-Vorschau. Wenn exakter Text, transpar
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

@@ -9,6 +9,7 @@ Listagem de ativos, recortes transparentes, imagens de estilo de vida e de estú
 
 Isole um produto real em uma imagem limpa de fundo branco, estilo mercado.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos do produto tiradas com telefones celulares – obrigatório
 - **Preservar:** Mantenha a forma, as proporções, a cor, os rótulos, os detalhes da superfície e as peças incluídas do produto.
 - **Alterar:** Altere o plano de fundo, o corte, o equilíbrio de iluminação e a sombra restrita.
@@ -34,6 +35,7 @@ Deliver one product image only.
 
 Extraia um produto como um recorte reutilizável com um canal alfa real.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do produto — obrigatório
 - **Preservar:** Mantenha todas as bordas, aberturas, rótulos, cores e detalhes transparentes ou reflexivos do produto.
 - **Alteração:** Altere apenas a remoção do fundo, a limpeza das bordas e o tratamento opcional de sombras neutras.
@@ -59,6 +61,7 @@ Deliver one cutout asset only; do not substitute a white-background image.
 
 Coloque um recorte de produto inalterado em um contexto de uso confiável.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Imagem de fundo branco do produto — obrigatório
 - **Preservar:** Mantenha modelo, geometria, cor, rótulos, materiais e proporções do produto.
 - **Alterar:** Altere o ambiente, o estilo, a luz, o contexto da câmera e os acessórios de suporte.
@@ -84,6 +87,7 @@ Deliver one finished lifestyle product image only.
 
 Reformule uma foto de produto com iluminação de estúdio profissional, mantendo os dados do produto.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do produto — obrigatório
 - **Preservar:** Mantenha geometria, rótulos, cores, materiais, textura e componentes incluídos.
 - **Alterar:** Altere o cenário, a disposição das luzes, o polimento da câmera e o tratamento das sombras.
@@ -109,6 +113,7 @@ Deliver one studio product image only.
 
 Crie um cenário de feriado ou temporada de vendas em torno de um produto real.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do produto — obrigatório; Temas promocionais ou de feriados – obrigatório
 - **Preservar:** Mantenha a identidade do produto, design, rótulo, cor e informações promocionais fornecidas.
 - **Alterar:** altere a decoração, o cenário, a luz, a paleta e a composição da campanha.
@@ -134,6 +139,7 @@ Deliver one finished promotional product image only.
 
 Crie uma imagem promocional apetitosa a partir de uma foto de comida ou de uma descrição explícita do produto.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos de alimentos ou descrições de produtos — opcional (ramificação de texto simples pode ser omitida)
 - **Preservar:** Mantenha a porção, ingredientes, embalagem e aparência reais no ramo de fotos.
 - **Alterar:** Altere o revestimento, o cenário, a iluminação, o plano de fundo e o tratamento da câmera.
@@ -159,6 +165,7 @@ Deliver one finished food or beverage image only.
 
 Visualize uma peça de roupa fornecida em um modelo sem alterar o design da peça.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Peças de roupas — obrigatórias
 - **Preservar:** Mantenha a silhueta, a construção, a cor, a estampa, os detalhes do tecido, os acabamentos e a marca.
 - **Alterar:** altere a apresentação de configuração plana para modelo, pose, cenário e iluminação.
@@ -184,6 +191,7 @@ Deliver one on-model image only.
 
 Mostre um produto real sendo segurado ou usado com escala e contato plausíveis.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Imagem do produto — obrigatório
 - **Preservar:** Mantenha o design do produto, as indicações de tamanho, o rótulo, a cor e a verdade funcional.
 - **Alterar:** Altere as mãos, o contexto do usuário, o ambiente, o ângulo da câmera e a luz.
@@ -209,6 +217,7 @@ Deliver one finished interaction image only.
 
 Crie um infográfico de produto único a partir de uma foto e especificações verificadas.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do produto — obrigatório; Dimensões, argumentos de venda e parâmetros precisos – obrigatórios
 - **Preservar:** Mantenha a aparência do produto e todos os números, unidades e reivindicações fornecidos exatos.
 - **Alterar:** altere o layout, as legendas, os ícones, a hierarquia e o plano de fundo de suporte.
@@ -234,6 +243,7 @@ Deliver one infographic preview image only, not a verified vector or print-produ
 
 Organize várias visualizações reais de produtos e cópias aprovadas em um conceito visual longo.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Mesmo grupo de imagens de produto — obrigatório; Pontos de venda e redação precisa – obrigatório
 - **Preservar:** Mantenha todas as visualizações de produtos consistentes e todas as declarações e textos fornecidos exatos.
 - **Alterar:** altere a ordem das seções, hierarquia gráfica, planos de fundo, textos explicativos e contexto de estilo de vida.

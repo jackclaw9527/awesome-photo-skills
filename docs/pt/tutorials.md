@@ -92,4 +92,4 @@ Diminua o zoom para ver se ainda está claro e, em seguida, faça a marca nomina
 
 Primeiro, faça uma tentativa em pequena escala para verificar se o assunto e os fatos estão corretos e, em seguida, altere o estilo de pintura, composição ou outras variáveis. Ao encontrar nome, preço, tamanho, data do evento e redação precisa, você deve verificá-los palavra por palavra e não deixar que o modelo os preencha para você.
 
-Se desejar visualizar os requisitos de entrada por tarefas específicas, você pode entrar na página correspondente do site do diretório de casos [50 ](./prompts.md).
+Se desejar visualizar os requisitos de entrada por tarefas específicas, você pode entrar na página correspondente do site do diretório de casos [100 ](./prompts.md).

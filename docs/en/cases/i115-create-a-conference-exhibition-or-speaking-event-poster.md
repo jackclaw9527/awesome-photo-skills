@@ -24,6 +24,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Original images of speakers, exhibitors or exhibits | Picture/Image | 0–1; multiple materials can be combined into one labeled reference board | Optional/Optional: When the poster needs to show real speakers, exhibitors or exhibits |
 | Event title, speaker or exhibitor information, time, location or participation method | Character / Text | 1 serving | Required / Required |
 
+
 This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
 
 ## Retain and change / Editing brief
@@ -64,4 +65,4 @@ Results Direction: Conference poster. When exact text, transparent files, vector
 - [Create a promotional poster from a topic and copy · Theme promotional poster ](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Create a Mother's Day, Black Friday, or holiday sale poster · Holiday sale poster](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

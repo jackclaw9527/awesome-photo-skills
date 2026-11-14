@@ -10,7 +10,7 @@ Este repositório usa demonstrações selecionadas para ilustrar a entrada, a sa
 - Antes exibe materiais de referência organizados de acordo com registros de revisão de requisitos e Depois exibe exemplos de resultados existentes; esta exibição não é um registro completo de rastreabilidade de entrada em nível de tarefa.
 - Várias imagens de referência são exibidas separadamente por função; se nenhuma referência de imagem for anexada, ela estará claramente marcada e não será falsificada. Requisitos com resultados ausentes são colocados no backlog.
 - Os exemplos não provam que qualquer tarefa atinge a mesma qualidade para todos os inputs, nem constituem uma comparação do desempenho do modelo.
-- As 50 palavras de prompt públicas e os 5 modelos introdutórios são todos tutoriais escritos separadamente que não foram testados um por um e não são as palavras de prompt geradas originais para as imagens de amostra.
+- As 100 palavras públicas e os 5 modelos introdutórios são todos tutoriais escritos separadamente que ainda não foram testados em cada imagem. Elas não são as palavras de alerta geradas originalmente para as imagens de amostra.
 - Quando são necessários texto preciso, transparência, dimensões físicas, vetores ou entrega de produção, o arquivo real deve ser inspecionado e não confirmado apenas por miniaturas.
 
 ## Fonte da imagem e escopo de uso

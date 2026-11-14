@@ -5,53 +5,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-12 حالة خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
+7 حالات خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
 
 [الرجوع إلى المزيد من كتالوجات الحالات](./index.md) · [الرجوع إلى الصفحة الرئيسية للمستودع](../../../README.ar.md)
 
 > المواد المرجعية وصور النتائج مخصصة للتوجيه البصري فقط؛ ليس هناك ما يضمن إمكانية إعادة إنتاج نفس التأثير باستخدام نفس المواد.
-
-## I127 · إنشاء رمز المنتج أو الواجهة
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../../assets/cases/i127-after.webp" alt="قم بإنشاء أيقونات المنتج أو الواجهة - أمثلة على النتائج" width="340"></a></p>
-<p>لا يتضمن هذا المثال مرجعًا للصورة، ويجب إكمال معاينة الإدخال؛ انظر متطلبات المواد أدناه.</p>
-
-- **نوع الإدخال:** يعرض هذا المثال أمثلة النتائج فقط؛ تتم إضافة معاينة إدخال الصورة
-- **متطلبات المواد:** قالب نظام الأيقونات الحالي + قائمة الوظائف ← إنشاء مجموعة أيقونات متسقة ← أصل الرمز الفردي الحالي
-- **الوصف:** هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta)
-
----
-
-## I128 · توليد الرسوم التوضيحية المتجهة للتحرير من النص
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../../assets/cases/i128-after.webp" alt="قم بإنشاء رسوم توضيحية متجهة قابلة للتحرير من النص - مثال على النتائج" width="340"></a></p>
-<p>هذا المثال عبارة عن إدخال نص، ولم يتم إرفاق أي مرجع للصورة.</p>
-
-- **نوع الإدخال:** إدخال النص؛ يعرض هذا المثال أمثلة النتائج فقط
-- **متطلبات المواد:** موضوع الرسم التوضيحي والغرض منه → إنشاء SVG وهندسة الطبقات → الرسم التوضيحي المتجه الفردي الحالي
-- **الوصف:** هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta)
-
----
-
-## I129 · إنشاء معرض صور مخصص خاص بالموضوع
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../../assets/cases/i129-after.webp" alt="قم بإنشاء صور معرض مخصصة خاصة بالموضوع - أمثلة على النتائج" width="340"></a></p>
-<p>لا يتضمن هذا المثال مرجعًا للصورة، ويجب إكمال معاينة الإدخال؛ انظر متطلبات المواد أدناه.</p>
-
-- **نوع الإدخال:** يعرض هذا المثال أمثلة النتائج فقط؛ تتم إضافة معاينة إدخال الصورة
-- **متطلبات المواد:** الصور الأصلية للمنتجات أو الشخصيات التي يجب تضمينها في المشاهد + مشاهد محددة وسياق الاستخدام ← إنشاء صور دون قيود المكتبة الجاهزة ← تخصيص صورة المخزون المنفردة الحالية
-- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta)
-
----
 
 ## I130 · إنشاء تصميم مرئي للعلامة التجارية VI قابل لإعادة الاستخدام
 
@@ -82,34 +40,6 @@
 - **الوصف:** يتم إنشاء الخيار المحدد حاليًا فقط في كل مرة؛ يتم تنفيذ الصور الأخرى في السلسلة بشكل منفصل.
 
 [ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta)
-
----
-
-## I134 · إنشاء مفاهيم مرئية لملصقات التغليف والصناديق
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../../assets/cases/i134-after.webp" alt="توليد مفاهيم مرئية لملصقات التغليف وأشكال الصناديق - نتائج الأمثلة" width="340"></a></p>
-<p>لا يتضمن هذا المثال مرجعًا للصورة، ويجب إكمال معاينة الإدخال؛ انظر متطلبات المواد أدناه.</p>
-
-- **نوع الإدخال:** يعرض هذا المثال أمثلة النتائج فقط؛ تتم إضافة معاينة إدخال الصورة
-- **متطلبات المواد:** العلامة التجارية وهيكل التغليف اللوحة الأصلية + نوع المنتج، اسم العلامة التجارية، نسخة التغليف، نوع الحاوية أو الصندوق → إنشاء اتجاه التغليف بنص قابل للقراءة → المفهوم الحالي لتصميم العبوة ذات الورقة الواحدة
-- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta)
-
----
-
-## I135 · إنشاء خلفيات قابلة للتكرار، والأنسجة، وأنماط العلامات التجارية
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../../assets/cases/i135-after.webp" alt="أنشئ خلفيات وأنسجة وأنماط علامات تجارية قابلة للتكرار — أمثلة على النتائج" width="340"></a></p>
-<p>لا يتضمن هذا المثال مرجعًا للصورة، ويجب إكمال معاينة الإدخال؛ انظر متطلبات المواد أدناه.</p>
-
-- **نوع الإدخال:** يعرض هذا المثال أمثلة النتائج فقط؛ تتم إضافة معاينة إدخال الصورة
-- **متطلبات المواد:** الوحدة الرسومية للعلامة التجارية الأصلية + السمة وسيناريو التطبيق → إنشاء نمط سلس → النمط والملمس الفردي الحالي
-- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta)
 
 ---
 

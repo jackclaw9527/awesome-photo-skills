@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 cases fora do catálogo em destaque. As palavras de aviso não são divulgadas aqui, apenas os materiais de referência existentes, instruções de resultados e requisitos mínimos de materiais são exibidos.
+13 cases fora do catálogo em destaque. As palavras de aviso não são divulgadas aqui, apenas os materiais de referência existentes, instruções de resultados e requisitos mínimos de materiais são exibidos.
 
 [Voltar para mais catálogos de casos](./index.md) · [Voltar para a página inicial do armazém](../../../README.pt.md)
 
@@ -157,20 +157,6 @@
 - **Descrição:** Apenas uma imagem é gerada por vez.
 
 [ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta)
-
----
-
-## I100 · Gere estampas perfeitas e padrões de tecido para roupas
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="Gere estampas perfeitas e padrões de tecido para roupas - resultados de exemplo" width="340"></a></p>
-<p>Este exemplo não inclui uma referência de imagem e a visualização da entrada deve ser concluída; veja os requisitos de material abaixo.</p>
-
-- **Tipo de entrada:** Este exemplo mostra apenas exemplos de resultados; a visualização da entrada da imagem deve ser adicionada
-- **Requisitos de material:** 1 conjunto de elementos de tema + 0 ou 1 referência de estilo
-- **Descrição:** Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta)
 
 ---
 

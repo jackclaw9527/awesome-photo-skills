@@ -9,6 +9,7 @@ Retratos de mascotas, composiciones familiares, recuerdos de parejas e imágenes
 
 Convierte una foto de mascota en un retrato listo para exhibir.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de mascotas: obligatorias
 - **Preservar:** Mantenga la identidad, las marcas, el color de ojos, la forma de las orejas y las proporciones del cuerpo de la mascota.
 - **Cambiar:** Cambia la ambientación, iluminación, paleta y tratamiento artístico.
@@ -34,6 +35,7 @@ Deliver one finished portrait image; do not create a sheet, sequence, or alterna
 
 Coloque una mascota real en un concepto original de retrato real o histórico.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de mascotas: obligatorias
 - **Conservar:** Conserva la cara, el patrón del pelaje, el color de ojos y la anatomía específica de la especie de la mascota.
 - **Cambio:** Cambia de ropa, accesorios, fondo y atmósfera inspirada en la época.
@@ -59,6 +61,7 @@ Deliver one finished portrait image only.
 
 Coloque una mascota reconocible en un baño, cocina o escena doméstica divertida.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de mascotas: obligatorias
 - **Preservar:** Mantenga la identidad, las marcas del pelaje, la anatomía y la escala consistentes.
 - **Cambio:** Cambia el entorno, el contexto de la pose y los accesorios divertidos.
@@ -84,6 +87,7 @@ Deliver one finished image suitable for [PRINT OR DIGITAL USE].
 
 Cree una imagen conmemorativa tranquila a partir de una foto de mascota y detalles conmemorativos confirmados.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de mascotas: obligatorias
 - **Preservar:** Mantenga exacta la identidad de la mascota y todos los nombres y fechas proporcionados.
 - **Cambio:** Cambia el fondo, la luz, los detalles florales y el ambiente conmemorativo.
@@ -109,6 +113,7 @@ Deliver one finished memorial image only, and flag all rendered text for proofre
 
 Combine las referencias de familiares y mascotas proporcionadas en un retrato coherente.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de miembros de la familia: obligatorias; Fotos de mascotas: obligatorias
 - **Preservar:** Mantenga a cada persona y mascota individualmente reconocibles, con el recuento y las marcas correctos.
 - **Cambio:** Cambia el entorno compartido, la coordinación del vestuario, la luz y la disposición.
@@ -134,6 +139,7 @@ Deliver one complete group portrait image only.
 
 Transforma una foto de pareja en una obra de arte conmemorativa.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de pareja: obligatorias
 - **Preservar:** Conserva ambas identidades, relaciones, lógica de pose y nombres o fechas confirmados.
 - **Cambiar:** Cambia el medio artístico, el fondo, la paleta y los detalles de celebración.
@@ -159,6 +165,7 @@ Deliver one finished image only and mark any rendered text for manual proofreadi
 
 Reúna a familiares fotografiados por separado en un retrato familiar ficticio pero coherente.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de todos los miembros incluidos en la pintura: obligatorias; Número de personas, relación y disposición de los personajes: obligatorio
 - **Conservar:** Conserva todas las identidades proporcionadas, el recuento solicitado, las relaciones y la disposición.
 - **Cambio:** Cambia la configuración compartida, la integración de poses, la luz y el estilo coordinado.
@@ -184,6 +191,7 @@ Deliver one complete family portrait image only.
 
 Cambie el estilo de una foto familiar para un día festivo específico.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos familiares: obligatorias; Nombre o tema del día festivo: obligatorio
 - **Preservar:** Mantenga todas las personas, identidades, recuentos y rasgos faciales despejados.
 - **Cambio:** Cambie la decoración, los detalles del guardarropa, el fondo y el ambiente festivo.
@@ -209,6 +217,7 @@ Deliver one finished holiday portrait image only.
 
 Cree un retrato inspirado en una boda a partir de una foto de pareja sin presentarlo como un registro de evento real.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de pareja: obligatorias
 - **Preservar:** Mantenga ambas identidades, relaciones naturales y proporciones corporales.
 - **Cambio:** Cambia de vestuario, ambiente, estilo floral y ambiente ceremonial.
@@ -234,6 +243,7 @@ Deliver one finished portrait image only.
 
 Cree una imagen de un hito utilizando una foto de bebé y datos confirmados por los padres.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de bebé: obligatorias; Edad o hitos mensuales: obligatorio
 - **Preservar:** Mantenga la identidad del bebé, la anatomía apropiada para su edad y la redacción de los hitos confirmados.
 - **Cambiar:** Cambie el fondo, los accesorios, la paleta de colores y el diseño de celebración.

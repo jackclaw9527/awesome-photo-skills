@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Le texte original du matériel visuel principal de l'événement | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif/Facultatif : lorsque l'affiche utilise le logo d'une personne, d'un produit, d'une œuvre ou d'une marque spécifique |
 | Nom de l'événement, informations principales, heure et lieu ou méthode de participation | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.
 
 ## Conserver et modifier / Brief d'édition
@@ -71,4 +72,4 @@ Direction du résultat : affiche de l'événement. Lorsque du texte exact, des f
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

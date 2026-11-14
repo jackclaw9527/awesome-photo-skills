@@ -24,6 +24,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Specify font or material font effect template | Picture/Image | 0–1; multiple materials can be combined into one labeled reference board | Optional/Optional: When the artistic font must follow the existing glyph language or material effect |
 | Accurate text and purpose | Character / Text | 1 serving | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -71,4 +72,4 @@ Result direction: WordArt. When exact text, transparent files, vectors or print 
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

@@ -9,6 +9,7 @@ Portraits d'animaux de compagnie, composites de famille, souvenirs de couple et 
 
 Transformez une photo d'animal de compagnie en un portrait prêt à être affiché.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos d'animaux - obligatoires
 - **Préserver :** Conservez l'identité, les marques, la couleur des yeux, la forme des oreilles et les proportions du corps de l'animal.
 - **Modifier :** Modifiez le décor, l'éclairage, la palette et le traitement artistique.
@@ -34,6 +35,7 @@ Deliver one finished portrait image; do not create a sheet, sequence, or alterna
 
 Placez un véritable animal de compagnie dans un concept original de portrait royal ou historique.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos d'animaux - obligatoires
 - **Préserver :** Conservez le visage, le motif du pelage, la couleur des yeux et l'anatomie spécifique à l'espèce de l'animal.
 - **Changement :** Changez les vêtements, les accessoires, l'arrière-plan et l'atmosphère inspirée de l'époque.
@@ -59,6 +61,7 @@ Deliver one finished portrait image only.
 
 Placez un animal de compagnie reconnaissable dans une salle de bain, une cuisine ou une scène domestique humoristique.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos d'animaux - obligatoires
 - **Préserver :** Gardez l'identité, les marques de pelage, l'anatomie et l'échelle cohérentes.
 - **Changement :** Changez d'environnement, posez le contexte et les accessoires ludiques.
@@ -84,6 +87,7 @@ Deliver one finished image suitable for [PRINT OR DIGITAL USE].
 
 Créez une image commémorative silencieuse à partir d'une photo d'animal de compagnie et de détails de souvenir confirmés.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos d'animaux - obligatoires
 - **Préserver :** Conservez l'identité de l'animal ainsi que tous les noms et dates fournis exacts.
 - **Modification :** Modifiez l'arrière-plan, la lumière, les détails floraux et l'ambiance commémorative.
@@ -109,6 +113,7 @@ Deliver one finished memorial image only, and flag all rendered text for proofre
 
 Combinez les références fournies des membres de la famille et des animaux de compagnie en un seul portrait cohérent.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos des membres de la famille – obligatoires ; Photos d'animaux de compagnie - obligatoires
 - **Préserver :** Gardez chaque personne et chaque animal reconnaissables individuellement, avec un décompte et des marquages ​​corrects.
 - **Modifier :** modifiez le cadre partagé, la coordination de la garde-robe, la lumière et la disposition.
@@ -134,6 +139,7 @@ Deliver one complete group portrait image only.
 
 Transformez une photo de couple en œuvre d’art commémorative.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de couple – obligatoire
 - **Préserver :** Conservez les identités, les relations, la logique de pose et les noms ou dates confirmés.
 - **Modification :** Modifiez le support artistique, l'arrière-plan, la palette et les détails de célébration.
@@ -159,6 +165,7 @@ Deliver one finished image only and mark any rendered text for manual proofreadi
 
 Rassemblez des proches photographiés séparément dans un portrait de famille fictif mais cohérent.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Intrants :** Photos de tous les membres inclus dans le tableau — obligatoires ; Nombre de personnes, relation et disposition des personnages - requis
 - **Préserver :** Conserver toutes les identités fournies, le nombre demandé, les relations et l'arrangement.
 - **Modification :** modifiez les paramètres partagés, l'intégration des poses, la lumière et le style coordonné.
@@ -184,6 +191,7 @@ Deliver one complete family portrait image only.
 
 Relookez une photo de famille pour des vacances spécifiées.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de famille – obligatoires ; Nom ou thème des vacances — obligatoire
 - **Préserver :** Conservez toutes les personnes, identités, comptes et traits du visage non masqués.
 - **Changement :** Changez le décor, les accents de garde-robe, l'arrière-plan et l'atmosphère de vacances.
@@ -209,6 +217,7 @@ Deliver one finished holiday portrait image only.
 
 Créez un portrait inspiré d'un mariage à partir d'une photo de couple sans le présenter comme un véritable enregistrement d'événement.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de couple – obligatoire
 - **Préserver :** Conservez les identités, les relations naturelles et les proportions du corps.
 - **Changement :** Changez de garde-robe, de décor, de style floral et d'ambiance cérémoniale.
@@ -234,6 +243,7 @@ Deliver one finished portrait image only.
 
 Créez une image marquante en utilisant une photo de bébé et des faits confirmés par les parents.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de bébé – obligatoire ; Âge ou jalons mensuels – obligatoire
 - **Préserver :** Conservez l'identité du bébé, son anatomie adaptée à son âge et le libellé des étapes confirmées.
 - **Modification :** Modifiez la toile de fond, les accessoires, la palette de couleurs et la disposition de célébration.

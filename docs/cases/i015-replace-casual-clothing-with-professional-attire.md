@@ -24,6 +24,7 @@ Edit only the clothing in a portrait to a specified professional outfit.
 | --- | --- | --- | --- |
 | 穿休闲装的人像 | 图片 / Image | 1张 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -71,4 +72,4 @@ Inspect collar, cuffs, hands, and body edges for clean integration.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

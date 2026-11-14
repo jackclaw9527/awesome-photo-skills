@@ -3,26 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-23 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
+22 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
 
 [Return to more case catalogs](./index.md) · [Return to warehouse homepage](../../../README.en.md)
 
 > Reference materials and result images are for visual guidance only; there is no guarantee that the same effect can be reproduced using the same materials.
-
-## I218 · Automatically remove character or product backgrounds
-
-<table>
-<thead><tr><th width="50%">Reference material</th><th width="50%">Example of results</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Original photo of the person or product to be cut out</strong><br><img src="../../../assets/cases/i218-before-1.webp" alt="Automatically remove people or product backgrounds — reference material 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/en/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../../assets/cases/i218-after.webp" alt="Automatically remove people or product backgrounds - example results" width="340"></a></td></tr></tbody>
-</table>
-
-- **Input type:** Includes reference material preview and result example
-- **Material requirements:** Required original photos of people or products to be cut out (1 photo) + subjects that need to be retained (1 photo)
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta)
-
----
 
 ## I219 · Remove passers-by, clutter or distracting elements from photos
 

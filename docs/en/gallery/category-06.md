@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
+13 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
 
 [Return to more case catalogs](./index.md) · [Return to warehouse homepage](../../../README.en.md)
 
@@ -157,20 +157,6 @@
 - **Description:** Only one picture is generated at a time.
 
 [ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta)
-
----
-
-## I100 · Generate seamless prints and fabric patterns for garments
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="Generate seamless prints and fabric patterns for clothing - example results" width="340"></a></p>
-<p>This example does not include a picture reference, and the input preview is to be completed; see the material requirements below.</p>
-
-- **Input type:** This example only shows result examples; image input preview is to be added
-- **Material requirements:** 1 set of theme elements + 0 or 1 style reference
-- **Description:** This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta)
 
 ---
 

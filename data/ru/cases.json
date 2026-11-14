@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "draft",
   "site": "https://dearsketch.com",
-  "caseCount": 50,
+  "caseCount": 100,
   "categories": [
     {
       "id": "pets-family",
@@ -33,6 +33,12 @@
       "name": "Креативность и визуальный дизайн",
       "englishName": "Creative and visual design",
       "count": 10
+    },
+    {
+      "id": "text-only",
+      "name": "Генерация чистого текста · Справочные изображения не требуются",
+      "englishName": "Text to image · No reference needed",
+      "count": 50
     }
   ],
   "cases": [
@@ -43,6 +49,7 @@
       "englishName": "Turn a pet photo into a custom portrait",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография домашнего животного",
       "roles": [
         {
@@ -89,6 +96,7 @@
       "englishName": "Turn a pet into a royal or historical portrait",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография домашнего животного",
       "roles": [
         {
@@ -135,6 +143,7 @@
       "englishName": "Place a pet in a playful bathroom or kitchen scene",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография домашнего животного",
       "roles": [
         {
@@ -181,6 +190,7 @@
       "englishName": "Create a pet memorial portrait",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография домашнего животного",
       "roles": [
         {
@@ -227,6 +237,7 @@
       "englishName": "Create a family portrait with pets",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "Как минимум 1 фотография члена семьи для каждого члена + как минимум 1 фотография домашнего животного для каждого домашнего животного.",
       "roles": [
         {
@@ -288,6 +299,7 @@
       "englishName": "Turn a couple's photo into anniversary artwork",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фото пары",
       "roles": [
         {
@@ -334,6 +346,7 @@
       "englishName": "Combine separate family photos into one family portrait",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "Минимум 1 фотография каждого участника, включенного в картину + 1 размер группы, взаимоотношения и расположение персонажей.",
       "roles": [
         {
@@ -395,6 +408,7 @@
       "englishName": "Create a Christmas or holiday family portrait",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 семейная фотография + 1 название или тема праздника",
       "roles": [
         {
@@ -451,6 +465,7 @@
       "englishName": "Create a wedding portrait or bridal-style photo",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 фото пары",
       "roles": [
         {
@@ -501,6 +516,7 @@
       "englishName": "Create baby milestone or monthly growth photos",
       "group": "pets-family",
       "category": "Домашние животные и семейные памятники",
+      "inputMode": "task-specific",
       "inputSummary": "1 детское фото + 1 возраст или веха",
       "roles": [
         {
@@ -553,6 +569,7 @@
       "englishName": "Create a professional LinkedIn headshot from a selfie",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 чёткая и оригинальная фотография себя",
       "roles": [
         {
@@ -599,6 +616,7 @@
       "englishName": "Replace casual clothing with professional attire",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 портрет человека в повседневной одежде",
       "roles": [
         {
@@ -649,6 +667,7 @@
       "englishName": "Turn yourself into a royal, vintage, or historical portrait",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 чёткая и оригинальная фотография себя",
       "roles": [
         {
@@ -699,6 +718,7 @@
       "englishName": "Virtually try on glasses",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 фронтальная фотография человека + 1 описание материала или стиля очков",
       "roles": [
         {
@@ -757,6 +777,7 @@
       "englishName": "Preview a tattoo on a body photo",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 оригинальная фотография скина персонажа + 1 дизайн тату-мишени + 1 место татуировки",
       "roles": [
         {
@@ -824,6 +845,7 @@
       "englishName": "Turn a portrait photo into a cartoon avatar",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 четкое фото моей головы",
       "roles": [
         {
@@ -874,6 +896,7 @@
       "englishName": "Turn a portrait photo into an anime character",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 четкое фото моей головы",
       "roles": [
         {
@@ -924,6 +947,7 @@
       "englishName": "Turn a person into a packaged action figure",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография человека",
       "roles": [
         {
@@ -970,6 +994,7 @@
       "englishName": "Turn a photo into chat stickers",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография человека, домашнего животного или предмета + 0 или 1 действие или эмоция из этой наклейки.",
       "roles": [
         {
@@ -1022,6 +1047,7 @@
       "englishName": "Turn a personal or couple photo into a movie poster",
       "group": "people",
       "category": "Персонажи и личный имидж",
+      "inputMode": "task-specific",
       "inputSummary": "Требуемая оригинальная фотография отдельного человека, пары или группы (1 фотография) + Требуемая оригинальная тема и название плаката (1 экземпляр) + Необязательная подпись и дата (0 или 1 комплект)",
       "roles": [
         {
@@ -1080,6 +1106,7 @@
       "englishName": "Turn a house photo into a watercolor or line-art keepsake",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография дома",
       "roles": [
         {
@@ -1130,6 +1157,7 @@
       "englishName": "Preview different interior styles in a room photo",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Фотография существующего помещения → Сохраните структуру пространства и замените стили, мебель и материалы → Одиночный рендеринг текущего оформления.",
       "roles": [
         {
@@ -1180,6 +1208,7 @@
       "englishName": "Create a landscape makeover concept from a yard photo",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Фотографии внутреннего двора или внешнего пространства + требования к использованию, климат или местоположение → Добавьте растения, тротуарную плитку и объекты → Текущая визуализация единого ландшафта.",
       "roles": [
         {
@@ -1227,6 +1256,7 @@
       "englishName": "Preview wall paint, flooring, and wallpaper",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Фотография в помещении + образец целевого материала + заменяемая поверхность и целевой цвет/материал → Замена цвета и материала поверхности → Предварительный просмотр текущего эффекта одного материала",
       "roles": [
         {
@@ -1295,6 +1325,7 @@
       "englishName": "Create an office redesign concept",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Фотографии офиса + описание команды, функциональной зоны, бренда и филиала → Создать рабочие места, зоны для встреч и фирменные пространства → Текущая концепция единого офиса",
       "roles": [
         {
@@ -1352,6 +1383,7 @@
       "englishName": "Virtually stage an empty property with furniture and decor",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Фотографии свободных комнат → Создать мебель, соответствующую перспективе пространства → Текущая единая виртуальная планировка дома.",
       "roles": [
         {
@@ -1398,6 +1430,7 @@
       "englishName": "Turn a casual room photo into a polished property listing image",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Случайная фотография захламленной комнаты → Устраните беспорядок, наведите порядок в комнате и сохраните пространство реальным → Единая, аккуратная презентация текущего объекта недвижимости.",
       "roles": [
         {
@@ -1444,6 +1477,7 @@
       "englishName": "Create an architectural facade concept from text or a sketch",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Архитектурный эскиз или блок-схема + ключевые слова архитектурного использования и дизайна → Создание материалов, окружающей среды и света → Рендеринг текущей единой архитектурной концепции",
       "roles": [
         {
@@ -1497,6 +1531,7 @@
       "englishName": "Turn an interior or architectural sketch into a realistic render",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Интерьерный или архитектурный эскиз/каркас САПР + использование пространства и значение эскиза → сохранить структуру и дополнить материалы и освещение → текущий единый реалистичный рендеринг пространства",
       "roles": [
         {
@@ -1553,6 +1588,7 @@
       "englishName": "Create a mood board for an architecture or interior project",
       "group": "spaces",
       "category": "Дом и пространство",
+      "inputMode": "task-specific",
       "inputSummary": "Справочная таблица пространственной атмосферы и материалов + тип проекта и ключевые слова → Организовать и создать единое визуальное направление → Текущая единая доска настроения",
       "roles": [
         {
@@ -1610,6 +1646,7 @@
       "englishName": "Turn an ordinary product photo into a white-background listing image",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография товара, сделанная на мобильный телефон",
       "roles": [
         {
@@ -1660,6 +1697,7 @@
       "englishName": "Create a reusable product PNG with a transparent background",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография товара",
       "roles": [
         {
@@ -1710,6 +1748,7 @@
       "englishName": "Place a product in a realistic lifestyle scene",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 товар на белом фоне",
       "roles": [
         {
@@ -1760,6 +1799,7 @@
       "englishName": "Turn an ordinary photo into a professional studio product shot",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография товара",
       "roles": [
         {
@@ -1810,6 +1850,7 @@
       "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография товара + 1 праздничная или рекламная тема",
       "roles": [
         {
@@ -1866,6 +1907,7 @@
       "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография еды или описание продукта",
       "roles": [
         {
@@ -1913,6 +1955,7 @@
       "englishName": "Turn flat-lay clothing into an on-model image",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 тайл одежды",
       "roles": [
         {
@@ -1963,6 +2006,7 @@
       "englishName": "Show a product being held or used",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 изображение продукта",
       "roles": [
         {
@@ -2013,6 +2057,7 @@
       "englishName": "Create a product infographic with dimensions, features, and specifications",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "1 фотография товара + 1 комплект точных размеров, торговых точек и параметров.",
       "roles": [
         {
@@ -2065,6 +2110,7 @@
       "englishName": "Create a long-form e-commerce detail image from product information",
       "group": "products",
       "category": "Товары и электронная коммерция",
+      "inputMode": "task-specific",
       "inputSummary": "Несколько изображений одного и того же продукта + 1 набор рекламных аргументов и точный копирайтинг.",
       "roles": [
         {
@@ -2136,6 +2182,7 @@
       "englishName": "Create a YouTube video thumbnail",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Исходное изображение видеоперсонажа или объекта темы + тема или заголовок видео → Создать высококонтрастную композицию и область заголовка → Текущий одиночный значок YouTube",
       "roles": [
         {
@@ -2187,6 +2234,7 @@
       "englishName": "Create a promotional poster from a topic and copy",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Исходный основной визуальный материал мероприятия + название мероприятия, основная информация, время и место или способ участия → Создайте плакат с текстом и изображениями → Плакат текущего отдельного мероприятия",
       "roles": [
         {
@@ -2238,6 +2286,7 @@
       "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Исходное изображение рекламной продукции + фестиваль или точка продаж, товары или услуги, рекламная информация → Применить тему фестиваля и создать макет → Текущее рекламное изображение одного узла",
       "roles": [
         {
@@ -2295,6 +2344,7 @@
       "englishName": "Create a conference, exhibition, or speaking-event poster",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Оригинальные изображения докладчиков, экспонентов или экспонатов + название мероприятия, информация о докладчике или экспоненте, время, место или способ участия → Создайте стандартизированный плакат мероприятия → Текущий единый плакат конференции",
       "roles": [
         {
@@ -2337,6 +2387,7 @@
       "englishName": "Turn a complex concept into an infographic visual",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Эскиз существующей информационной структуры + фактическое содержание, информационная структура или взаимосвязь → Создать значки, композицию и визуальную иерархию → Текущая брошюра Инфографика",
       "roles": [
         {
@@ -2384,6 +2435,7 @@
       "englishName": "Create a newsletter header or article cover",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Исходное изображение человека, продукта или материала, задействованного в статье, + тема статьи → Создание горизонтальной обложки и фирменных иллюстраций → Текущее изображение заголовка отдельной статьи.",
       "roles": [
         {
@@ -2431,6 +2483,7 @@
       "englishName": "Create device mockups and app-store promotional images",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Снимки экрана фактического интерфейса целевого приложения + целевого устройства и реальных функциональных преимуществ → Вставьте мобильное устройство и добавьте маркетинговый фон → Текущий макет отдельного приложения",
       "roles": [
         {
@@ -2483,6 +2536,7 @@
       "englishName": "Create restaurant menu visuals and dish imagery",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Оригинальные фотографии реальных блюд + названия блюд, точные цены, категории → Создать макет, иллюстрации и реальные изображения блюд → Текущее единое меню",
       "roles": [
         {
@@ -2530,6 +2584,7 @@
       "englishName": "Create logo concepts from a brand description",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Существующий логотип бренда и элементы фирменного стиля, первоначальный проект + название бренда, позиционирование бренда, целевая аудитория → Создать несколько направлений логотипа → Текущий проект единого логотипа",
       "roles": [
         {
@@ -2581,6 +2636,7 @@
       "englishName": "Create readable display lettering and title effects",
       "group": "design",
       "category": "Креативность и визуальный дизайн",
+      "inputMode": "task-specific",
       "inputSummary": "Укажите шрифт или материал, шаблон эффекта шрифта + точный текст и цель → сгенерируйте текст с материалом и стилем → текущее изображение одного шрифта.",
       "roles": [
         {
@@ -2624,6 +2680,2222 @@
       ],
       "publicationStatus": "draft",
       "websiteUrl": "https://dearsketch.com/ru/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    },
+    {
+      "id": "I054",
+      "title": "Аватар канала генерации текста",
+      "name": "Создайте канал YouTube или аватар для прямой трансляции",
+      "englishName": "Create a profile picture for YouTube or streaming",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Аватар автора",
+      "useCase": "YouTube, платформа прямых трансляций",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не изображайте настоящего хозяина и не заявляйте о сходстве с существующим персонажем.",
+      "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
+      "document": "docs/cases/i054-create-a-profile-picture-for-youtube-or-streaming.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фотографии людей или рисунки существующих персонажей.",
+            "file": "assets/cases/i054-before-1.webp",
+            "sha256": "158fd0c5a855731caca41fbfd4311da7d97ca2f20d14d18ad9fcbea32dfabe39"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i054-after.webp",
+          "sha256": "993ae428751bde41666b11ab90ab9bef6fb7e0282c1f8c6b991278e0cf4c1ab8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta"
+    },
+    {
+      "id": "I057",
+      "title": "Пользовательские эмодзи",
+      "name": "Создавайте собственные эмодзи на основе текста",
+      "englishName": "Create a custom emoji from text",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Пользовательские эмодзи",
+      "useCase": "Сообщество, чат, контент",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте выражение в небольшом размере; Упаковка эмодзи платформы — это отдельный шаг.",
+      "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
+      "document": "docs/cases/i057-create-a-custom-emoji-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i057-after.webp",
+          "sha256": "a02888b0c3da700d0577e2d133e58ba9d432db8fb9c4a672b7e10a5fd6ae6122"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta"
+    },
+    {
+      "id": "I100",
+      "title": "Бесшовная печать на одежде",
+      "name": "Создавайте бесшовные принты и выкройки тканей для одежды.",
+      "englishName": "Create seamless prints and fabric patterns for clothing",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "печать на ткани",
+      "useCase": "Производство одежды, ПОД",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Перед изготовлением ткани проверьте повтор 3 на 3 на наличие швов, случайных полос и неудобных зазоров.",
+      "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
+      "document": "docs/cases/i100-create-seamless-prints-and-fabric-patterns-for-clothing.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i100-after.webp",
+          "sha256": "015459b67be436513fb08d0208a00179e9f9202c1b6c4a7c96567cef5cbe9133"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta"
+    },
+    {
+      "id": "I104",
+      "title": "Основной визуальный элемент поста в соцсети",
+      "name": "Создавайте визуальные эффекты ежедневных публикаций, подходящие для социальных платформ.",
+      "englishName": "Create everyday social media post visuals",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "посты в социальных сетях",
+      "useCase": "Инстаграм, Фейсбук, Сяохуншу",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не придумывайте реальный продукт, отзыв или новостное событие; перечитайте заголовок.",
+      "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
+      "document": "docs/cases/i104-create-everyday-social-media-post-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i104-after.webp",
+          "sha256": "8605f5086a4db0d9bafac47476a6e6fe97ebabe66c4155275abefb9fe9079749"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta"
+    },
+    {
+      "id": "I109",
+      "title": "баннер мероприятия",
+      "name": "Создание веб-сайтов, рекламных баннеров и баннеров для мероприятий",
+      "englishName": "Create a website, advertising, or event banner",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Баннер",
+      "useCase": "Сайт, выставка, реклама",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Используйте только предоставленные факты кампании; не придумывайте скидки, даты или одобрения.",
+      "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
+      "document": "docs/cases/i109-create-a-website-advertising-or-event-banner.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i109-after.webp",
+          "sha256": "9e252b20640665af7e76f1e2e58ba58436b06e7b5649849d6f82cc9226c5f307"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta"
+    },
+    {
+      "id": "I113",
+      "title": "текстовое приглашение",
+      "name": "Создайте приглашения на свадьбу, день рождения или вечеринку",
+      "englishName": "Create a wedding, birthday, or party invitation",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "пригласительное письмо",
+      "useCase": "Свадьбы, дни рождения, вечеринки",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Опустить любые неуказанные личные данные; проверьте всю информацию о мероприятии перед отправкой.",
+      "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
+      "document": "docs/cases/i113-create-a-wedding-birthday-or-party-invitation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i113-after.webp",
+          "sha256": "9c6a2e8ed3bd7762404803b9bce913560987fdc52c6dfd0bfb4cdf45fba96bd8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Функциональный центр Фотор",
+          "url": "https://www.fotor.com/features/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta"
+    },
+    {
+      "id": "I114",
+      "title": "праздничная открытка",
+      "name": "Создавайте праздничные или персонализированные поздравительные открытки",
+      "englishName": "Create a holiday or personalized greeting card",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Открытка",
+      "useCase": "Поздравления с праздниками, работа с клиентами",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Используйте только запрошенные культурные символы; не делайте выводов о религии или личных обстоятельствах получателя.",
+      "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
+      "document": "docs/cases/i114-create-a-holiday-or-personalized-greeting-card.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Поздравительные открытки с персонализированными фотографиями людей или домашних животных",
+            "file": "assets/cases/i114-before-1.webp",
+            "sha256": "9348c5cd9e3592e651b71c7a53e775713d2cf6ba0104853f088acf5ac69b90de"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i114-after.webp",
+          "sha256": "87b5021b56fafc10dd6e818d29a7534017a9a26c371c77d4bbbabde92d76684b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta"
+    },
+    {
+      "id": "I116",
+      "title": "Афиша мероприятия в кампусе",
+      "name": "Создание плакатов школьных мероприятий или курсов",
+      "englishName": "Create a school event or course poster",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Плакат кампуса",
+      "useCase": "Мероприятия в кампусе, занятия",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не придумывайте школьные эмблемы, идентификаторы сотрудников или заявления об одобрении; проверить каждый факт события.",
+      "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
+      "document": "docs/cases/i116-create-a-school-event-or-course-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i116-after.webp",
+          "sha256": "f31f1036aa478020876d3a420917ff3af5cbda2bdd27859797f8aa924ea62faf"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta"
+    },
+    {
+      "id": "I117",
+      "title": "Демо-темы изображений",
+      "name": "Создавайте изображения, соответствующие теме, для PPT",
+      "englishName": "Create theme-matched visuals for a presentation",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "ППТ с картинками",
+      "useCase": "Бизнес-презентации, отчеты о занятиях",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не изобретайте данные или ярлыки; показывать только предоставленные концептуальные отношения.",
+      "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
+      "document": "docs/cases/i117-create-theme-matched-visuals-for-a-presentation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i117-after.webp",
+          "sha256": "58facce1335e5354d9da6c674ac4a9c5d91f31104ee60e47a2d1dac6dc119268"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta"
+    },
+    {
+      "id": "I120",
+      "title": "Визуализация концепции «Героя веб-сайта»",
+      "name": "Создать домашнюю страницу веб-сайта. Видение героя.",
+      "englishName": "Create a website homepage hero visual",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Главное изображение веб-сайта",
+      "useCase": "Домашняя страница официального сайта",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не создавайте реальный интерфейс, отзывы пользователей или функции продукта; сохраните это как концепцию бренда.",
+      "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
+      "document": "docs/cases/i120-create-a-website-homepage-hero-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i120-after.webp",
+          "sha256": "bf2a4de3913ebe163cd712c8816c5283dba209a0bb43de65478c815136eaebd3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta"
+    },
+    {
+      "id": "I122",
+      "title": "текстовая цитата",
+      "name": "Создание котировок и карточек знаний с текстом",
+      "englishName": "Create quote cards and educational cards with text",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Котировочная карта",
+      "useCase": "социальные сети",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Включайте «[CONFIRMED ATTRIBUTION OR NONE]» только в том виде, в каком оно имеется; не придумывайте источник цитат.",
+      "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
+      "document": "docs/cases/i122-create-quote-cards-and-educational-cards-with-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i122-after.webp",
+          "sha256": "2a117561d56d40cd09a063e010d079d82562fd1697998eef80f77bd578147516"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta"
+    },
+    {
+      "id": "I127",
+      "title": "Новый стиль значков",
+      "name": "Создание значков продукта или интерфейса",
+      "englishName": "Create product or interface icons",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "значок актива",
+      "useCase": "Приложения, веб-сайты, демоверсии",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте это по адресу [TARGET PIXEL SIZE]; это создает новое направление и не соответствует невидимой системе иконок.",
+      "detailPath": "/intent/i127-create-product-or-interface-icons.html",
+      "document": "docs/cases/i127-create-product-or-interface-icons.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i127-after.webp",
+          "sha256": "7627ac87fc6964bec5d0333339c981336a0a3b316c23ef5a883f0984f83e896b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta"
+    },
+    {
+      "id": "I128",
+      "title": "Геометрическая векторная иллюстрация ветра",
+      "name": "Создание редактируемых векторных иллюстраций из текста",
+      "englishName": "Create an editable vector illustration from text",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "векторная иллюстрация",
+      "useCase": "Бренд, печать, веб-страница",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Предварительный просмотр растра не является редактируемым SVG; проверьте и при необходимости перестройте контуры в векторном редакторе.",
+      "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
+      "document": "docs/cases/i128-create-an-editable-vector-illustration-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i128-after.webp",
+          "sha256": "d28fa7c7b5cb1eb4d61f849f95c80945a9f69afff4c41e90da3702a0a366be28"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta"
+    },
+    {
+      "id": "I129",
+      "title": "Индивидуальная концепция галереи",
+      "name": "Создание пользовательских изображений галереи для конкретной темы",
+      "englishName": "Create custom stock imagery for a specific theme",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Пользовательское стоковое изображение",
+      "useCase": "Статьи, объявления, презентации",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Используйте вымышленных людей и предметы без торговой марки; не представляют собой реальное событие или реальный продукт.",
+      "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
+      "document": "docs/cases/i129-create-custom-stock-imagery-for-a-specific-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i129-after.webp",
+          "sha256": "6543306587dd83c34b86ceab0df6185a954720a7d3d5220f4752da7117762827"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta"
+    },
+    {
+      "id": "I134",
+      "title": "Новая визуальная концепция упаковки",
+      "name": "Создание визуальных концепций для упаковочных этикеток и форм коробок.",
+      "englishName": "Create packaging label and box concepts",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "концепция дизайна упаковки",
+      "useCase": "Предложения и тестирование новых продуктов",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не делайте выводов о сертификации, ингредиентах или характеристиках; это не файл Dieline или производственный файл.",
+      "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
+      "document": "docs/cases/i134-create-packaging-label-and-box-concepts.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i134-after.webp",
+          "sha256": "8cc806d6d7ced177e8f4141f48b94a9acf1abdde0da55b38dc3e97f2b631304f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta"
+    },
+    {
+      "id": "I135",
+      "title": "Фоновый узор бренда",
+      "name": "Создавайте повторяющиеся фоны, текстуры и фирменные узоры.",
+      "englishName": "Create repeatable backgrounds, textures, and brand patterns",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Узор и текстура",
+      "useCase": "Упаковка, паутина, полиграфия",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Это определяет новый образец, а не сохраняет невидимые художественные образы бренда; протестируйте повтор.",
+      "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
+      "document": "docs/cases/i135-create-repeatable-backgrounds-textures-and-brand-patterns.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i135-after.webp",
+          "sha256": "5d6f77bbadb952a57ba1c5adf6ce9953993123b0123396eb9ac2805a82f9515a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta"
+    },
+    {
+      "id": "I143",
+      "title": "обложка учебника",
+      "name": "Создайте обложку книги на основе названия и содержания книги.",
+      "englishName": "Create a book cover from its title and content",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Обложка книги",
+      "useCase": "электронные книги, бумажные книги",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не придумывайте одобрения или брендинг сериала; проверьте типографию заголовка и фактические размеры печати отдельно.",
+      "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
+      "document": "docs/cases/i143-create-a-book-cover-from-its-title-and-content.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i143-after.webp",
+          "sha256": "2cbcfc06ec66ffa87799fbffdf0013166f0da364e92099170e84873514c6bede"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Страница, созданная Canva AI",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta"
+    },
+    {
+      "id": "I146",
+      "title": "Новый лист набора символов",
+      "name": "Создавайте листы персонажей и виды под разными углами.",
+      "englishName": "Create a character sheet with multiple views",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Лист персонажа",
+      "useCase": "анимация, игры, истории",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно. Условия на месте Выбор эталонного изображения неприменимо.",
+      "check": "Это создает нового персонажа; проверьте согласованность представлений и избегайте изобретения невидимой существующей идентичности.",
+      "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
+      "document": "docs/cases/i146-create-a-character-sheet-with-multiple-views.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i146-after.webp",
+          "sha256": "f94946ce3b0bb33397570289229d252cb40f6333acec1d8155347f6711571d07"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Генерация изображений OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta"
+    },
+    {
+      "id": "I147",
+      "title": "концепт-арт мировоззрения",
+      "name": "Создавайте концепт-арты фильмов, игр или рекламы из текста",
+      "englishName": "Create concept art for film, games, or advertising from text",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концепт-арт",
+      "useCase": "Раннее развитие и предложения",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Сделайте географию, передний план и фон читабельными; используйте оригинальные проекты, а не существующие активы франшизы.",
+      "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
+      "document": "docs/cases/i147-create-concept-art-for-film-games-or-advertising-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i147-after.webp",
+          "sha256": "f90d9e2297c50f0ed281778f68f0206bdd8f64fbdcd818bd62951528219c1f87"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Генерация изображений OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta"
+    },
+    {
+      "id": "I150",
+      "title": "раскраски для взрослых",
+      "name": "Пакетное создание страниц книжки-раскраски для взрослых",
+      "englishName": "Create adult coloring book pages in batches",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "книжка-раскраска для взрослых",
+      "useCase": "Etsy、KDP",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте пунктирные линии, незаполняемые полосы и поля печати; в этом выпуске представлена ​​одна страница, а не целая книга.",
+      "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
+      "document": "docs/cases/i150-create-adult-coloring-book-pages-in-batches.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i150-after.webp",
+          "sha256": "af0a6adec0734f8cbb8f6d359a4008c6eb9056e899594e43a89d3a27d0030af5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Книжка-раскраска Etsy с искусственным интеллектом",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta"
+    },
+    {
+      "id": "I151",
+      "title": "Иллюстрации к учебникам, соответствующим возрасту",
+      "name": "Создавайте соответствующие возрасту иллюстрации для учебных материалов или рабочих листов.",
+      "englishName": "Create age-appropriate illustrations for textbooks or worksheets",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "образовательная иллюстрация",
+      "useCase": "Класс, учебные материалы",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не добавляйте неподтвержденные научные факты или ярлыки; попросите учителя проверить концепцию и соответствие возрасту.",
+      "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
+      "document": "docs/cases/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i151-after.webp",
+          "sha256": "5f9b36c0e078ce47abce0b974ba479e3554504a64a17931b348251a3a72f0872"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta"
+    },
+    {
+      "id": "I152",
+      "title": "Иллюстрации к культурным историям",
+      "name": "Создавайте религиозные истории, иллюстрации на историческую или культурную тематику.",
+      "englishName": "Create religious, historical, or cultural illustrations",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Культурные повествовательные иллюстрации",
+      "useCase": "Издательское дело, образование, мероприятия",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Сохраняйте неуказанные исторические подробности в занижении; идентифицируйте это как интерпретацию и проверяйте культурологическую точность отдельно.",
+      "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
+      "document": "docs/cases/i152-create-religious-historical-or-cultural-illustrations.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i152-after.webp",
+          "sha256": "6d8730a65b421783cd2e22d59e27ad0c9b019776821be9283d948c733cd1272f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta"
+    },
+    {
+      "id": "I154",
+      "title": "Иллюстрация концепции статьи",
+      "name": "Создание концептуальных иллюстраций для статей, журналов и отчетов.",
+      "englishName": "Create editorial illustrations for articles, magazines, and reports",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Редакционная иллюстрация",
+      "useCase": "СМИ, репортажи",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не изображайте вымышленные действия как реальные события и не придумывайте портреты реальных людей.",
+      "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
+      "document": "docs/cases/i154-create-editorial-illustrations-for-articles-magazines-and-reports.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i154-after.webp",
+          "sha256": "2619f24d13b94e891053cde5d58c2e31a47cf8e37f82d5aca289a1972bdf8997"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta"
+    },
+    {
+      "id": "I155",
+      "title": "обложка музыкального релиза",
+      "name": "Создавайте обложки альбомов и визуальные эффекты для музыкальных релизов",
+      "englishName": "Create album cover art and music-release visuals",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Обложка альбома",
+      "useCase": "Музыкальная платформа, продвижение",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Добавьте только «[EXACT TITLE AND ARTIST OR NO TEXT]»; не выдумывайте подобия и не требуйте одобрения настоящего художника.",
+      "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
+      "document": "docs/cases/i155-create-album-cover-art-and-music-release-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальное фото художника",
+            "file": "assets/cases/i155-before-1.webp",
+            "sha256": "6a6bb192a92ed9fa5a7e6dd3ded31ee13732f3bc08780437e0a5cb932ae3434d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i155-after.webp",
+          "sha256": "8225681c4c33302e5040e905a500e79823dc0ef56a56bd75672800080c2ae3f6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta"
+    },
+    {
+      "id": "I156",
+      "title": "Оригинальный рисунок на футболке",
+      "name": "Создание графики для футболок для печати",
+      "englishName": "Create a print-ready T-shirt design",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Печать на футболках",
+      "useCase": "Магазин POD, периферийное оборудование для мероприятий",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Покажите работу без макета одежды; Перед началом производства проверьте разрешение, лимиты чернил и прозрачность файла.",
+      "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
+      "document": "docs/cases/i156-create-a-print-ready-t-shirt-design.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i156-after.webp",
+          "sha256": "7e9e610afde406e9533edaca7660979ab65f258c38c12cd4a96c441818e86b35"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        },
+        {
+          "label": "Дизайн футболки Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-graphic-design-generator/custom-t-shirt-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta"
+    },
+    {
+      "id": "I157",
+      "title": "Оригинальный дизайн наклейки",
+      "name": "Создавайте тематические наборы наклеек",
+      "englishName": "Create a themed sticker set",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "набор наклеек",
+      "useCase": "Etsy, культурный и творческий",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Доставьте только одну наклейку; проверяйте альфу и вырезайте контур отдельно, вместо того, чтобы предполагать, что предварительный просмотр готов к печати.",
+      "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
+      "document": "docs/cases/i157-create-a-themed-sticker-set.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i157-after.webp",
+          "sha256": "366e082ff8bd8d80d74e0abbdc6c372f4c6cc03466d480b2952ef5d0c2fb9632"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta"
+    },
+    {
+      "id": "I158",
+      "title": "роспись стен с персонажами",
+      "name": "Создавайте печатные настенные и декоративные произведения искусства",
+      "englishName": "Create printable wall art and decorative artwork",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Настенное Искусство",
+      "useCase": "Etsy, Домашний декор",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не выдумывайте личное воспоминание или реальное место; перед печатью проверьте доставленные пиксели, обрежьте и отпечатайте пробные образцы.",
+      "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
+      "document": "docs/cases/i158-create-printable-wall-art-and-decorative-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i158-after.webp",
+          "sha256": "5e38b9fb94f8bd68300bcb4f089429fc1a4cf044f03e40543e43316080b87485"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Настенное искусство Etsy AI",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta"
+    },
+    {
+      "id": "I159",
+      "title": "Персонализированные обои",
+      "name": "Создайте персонализированные обои для мобильного телефона или рабочего стола.",
+      "englishName": "Create a personalized phone or desktop wallpaper",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "обои",
+      "useCase": "мобильный телефон, настольный компьютер",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте фактическую обрезку устройства и читаемость значков; никакой реальный человек или предоставленная фотография не требуются.",
+      "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
+      "document": "docs/cases/i159-create-a-personalized-phone-or-desktop-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i159-after.webp",
+          "sha256": "417a0df16163806c28f37213c710b0c30afd08b816086047303156b9a17c5109"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta"
+    },
+    {
+      "id": "I160",
+      "title": "Концепция рисунка стиля вышивки",
+      "name": "Преобразование текста или изображений в направления рисунков вышивания.",
+      "englishName": "Turn text or an image into an embroidery design direction",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "дизайн вышивки",
+      "useCase": "Одежда, значки, поделки",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно. Выберите для веб-сайта текстовую ветку темы.",
+      "check": "Это визуальный мотив, а не оцифрованная инструкция по вышивке; количество стежков, плотность и машинные файлы требуют отдельной работы.",
+      "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
+      "document": "docs/cases/i160-turn-text-or-an-image-into-an-embroidery-design-direction.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Фото или оригинальный логотип",
+            "file": "assets/cases/i160-before-1.webp",
+            "sha256": "bc47fd8fdd15534fccf3b793f81bd83ec06ecca8755e98c9008a505b60f87f61"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i160-after.webp",
+          "sha256": "fa554ac3b0cc37b35a46aec0522362c00e13be56ee338a059c3bc99f325f2953"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta"
+    },
+    {
+      "id": "I161",
+      "title": "Оригинальный эскиз татуировки",
+      "name": "Создавайте индивидуальные эскизы татуировок на основе темы.",
+      "englishName": "Create a custom tattoo sketch from a theme",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "эскиз эскиза татуировки",
+      "useCase": "консультация по татуировке",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте написание и значение символов; попросите татуировщика оценить межстрочный интервал и практичность размещения.",
+      "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
+      "document": "docs/cases/i161-create-a-custom-tattoo-sketch-from-a-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i161-after.webp",
+          "sha256": "247acbe783240c095f9680a97659c0a75d9584182778965efba966bec1a602b1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Инструменты искусственного интеллекта Picsart",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta"
+    },
+    {
+      "id": "I163",
+      "title": "Выкройка большой сумки или чехла для телефона",
+      "name": "Создавайте персонализированные выкройки для сумок или чехлов для мобильных телефонов.",
+      "englishName": "Create personalized artwork for a tote bag or phone case",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Модель продукта",
+      "useCase": "POD, индивидуальные подарки",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Предоставляйте иллюстрацию, а не макет продукта; Для точного подгонки необходим шаблон производителя и отпечаток.",
+      "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
+      "document": "docs/cases/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i163-after.webp",
+          "sha256": "c3a129d50971a2910705987b16daea77a8ff65f08aaf661b1c2e15f6f462951e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Портреты домашних животных на Etsy AI",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        },
+        {
+          "label": "Мокап искусственного интеллекта на Etsy",
+          "url": "https://www.etsy.com/market/ai_generated_mockups"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta"
+    },
+    {
+      "id": "I164",
+      "title": "Буклет с поздравительной открыткой к праздничной серии",
+      "name": "Создавайте продаваемые пакеты праздничных открыток",
+      "englishName": "Create a sellable set of holiday greeting cards",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Распечатанные поздравительные открытки",
+      "useCase": "Etsy, фирменные подарки",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Создайте только эту запись; сохранение идентичности стиля последующих карточек требует повторного использования этих письменных правил и пересмотра серии.",
+      "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
+      "document": "docs/cases/i164-create-a-sellable-set-of-holiday-greeting-cards.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i164-after.webp",
+          "sha256": "574d8facd70daad8f3111f5b1217d090956f58f05ee8fcd8245fdb47b106eb77"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Cutout.pro",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta"
+    },
+    {
+      "id": "I165",
+      "title": "Декоративный бесшовный узор",
+      "name": "Создавайте бесшовные узоры для тканей, оберточной бумаги и обоев.",
+      "englishName": "Create seamless patterns for fabric, wrapping paper, or wallpaper",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Бесшовный узор",
+      "useCase": "Ткани, упаковка, предметы интерьера",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Осмотрите повторяющуюся сетку в предполагаемом физическом масштабе; не заявляйте о сертифицированной готовности производства.",
+      "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
+      "document": "docs/cases/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i165-after.webp",
+          "sha256": "5c7a0af7d23c35554a0e2d4797fbc9f46e294d112ff3419e4fd7d46124f00a0f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta"
+    },
+    {
+      "id": "I166",
+      "title": "Концепция рисования линии резки",
+      "name": "Создавайте векторные линии, подходящие для Cricut или лазерной резки.",
+      "englishName": "Create vector line art for Cricut or laser cutting",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Вырезной файл SVG",
+      "useCase": "Cricut, лазерная резка",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Изображение представляет собой образец чертежа, а не исполняемый вырезанный файл; перестроить и протестировать векторные траектории в программном обеспечении для резки.",
+      "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
+      "document": "docs/cases/i166-create-vector-line-art-for-cricut-or-laser-cutting.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Исходное изображение для конвертации",
+            "file": "assets/cases/i166-before-1.webp",
+            "sha256": "5b60ae3103e34ad380bda35d2a76249784ccd6477ba1df4e38680629e06f4bb1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i166-after.webp",
+          "sha256": "89468bba6e49bc2ef3f2c701174a050eda37eeb8fd1853352560e17d72b294d2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Настенное искусство Etsy AI",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta"
+    },
+    {
+      "id": "I167",
+      "title": "Детская раскраска, одностраничная.",
+      "name": "Создайте полный набор страниц и обложек для книжки-раскраски KDP.",
+      "englishName": "Create a complete KDP coloring book with pages and a cover",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Книжка-раскраска ДПК",
+      "useCase": "Амазонка ДПК",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "В этом выпуске нет обложки, сетки страниц или всей книги; проверьте соответствие возрасту, непрерывность линии и размеры печати.",
+      "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
+      "document": "docs/cases/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i167-after.webp",
+          "sha256": "bff8b4fb1ad7eebdf3be0a956ba5e94040f8b14eae067879134a90a164c42cf0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Книжка-раскраска Etsy с искусственным интеллектом",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        },
+        {
+          "label": "Детский сборник рассказов Стелар",
+          "url": "https://www.usestelar.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta"
+    },
+    {
+      "id": "I168",
+      "title": "Распечатать плакат визуально",
+      "name": "Создание плакатов для печати в высоком разрешении",
+      "englishName": "Create a high-resolution printable poster",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Готовый к печати плакат",
+      "useCase": "выставки, стены, мероприятия",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте фактические размеры в пикселях, типографику, обрезку и физическое доказательство; Сами по себе подсказки не могут гарантировать разрешение печати.",
+      "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
+      "document": "docs/cases/i168-create-a-high-resolution-printable-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i168-after.webp",
+          "sha256": "e8518bbcc1362cca6945c70a5969bbb2bd0e7524271f1b8e6e2e0ff4bb8a68a6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta"
+    },
+    {
+      "id": "I173",
+      "title": "Новое направление дизайна коммерческих помещений",
+      "name": "Создание направлений дизайна ресторана, магазина или выставочного зала",
+      "englishName": "Create design directions for a restaurant, shop, or showroom",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концептуальная карта коммерческого помещения",
+      "useCase": "Открытие магазина, ремонт, предложение",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Без фотографии объекта это вымышленная концепция пространства, а не изменение реального объекта недвижимости или плана строительства.",
+      "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
+      "document": "docs/cases/i173-create-design-directions-for-a-restaurant-shop-or-showroom.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальное изображение коммерческой космической сцены",
+            "file": "assets/cases/i173-before-1.webp",
+            "sha256": "8f623b91bcaf5e68e8f55a74e7e3ffd9b36ba6387782f2117df3bc06cff4a74b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i173-after.webp",
+          "sha256": "6f1b2fdb3fdd3bcec5a9ec10770be99ace4912f9d03b905b42100b3f44effffd"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Дизайн комнаты Adobe",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta"
+    },
+    {
+      "id": "I185",
+      "title": "Новое направление в стилизации изделий",
+      "name": "Создайте несколько направлений стиля продукта на основе описаний спроса.",
+      "englishName": "Create multiple product form directions from a brief",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "группа концепций продукта",
+      "useCase": "Мозговой штурм и предварительный проект",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Выбирайте одно направление для каждого пробега; не претендуйте на механическую проверку или сохранение ранее существовавшего продукта.",
+      "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
+      "document": "docs/cases/i185-create-multiple-product-form-directions-from-a-brief.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i185-after.webp",
+          "sha256": "f2d99f2180dfabb1b736be8884befe00795e2193ef3c53f068d589fbdaa88918"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta"
+    },
+    {
+      "id": "I187",
+      "title": "текстовая форма автомобиля",
+      "name": "Создавайте концепции стиля автомобиля на основе текста или эскизов.",
+      "englishName": "Create a car design concept from text or a sketch",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "иллюстрация концепции автомобиля",
+      "useCase": "исследование дизайна, контент",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Это концепция внешнего вида, а не проверенная аэродинамика, инженерия или редизайн невидимой реальной модели.",
+      "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i187-create-a-car-design-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Эскиз автомобиля или исходный рисунок кузова",
+            "file": "assets/cases/i187-before-1.webp",
+            "sha256": "015edd8d00dd90e1907df8f18220f543d4694e7b7b0ccd8d9791d2e5a53811cc"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i187-after.webp",
+          "sha256": "6fefebe2c3ea4fbcebca351ad1dcc9919debad9d4ce7e294c52d7e028efd607a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "OpenArt эскиз в изображение",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta"
+    },
+    {
+      "id": "I189",
+      "title": "Дизайн аксессуаров для сумок для обуви",
+      "name": "Создание концепций дизайна обуви, сумок и аксессуаров.",
+      "englishName": "Create design concepts for shoes, bags, and accessories",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концептуальный чертеж аксессуаров",
+      "useCase": "Проекты и предложения серий",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не изобретайте товарные знаки и не обещайте пригодности, прочности или технологичности; Сравните их с физическим прототипом.",
+      "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
+      "document": "docs/cases/i189-create-design-concepts-for-shoes-bags-and-accessories.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Оригинальный эскиз аксессуаров для обуви и сумок.",
+            "file": "assets/cases/i189-before-1.webp",
+            "sha256": "beef87e21fb9b63b1ff09dabe268f525e5a2a511c7838a5de4af145ebae2c7cd"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i189-after.webp",
+          "sha256": "8c6c04b616b6fc768100f913cca8e60e5adc3fa8e86eab94c211560407dc2a56"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "OpenArt эскиз в изображение",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta"
+    },
+    {
+      "id": "I190",
+      "title": "Структура упаковки и концепции отображения",
+      "name": "Быстро изучите различные структуры упаковки и эффекты на полках.",
+      "englishName": "Explore packaging structures and shelf presence",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концептуальная карта упаковки",
+      "useCase": "Принятие решений и тестирование нового продукта",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно. Условия на месте Выбор эталонного изображения неприменимо.",
+      "check": "Следите за тем, чтобы повторные упаковки были одинаковыми; не подразумевают проверенную технологическую линию, номинальную нагрузку на полку или фактическое наличие продукта на складе.",
+      "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
+      "document": "docs/cases/i190-explore-packaging-structures-and-shelf-presence.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Копирайтинг продукта, логотипа и реальной упаковки",
+            "file": "assets/cases/i190-before-1.webp",
+            "sha256": "200267d2e135f7d97c2311cf2ab0bffe7da0a762fc839a67afb650a35f0fa00d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i190-after.webp",
+          "sha256": "eb063e79165c04c9866dc9093a5d2021f6d7ffcd84cb0b0efce7340883a7f493"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta"
+    },
+    {
+      "id": "I191",
+      "title": "прототип виртуального продукта",
+      "name": "Создавайте отображаемые прототипы продуктов перед созданием физических объектов.",
+      "englishName": "Create a presentation-ready product prototype image before production",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "прототип виртуального продукта",
+      "useCase": "Финансирование, интервью с пользователями, краудфандинг",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Это визуализирует только письменное задание; он не устанавливает внутренние инженерные решения, безопасность или реальные характеристики.",
+      "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
+      "document": "docs/cases/i191-create-a-presentation-ready-product-prototype-image-before-production.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "Эскиз продукта или структурная рукопись",
+            "file": "assets/cases/i191-before-1.webp",
+            "sha256": "0bdb574406864f5123718ba2ad445200a2059d3bf45cf5da4d4d55c2bf70e19f"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i191-after.webp",
+          "sha256": "18d37e69528418bc2768aaa026ee92f7be22bcf6400caf1202a3a6b470985f8f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt эскиз в изображение",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "фотография продукта insMind",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta"
+    },
+    {
+      "id": "I193",
+      "title": "Концептуальная карта продукта в трехмерном стиле",
+      "name": "Создание 3D-рендеринга статических изображений продуктов",
+      "englishName": "Create a 3D-render-style product visual",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Изображения продуктов в 3D-стиле",
+      "useCase": "Объявления, предложения",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Это вымышленная визуализация продукта и плоское изображение, а не существующая фотография товара или загружаемая 3D-модель.",
+      "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
+      "document": "docs/cases/i193-create-a-3d-render-style-product-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i193-after.webp",
+          "sha256": "92be8d810954b8d5b8815cbe75f17202555d737558ba3980f4e1d4287766e66b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Страница, созданная Canva AI",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta"
+    },
+    {
+      "id": "I194",
+      "title": "Оригинальный 2D-спрайт",
+      "name": "Создавайте 2D-спрайты игр из текста или эталонных изображений.",
+      "englishName": "Create a 2D game sprite from text or a reference image",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Игровой спрайт",
+      "useCase": "Прототипирование и производство игр",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Создайте только одну позу; проверьте реальный альфа-канал, размеры пикселей и импорт игрового движка отдельно.",
+      "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
+      "document": "docs/cases/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i194-after.webp",
+          "sha256": "6c56dc6d46316a0736eab168acddba614272f784519138794b5b2f1c15a9684d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Генерация спрайтов Unity",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        },
+        {
+          "label": "Игровые ресурсы Ludo.ai",
+          "url": "https://ludo.ai/docs/game-asset-generation"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta"
+    },
+    {
+      "id": "I196",
+      "title": "текстовый пиксельный ресурс",
+      "name": "Преобразуйте изображения или описания в игровые ресурсы в пиксельном стиле.",
+      "englishName": "Turn an image or description into pixel-art game assets",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Пиксель АртАссет",
+      "useCase": "Ретро-игры, прототипы",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Не конвертируйте и не имитируйте невидимую фотографию; перед использованием игры проверьте фактическую пиксельную сетку в исходном размере.",
+      "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
+      "document": "docs/cases/i196-turn-an-image-or-description-into-pixel-art-game-assets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i196-after.webp",
+          "sha256": "79b1cd9349befff01f211b21412e5c20589f3bdfc4d863c447fd08823edfd4f4"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Генерация спрайтов Unity",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta"
+    },
+    {
+      "id": "I197",
+      "title": "Концепты игровых персонажей и костюмов",
+      "name": "Создание концепций игровых персонажей и направлений костюмов.",
+      "englishName": "Create game character concepts and outfit directions",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концепт-арт персонажей",
+      "useCase": "Ранняя разработка игры",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Используйте новый дизайн персонажей из написанного описания; не претендуйте на преемственность с невидимым существующим персонажем.",
+      "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
+      "document": "docs/cases/i197-create-game-character-concepts-and-outfit-directions.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i197-after.webp",
+          "sha256": "99a0c192812913032553fa8f263a8932720235c648a1b033a84690391582ab65"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Генерация изображений OpenArt",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta"
+    },
+    {
+      "id": "I198",
+      "title": "Портрет персонажа настольной игры",
+      "name": "Создавайте портреты персонажей DND или настольных игр.",
+      "englishName": "Create a D&D or tabletop character portrait",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Карта персонажей ДНД",
+      "useCase": "Бегущая группа, карточка персонажа",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Сохраняйте согласованность анатомии и оборудования; создайте новую вымышленную личность, не требуя фотографии игрока.",
+      "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
+      "document": "docs/cases/i198-create-a-d-and-d-or-tabletop-character-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i198-after.webp",
+          "sha256": "68514597158e26c61f2760b6a5b73cb351854dccfed067a713849bcd48ffe1c0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta"
+    },
+    {
+      "id": "I201",
+      "title": "Концепция игрового реквизита",
+      "name": "Создавайте концепции оружия, реквизита и пикапов.",
+      "englishName": "Create concepts for weapons, props, and pickups",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Карта игрового реквизита",
+      "useCase": "Проп-система, стадия концепции",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Сохраните его для чтения по адресу [ON-SCREEN SIZE]; концептуальное изображение — это не производственная сетка или инженерный чертеж.",
+      "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
+      "document": "docs/cases/i201-create-concepts-for-weapons-props-and-pickups.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i201-after.webp",
+          "sha256": "20b578c21c1cd8608db77d40ccc78918c0d26a053ca7ea56b230c59332b50aa5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta"
+    },
+    {
+      "id": "I202",
+      "title": "Игровые сцены и достопримечательности",
+      "name": "Создание концепций игрового фона, сцены и ориентиров",
+      "englishName": "Create concepts for game backgrounds, scenes, and landmarks",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "Концептуальная карта игровой среды",
+      "useCase": "Предварительный дизайн",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Проверьте пространственную читаемость и согласованность перспективы; это один плоский концептуальный фрейм, а не игровой уровень.",
+      "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
+      "document": "docs/cases/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i202-after.webp",
+          "sha256": "d231d3cdd0b67912ea81873d063eadb037bdfe91563be4eed8c97d1265559551"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Фрипик ИИ",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Рекрафт",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta"
+    },
+    {
+      "id": "I203",
+      "title": "Оригинальные иллюстрации для открыток",
+      "name": "Создание иллюстраций персонажей и сцен для карточных игр.",
+      "englishName": "Create character and scene artwork for a card game",
+      "group": "text-only",
+      "category": "Генерация чистого текста · Справочные изображения не требуются",
+      "inputMode": "text-only",
+      "inputSummary": "Просто текст, никаких справочных изображений или других вложений не требуется; генерировать новые концепции.",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "Бриф на создание текста: в подсказках укажите тему, цель и фактические параметры.",
+          "requirement": "required",
+          "quantity": "1 порция"
+        }
+      ],
+      "output": "искусство карточной игры",
+      "useCase": "Физические или цифровые карты",
+      "deliveryNote": "Одновременно создается только одно изображение, загружать изображения не нужно.",
+      "check": "Текст правил, цифры и рамку карточки оставьте для отдельного макета; это создает новое визуальное направление без существующей ссылки на колоду.",
+      "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
+      "document": "docs/cases/i203-create-character-and-scene-artwork-for-a-card-game.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i203-after.webp",
+          "sha256": "1d040a1932c98945bfacc663a32cf8e32e9eca5145d3bef8862402861f23ab30"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Все инструменты LightX",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ru/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta"
     }
   ],
   "locale": "ru"

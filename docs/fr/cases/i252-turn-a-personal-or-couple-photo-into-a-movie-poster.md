@@ -26,6 +26,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Thème et titre de l'affiche originale | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 | Signature et date | Caractère / Texte | 0 ou 1 groupe | Facultatif / Facultatif |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -72,4 +73,4 @@ Résultat direction : affiches de films personnalisées. Lorsque du texte exact,
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

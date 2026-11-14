@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Images originales des conférenciers, des exposants ou des objets exposés | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif/Facultatif : Lorsque l'affiche doit montrer de vrais conférenciers, exposants ou expositions |
 | Titre de l'événement, informations sur le conférencier ou l'exposant, l'heure, le lieu ou la méthode de participation | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.
 
 ## Conserver et modifier / Brief d'édition
@@ -64,4 +65,4 @@ Direction des résultats : affiche de la conférence. Lorsque du texte exact, d
 - [Créer une affiche promotionnelle à partir d'un sujet et copier · Affiche promotionnelle du thème ](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Créez une affiche pour la fête des mères, le Black Friday ou une vente de vacances · Affiche de vente de vacances](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

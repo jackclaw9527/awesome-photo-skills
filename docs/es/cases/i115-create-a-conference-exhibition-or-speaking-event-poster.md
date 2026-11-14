@@ -24,6 +24,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Imágenes originales de ponentes, expositores o exhibiciones. | Imagen/Imagen | 0–1; Se pueden combinar varios materiales en un tablero de referencia etiquetado. | Opcional/Opcional: Cuando el cartel necesita mostrar oradores, expositores o exhibiciones reales |
 | Título del evento, información del orador o expositor, hora, ubicación o método de participación. | Carácter / Texto | 1 porción | Requerido / Requerido |
 
+
 Esta vez se genera una única vista previa visual. Los cálculos de datos, la composición tipográfica precisa, los archivos vectoriales o de producción aún deben ser verificados por las herramientas correspondientes.
 
 ## Conservar y cambiar / Editar resumen
@@ -64,4 +65,4 @@ Dirección de Resultados: Afiche de conferencia. Cuando se requiera texto exacto
 - [Crear un cartel promocional a partir de un tema y copiarlo · Cartel promocional del tema ](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Crear un póster de rebajas para el Día de la Madre, el Black Friday o las fiestas navideñas · Póster de rebajas navideñas](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

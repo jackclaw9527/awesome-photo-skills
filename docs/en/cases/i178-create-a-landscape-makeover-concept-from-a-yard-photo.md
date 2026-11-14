@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Photos of your yard or outside space | Picture/Image | 1 sheet; multiple characters or perspectives can be combined into one marked reference board | Required / Required |
 | Use requirements, climate or location | Character / Text | 1 serving | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -65,4 +66,4 @@ Result direction: Landscape renderings. When exact text, transparent files, vect
 - [Preview different interior styles in a room photo · Room decoration style preview](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Preview wall paint, flooring, and wallpaper · Wall paint and floor material selection preview ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

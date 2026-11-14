@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | --- | --- | --- | --- |
 | Lebensmittelfotos oder Produktbeschreibungen | Bild/Bild | 1 Stück | Optional/Optional: Der Klartextzweig kann weggelassen werden |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -70,4 +71,4 @@ Ergebnisrichtung: Werbegrafiken für Lebensmittel. Wenn exakter Text, transparen
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

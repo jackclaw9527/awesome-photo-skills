@@ -24,6 +24,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Imagem original do personagem de vídeo ou objeto temático | Foto/Imagem | 0–1; vários materiais podem ser combinados em uma placa de referência rotulada | Opcional/Opcional: quando uma pessoa, produto ou objeto específico deve aparecer na miniatura |
 | Tópico ou título do vídeo | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -71,4 +72,4 @@ Direção do resultado: miniatura do YouTube. Quando for necessário texto exato
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

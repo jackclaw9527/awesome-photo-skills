@@ -3,53 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-फ़ीचर्ड कैटलॉग के बाहर 12 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
+फ़ीचर्ड कैटलॉग के बाहर 7 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
 
 [अधिक केस कैटलॉग पर लौटें](./index.md) · [वेयरहाउस होमपेज पर लौटें](../../../README.hi.md)
 
 > संदर्भ सामग्री और परिणाम छवियां केवल दृश्य मार्गदर्शन के लिए हैं; इस बात की कोई गारंटी नहीं है कि समान सामग्रियों का उपयोग करके समान प्रभाव को पुन: उत्पन्न किया जा सकता है।
-
-## I127 · उत्पाद या इंटरफ़ेस आइकन उत्पन्न करें
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../../assets/cases/i127-after.webp" alt="उत्पाद या इंटरफ़ेस आइकन उत्पन्न करें - उदाहरण परिणाम" width="340"></a></p>
-<p>इस उदाहरण में चित्र संदर्भ शामिल नहीं है, और इनपुट पूर्वावलोकन पूरा किया जाना है; सामग्री संबंधी आवश्यकताएँ नीचे देखें।</p>
-
-- **इनपुट प्रकार:** यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है
-- **सामग्री आवश्यकताएँ:** मौजूदा आइकन सिस्टम टेम्पलेट + फ़ंक्शन सूची → एक सुसंगत आइकन संग्रह उत्पन्न करें → वर्तमान एकल आइकन संपत्ति
-- **विवरण:** इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है। डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta) बनाएं
-
----
-
-## I128 · पाठ से संपादन योग्य वेक्टर चित्र बनाएं
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../../assets/cases/i128-after.webp" alt="पाठ से संपादन योग्य वेक्टर चित्र बनाएं - परिणामों का उदाहरण" width="340"></a></p>
-<p>यह उदाहरण टेक्स्ट इनपुट है, कोई चित्र संदर्भ संलग्न नहीं है।</p>
-
-- **इनपुट प्रकार:** टेक्स्ट इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है
-- **सामग्री आवश्यकताएँ:** चित्रण विषय और उद्देश्य → एसवीजी और स्तरित ज्यामिति उत्पन्न करें → वर्तमान एकल वेक्टर चित्रण
-- **विवरण:** इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है। डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta) बनाएं
-
----
-
-## I129 · थीम-विशिष्ट कस्टम गैलरी छवियां उत्पन्न करें
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../../assets/cases/i129-after.webp" alt="थीम-विशिष्ट कस्टम गैलरी छवियां उत्पन्न करें - उदाहरण परिणाम" width="340"></a></p>
-<p>इस उदाहरण में चित्र संदर्भ शामिल नहीं है, और इनपुट पूर्वावलोकन पूरा किया जाना है; सामग्री संबंधी आवश्यकताएँ नीचे देखें।</p>
-
-- **इनपुट प्रकार:** यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है
-- **सामग्री आवश्यकताएँ:** उत्पादों या पात्रों की मूल छवियां जिन्हें दृश्यों + विशिष्ट दृश्यों और उपयोग संदर्भ में एम्बेड करने की आवश्यकता है → तैयार लाइब्रेरी प्रतिबंधों के बिना छवियां उत्पन्न करें → वर्तमान एकल स्टॉक छवि को अनुकूलित करें
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta) बनाएं
-
----
 
 ## I130 · पुन: प्रयोज्य ब्रांड शुभंकर ब्रांड VI विज़ुअल डिज़ाइन बनाएं
 
@@ -80,34 +38,6 @@
 - **विवरण:** एक समय में केवल वर्तमान में चयनित एक ही उत्पन्न होता है; श्रृंखला के अन्य चित्र अलग से निष्पादित किए गए हैं।
 
 [ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta) बनाएं
-
----
-
-## I134 · पैकेजिंग लेबल और बॉक्स विज़ुअल अवधारणाएँ उत्पन्न करें
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../../assets/cases/i134-after.webp" alt="पैकेजिंग लेबल और बॉक्स आकृतियों के लिए दृश्य अवधारणाएँ उत्पन्न करना - उदाहरण परिणाम" width="340"></a></p>
-<p>इस उदाहरण में चित्र संदर्भ शामिल नहीं है, और इनपुट पूर्वावलोकन पूरा किया जाना है; सामग्री संबंधी आवश्यकताएँ नीचे देखें।</p>
-
-- **इनपुट प्रकार:** यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है
-- **सामग्री आवश्यकताएँ:** ब्रांड और पैकेजिंग संरचना मूल बोर्ड + उत्पाद प्रकार, ब्रांड नाम, पैकेजिंग कॉपी, कंटेनर या बॉक्स प्रकार → पठनीय पाठ के साथ पैकेजिंग दिशा उत्पन्न करें → वर्तमान सिंगल-शीट पैकेजिंग डिजाइन अवधारणा
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta) बनाएं
-
----
-
-## I135 · दोहराने योग्य पृष्ठभूमि, बनावट और ब्रांडिंग पैटर्न उत्पन्न करें
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../../assets/cases/i135-after.webp" alt="दोहराने योग्य पृष्ठभूमि, बनावट और ब्रांडिंग पैटर्न उत्पन्न करें—परिणामों के उदाहरण" width="340"></a></p>
-<p>इस उदाहरण में चित्र संदर्भ शामिल नहीं है, और इनपुट पूर्वावलोकन पूरा किया जाना है; सामग्री संबंधी आवश्यकताएँ नीचे देखें।</p>
-
-- **इनपुट प्रकार:** यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है
-- **सामग्री आवश्यकताएँ:** ब्रांड ग्राफ़िक इकाई मूल + विषय, अनुप्रयोग परिदृश्य → निर्बाध पैटर्न उत्पन्न करें → वर्तमान एकल पैटर्न और बनावट
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta) बनाएं
 
 ---
 

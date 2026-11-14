@@ -27,6 +27,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Modelo de material de destino | Foto/Imagem | 0–1 imagem; texto exato ou dados de cores também podem ser usados | Condicional: Quando você precisa reproduzir texturas específicas ou amostras de produtos |
 | Substitua a superfície pela cor/material alvo | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -74,4 +75,4 @@ Direção do resultado: visualização dos efeitos do material. Quando for neces
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

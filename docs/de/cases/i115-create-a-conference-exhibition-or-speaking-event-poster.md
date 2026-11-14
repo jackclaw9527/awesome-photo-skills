@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Originalbilder von Referenten, Ausstellern oder Exponaten | Bild/Bild | 0–1; Mehrere Materialien können zu einer beschrifteten Referenztafel kombiniert werden | Optional/Optional: Wenn das Poster echte Redner, Aussteller oder Exponate zeigen muss |
 | Veranstaltungstitel, Informationen zum Redner oder Aussteller, Zeit, Ort oder Teilnahmemethode | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Diesmal wird eine einzelne visuelle Vorschau generiert. Datenberechnung, präziser Satz, Vektor- oder Produktionsdateien müssen noch durch entsprechende Tools überprüft werden.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -64,4 +65,4 @@ Ergebnisrichtung: Konferenzplakat. Wenn exakter Text, transparente Dateien, Vekt
 - [Erstellen Sie ein Werbeplakat aus einem Thema und kopieren Sie · Themen-Werbeplakat ](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Erstellen Sie ein Muttertags-, Black Friday- oder Feiertagsverkaufsplakat · Feiertagsverkaufsplakat](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

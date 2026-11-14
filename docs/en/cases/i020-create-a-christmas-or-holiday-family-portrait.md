@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | family photos | Picture/Image | 1 piece | Required / Required |
 | Festival name or theme | Character / Text | 1 item | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -72,4 +73,4 @@ Result direction: Holiday family portraits. When requiring exact text, transpare
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

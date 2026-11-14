@@ -26,6 +26,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Foto frontal de la persona. | Imagen/Imagen | 1 pieza | Requerido / Requerido |
 | Descripción del material o estilo de las gafas Target. | Imagen/Imagen | 1 pieza | Condicional/Condicional: Requerido para la prueba exacta del producto; sólo los estilos conceptuales se pueden describir con texto |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -72,4 +73,4 @@ Dirección de resultados: tabla de prueba de gafas. Cuando se requiera texto exa
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

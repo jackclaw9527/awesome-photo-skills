@@ -27,6 +27,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Zielmaterialvorlage | Bild/Bild | 0–1 Bild; Es können auch exakte Text- oder Farbangaben verwendet werden | Bedingt: Wenn Sie bestimmte Texturen oder Produktmuster reproduzieren müssen |
 | Oberfläche durch Zielfarbe/Zielmaterial ersetzen | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -74,4 +75,4 @@ Ergebnisrichtung: Vorschau der Materialeffekte. Wenn exakter Text, transparente 
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

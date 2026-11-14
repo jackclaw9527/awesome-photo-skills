@@ -5,7 +5,7 @@
 
 ## Copier une invite
 
-1. Sélectionnez des tâches dans les modèles [50 ](./prompts.md) et ouvrez la page du cas.
+1. Sélectionnez une tâche dans les modèles [100 ](./prompts.md) et ouvrez la page du cas.
 2. Préparez les entrées requises dans le tableau des matériaux pour confirmer si les matériaux conditionnels s'appliquent à vous.
 3. Copiez Public prompt et remplacez le contenu entre crochets. Lorsque vous avez besoin d'éditer une image, attachez l'image correspondante à votre outil ; le texte ne peut pas remplacer l’image jointe réelle.
 4. Produisez un résultat à la fois et acceptez-le selon les points de contrôle de ce cas.
@@ -14,7 +14,7 @@ Choisissez un modèle, joignez les matériaux requis dans votre outil d'image, r
 
 ## Agent Skill
 
-Skill est chargé de convertir « Qu'est-ce que je veux faire » en une liste de saisie claire, en conservant les points clés et les mots d'invite complets, et n'appelle pas l'interface de paiement par défaut. Il contient sa propre référence de 50 modèles et ne s'appuie pas sur l'intégralité de la bibliothèque une fois installée.
+Skill est chargé de convertir « Qu'est-ce que je veux faire » en une liste de saisie claire, en conservant les points clés et les mots d'invite complets, et n'appelle pas l'interface de paiement par défaut. Il contient sa propre référence de 100 modèles et ne s'appuie pas sur l'intégralité de la bibliothèque une fois installée.
 
 ### Codex
 

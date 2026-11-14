@@ -5,7 +5,7 @@
 
 ## Kopieren Sie eine Eingabeaufforderung
 
-1. Wählen Sie Aufgaben aus den [50-Vorlagen ](./prompts.md) aus und öffnen Sie die Fallseite.
+1. Wählen Sie eine Aufgabe aus den [100-Vorlagen ](./prompts.md) aus und öffnen Sie die Fallseite.
 2. Bereiten Sie die erforderlichen Eingaben in der Materialtabelle vor, um zu bestätigen, ob das bedingte Material auf Sie zutrifft.
 3. Kopieren Sie Public prompt und ersetzen Sie den Inhalt in eckigen Klammern. Wenn Sie eine Bildbearbeitung benötigen, hängen Sie das entsprechende Bild an Ihr Tool an. Der Text kann den eigentlichen Bildanhang nicht ersetzen.
 4. Erstellen Sie jeweils ein Ergebnis und akzeptieren Sie es gemäß den Prüfpunkten für den jeweiligen Fall.
@@ -14,7 +14,7 @@ Wählen Sie eine Vorlage, fügen Sie die erforderlichen Materialien in Ihr Bildt
 
 ## Agent Skill
 
-Skill ist dafür verantwortlich, „Was möchte ich tun?“ in eine übersichtliche Eingabeliste umzuwandeln, wichtige Punkte und vollständige Eingabeaufforderungswörter beizubehalten und standardmäßig nicht die Zahlungsschnittstelle aufzurufen. Es enthält eine eigene Referenz von 50 Vorlagen und ist nach der Installation nicht auf die gesamte Bibliothek angewiesen.
+Skill ist dafür verantwortlich, „Was möchte ich tun?“ in eine übersichtliche Eingabeliste umzuwandeln, wichtige Punkte und vollständige Eingabeaufforderungswörter beizubehalten und standardmäßig nicht die Zahlungsschnittstelle aufzurufen. Es enthält eine eigene Referenz von 100 Vorlagen und ist nach der Installation nicht auf die gesamte Bibliothek angewiesen.
 
 ### Codex
 

@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-11 чехлов вне представленного каталога. Слова-подсказки здесь не раскрываются, отображаются только существующие справочные материалы, направления результатов и минимальные требования к материалам.
+9 чехлов вне представленного каталога. Слова-подсказки здесь не раскрываются, отображаются только существующие справочные материалы, направления результатов и минимальные требования к материалам.
 
 [Вернуться к другим каталогам ящиков](./index.md) · [Вернуться на домашнюю страницу склада](../../../README.ru.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · Создать канал YouTube или аватар для прямой трансляции
-
-<table>
-<thead><tr><th width="50%">Справочный материал</th><th width="50%">Пример результатов</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Фотографии людей или рисунки существующих персонажей.</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="Создайте канал YouTube или аватар для прямой трансляции — справочный материал 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/ru/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="Создайте канал YouTube или живой аватар — примеры результатов" width="340"></a></td></tr></tbody>
-</table>
-
-- **Тип входных данных:** включает предварительный просмотр справочного материала и пример результата.
-- **Требования к материалам:** фотографии 0 или 1 человека или изображения существующих персонажей + 1 тема канала.
-- **Описание:** Одновременно создается только одно изображение.
-
-[ Проверьте конкретные требования в dearsketch и создайте ](https://dearsketch.com/ru/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta).
-
----
-
 ## I055 · Создавайте естественные и привлекательные аватары для приложений для знакомств.
 
 <table>
@@ -81,20 +66,6 @@
 - **Описание:** Одновременно создается только одно изображение.
 
 [ Проверьте конкретные требования в dearsketch и создайте ](https://dearsketch.com/ru/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta).
-
----
-
-## I057 · Создание собственных эмодзи на основе текста
-
-<p><strong>Пример результатов</strong></p>
-<p><a href="https://dearsketch.com/ru/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="Создание собственных эмодзи из текста — примеры результатов" width="340"></a></p>
-<p>В этом примере введен текст, ссылка на изображение не прилагается.</p>
-
-- **Тип ввода:** Текстовый ввод; в этом примере показаны только примеры результатов
-- **Требования к материалу:** 1 эмоция или значение + 1 набор описания предмета или символа.
-- **Описание:** Одновременно создается только одно изображение.
-
-[ Проверьте конкретные требования в dearsketch и создайте ](https://dearsketch.com/ru/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta).
 
 ---
 

@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Images originales des personnages, produits ou événements impliqués dans l'article | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif/Facultatif : lorsque l'image d'en-tête doit présenter des personnes, des produits ou du matériel événementiel spécifiques dans l'article |
 | Sujet de l'article | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -70,4 +71,4 @@ Direction du résultat : Image d’en-tête de l’article. Lorsque du texte ex
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

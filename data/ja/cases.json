@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "draft",
   "site": "https://dearsketch.com",
-  "caseCount": 50,
+  "caseCount": 100,
   "categories": [
     {
       "id": "pets-family",
@@ -33,6 +33,12 @@
       "name": "創造性とビジュアルデザイン",
       "englishName": "Creative and visual design",
       "count": 10
+    },
+    {
+      "id": "text-only",
+      "name": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "englishName": "Text to image · No reference needed",
+      "count": 50
     }
   ],
   "cases": [
@@ -43,6 +49,7 @@
       "englishName": "Turn a pet photo into a custom portrait",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "ペットの写真1枚",
       "roles": [
         {
@@ -89,6 +96,7 @@
       "englishName": "Turn a pet into a royal or historical portrait",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "ペットの写真1枚",
       "roles": [
         {
@@ -135,6 +143,7 @@
       "englishName": "Place a pet in a playful bathroom or kitchen scene",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "ペットの写真1枚",
       "roles": [
         {
@@ -181,6 +190,7 @@
       "englishName": "Create a pet memorial portrait",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "ペットの写真1枚",
       "roles": [
         {
@@ -227,6 +237,7 @@
       "englishName": "Create a family portrait with pets",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "各メンバーにつき少なくとも 1 枚の家族の写真 + 各ペットにつき少なくとも 1 枚のペットの写真",
       "roles": [
         {
@@ -288,6 +299,7 @@
       "englishName": "Turn a couple's photo into anniversary artwork",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "カップル写真1枚",
       "roles": [
         {
@@ -334,6 +346,7 @@
       "englishName": "Combine separate family photos into one family portrait",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "絵に含まれる各メンバーの写真少なくとも 1 枚 + グループのサイズ、キャラクターの関係性、配置 1 枚",
       "roles": [
         {
@@ -395,6 +408,7 @@
       "englishName": "Create a Christmas or holiday family portrait",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "家族写真 1 枚 + 休日の名前またはテーマ 1 つ",
       "roles": [
         {
@@ -451,6 +465,7 @@
       "englishName": "Create a wedding portrait or bridal-style photo",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "カップル写真1枚",
       "roles": [
         {
@@ -501,6 +516,7 @@
       "englishName": "Create baby milestone or monthly growth photos",
       "group": "pets-family",
       "category": "ペットと家族の記念品",
+      "inputMode": "task-specific",
       "inputSummary": "赤ちゃんの写真 1 枚 + 年齢またはマイルストーン 1 枚",
       "roles": [
         {
@@ -553,6 +569,7 @@
       "englishName": "Create a professional LinkedIn headshot from a selfie",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "自分の鮮明でオリジナルの写真 1 枚",
       "roles": [
         {
@@ -599,6 +616,7 @@
       "englishName": "Replace casual clothing with professional attire",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "カジュアルな服を着た人物のポートレート 1 枚",
       "roles": [
         {
@@ -649,6 +667,7 @@
       "englishName": "Turn yourself into a royal, vintage, or historical portrait",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "自分の鮮明でオリジナルの写真 1 枚",
       "roles": [
         {
@@ -699,6 +718,7 @@
       "englishName": "Virtually try on glasses",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "人物の正面写真 1 枚 + 対象となるメガネの素材またはスタイルの説明 1 枚",
       "roles": [
         {
@@ -757,6 +777,7 @@
       "englishName": "Preview a tattoo on a body photo",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "キャラクタースキンのオリジナル写真 1 枚 + ターゲットのタトゥーデザイン 1 枚 + タトゥーの場所 1 枚",
       "roles": [
         {
@@ -824,6 +845,7 @@
       "englishName": "Turn a portrait photo into a cartoon avatar",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "私の頭の鮮明な写真 1 枚",
       "roles": [
         {
@@ -874,6 +896,7 @@
       "englishName": "Turn a portrait photo into an anime character",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "私の頭の鮮明な写真 1 枚",
       "roles": [
         {
@@ -924,6 +947,7 @@
       "englishName": "Turn a person into a packaged action figure",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "人物の写真 1 枚",
       "roles": [
         {
@@ -970,6 +994,7 @@
       "englishName": "Turn a photo into chat stickers",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "人、ペット、または物の写真 1 枚 + このステッカーの 0 または 1 つのアクションまたは感情",
       "roles": [
         {
@@ -1022,6 +1047,7 @@
       "englishName": "Turn a personal or couple photo into a movie poster",
       "group": "people",
       "category": "登場人物と人物像",
+      "inputMode": "task-specific",
       "inputSummary": "個人、カップル、またはグループのオリジナル写真必須（1 枚） + ポスターのテーマとタイトル必須（1 部） + サインと日付は任意（0 または 1 セット）",
       "roles": [
         {
@@ -1080,6 +1106,7 @@
       "englishName": "Turn a house photo into a watercolor or line-art keepsake",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "家の写真1枚",
       "roles": [
         {
@@ -1130,6 +1157,7 @@
       "englishName": "Preview different interior styles in a room photo",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "既存の部屋の写真 → 空間の構造を維持し、スタイル、家具、素材を置き換え → 現在の装飾の単一レンダリング",
       "roles": [
         {
@@ -1180,6 +1208,7 @@
       "englishName": "Create a landscape makeover concept from a yard photo",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "中庭または屋外スペースの写真 + 使用要件、気候または場所 → 植物、舗装、施設を追加 → 現在の単一の風景レンダリング",
       "roles": [
         {
@@ -1227,6 +1256,7 @@
       "englishName": "Preview wall paint, flooring, and wallpaper",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "屋内写真 + ターゲット マテリアル サンプル + 表面とターゲットの色/材質を置換 → 表面の色と材質を置換 → 現在の単一マテリアル効果のプレビュー",
       "roles": [
         {
@@ -1295,6 +1325,7 @@
       "englishName": "Create an office redesign concept",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "オフィス敷地の写真 + チーム、機能エリア、ブランドおよび支店の説明 → ワークステーション、会議エリア、およびブランド スペースを生成 → 現在の単一オフィスのコンセプト マップ",
       "roles": [
         {
@@ -1352,6 +1383,7 @@
       "englishName": "Virtually stage an empty property with furniture and decor",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "空き部屋の写真 → 空間のパースに合わせた家具を生成 → 現在の単一の仮想住宅レイアウト",
       "roles": [
         {
@@ -1398,6 +1430,7 @@
       "englishName": "Turn a casual room photo into a polished property listing image",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "散らかった部屋のランダムな写真 → 散らかったものを取り除き、部屋を片づけて空間をリアルに保つ → 現在の物件のきちんとした 1 枚の販売プレゼンテーション",
       "roles": [
         {
@@ -1444,6 +1477,7 @@
       "englishName": "Create an architectural facade concept from text or a sketch",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "建築スケッチまたはブロック図 + 建築用途とデザインのキーワード → マテリアル、環境、光を生成 → 現在の単一の建築コンセプトのレンダリング",
       "roles": [
         {
@@ -1497,6 +1531,7 @@
       "englishName": "Turn an interior or architectural sketch into a realistic render",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "インテリアまたは建築スケッチ/CAD ワイヤーフレーム + 空間利用とスケッチの意味 → 構造を保持し、マテリアルと照明を補足 → 現在の単一のリアルな空間レンダリング",
       "roles": [
         {
@@ -1553,6 +1588,7 @@
       "englishName": "Create a mood board for an architecture or interior project",
       "group": "spaces",
       "category": "家と空間",
+      "inputMode": "task-specific",
       "inputSummary": "空間の雰囲気と素材のリファレンスボード + プロジェクトの種類とキーワード → 一貫したビジュアル方向性を整理して生成 → 現在の単一のムードボード",
       "roles": [
         {
@@ -1610,6 +1646,7 @@
       "englishName": "Turn an ordinary product photo into a white-background listing image",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "携帯電話で撮影した商品写真 1 枚",
       "roles": [
         {
@@ -1660,6 +1697,7 @@
       "englishName": "Create a reusable product PNG with a transparent background",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "製品写真1枚",
       "roles": [
         {
@@ -1710,6 +1748,7 @@
       "englishName": "Place a product in a realistic lifestyle scene",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "1 製品白背景画像",
       "roles": [
         {
@@ -1760,6 +1799,7 @@
       "englishName": "Turn an ordinary photo into a professional studio product shot",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "製品写真1枚",
       "roles": [
         {
@@ -1810,6 +1850,7 @@
       "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "製品写真 1 枚 + 休日またはプロモーションのテーマ 1 枚",
       "roles": [
         {
@@ -1866,6 +1907,7 @@
       "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "食べ物の写真または商品説明 1 枚",
       "roles": [
         {
@@ -1913,6 +1955,7 @@
       "englishName": "Turn flat-lay clothing into an on-model image",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "衣類タイル 1 枚",
       "roles": [
         {
@@ -1963,6 +2006,7 @@
       "englishName": "Show a product being held or used",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "製品写真1枚",
       "roles": [
         {
@@ -2013,6 +2057,7 @@
       "englishName": "Create a product infographic with dimensions, features, and specifications",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "製品写真 1 枚 + 正確な寸法、セールスポイント、パラメータのセット 1 枚",
       "roles": [
         {
@@ -2065,6 +2110,7 @@
       "englishName": "Create a long-form e-commerce detail image from product information",
       "group": "products",
       "category": "商品と電子商取引",
+      "inputMode": "task-specific",
       "inputSummary": "同じ商品の複数の写真 + 1 セットのセールス ポイントと正確なコピーライティング",
       "roles": [
         {
@@ -2136,6 +2182,7 @@
       "englishName": "Create a YouTube video thumbnail",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "動画のキャラクターまたはテーマオブジェクトの元画像 + 動画のテーマまたはタイトル → ハイコントラストの構図とタイトル領域を生成 → 現在の単一の YouTube サムネイル",
       "roles": [
         {
@@ -2187,6 +2234,7 @@
       "englishName": "Create a promotional poster from a topic and copy",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "イベントのオリジナルメインビジュアル素材＋イベント名、コア情報、時間と場所または参加方法 → テキストと画像を含むポスターを生成 → 現在の単一イベントポスター",
       "roles": [
         {
@@ -2238,6 +2286,7 @@
       "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "プロモーション製品の元の画像 + フェスティバルまたは販売ノード、商品またはサービス、プロモーション情報 → フェスティバルのテーマを適用し、レイアウトを生成 → 現在の単一ノードのプロモーション画像",
       "roles": [
         {
@@ -2295,6 +2344,7 @@
       "englishName": "Create a conference, exhibition, or speaking-event poster",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "講演者、出展者または展示物のオリジナル画像 + イベントタイトル、講演者または出展者の情報、時間、場所または参加方法 → 標準化されたイベントポスターを生成 → 現在の単一のカンファレンスポスター",
       "roles": [
         {
@@ -2337,6 +2387,7 @@
       "englishName": "Turn a complex concept into an infographic visual",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "既存の情報構造のスケッチ + 事実の内容、情報構造または関係 → アイコン、構成、および視覚的な階層を生成 → 現在のリーフレット インフォグラフィック",
       "roles": [
         {
@@ -2384,6 +2435,7 @@
       "englishName": "Create a newsletter header or article cover",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "記事に関係する人物、製品、またはイベント素材の元の画像 + 記事のトピック → 横向きの表紙とブランドのイラストを生成 → 現在の単一の記事のヘッダー画像",
       "roles": [
         {
@@ -2431,6 +2483,7 @@
       "englishName": "Create device mockups and app-store promotional images",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "ターゲット アプリケーション + ターゲット デバイスの実際のインターフェイスと実際の機能セールス ポイントのスクリーンショット → モバイル デバイスを挿入し、マーケティング背景を追加 → 現在の単一アプリのモックアップ",
       "roles": [
         {
@@ -2483,6 +2536,7 @@
       "englishName": "Create restaurant menu visuals and dish imagery",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "本物の料理のオリジナル写真 + 料理名、正確な価格、カテゴリー → レイアウト、イラスト、本物の料理写真を生成 → 現在の単一メニュー",
       "roles": [
         {
@@ -2530,6 +2584,7 @@
       "englishName": "Create logo concepts from a brand description",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "既存のブランドロゴとアイデンティティ資産のオリジナルドラフト + ブランド名、ブランドのポジショニング、対象ユーザー → 複数のロゴの方向性を生成 → 現在の単一のロゴのドラフト",
       "roles": [
         {
@@ -2581,6 +2636,7 @@
       "englishName": "Create readable display lettering and title effects",
       "group": "design",
       "category": "創造性とビジュアルデザイン",
+      "inputMode": "task-specific",
       "inputSummary": "フォントまたは素材のフォント効果テンプレート + 正確なテキストと目的を指定 → 素材とスタイルでテキストを生成 → 現在の単一フォント アート",
       "roles": [
         {
@@ -2624,6 +2680,2222 @@
       ],
       "publicationStatus": "draft",
       "websiteUrl": "https://dearsketch.com/ja/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    },
+    {
+      "id": "I054",
+      "title": "テキスト生成チャンネルのアバター",
+      "name": "YouTube チャンネルまたはライブブロードキャストのアバターを生成する",
+      "englishName": "Create a profile picture for YouTube or streaming",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "クリエイターアバター",
+      "useCase": "YouTube、ライブブロードキャストプラットフォーム",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実際のホストを描写したり、既存のキャラクターとの類似性を主張したりしないでください。",
+      "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
+      "document": "docs/cases/i054-create-a-profile-picture-for-youtube-or-streaming.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "人物の写真や既存のキャラクターの絵",
+            "file": "assets/cases/i054-before-1.webp",
+            "sha256": "158fd0c5a855731caca41fbfd4311da7d97ca2f20d14d18ad9fcbea32dfabe39"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i054-after.webp",
+          "sha256": "993ae428751bde41666b11ab90ab9bef6fb7e0282c1f8c6b991278e0cf4c1ab8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta"
+    },
+    {
+      "id": "I057",
+      "title": "カスタム絵文字",
+      "name": "テキストに基づいてカスタム絵文字を生成",
+      "englishName": "Create a custom emoji from text",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "カスタム絵文字",
+      "useCase": "コミュニティ、チャット、コンテンツ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "小さいサイズで表情を確認してみようプラットフォーム絵文字のパッケージ化は別のステップです。",
+      "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
+      "document": "docs/cases/i057-create-a-custom-emoji-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i057-after.webp",
+          "sha256": "a02888b0c3da700d0577e2d133e58ba9d432db8fb9c4a672b7e10a5fd6ae6122"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta"
+    },
+    {
+      "id": "I100",
+      "title": "衣服のシームレスな印刷",
+      "name": "衣服用のシームレスなプリントと生地のパターンを生成する",
+      "englishName": "Create seamless prints and fabric patterns for clothing",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "生地の印刷",
+      "useCase": "衣料品制作、POD",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "生地を製造する前に、縫い目、偶発的なストライプ、厄介な隙間がないか 3 × 3 の繰り返しをテストします。",
+      "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
+      "document": "docs/cases/i100-create-seamless-prints-and-fabric-patterns-for-clothing.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i100-after.webp",
+          "sha256": "015459b67be436513fb08d0208a00179e9f9202c1b6c4a7c96567cef5cbe9133"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta"
+    },
+    {
+      "id": "I104",
+      "title": "ソーシャルポストメインビジュアル",
+      "name": "ソーシャルプラットフォームに適した毎日の投稿ビジュアルを生成します",
+      "englishName": "Create everyday social media post visuals",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ソーシャルメディアの投稿",
+      "useCase": "インスタグラム、フェイスブック、小紅書",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実際の製品、体験談、またはニュースイベントをでっち上げないでください。見出しを校正します。",
+      "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
+      "document": "docs/cases/i104-create-everyday-social-media-post-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i104-after.webp",
+          "sha256": "8605f5086a4db0d9bafac47476a6e6fe97ebabe66c4155275abefb9fe9079749"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta"
+    },
+    {
+      "id": "I109",
+      "title": "イベントバナー",
+      "name": "ウェブサイト、広告、イベントのバナーを生成する",
+      "englishName": "Create a website, advertising, or event banner",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "バナー",
+      "useCase": "ウェブサイト、展示会、広告",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "提供されたキャンペーンの事実のみを使用してください。割引、日付、推奨事項をでっち上げないでください。",
+      "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
+      "document": "docs/cases/i109-create-a-website-advertising-or-event-banner.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i109-after.webp",
+          "sha256": "9e252b20640665af7e76f1e2e58ba58436b06e7b5649849d6f82cc9226c5f307"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta"
+    },
+    {
+      "id": "I113",
+      "title": "テキスト招待状",
+      "name": "結婚式、誕生日、パーティーの招待状を作成する",
+      "englishName": "Create a wedding, birthday, or party invitation",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "招待状",
+      "useCase": "結婚式、誕生日、パーティー",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "不特定の個人情報は省略します。送信する前にすべてのイベント情報を校正してください。",
+      "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
+      "document": "docs/cases/i113-create-a-wedding-birthday-or-party-invitation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i113-after.webp",
+          "sha256": "9c6a2e8ed3bd7762404803b9bce913560987fdc52c6dfd0bfb4cdf45fba96bd8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Fotor 機能センター",
+          "url": "https://www.fotor.com/features/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta"
+    },
+    {
+      "id": "I114",
+      "title": "ホリデーグリーティングカード",
+      "name": "ホリデー カードまたはパーソナライズされたグリーティング カードを作成する",
+      "englishName": "Create a holiday or personalized greeting card",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "グリーティングカード",
+      "useCase": "休日の挨拶、顧客対応",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "要求された文化的シンボルのみを使用してください。受信者の宗教や個人的な状況を推測しないでください。",
+      "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
+      "document": "docs/cases/i114-create-a-holiday-or-personalized-greeting-card.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "グリーティングカード パーソナライズされた人物やペットの写真",
+            "file": "assets/cases/i114-before-1.webp",
+            "sha256": "9348c5cd9e3592e651b71c7a53e775713d2cf6ba0104853f088acf5ac69b90de"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i114-after.webp",
+          "sha256": "87b5021b56fafc10dd6e818d29a7534017a9a26c371c77d4bbbabde92d76684b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta"
+    },
+    {
+      "id": "I116",
+      "title": "キャンパスイベントポスター",
+      "name": "学校のイベントやコースのポスターを作成する",
+      "englishName": "Create a school event or course poster",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "キャンパスポスター",
+      "useCase": "キャンパスアクティビティ、授業",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "校章、職員のアイデンティティ、または承認の主張をでっち上げないでください。あらゆる出来事の事実を検証します。",
+      "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
+      "document": "docs/cases/i116-create-a-school-event-or-course-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i116-after.webp",
+          "sha256": "f31f1036aa478020876d3a420917ff3af5cbda2bdd27859797f8aa924ea62faf"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta"
+    },
+    {
+      "id": "I117",
+      "title": "デモテーマの写真",
+      "name": "PPT用のテーマに合った画像を生成",
+      "englishName": "Create theme-matched visuals for a presentation",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "写真付きPPT",
+      "useCase": "ビジネスプレゼンテーション、教室レポート",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "データやラベルを発明しないでください。指定された概念的な関係のみを示します。",
+      "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
+      "document": "docs/cases/i117-create-theme-matched-visuals-for-a-presentation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i117-after.webp",
+          "sha256": "58facce1335e5354d9da6c674ac4a9c5d91f31104ee60e47a2d1dac6dc119268"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta"
+    },
+    {
+      "id": "I120",
+      "title": "ウェブサイトヒーローコンセプトビジュアル",
+      "name": "Web サイトのホームページのヒーロー ビジョンを生成する",
+      "englishName": "Create a website homepage hero visual",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ウェブサイトのヒーロー画像",
+      "useCase": "公式サイトのホームページ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実際のインターフェイス、ユーザーの声、製品の機能を捏造しないでください。それをブランドコンセプトにしてください。",
+      "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
+      "document": "docs/cases/i120-create-a-website-homepage-hero-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i120-after.webp",
+          "sha256": "bf2a4de3913ebe163cd712c8816c5283dba209a0bb43de65478c815136eaebd3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta"
+    },
+    {
+      "id": "I122",
+      "title": "テキスト引用カード",
+      "name": "テキスト付きの見積カードとナレッジカードを生成する",
+      "englishName": "Create quote cards and educational cards with text",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "引用カード",
+      "useCase": "ソーシャルメディア",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "提供された場合のみ「[CONFIRMED ATTRIBUTION OR NONE]」を含めます。引用元をでっち上げないでください。",
+      "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
+      "document": "docs/cases/i122-create-quote-cards-and-educational-cards-with-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i122-after.webp",
+          "sha256": "2a117561d56d40cd09a063e010d079d82562fd1697998eef80f77bd578147516"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta"
+    },
+    {
+      "id": "I127",
+      "title": "新しいアイコンスタイル",
+      "name": "製品またはインターフェースのアイコンを生成する",
+      "englishName": "Create product or interface icons",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "アイコンアセット",
+      "useCase": "アプリ、ウェブサイト、デモ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "[TARGET PIXEL SIZE] で確認してください。これは新しい方向性を生み出すものであり、目に見えないアイコン システムとは一致しません。",
+      "detailPath": "/intent/i127-create-product-or-interface-icons.html",
+      "document": "docs/cases/i127-create-product-or-interface-icons.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i127-after.webp",
+          "sha256": "7627ac87fc6964bec5d0333339c981336a0a3b316c23ef5a883f0984f83e896b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta"
+    },
+    {
+      "id": "I128",
+      "title": "幾何学的なベクトルの風のイラスト",
+      "name": "テキストから編集可能なベクターイラストを生成",
+      "englishName": "Create an editable vector illustration from text",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ベクトル図",
+      "useCase": "ブランド、印刷物、ウェブページ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "ラスター プレビューは編集可能な SVG ではありません。必要に応じて、ベクター エディターでパスを検査し、再構築します。",
+      "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
+      "document": "docs/cases/i128-create-an-editable-vector-illustration-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i128-after.webp",
+          "sha256": "d28fa7c7b5cb1eb4d61f849f95c80945a9f69afff4c41e90da3702a0a366be28"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta"
+    },
+    {
+      "id": "I129",
+      "title": "カスタムギャラリーのコンセプト",
+      "name": "テーマ固有のカスタム ギャラリー画像を生成する",
+      "englishName": "Create custom stock imagery for a specific theme",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "カスタムストック画像",
+      "useCase": "記事、広告、プレゼンテーション",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "架空の人物やブランドのない物体を使用します。実際の出来事や実際の製品を表すものではありません。",
+      "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
+      "document": "docs/cases/i129-create-custom-stock-imagery-for-a-specific-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i129-after.webp",
+          "sha256": "6543306587dd83c34b86ceab0df6185a954720a7d3d5220f4752da7117762827"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta"
+    },
+    {
+      "id": "I134",
+      "title": "新しいパッケージのビジュアルコンセプト",
+      "name": "包装ラベルと箱の形状の視覚的なコンセプトを生成する",
+      "englishName": "Create packaging label and box concepts",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "パッケージデザインコンセプト",
+      "useCase": "新製品の提案とテスト",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "認証、成分、または性能を推測しないでください。これはダイラインや製造ファイルではありません。",
+      "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
+      "document": "docs/cases/i134-create-packaging-label-and-box-concepts.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i134-after.webp",
+          "sha256": "8cc806d6d7ced177e8f4141f48b94a9acf1abdde0da55b38dc3e97f2b631304f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta"
+    },
+    {
+      "id": "I135",
+      "title": "ブランド背景パターン",
+      "name": "再現可能な背景、テクスチャ、ブランドパターンを生成",
+      "englishName": "Create repeatable backgrounds, textures, and brand patterns",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "パターンとテクスチャー",
+      "useCase": "パッケージング、ウェブ、印刷",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "これは、まだ見たことのないブランドアートワークを保存するのではなく、新しいパターンを定義します。リピートをテストします。",
+      "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
+      "document": "docs/cases/i135-create-repeatable-backgrounds-textures-and-brand-patterns.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i135-after.webp",
+          "sha256": "5d6f77bbadb952a57ba1c5adf6ce9953993123b0123396eb9ac2805a82f9515a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta"
+    },
+    {
+      "id": "I143",
+      "title": "教科書の表紙",
+      "name": "本のタイトルと内容に基づいて本の表紙を生成する",
+      "englishName": "Create a book cover from its title and content",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ブックカバー",
+      "useCase": "電子書籍、紙の本",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "推奨やシリーズのブラン​​ディングをでっち上げないでください。タイトルのタイポグラフィと実際の印刷寸法を個別に確認してください。",
+      "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
+      "document": "docs/cases/i143-create-a-book-cover-from-its-title-and-content.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i143-after.webp",
+          "sha256": "2cbcfc06ec66ffa87799fbffdf0013166f0da364e92099170e84873514c6bede"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Canva AI で生成されたページ",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta"
+    },
+    {
+      "id": "I146",
+      "title": "新しいキャラクター設定シート",
+      "name": "キャラクターシートとマルチアングルビューの生成",
+      "englishName": "Create a character sheet with multiple views",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "キャラクターシート",
+      "useCase": "アニメ、ゲーム、物語",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。サイト条件 参照画像の選択は該当しません。",
+      "check": "これにより新しい性格が確立されます。ビューの一貫性をチェックし、目に見えない既存のアイデンティティの発明を避けます。",
+      "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
+      "document": "docs/cases/i146-create-a-character-sheet-with-multiple-views.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i146-after.webp",
+          "sha256": "f94946ce3b0bb33397570289229d252cb40f6333acec1d8155347f6711571d07"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt 画像の生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta"
+    },
+    {
+      "id": "I147",
+      "title": "世界観のコンセプトアート",
+      "name": "テキストから映画、ゲーム、広告のコンセプト アートを生成",
+      "englishName": "Create concept art for film, games, or advertising from text",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "コンセプトアート",
+      "useCase": "初期の開発と提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "地理、前景、背景を読みやすくします。既存のフランチャイズ資産ではなく、オリジナルのデザインを使用します。",
+      "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
+      "document": "docs/cases/i147-create-concept-art-for-film-games-or-advertising-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i147-after.webp",
+          "sha256": "f90d9e2297c50f0ed281778f68f0206bdd8f64fbdcd818bd62951528219c1f87"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "OpenArt 画像の生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta"
+    },
+    {
+      "id": "I150",
+      "title": "大人の塗り絵",
+      "name": "大人の塗り絵ページをバッチ生成する",
+      "englishName": "Create adult coloring book pages in batches",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "大人の塗り絵",
+      "useCase": "Etsy、KDP",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "破線、塗りつぶせない部分、印刷余白をチェックします。この実行では、本全体ではなく 1 ページが配信されます。",
+      "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
+      "document": "docs/cases/i150-create-adult-coloring-book-pages-in-batches.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i150-after.webp",
+          "sha256": "af0a6adec0734f8cbb8f6d359a4008c6eb9056e899594e43a89d3a27d0030af5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI 塗り絵",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta"
+    },
+    {
+      "id": "I151",
+      "title": "年齢に応じた教科書のイラスト",
+      "name": "教材やワークシート用に年齢に応じたイラストを生成",
+      "englishName": "Create age-appropriate illustrations for textbooks or worksheets",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "教育イラスト",
+      "useCase": "教室・教材",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "裏付けのない科学的事実やラベルを追加しないでください。教師にコンセプトと年齢の適合性をチェックしてもらいます。",
+      "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
+      "document": "docs/cases/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i151-after.webp",
+          "sha256": "5f9b36c0e078ce47abce0b974ba479e3554504a64a17931b348251a3a72f0872"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta"
+    },
+    {
+      "id": "I152",
+      "title": "文化物語のイラスト",
+      "name": "宗教的な物語、歴史的または文化的なテーマのイラストを生成する",
+      "englishName": "Create religious, historical, or cultural illustrations",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "文化的な物語のイラスト",
+      "useCase": "出版、教育、イベント",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "不特定の歴史的詳細は控えめにしてください。それを解釈として特定し、文化的な正確さを個別に確認してください。",
+      "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
+      "document": "docs/cases/i152-create-religious-historical-or-cultural-illustrations.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i152-after.webp",
+          "sha256": "6d8730a65b421783cd2e22d59e27ad0c9b019776821be9283d948c733cd1272f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta"
+    },
+    {
+      "id": "I154",
+      "title": "記事の概念図",
+      "name": "記事、雑誌、レポートのコンセプトイラストを生成",
+      "englishName": "Create editorial illustrations for articles, magazines, and reports",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "エディトリアルイラスト",
+      "useCase": "メディア、報道",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "架空の行為を事実の出来事として描写したり、実在の人物の肖像画をでっちあげたりしないでください。",
+      "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
+      "document": "docs/cases/i154-create-editorial-illustrations-for-articles-magazines-and-reports.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i154-after.webp",
+          "sha256": "2619f24d13b94e891053cde5d58c2e31a47cf8e37f82d5aca289a1972bdf8997"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta"
+    },
+    {
+      "id": "I155",
+      "title": "音楽リリースのカバー",
+      "name": "アルバム カバーと音楽リリース ビジュアルを生成する",
+      "englishName": "Create album cover art and music-release visuals",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "アルバムカバー",
+      "useCase": "音楽プラットフォーム、プロモーション",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "「[EXACT TITLE AND ARTIST OR NO TEXT]」のみを追加します。肖像をでっち上げたり、本物のアーティストの支持を主張したりしないでください。",
+      "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
+      "document": "docs/cases/i155-create-album-cover-art-and-music-release-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "オリジナルアーティスト写真",
+            "file": "assets/cases/i155-before-1.webp",
+            "sha256": "6a6bb192a92ed9fa5a7e6dd3ded31ee13732f3bc08780437e0a5cb932ae3434d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i155-after.webp",
+          "sha256": "8225681c4c33302e5040e905a500e79823dc0ef56a56bd75672800080c2ae3f6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta"
+    },
+    {
+      "id": "I156",
+      "title": "オリジナルTシャツグラフィック",
+      "name": "印刷可能な T シャツのグラフィックを生成する",
+      "englishName": "Create a print-ready T-shirt design",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "Tシャツプリント",
+      "useCase": "PODショップ、イベント周辺機器",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "衣服のモックアップなしでアートワークを表示します。制作前に解像度、インク制限、ファイルの透明性を確認します。",
+      "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
+      "document": "docs/cases/i156-create-a-print-ready-t-shirt-design.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i156-after.webp",
+          "sha256": "7e9e610afde406e9533edaca7660979ab65f258c38c12cd4a96c441818e86b35"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        },
+        {
+          "label": "アドビ T シャツのデザイン",
+          "url": "https://www.adobe.com/products/firefly/features/ai-graphic-design-generator/custom-t-shirt-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta"
+    },
+    {
+      "id": "I157",
+      "title": "オリジナルステッカーデザイン",
+      "name": "テーマ別のステッカー セットを生成する",
+      "englishName": "Create a themed sticker set",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ステッカーパック",
+      "useCase": "Etsy、文化的でクリエイティブ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "ステッカーは 1 枚のみお届けします。プレビューが印刷可能であると仮定するのではなく、アルファとカット輪郭を個別に検証します。",
+      "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
+      "document": "docs/cases/i157-create-a-themed-sticker-set.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i157-after.webp",
+          "sha256": "366e082ff8bd8d80d74e0abbdc6c372f4c6cc03466d480b2952ef5d0c2fb9632"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta"
+    },
+    {
+      "id": "I158",
+      "title": "文字墙画",
+      "name": "印刷可能なウォールアートと装飾アートを生成する",
+      "englishName": "Create printable wall art and decorative artwork",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ウォールアート",
+      "useCase": "Etsy、室内装飾",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "個人的な記憶や実際の場所をでっち上げないでください。印刷する前に、配信されたピクセル、トリミング、印刷プルーフを確認します。",
+      "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
+      "document": "docs/cases/i158-create-printable-wall-art-and-decorative-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i158-after.webp",
+          "sha256": "5e38b9fb94f8bd68300bcb4f089429fc1a4cf044f03e40543e43316080b87485"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Etsy AI ウォールアート",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta"
+    },
+    {
+      "id": "I159",
+      "title": "パーソナライズされた壁紙",
+      "name": "携帯電話またはデスクトップ用にパーソナライズされた壁紙を生成します",
+      "englishName": "Create a personalized phone or desktop wallpaper",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "壁紙",
+      "useCase": "携帯電話、デスクトップ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実際のデバイスのトリミングとアイコンの読みやすさを確認します。実在の人物や提供された写真は必要ありません。",
+      "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
+      "document": "docs/cases/i159-create-a-personalized-phone-or-desktop-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i159-after.webp",
+          "sha256": "417a0df16163806c28f37213c710b0c30afd08b816086047303156b9a17c5109"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta"
+    },
+    {
+      "id": "I160",
+      "title": "刺繍スタイルのパターンコンセプト",
+      "name": "文字や写真を刺繍模様の方向に変換",
+      "englishName": "Turn text or an image into an embroidery design direction",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "刺繍デザイン",
+      "useCase": "衣類、バッジ、手工芸品",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。 Web サイトのテキストのみのテーマ ブランチを選択します。",
+      "check": "これは視覚的なモチーフであり、デジタル化されたステッチ指示ではありません。ステッチ数、密度、マシンファイルは別個の作業が必要です。",
+      "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
+      "document": "docs/cases/i160-turn-text-or-an-image-into-an-embroidery-design-direction.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "写真またはオリジナルのロゴ",
+            "file": "assets/cases/i160-before-1.webp",
+            "sha256": "bc47fd8fdd15534fccf3b793f81bd83ec06ecca8755e98c9008a505b60f87f61"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i160-after.webp",
+          "sha256": "fa554ac3b0cc37b35a46aec0522362c00e13be56ee338a059c3bc99f325f2953"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta"
+    },
+    {
+      "id": "I161",
+      "title": "オリジナルのタトゥースケッチ",
+      "name": "テーマに基づいてカスタム タトゥー スケッチを生成",
+      "englishName": "Create a custom tattoo sketch from a theme",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "タトゥーのデザイン案",
+      "useCase": "タトゥー相談",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "スペルと記号の意味を確認してください。タトゥーアーティストに線の間隔と実際の配置を評価してもらいます。",
+      "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
+      "document": "docs/cases/i161-create-a-custom-tattoo-sketch-from-a-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i161-after.webp",
+          "sha256": "247acbe783240c095f9680a97659c0a75d9584182778965efba966bec1a602b1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Picsart AI ツール",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta"
+    },
+    {
+      "id": "I163",
+      "title": "トートバッグやスマホケースの柄",
+      "name": "ハンドバッグや携帯電話ケースのパーソナライズされたパターンを生成",
+      "englishName": "Create personalized artwork for a tote bag or phone case",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "製品パターン",
+      "useCase": "POD、カスタマイズされたギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "製品のモックアップではなく、アートワークを提供します。正確にフィットするには、メーカーのテンプレートと印刷プルーフが必要です。",
+      "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
+      "document": "docs/cases/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i163-after.webp",
+          "sha256": "c3a129d50971a2910705987b16daea77a8ff65f08aaf661b1c2e15f6f462951e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ペットのポートレート",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        },
+        {
+          "label": "Etsy AI モックアップ",
+          "url": "https://www.etsy.com/market/ai_generated_mockups"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta"
+    },
+    {
+      "id": "I164",
+      "title": "ホリデー シリーズ グリーティング カード リーフレット",
+      "name": "販売可能なホリデー カード パッケージを生成する",
+      "englishName": "Create a sellable set of holiday greeting cards",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "印刷可能なグリーティングカード",
+      "useCase": "Etsy、ブランドギフト",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "このエントリのみを作成します。後のカードのスタイルを同一に保つには、これらの書かれたルールを再利用し、シリーズを見直す必要があります。",
+      "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
+      "document": "docs/cases/i164-create-a-sellable-set-of-holiday-greeting-cards.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i164-after.webp",
+          "sha256": "574d8facd70daad8f3111f5b1217d090956f58f05ee8fcd8245fdb47b106eb77"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "カットアウト.プロ",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta"
+    },
+    {
+      "id": "I165",
+      "title": "装飾的なシームレス パターン",
+      "name": "生地、包装紙、壁紙のシームレスなパターンを生成",
+      "englishName": "Create seamless patterns for fabric, wrapping paper, or wallpaper",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "シームレスなパターン",
+      "useCase": "生地、包装、室内装飾品",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "意図した物理スケールで繰り返しグリッドを検査します。認定された実稼働準備が整っているとは主張しないでください。",
+      "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
+      "document": "docs/cases/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i165-after.webp",
+          "sha256": "5c7a0af7d23c35554a0e2d4797fbc9f46e294d112ff3419e4fd7d46124f00a0f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta"
+    },
+    {
+      "id": "I166",
+      "title": "切断線画のコンセプト",
+      "name": "Cricut またはレーザー切断に適したベクター ライン アートを生成します",
+      "englishName": "Create vector line art for Cricut or laser cutting",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "SVGカッティングファイル",
+      "useCase": "クリカット、レーザーカット",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "画像は製図用のリファレンスであり、実行可能なカット ファイルではありません。切断ソフトウェアでベクター パスを再構築してテストします。",
+      "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
+      "document": "docs/cases/i166-create-vector-line-art-for-cricut-or-laser-cutting.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "変換対象の元画像",
+            "file": "assets/cases/i166-before-1.webp",
+            "sha256": "5b60ae3103e34ad380bda35d2a76249784ccd6477ba1df4e38680629e06f4bb1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i166-after.webp",
+          "sha256": "89468bba6e49bc2ef3f2c701174a050eda37eeb8fd1853352560e17d72b294d2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI ウォールアート",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta"
+    },
+    {
+      "id": "I167",
+      "title": "子供向けの塗り絵 1 ページ",
+      "name": "KDP 塗り絵のページと表紙の完全なセットを生成する",
+      "englishName": "Create a complete KDP coloring book with pages and a cover",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "KDP 塗り絵",
+      "useCase": "アマゾンKDP",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "この実行では、表紙、ページグリッド、または完全な本はありません。年齢の適合性、線の連続性、印刷寸法を確認してください。",
+      "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
+      "document": "docs/cases/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i167-after.webp",
+          "sha256": "bff8b4fb1ad7eebdf3be0a956ba5e94040f8b14eae067879134a90a164c42cf0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI 塗り絵",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        },
+        {
+          "label": "ステラー児童童話集",
+          "url": "https://www.usestelar.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta"
+    },
+    {
+      "id": "I168",
+      "title": "ポスタービジュアルを印刷",
+      "name": "高解像度の印刷可能なポスターを生成する",
+      "englishName": "Create a high-resolution printable poster",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "印刷可能なポスター",
+      "useCase": "展示、壁、イベント",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実際のピクセル寸法、タイポグラフィー、裁ち落とし、物理的証拠を確認します。プロンプトだけでは印刷解像度を保証できません。",
+      "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
+      "document": "docs/cases/i168-create-a-high-resolution-printable-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i168-after.webp",
+          "sha256": "e8518bbcc1362cca6945c70a5969bbb2bd0e7524271f1b8e6e2e0ff4bb8a68a6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta"
+    },
+    {
+      "id": "I173",
+      "title": "商業空間の新たなデザインの方向性",
+      "name": "レストラン、店舗、ショールームのデザイン指示を作成する",
+      "englishName": "Create design directions for a restaurant, shop, or showroom",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "商業空間コンセプトマップ",
+      "useCase": "出店、改装、提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "現場写真はありませんが、これは架空の空間コンセプトであり、実際の物件や建設計画の変更ではありません。",
+      "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
+      "document": "docs/cases/i173-create-design-directions-for-a-restaurant-shop-or-showroom.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "商業スペースシーンのオリジナル画像",
+            "file": "assets/cases/i173-before-1.webp",
+            "sha256": "8f623b91bcaf5e68e8f55a74e7e3ffd9b36ba6387782f2117df3bc06cff4a74b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i173-after.webp",
+          "sha256": "6f1b2fdb3fdd3bcec5a9ec10770be99ace4912f9d03b905b42100b3f44effffd"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "アドビルームのデザイン",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta"
+    },
+    {
+      "id": "I185",
+      "title": "製品スタイリングの新たな方向性",
+      "name": "需要の説明から複数の製品スタイリングの指示を生成する",
+      "englishName": "Create multiple product form directions from a brief",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "製品コンセプトグループ",
+      "useCase": "ブレーンストーミングと予備設計",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "実行ごとに 1 つの方向を選択します。目に見えない既存製品の機械的検証や保存を主張しないでください。",
+      "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
+      "document": "docs/cases/i185-create-multiple-product-form-directions-from-a-brief.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i185-after.webp",
+          "sha256": "f2d99f2180dfabb1b736be8884befe00795e2193ef3c53f068d589fbdaa88918"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta"
+    },
+    {
+      "id": "I187",
+      "title": "テキストの車の形状",
+      "name": "テキストまたはスケッチから車のスタイリングのコンセプトを生成",
+      "englishName": "Create a car design concept from text or a sketch",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "車のコンセプトイラスト",
+      "useCase": "デザインの探索、コンテンツ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "これは外装コンセプトであり、検証された空気力学、エンジニアリング、または未確認の実際のモデルの再設計ではありません。",
+      "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i187-create-a-car-design-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "車のスケッチまたはボディ参考原画",
+            "file": "assets/cases/i187-before-1.webp",
+            "sha256": "015edd8d00dd90e1907df8f18220f543d4694e7b7b0ccd8d9791d2e5a53811cc"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i187-after.webp",
+          "sha256": "6fefebe2c3ea4fbcebca351ad1dcc9919debad9d4ce7e294c52d7e028efd607a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "OpenArt スケッチを画像に変換",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta"
+    },
+    {
+      "id": "I189",
+      "title": "シューズバッグアクセサリーデザイン",
+      "name": "靴、バッグ、アクセサリーのデザインコンセプトを生成する",
+      "englishName": "Create design concepts for shoes, bags, and accessories",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "アクセサリーの概念図",
+      "useCase": "シリーズのデザインと提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "ブランドマークを発明したり、フィット感、強度、製造可能性を約束したりしないでください。それらを物理的なプロトタイプと照らし合わせてレビューします。",
+      "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
+      "document": "docs/cases/i189-create-design-concepts-for-shoes-bags-and-accessories.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "靴やバッグのアクセサリーのオリジナルスケッチ",
+            "file": "assets/cases/i189-before-1.webp",
+            "sha256": "beef87e21fb9b63b1ff09dabe268f525e5a2a511c7838a5de4af145ebae2c7cd"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i189-after.webp",
+          "sha256": "8c6c04b616b6fc768100f913cca8e60e5adc3fa8e86eab94c211560407dc2a56"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "OpenArt スケッチを画像に変換",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta"
+    },
+    {
+      "id": "I190",
+      "title": "包装構造と表示の考え方",
+      "name": "さまざまなパッケージ構造と棚効果をすばやく調査",
+      "englishName": "Explore packaging structures and shelf presence",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "パッケージングコンセプトマップ",
+      "useCase": "新製品の意思決定とテスト",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。サイト条件 参照画像の選択は該当しません。",
+      "check": "繰り返されるパックの一貫性を保ちます。テスト済みのダイライン、棚耐荷重、または実際の在庫製品を意味するものではありません。",
+      "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
+      "document": "docs/cases/i190-explore-packaging-structures-and-shelf-presence.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品、ロゴ、実際のパッケージのコピーライティング",
+            "file": "assets/cases/i190-before-1.webp",
+            "sha256": "200267d2e135f7d97c2311cf2ab0bffe7da0a762fc839a67afb650a35f0fa00d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i190-after.webp",
+          "sha256": "eb063e79165c04c9866dc9093a5d2021f6d7ffcd84cb0b0efce7340883a7f493"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta"
+    },
+    {
+      "id": "I191",
+      "title": "仮想製品プロトタイプ",
+      "name": "物理的なオブジェクトを作成する前に、表示可能な製品プロトタイプを生成する",
+      "englishName": "Create a presentation-ready product prototype image before production",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "仮想製品プロトタイプ",
+      "useCase": "資金調達、ユーザーインタビュー、クラウドファンディング",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "これは、書面による概要のみを視覚化します。内部エンジニアリング、安全性、または実際のパフォーマンスを確立するものではありません。",
+      "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
+      "document": "docs/cases/i191-create-a-presentation-ready-product-prototype-image-before-production.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "製品スケッチまたは構造原稿",
+            "file": "assets/cases/i191-before-1.webp",
+            "sha256": "0bdb574406864f5123718ba2ad445200a2059d3bf45cf5da4d4d55c2bf70e19f"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i191-after.webp",
+          "sha256": "18d37e69528418bc2768aaa026ee92f7be22bcf6400caf1202a3a6b470985f8f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt スケッチを画像に変換",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "insMindの製品写真撮影",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta"
+    },
+    {
+      "id": "I193",
+      "title": "立体風商品コンセプトマップ",
+      "name": "製品の静的ビジュアルの 3D レンダリングを生成します",
+      "englishName": "Create a 3D-render-style product visual",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "3Dスタイルの製品イメージ",
+      "useCase": "広告、提案",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "これは架空の製品の視覚化および平面画像であり、既存の商品の写真やダウンロード可能な 3D モデルではありません。",
+      "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
+      "document": "docs/cases/i193-create-a-3d-render-style-product-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i193-after.webp",
+          "sha256": "92be8d810954b8d5b8815cbe75f17202555d737558ba3980f4e1d4287766e66b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Canva AI で生成されたページ",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta"
+    },
+    {
+      "id": "I194",
+      "title": "オリジナルの2Dスプライト",
+      "name": "テキストまたは参照画像から 2D ゲーム スプライトを生成",
+      "englishName": "Create a 2D game sprite from text or a reference image",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ゲームスプライト",
+      "useCase": "プロトタイピングとゲーム制作",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "ポーズは 1 つだけ作成します。実際のアルファ チャネル、ピクセル寸法、ゲーム エンジンのインポートを個別に確認します。",
+      "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
+      "document": "docs/cases/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i194-after.webp",
+          "sha256": "6c56dc6d46316a0736eab168acddba614272f784519138794b5b2f1c15a9684d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Unity スプライトの生成",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        },
+        {
+          "label": "Ludo.ai ゲームアセット",
+          "url": "https://ludo.ai/docs/game-asset-generation"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta"
+    },
+    {
+      "id": "I196",
+      "title": "テキストピクセルアセット",
+      "name": "画像または説明をピクセル スタイルのゲーム アセットに変換します",
+      "englishName": "Turn an image or description into pixel-art game assets",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ピクセルアート資産",
+      "useCase": "レトロゲーム、プロトタイプ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "未見の写真を変換したり模倣したりしないでください。ゲームを使用する前に、ネイティブ サイズで実際のピクセル グリッドを確認してください。",
+      "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
+      "document": "docs/cases/i196-turn-an-image-or-description-into-pixel-art-game-assets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i196-after.webp",
+          "sha256": "79b1cd9349befff01f211b21412e5c20589f3bdfc4d863c447fd08823edfd4f4"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Unity スプライトの生成",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta"
+    },
+    {
+      "id": "I197",
+      "title": "ゲームキャラクターとコスチュームのコンセプト",
+      "name": "ゲームキャラクターのコンセプトと衣装の方向性を生成する",
+      "englishName": "Create game character concepts and outfit directions",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "キャラクターコンセプトアート",
+      "useCase": "初期のゲーム開発",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "書かれた概要からの新しいキャラクターデザインを使用します。未見の既存のキャラクターとの連続性を主張しないでください。",
+      "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
+      "document": "docs/cases/i197-create-game-character-concepts-and-outfit-directions.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i197-after.webp",
+          "sha256": "99a0c192812913032553fa8f263a8932720235c648a1b033a84690391582ab65"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "OpenArt 画像の生成",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta"
+    },
+    {
+      "id": "I198",
+      "title": "ボードゲームのキャラクターのポートレート",
+      "name": "DND またはテーブルトップ ゲームのキャラクターのポートレートを生成する",
+      "englishName": "Create a D&D or tabletop character portrait",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "DND 文字マップ",
+      "useCase": "ランニンググループ、キャラクターカード",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "解剖学的構造と機器の一貫性を保ちます。プレーヤーの写真を必要とせずに、新しい架空のアイデンティティを作成します。",
+      "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
+      "document": "docs/cases/i198-create-a-d-and-d-or-tabletop-character-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i198-after.webp",
+          "sha256": "68514597158e26c61f2760b6a5b73cb351854dccfed067a713849bcd48ffe1c0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta"
+    },
+    {
+      "id": "I201",
+      "title": "ゲーム小道具のコンセプト",
+      "name": "武器、小道具、ピックアップのコンセプトを生成する",
+      "englishName": "Create concepts for weapons, props, and pickups",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ゲーム小道具のマップ",
+      "useCase": "プロップシステム、コンセプトステージ",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "[ON-SCREEN SIZE] で読み取り可能な状態にしておきます。コンセプト イメージは、生産メッシュやエンジニアリング図面ではありません。",
+      "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
+      "document": "docs/cases/i201-create-concepts-for-weapons-props-and-pickups.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i201-after.webp",
+          "sha256": "20b578c21c1cd8608db77d40ccc78918c0d26a053ca7ea56b230c59332b50aa5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta"
+    },
+    {
+      "id": "I202",
+      "title": "ゲームシーンとランドマーク",
+      "name": "ゲームの背景、シーン、ランドマークのコンセプトを生成する",
+      "englishName": "Create concepts for game backgrounds, scenes, and landmarks",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "ゲーム環境コンセプトマップ",
+      "useCase": "プレレベル設計",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "空間の可読性と一貫した視点をチェックします。これは 1 つのフラットなコンセプト フレームであり、プレイ可能なレベルではありません。",
+      "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
+      "document": "docs/cases/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i202-after.webp",
+          "sha256": "d231d3cdd0b67912ea81873d063eadb037bdfe91563be4eed8c97d1265559551"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Freepik AI",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "リクラフト",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta"
+    },
+    {
+      "id": "I203",
+      "title": "カード用オリジナルイラスト",
+      "name": "カードゲーム用のキャラクターやシーンのイラストを生成",
+      "englishName": "Create character and scene artwork for a card game",
+      "group": "text-only",
+      "category": "純粋なテキストの生成 · 参照画像は必要ありません",
+      "inputMode": "text-only",
+      "inputSummary": "テキストのみで、参考画像やその他の添付ファイルは必要ありません。新しい概念を生み出す。",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "テキスト作成概要: プロンプトワードにテーマ、目的、事実パラメータを入力します。",
+          "requirement": "required",
+          "quantity": "1食分"
+        }
+      ],
+      "output": "カードゲームアート",
+      "useCase": "物理カードまたはデジタルカード",
+      "deliveryNote": "一度に生成される画像は 1 つだけなので、画像をアップロードする必要はありません。",
+      "check": "ルールのテキスト、数字、カードフレームは別個のレイアウトとして残しておきます。これにより、既存のデッキ参照なしで新しい視覚的方向性が作成されます。",
+      "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
+      "document": "docs/cases/i203-create-character-and-scene-artwork-for-a-card-game.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i203-after.webp",
+          "sha256": "1d040a1932c98945bfacc663a32cf8e32e9eca5145d3bef8862402861f23ab30"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "すべての LightX ツール",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/ja/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta"
     }
   ],
   "locale": "ja"

@@ -24,6 +24,7 @@ The reference materials and results are used to illustrate the visual direction.
 | --- | --- | --- | --- |
 | Food photos or product descriptions | Picture/Image | 1 piece | Optional/Optional: the plain text branch can be omitted |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -70,4 +71,4 @@ Result direction: food promotional graphics. When exact text, transparent files,
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

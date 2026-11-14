@@ -25,6 +25,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Tableau de référence ambiance spatiale et matériaux | Photo/Image | 0 – Plusieurs images ; peut être combiné dans un mood board étiqueté par catégorie pour la saisie | Facultatif/Facultatif : lorsque l'utilisateur dispose déjà de documents de direction |
 | Type de projet et mots-clés | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -72,4 +73,4 @@ Résultats en direction de : Mood Board. Lorsque du texte exact, des fichiers tr
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

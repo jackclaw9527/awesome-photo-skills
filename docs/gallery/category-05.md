@@ -33,7 +33,7 @@
 
 - **输入类型：** 含参考素材预览与结果示例
 - **素材要求：** 1张单角度商品照＋1个本次目标观察角度
-- **说明：** 每次只生成当前选定的一张；系列中的其他图片分别执行。
+- **说明：** 每次只生成一张图片。
 
 [在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta)
 

@@ -25,6 +25,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Photos de votre cour ou espace extérieur | Photo/Image | 1 feuille ; plusieurs personnages ou perspectives peuvent être combinés dans un seul tableau de référence marqué | Obligatoire / Obligatoire |
 | Exigences d'utilisation, climat ou emplacement | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -65,4 +66,4 @@ Sens du résultat : Rendus de paysages. Lorsque du texte exact, des fichiers tr
 - [Aperçu des différents styles d'intérieur dans une photo de pièce · Aperçu du style de décoration de la pièce](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Aperçu de la peinture murale, du revêtement de sol et du papier peint · Aperçu de la peinture murale et de la sélection des matériaux de sol ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

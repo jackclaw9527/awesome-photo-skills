@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Logo de marque original et atouts identitaires | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif : lorsque vous explorez des extensions de logo pour une marque existante plutôt que d'en créer une à partir de zéro |
 | Nom de marque, positionnement de marque, public cible | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -71,4 +72,4 @@ Direction du résultat : projet de logo. Lorsque du texte exact, des fichiers t
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

@@ -9,6 +9,7 @@ Tierporträts, Familienfotos, Paarandenken und Meilensteinbilder. Hierbei handel
 
 Verwandeln Sie ein Haustierfoto in ein ausstellungsfertiges Porträt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Haustierfotos – erforderlich
 - **Bewahren:** Behalten Sie die Identität, Markierungen, Augenfarbe, Ohrform und Körperproportionen des Haustiers bei.
 - **Änderung:** Ändern Sie die Einstellung, Beleuchtung, Palette und künstlerische Behandlung.
@@ -34,6 +35,7 @@ Deliver one finished portrait image; do not create a sheet, sequence, or alterna
 
 Platzieren Sie ein echtes Haustier in einem originellen königlichen oder historischen Porträtkonzept.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Haustierfotos – erforderlich
 - **Bewahren:** Behalten Sie das Gesicht, das Fellmuster, die Augenfarbe und die artspezifische Anatomie des Haustiers bei.
 - **Änderung:** Kleidung, Requisiten, Hintergrund und zeitgemäße Atmosphäre ändern.
@@ -59,6 +61,7 @@ Deliver one finished portrait image only.
 
 Platzieren Sie ein erkennbares Haustier in einer humorvollen Badezimmer-, Küchen- oder häuslichen Szene.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Haustierfotos – erforderlich
 - **Bewahren:** Halten Sie Identität, Fellzeichnung, Anatomie und Maßstab konsistent.
 - **Änderung:** Umgebung, Posenkontext und spielerische Requisiten ändern.
@@ -84,6 +87,7 @@ Deliver one finished image suitable for [PRINT OR DIGITAL USE].
 
 Erstellen Sie aus einem Haustierfoto und bestätigten Erinnerungsdetails ein stilles Erinnerungsbild.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Haustierfotos – erforderlich
 - **Bewahren:** Halten Sie die Identität des Haustiers sowie alle angegebenen Namen und Daten genau.
 - **Änderung:** Hintergrund, Licht, florale Details und Gedenkstimmung ändern.
@@ -109,6 +113,7 @@ Deliver one finished memorial image only, and flag all rendered text for proofre
 
 Kombinieren Sie die bereitgestellten Referenzen von Familienmitgliedern und Haustieren zu einem zusammenhängenden Porträt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos von Familienmitgliedern – erforderlich; Haustierfotos – erforderlich
 - **Bewahren:** Sorgen Sie dafür, dass jede Person und jedes Haustier individuell erkennbar ist, mit korrekter Zählung und Markierung.
 - **Änderung:** Gemeinsame Umgebung, Garderobenkoordination, Licht und Anordnung ändern.
@@ -134,6 +139,7 @@ Deliver one complete group portrait image only.
 
 Verwandeln Sie ein Paarfoto in ein Erinnerungskunstwerk.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Paarfotos – erforderlich
 - **Behalten:** Behalten Sie sowohl Identitäten, Beziehungen, Posenlogik als auch bestätigte Namen oder Daten bei.
 - **Änderung:** Künstlerisches Medium, Hintergrund, Palette und feierliche Details ändern.
@@ -159,6 +165,7 @@ Deliver one finished image only and mark any rendered text for manual proofreadi
 
 Fügen Sie separat fotografierte Verwandte zu einem fiktiven, aber zusammenhängenden Familienporträt zusammen.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Fotos aller im Gemälde enthaltenen Mitglieder – erforderlich; Anzahl der Personen, Beziehung und Anordnung der Charaktere – erforderlich
 - **Behalten:** Behalten Sie alle bereitgestellten Identitäten, die angeforderte Anzahl, Beziehungen und Anordnungen bei.
 - **Änderung:** Gemeinsame Einstellung, Posenintegration, Licht und koordiniertes Styling ändern.
@@ -184,6 +191,7 @@ Deliver one complete family portrait image only.
 
 Gestalten Sie ein Familienfoto für einen bestimmten Feiertag neu.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Familienfotos – erforderlich; Feiertagsname oder -thema – erforderlich
 - **Bewahren:** Behalten Sie alle Personen, Identitäten, Zahlen und Gesichtszüge bei.
 - **Änderung:** Ändern Sie Dekor, Garderobenakzente, Hintergrund und Urlaubsatmosphäre.
@@ -209,6 +217,7 @@ Deliver one finished holiday portrait image only.
 
 Erstellen Sie aus einem Paarfoto ein von einer Hochzeit inspiriertes Porträt, ohne es als echte Veranstaltungsaufzeichnung zu präsentieren.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Paarfotos – erforderlich
 - **Bewahren:** Behalten Sie beide Identitäten, natürliche Beziehungen und Körperproportionen bei.
 - **Änderung:** Garderobe, Ambiente, Blumenstil und zeremonielle Stimmung ändern.
@@ -234,6 +243,7 @@ Deliver one finished portrait image only.
 
 Erstellen Sie ein Meilensteinbild mit einem Babyfoto und von den Eltern bestätigten Fakten.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Babyfotos – erforderlich; Monatliches Alter oder Meilensteine ​​– erforderlich
 - **Bewahren:** Behalten Sie die Identität des Babys, die altersgerechte Anatomie und den bestätigten Meilensteintext bei.
 - **Änderung:** Hintergrund, Requisiten, Farbpalette und feierliches Layout ändern.

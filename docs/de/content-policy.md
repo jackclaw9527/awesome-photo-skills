@@ -10,7 +10,7 @@ Dieses Repository verwendet ausgewählte Demonstrationen, um die Eingabe, Ausgab
 - „Vorher“ zeigt Referenzmaterialien an, die nach Anforderungsüberprüfungsdatensätzen geordnet sind, und „Nachher“ zeigt vorhandene Ergebnisbeispiele an. Bei dieser Anzeige handelt es sich nicht um einen vollständigen Eingaberückverfolgbarkeitsdatensatz auf Aufgabenebene.
 - Mehrere Referenzbilder werden getrennt nach Rolle angezeigt; Wenn kein Bildhinweis beigefügt ist, ist es eindeutig gekennzeichnet und nicht gefälscht. Anforderungen mit fehlenden Ergebnissen werden im Backlog abgelegt.
 - Die Beispiele beweisen weder, dass eine einzelne Aufgabe für alle Eingaben die gleiche Qualität erreicht, noch stellen sie einen Vergleich der Modellleistung dar.
-- Bei den 50 öffentlichen Aufforderungswörtern und den 5 Einführungsvorlagen handelt es sich jeweils um separat geschriebene Tutorials, die nicht einzeln getestet wurden, und es handelt sich nicht um die ursprünglich generierten Aufforderungswörter für die Beispielbilder.
+- Bei den 100 öffentlichen Aufforderungswörtern und den 5 Einführungsvorlagen handelt es sich jeweils um separat geschriebene Tutorials, die noch nicht an jedem Bild getestet wurden. Es handelt sich nicht um die ursprünglich generierten Aufforderungswörter für die Beispielbilder.
 - Wenn genauer Text, Transparenz, physische Abmessungen, Vektoren oder Produktionslieferungen erforderlich sind, sollte die tatsächliche Datei überprüft und nicht nur durch Miniaturansichten bestätigt werden.
 
 ## Bildquelle und Nutzungsumfang

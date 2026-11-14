@@ -24,6 +24,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Imagens originais de palestrantes, expositores ou exposições | Foto/Imagem | 0–1; vários materiais podem ser combinados em uma placa de referência rotulada | Opcional/Opcional: Quando o pôster precisa mostrar palestrantes, expositores ou exposições reais |
 | Título do evento, informações do palestrante ou expositor, horário, local ou método de participação | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
 
 ## Manter e alterar/Editar resumo
@@ -64,4 +65,4 @@ Direção dos Resultados: Pôster da conferência. Quando for necessário texto 
 - [Crie um pôster promocional a partir de um tópico e copie · Pôster promocional do tema ](./i107-create-a-promotional-poster-from-a-topic-and-copy.md#public-prompt)
 - [Crie um pôster de promoção do Dia das Mães, da Black Friday ou de fim de ano · Pôster de promoção de fim de ano](./i112-create-a-mother-s-day-black-friday-or-holiday-sale-poster.md#public-prompt)
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

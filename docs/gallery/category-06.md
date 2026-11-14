@@ -3,7 +3,7 @@
 [中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
 
 
-精选目录之外的 14 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
+精选目录之外的 13 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
 
 [返回更多案例目录](./index.md) · [返回仓库首页](../../README.md)
 
@@ -157,20 +157,6 @@
 - **说明：** 每次只生成一张图片。
 
 [在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta)
-
----
-
-## I100 · 为服装生成无缝印花和面料图案
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../assets/cases/i100-after.webp" alt="为服装生成无缝印花和面料图案 — 结果示例" width="340"></a></p>
-<p>本例未附图片参考，输入预览待补；素材要求见下方。</p>
-
-- **输入类型：** 本例仅展示结果示例；图片输入预览待补
-- **素材要求：** 1组主题元素＋0或1张风格参考
-- **说明：** 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta)
 
 ---
 

@@ -26,6 +26,7 @@ Place an exact product or a described eyewear concept on a front-facing portrait
 | 人物正面照片 | 图片 / Image | 1张 | 必需 / Required |
 | 目标眼镜素材或款式描述 | 图片 / Image | 1张 | 按条件 / Conditional：精确商品试戴时必需；仅概念款式可用文字描述 |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -72,4 +73,4 @@ Check bridge, temples, perspective, and note that fit and comfort remain unverif
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

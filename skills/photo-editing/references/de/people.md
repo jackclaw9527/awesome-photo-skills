@@ -9,6 +9,7 @@ Professionelle Porträts, Kleidungsbearbeitungen, virtuelle Vorschauen, Avatare,
 
 Verwandeln Sie ein klares Selfie in ein glaubwürdiges professionelles Porträtfoto.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Ich verstehe das Originalfoto – erforderlich
 - **Bewahren:** Behalten Sie Identität, Gesichtsgeometrie, Hautton, Altersmerkmale und natürliche Textur bei.
 - **Änderung:** Ausschnitt, Hintergrund, Beleuchtung und professionelles Garderoben-Styling ändern.
@@ -34,6 +35,7 @@ Deliver one finished headshot image only.
 
 Bearbeiten Sie nur die Kleidung in einem Porträt, um sie an ein bestimmtes professionelles Outfit anzupassen.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Porträt einer Person in Freizeitkleidung – erforderlich
 - **Bewahren:** Behalten Sie Identität, Gesicht, Haare, Pose, Körperform, Hände und Hintergrund bei, sofern nicht anders gewünscht.
 - **Änderung:** Kleidungsstücktyp, Farbe, Passform und sichtbare Accessoires ändern.
@@ -59,6 +61,7 @@ Deliver one edited portrait image only.
 
 Gestalten Sie eine echte Person als originales königliches, Vintage- oder historisch inspiriertes Porträt neu.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Ich verstehe das Originalfoto – erforderlich
 - **Bewahren:** Behalten Sie die Identität, Altersmerkmale, Hautfarbe und Gesichtsstruktur der Person bei.
 - **Änderung:** Kostüm, Hintergrund, Requisiten, Licht und zeitgemäße Atmosphäre ändern.
@@ -84,6 +87,7 @@ Deliver one finished portrait image only.
 
 Platzieren Sie ein genaues Produkt oder ein beschriebenes Brillenkonzept auf einem frontal gerichteten Porträt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Frontalfoto der Person – erforderlich; Zielbrillenmaterial oder Stilbeschreibung – bedingt (erforderlich für die genaue Produktanprobe; nur konzeptionelle Stile können mit Text beschrieben werden)
 - **Behalten:** Behalten Sie Identität, Gesichtsform, Haut, Augen und die bereitgestellten Rahmendetails für den ausgewählten Zweig bei.
 - **Änderung:** Ändern Sie nur die Rahmenplatzierung, das Erscheinungsbild der Linse und die minimale Beleuchtungsintegration.
@@ -109,6 +113,7 @@ Deliver one preview image only.
 
 Tragen Sie ein mitgeliefertes Tattoo-Design auf eine bestimmte Körperstelle auf.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalfoto der Haut des Charakters – erforderlich; Target-Tattoo-Design – erforderlich; Tattoo-Standort – erforderlich
 - **Beibehalten:** Die Person, die Hautbeschaffenheit, die Körperanatomie und das Tattoo-Kunstwerk bleiben unverändert.
 - **Änderung:** Nur Platzierung, Skalierung, Krümmung, Deckkraft und Integration ändern.
@@ -134,6 +139,7 @@ Deliver one edited preview image only.
 
 Erstellen Sie einen originellen Cartoon-Avatar, der weiterhin als die fotografierte Person erkennbar bleibt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Ich habe ein klares Kopffoto – erforderlich
 - **Behalten:** Gesichtsform, Haare, Hautton und sichtbare charakteristische Accessoires bleiben erhalten.
 - **Änderung:** Rendering-Sprache, Vereinfachung, Hintergrund und Palette ändern.
@@ -159,6 +165,7 @@ Deliver one finished avatar image only.
 
 Erstellen Sie ein originelles, von Animes inspiriertes Porträt und bewahren Sie dabei Ihre persönliche Identität.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Ich habe ein klares Kopffoto – erforderlich
 - **Beibehalten:** Behalten Sie Gesichtsform, Hautton, Haare, Augenverhältnis und definierende Accessoires bei.
 - **Änderung:** Linienführung, Schattierung, Palette, Hintergrund und Stilisierungsgrad ändern.
@@ -184,6 +191,7 @@ Deliver one finished avatar image only.
 
 Verwandeln Sie eine Person in ein fiktional verpacktes Actionfigur-Konzeptbild.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Personenfotos – erforderlich
 - **Bewahren:** Bewahren Sie die Identität der Person und die Liste der angeforderten Zubehörteile auf.
 - **Änderung:** Körper in eine spielzeugähnliche Figur, Verpackung, Farbsystem und Display-Layout ändern.
@@ -209,6 +217,7 @@ Deliver one concept image only, not manufacturing artwork or a product specifica
 
 Verwandeln Sie ein Personen-, Haustier- oder Objektfoto in einen ausdrucksstarken Aufkleber.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Foto einer Person, eines Haustiers oder eines Gegenstands – erforderlich; Aktion oder Emotion dieses Aufklebers – optional
 - **Beibehalten:** Sorgen Sie dafür, dass das Motiv erkennbar bleibt und definieren Sie Markierungen oder Merkmale bei.
 - **Änderung:** Gesichtsausdruck, Posenbetonung, Umriss, Hintergrundentfernung und Aufkleberstil ändern.
@@ -234,6 +243,7 @@ Deliver one sticker image only; platform sizing and pack assembly are separate s
 
 Erstellen Sie ein originelles fiktives Filmplakat rund um bestimmte Personen und einen bereitgestellten Titel.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalfotos von Einzelpersonen, Paaren oder Gruppen – erforderlich; Originalthema und -titel des Posters – erforderlich; Unterschrift und Datum – optional
 - **Bewahren:** Behalten Sie die Identität jeder Person und alle bestätigten Rechnungstexte bei.
 - **Änderung:** Filmkulisse, Genrebehandlung, Beleuchtung, Komposition und Typografiekonzept ändern.

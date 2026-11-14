@@ -25,6 +25,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Imagem original do produto promocional | Foto/Imagem | 0–1; vários materiais podem ser combinados em uma placa de referência rotulada | Opcional/Opcional: quando a imagem de promoção do nó deseja exibir produtos específicos |
 | Festivais ou centros de vendas, bens ou serviços, informações promocionais | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -72,4 +73,4 @@ Direção do resultado: gráfico de promoção do nó. Quando for necessário te
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

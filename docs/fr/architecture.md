@@ -5,7 +5,7 @@
 
 dearsketch organise « Quelles images est-ce que je souhaite réaliser » dans un répertoire d'exigences consultable. Chaque exigence comporte une page indépendante qui explique le but, les matériaux requis et les exigences de résultat ; les utilisateurs entrent dans le processus de production à partir de la page correspondante.
 
-Cette description décrit les responsabilités du module et le flux de données. La bibliothèque de contenu public, les services du site Web et les modèles générés accomplissent chacun des tâches différentes ; cet entrepôt fournit des cas publics, 50 modèles nouvellement édités et Agent Skill, et la production en ligne est effectuée sur le site Web.
+Cette description décrit les responsabilités du module et le flux de données. La bibliothèque de contenu public, les services du site Web et les modèles générés accomplissent chacun des tâches différentes ; cet entrepôt fournit des cas publics, 100 modèles nouvellement édités et Agent Skill, et la production en ligne est effectuée sur le site Web.
 
 ## Chemin utilisateur
 

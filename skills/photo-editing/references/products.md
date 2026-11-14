@@ -9,6 +9,7 @@ Listing assets, transparent cutouts, lifestyle and studio images, apparel, food,
 
 Isolate a real product into a clean marketplace-style white-background image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 手机拍摄的商品照 — required
 - **Preserve:** Keep product shape, proportions, color, labels, surface details, and included parts.
 - **Change:** Change background, crop, lighting balance, and restrained shadow.
@@ -34,6 +35,7 @@ Deliver one product image only.
 
 Extract a product as a reusable cutout with a real alpha channel.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品照片 — required
 - **Preserve:** Keep every product edge, opening, label, color, and transparent or reflective detail.
 - **Change:** Change only background removal, edge cleanup, and optional neutral shadow handling.
@@ -59,6 +61,7 @@ Deliver one cutout asset only; do not substitute a white-background image.
 
 Place an unchanged product cutout in a believable use context.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品白底图 — required
 - **Preserve:** Keep product model, geometry, color, labels, materials, and proportions.
 - **Change:** Change environment, styling, light, camera context, and supporting props.
@@ -84,6 +87,7 @@ Deliver one finished lifestyle product image only.
 
 Restage a product photo with professional studio lighting while retaining product facts.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品照片 — required
 - **Preserve:** Keep geometry, labels, colors, materials, texture, and included components.
 - **Change:** Change backdrop, light arrangement, camera polish, and shadow treatment.
@@ -109,6 +113,7 @@ Deliver one studio product image only.
 
 Build a holiday or sales-season scene around a real product.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品照片 — required; 节日或促销主题 — required
 - **Preserve:** Keep product identity, design, label, color, and supplied promotion facts.
 - **Change:** Change decor, backdrop, light, palette, and campaign composition.
@@ -134,6 +139,7 @@ Deliver one finished promotional product image only.
 
 Create one appetizing promotional image from either a food photo or an explicit product description.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 食品照片或产品描述 — optional (纯文字分支可省略)
 - **Preserve:** Keep actual portion, ingredients, packaging, and appearance in the photo branch.
 - **Change:** Change plating, set, lighting, background, and camera treatment.
@@ -159,6 +165,7 @@ Deliver one finished food or beverage image only.
 
 Visualize a supplied garment on a model without changing the garment design.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 服装平铺图 — required
 - **Preserve:** Keep silhouette, construction, color, print, fabric cues, trims, and branding.
 - **Change:** Change presentation from flat lay to model, pose, setting, and lighting.
@@ -184,6 +191,7 @@ Deliver one on-model image only.
 
 Show a real product being held or used with plausible scale and contact.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品图片 — required
 - **Preserve:** Keep product design, size cues, label, color, and functional truth.
 - **Change:** Change hands, user context, environment, camera angle, and light.
@@ -209,6 +217,7 @@ Deliver one finished interaction image only.
 
 Create a single product infographic from a photo and verified specifications.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 商品照片 — required; 准确尺寸、卖点和参数 — required
 - **Preserve:** Keep product appearance and every supplied number, unit, and claim exact.
 - **Change:** Change layout, callouts, icons, hierarchy, and supporting background.
@@ -234,6 +243,7 @@ Deliver one infographic preview image only, not a verified vector or print-produ
 
 Arrange multiple real product views and approved copy into one long-form visual concept.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 同一商品图片组 — required; 卖点与准确文案 — required
 - **Preserve:** Keep all product views consistent and all supplied claims and wording exact.
 - **Change:** Change section order, graphic hierarchy, backgrounds, callouts, and lifestyle context.

@@ -9,6 +9,7 @@ Miniaturas, carteles, infografías, portadas, maquetas, menús, logotipos y letr
 
 Cree una miniatura de alto contraste sobre un tema de video verificado y una imagen de tema opcional.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imagen original del personaje del video u objeto temático: opcional (cuando un personaje, producto u objeto específico debe aparecer en la miniatura); Tema o título del vídeo: obligatorio
 - **Conservar:** Mantenga la identidad de la persona u objeto proporcionada y el título aprobado exacto.
 - **Cambiar:** Cambia la composición, el fondo, el énfasis de la expresión, el color y el tratamiento del título.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Cree un póster de evento a partir de datos confirmados del evento y material visual aprobado opcional.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** El material visual principal original del evento — opcional (cuando el cartel utiliza personas, productos, obras o logotipos de marcas específicos); nombre del evento, información principal, hora y ubicación o métodos de participación: obligatorio
 - **Preservar:** Mantenga exactas las personas, los productos, las obras de arte, las marcas y los datos del evento suministrados.
 - **Cambiar:** Cambia el diseño, el fondo, el tratamiento de la imagen, la jerarquía y el sistema decorativo.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Cree un póster del momento de ventas a partir de los detalles de la promoción confirmada y una imagen de producto opcional.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imagen original de los productos promocionales: opcional (cuando la imagen de promoción del nodo necesita mostrar productos específicos); festival o nodos de ventas, bienes o servicios, información promocional (requerido)
 - **Conservar:** Mantenga exactos el producto y todos los precios, descuentos, fechas y condiciones suministrados.
 - **Cambio:** Cambie la decoración, la composición, la paleta, el énfasis y la jerarquía promocional de la temporada.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Cree un póster de evento formal utilizando participantes, exhibiciones y logística confirmados.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imágenes originales de oradores, expositores o exhibiciones: opcional (cuando el cartel necesita mostrar oradores, expositores o exhibiciones reales); título del evento, información del orador o expositor, hora, ubicación o método de participación: obligatorio
 - **Conservar:** Mantenga exactos los retratos o exhibiciones suministrados y todos los nombres, títulos, organizadores y hechos.
 - **Cambiar:** Cambie la cuadrícula, la jerarquía visual, el fondo, la paleta y el tratamiento de la imagen.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Convierta hechos y relaciones verificados en una infografía clara.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Bosquejo de la estructura de información existente: opcional (cuando el usuario ya tiene un bosquejo de proceso, jerarquía o relación); contenido fáctico, estructura de información o relación - requerido
 - **Conservar:** Mantenga todos los datos, números, orden, jerarquía y relaciones exactamente como se proporcionaron.
 - **Cambio:** Cambie la iconografía, el diseño, la codificación de colores, la agrupación visual y el énfasis.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Cree una imagen de portada horizontal que refleje con precisión el tema del artículo proporcionado.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Imagen original de la persona, producto o material del evento involucrado en el artículo: opcional (la imagen del encabezado debe presentar la persona, producto o material del evento específico en el artículo); Tema del artículo: obligatorio
 - **Preservar:** Mantenga fieles a las personas, los productos, los eventos y los elementos de la marca suministrados.
 - **Cambio:** Cambia la metáfora visual, la composición, el fondo, la paleta y el tratamiento editorial.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Coloque una captura de pantalla de una aplicación real en la presentación de un dispositivo específico sin alterar la interfaz.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Captura de pantalla de la interfaz real de la aplicación de destino: obligatoria; Puntos de venta del dispositivo de destino y funciones reales: obligatorios
 - **Preservar:** Mantenga exactos el contenido de las capturas de pantalla y todas las reclamaciones de funciones aprobadas.
 - **Cambiar:** Cambie el marco del dispositivo, el fondo, la composición, la iluminación y el contexto de marketing.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Cree un menú visual a partir de nombres de platos confirmados, precios, categorías y fotografías de comida real opcionales.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** Fotos originales de platos reales — opcional (cuando el menú necesita mostrar los platos reales del restaurante); nombres de platos, precios precisos, categorías: obligatorio
 - **Conservar:** Mantenga exactos todos los datos del menú y la apariencia real del plato.
 - **Cambiar:** Cambie el diseño, el fondo, el sistema decorativo, los recortes de imágenes y la jerarquía.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Cree una presentación de concepto de logotipo original a partir de un resumen de la marca y elementos de identidad existentes opcionales.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Aportaciones:** Logotipo de marca original y recursos de identidad: opcional (al explorar extensiones de logotipo para una marca existente en lugar de crear una desde cero); Nombre de marca, posicionamiento de marca, público objetivo: obligatorio
 - **Conservar:** Conservar la marca exacta y los activos de identidad suministrados; evitar marcas de terceros.
 - **Cambiar:** Cambie las ideas de los símbolos, la dirección de las letras, la geometría, el color y la presentación.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Represente el texto exacto suministrado como un tratamiento de título decorativo.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Especificar plantilla de glifo o efecto de material: opcional (cuando el arte de la fuente debe seguir el lenguaje de glifo o efecto de material existente); texto y propósito precisos: requerido
 - **Conservar:** Mantenga precisos todos los caracteres, la ortografía, el orden y las referencias de letras proporcionadas.
 - **Cambio:** Cambia el efecto del material, la profundidad, la iluminación, el fondo y el tratamiento ornamental.

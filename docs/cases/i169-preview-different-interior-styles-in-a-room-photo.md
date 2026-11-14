@@ -24,6 +24,7 @@ Preview a new interior style while retaining the photographed room structure.
 | --- | --- | --- | --- |
 | 现有房间照片 | 图片 / Image | 1张；多角色或多视角可合并为一张已标注参考板 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -71,4 +72,4 @@ Check structure and disclose that dimensions, cost, and buildability are unverif
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

@@ -25,6 +25,7 @@ Visualize either an existing-office redesign from a site photo or a text-led wor
 | 办公室现场照片 | 图片 / Image | 1张 | 按条件 / Conditional：改造既有办公室时 |
 | 团队、功能区、品牌和分支说明 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -72,4 +73,4 @@ Check capacity and workflow, then separately verify code, accessibility, and fir
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

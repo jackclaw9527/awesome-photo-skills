@@ -5,7 +5,7 @@
 
 dearsketch organisiert „Welche Bilder möchte ich vervollständigen?“ in einem durchsuchbaren Anforderungsverzeichnis. Für jede Anforderung gibt es eine unabhängige Seite, auf der der Zweck, die erforderlichen Materialien und die Ergebnisanforderungen erläutert werden. Benutzer gelangen über die entsprechende Seite in den Produktionsprozess.
 
-In dieser Beschreibung werden die Verantwortlichkeiten und der Datenfluss des Moduls beschrieben. Die öffentliche Inhaltsbibliothek, die Website-Dienste und die generierten Modelle übernehmen jeweils unterschiedliche Aufgaben; Dieses Lager bietet öffentliche Fälle, 50 neu bearbeitete Vorlagen und Agent Skill, und die Online-Produktion erfolgt auf der Website.
+In dieser Beschreibung werden die Verantwortlichkeiten und der Datenfluss des Moduls beschrieben. Die öffentliche Inhaltsbibliothek, die Website-Dienste und die generierten Modelle übernehmen jeweils unterschiedliche Aufgaben; Dieses Lager bietet öffentliche Fälle, 100 neu bearbeitete Vorlagen und Agent Skill, und die Online-Produktion erfolgt auf der Website.
 
 ## Benutzerpfad
 

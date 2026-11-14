@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-फ़ीचर्ड कैटलॉग के बाहर 11 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
+फ़ीचर्ड कैटलॉग के बाहर 9 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
 
 [अधिक केस कैटलॉग पर लौटें](./index.md) · [वेयरहाउस होमपेज पर लौटें](../../../README.hi.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · यूट्यूब चैनल या लाइव प्रसारण अवतार तैयार करें
-
-<table>
-<thead><tr><th width="50%">संदर्भ सामग्री</th><th width="50%">परिणामों का उदाहरण</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>लोगों की तस्वीरें या मौजूदा पात्रों के चित्र</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="यूट्यूब चैनल या लाइव प्रसारण अवतार तैयार करें - संदर्भ सामग्री 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/hi/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="यूट्यूब चैनल या लाइव अवतार बनाएं - उदाहरण परिणाम" width="340"></a></td></tr></tbody>
-</table>
-
-- **इनपुट प्रकार:** इसमें संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं
-- **सामग्री आवश्यकताएँ:** 0 या 1 व्यक्ति की तस्वीरें या मौजूदा चरित्र चित्र + 1 चैनल थीम
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta) बनाएं
-
----
-
 ## I055 · डेटिंग ऐप्स के लिए प्राकृतिक और आकर्षक अवतार बनाएं
 
 <table>
@@ -81,20 +66,6 @@
 - **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
 
 [ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta) बनाएं
-
----
-
-## I057 · टेक्स्ट के आधार पर कस्टम इमोजी बनाएं
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="टेक्स्ट से कस्टम इमोजी बनाएं - उदाहरण परिणाम" width="340"></a></p>
-<p>यह उदाहरण टेक्स्ट इनपुट है, कोई चित्र संदर्भ संलग्न नहीं है।</p>
-
-- **इनपुट प्रकार:** टेक्स्ट इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है
-- **सामग्री आवश्यकताएँ:** 1 भावना या अर्थ + विषय या प्रतीक विवरण का 1 सेट
-- **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta) बनाएं
 
 ---
 

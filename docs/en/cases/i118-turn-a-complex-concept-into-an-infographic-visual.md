@@ -24,6 +24,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Already have a sketch of the information structure | Picture/Image | 0–1; multiple materials can be combined into one labeled reference board | Optional/Optional: When the user already has a process, hierarchy or relationship sketch |
 | factual content, information structure or relationships | Character / Text | 1 serving | Required / Required |
 
+
 This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
 
 ## Retain and change / Editing brief
@@ -70,4 +71,4 @@ Result direction: Infographic. When exact text, transparent files, vectors or pr
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

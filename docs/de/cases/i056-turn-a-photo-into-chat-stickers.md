@@ -25,6 +25,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Fotos von Menschen, Haustieren oder Gegenständen | Bild/Bild | 1 Stück | Erforderlich / Erforderlich |
 | Die Aktion oder Emotion dieses Aufklebers | Zeichen / Text | 0 oder 1 Artikel | Optional / Optional |
 
+
 Es wird jeweils nur das aktuell ausgewählte Bild generiert. andere Bilder der Serie werden separat ausgeführt.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -71,4 +72,4 @@ Ergebnisrichtung: Chat-Stickerpaket. Wenn exakter Text, transparente Dateien, Ve
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

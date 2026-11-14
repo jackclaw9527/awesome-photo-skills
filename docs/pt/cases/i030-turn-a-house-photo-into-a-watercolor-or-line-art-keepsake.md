@@ -24,6 +24,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | --- | --- | --- | --- |
 | fotos de casa | Foto/Imagem | 1 peça | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -71,4 +72,4 @@ Direção do resultado: retrato da casa. Quando for necessário texto exato, arq
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

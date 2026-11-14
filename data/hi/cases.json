@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "draft",
   "site": "https://dearsketch.com",
-  "caseCount": 50,
+  "caseCount": 100,
   "categories": [
     {
       "id": "pets-family",
@@ -33,6 +33,12 @@
       "name": "रचनात्मकता और दृश्य डिजाइन",
       "englishName": "Creative and visual design",
       "count": 10
+    },
+    {
+      "id": "text-only",
+      "name": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "englishName": "Text to image · No reference needed",
+      "count": 50
     }
   ],
   "cases": [
@@ -43,6 +49,7 @@
       "englishName": "Turn a pet photo into a custom portrait",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 पालतू जानवर का फोटो",
       "roles": [
         {
@@ -89,6 +96,7 @@
       "englishName": "Turn a pet into a royal or historical portrait",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 पालतू जानवर का फोटो",
       "roles": [
         {
@@ -135,6 +143,7 @@
       "englishName": "Place a pet in a playful bathroom or kitchen scene",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 पालतू जानवर का फोटो",
       "roles": [
         {
@@ -181,6 +190,7 @@
       "englishName": "Create a pet memorial portrait",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 पालतू जानवर का फोटो",
       "roles": [
         {
@@ -227,6 +237,7 @@
       "englishName": "Create a family portrait with pets",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "प्रत्येक सदस्य के लिए परिवार के कम से कम 1 सदस्य का फोटो + प्रत्येक पालतू जानवर के लिए कम से कम 1 पालतू जानवर का फोटो",
       "roles": [
         {
@@ -288,6 +299,7 @@
       "englishName": "Turn a couple's photo into anniversary artwork",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 युगल फ़ोटो",
       "roles": [
         {
@@ -334,6 +346,7 @@
       "englishName": "Combine separate family photos into one family portrait",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "पेंटिंग में शामिल प्रत्येक सदस्य की कम से कम 1 तस्वीर + 1 समूह का आकार, पात्रों का संबंध और व्यवस्था",
       "roles": [
         {
@@ -395,6 +408,7 @@
       "englishName": "Create a Christmas or holiday family portrait",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 पारिवारिक फोटो + 1 छुट्टी का नाम या थीम",
       "roles": [
         {
@@ -451,6 +465,7 @@
       "englishName": "Create a wedding portrait or bridal-style photo",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 युगल फ़ोटो",
       "roles": [
         {
@@ -501,6 +516,7 @@
       "englishName": "Create baby milestone or monthly growth photos",
       "group": "pets-family",
       "category": "पालतू जानवर और परिवार स्मारक",
+      "inputMode": "task-specific",
       "inputSummary": "1 बच्चे की फोटो + 1 उम्र या मील का पत्थर",
       "roles": [
         {
@@ -553,6 +569,7 @@
       "englishName": "Create a professional LinkedIn headshot from a selfie",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "मेरा अपना 1 स्पष्ट और मौलिक फोटो",
       "roles": [
         {
@@ -599,6 +616,7 @@
       "englishName": "Replace casual clothing with professional attire",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "कैज़ुअल कपड़े पहने एक व्यक्ति का 1 चित्र",
       "roles": [
         {
@@ -649,6 +667,7 @@
       "englishName": "Turn yourself into a royal, vintage, or historical portrait",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "मेरा अपना 1 स्पष्ट और मौलिक फोटो",
       "roles": [
         {
@@ -699,6 +718,7 @@
       "englishName": "Virtually try on glasses",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "व्यक्ति की 1 सामने की तस्वीर + 1 लक्ष्य चश्मा सामग्री या शैली विवरण",
       "roles": [
         {
@@ -757,6 +777,7 @@
       "englishName": "Preview a tattoo on a body photo",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "चरित्र त्वचा का 1 मूल फ़ोटो + 1 लक्ष्य टैटू डिज़ाइन + 1 टैटू स्थान",
       "roles": [
         {
@@ -824,6 +845,7 @@
       "englishName": "Turn a portrait photo into a cartoon avatar",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "मेरे सिर की 1 साफ़ फ़ोटो",
       "roles": [
         {
@@ -874,6 +896,7 @@
       "englishName": "Turn a portrait photo into an anime character",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "मेरे सिर की 1 साफ़ फ़ोटो",
       "roles": [
         {
@@ -924,6 +947,7 @@
       "englishName": "Turn a person into a packaged action figure",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "एक व्यक्ति का 1 फोटो",
       "roles": [
         {
@@ -970,6 +994,7 @@
       "englishName": "Turn a photo into chat stickers",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "किसी व्यक्ति, पालतू जानवर या वस्तु की 1 तस्वीर + इस स्टिकर से 0 या 1 क्रिया या भावना",
       "roles": [
         {
@@ -1022,6 +1047,7 @@
       "englishName": "Turn a personal or couple photo into a movie poster",
       "group": "people",
       "category": "पात्र और व्यक्तिगत छवि",
+      "inputMode": "task-specific",
       "inputSummary": "किसी व्यक्ति, जोड़े या समूह की आवश्यक मूल फ़ोटो (1 फ़ोटो) + आवश्यक मूल पोस्टर थीम और शीर्षक (1 प्रति) + वैकल्पिक हस्ताक्षर और दिनांक (0 या 1 सेट)",
       "roles": [
         {
@@ -1080,6 +1106,7 @@
       "englishName": "Turn a house photo into a watercolor or line-art keepsake",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "घर की 1 तस्वीर",
       "roles": [
         {
@@ -1130,6 +1157,7 @@
       "englishName": "Preview different interior styles in a room photo",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "मौजूदा कमरे का फोटो → स्थान की संरचना बनाए रखें और शैलियों, फर्नीचर और सामग्रियों को बदलें → वर्तमान सजावट का एकल प्रतिपादन",
       "roles": [
         {
@@ -1180,6 +1208,7 @@
       "englishName": "Create a landscape makeover concept from a yard photo",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "आंगन या बाहरी स्थान की तस्वीरें + उपयोग की आवश्यकताएं, जलवायु या स्थान → पौधे, फ़र्श और सुविधाएं जोड़ें → वर्तमान एकल परिदृश्य प्रतिपादन",
       "roles": [
         {
@@ -1227,6 +1256,7 @@
       "englishName": "Preview wall paint, flooring, and wallpaper",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "इनडोर फोटो + लक्ष्य सामग्री का नमूना + प्रतिस्थापन सतह और लक्ष्य रंग/सामग्री → सतह का रंग और सामग्री बदलें → वर्तमान एकल सामग्री प्रभाव का पूर्वावलोकन",
       "roles": [
         {
@@ -1295,6 +1325,7 @@
       "englishName": "Create an office redesign concept",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "कार्यालय साइट फ़ोटो + टीम, कार्यात्मक क्षेत्र, ब्रांड और शाखा विवरण → कार्यस्थान, बैठक क्षेत्र और ब्रांड स्थान उत्पन्न करें → वर्तमान एकल कार्यालय अवधारणा मानचित्र",
       "roles": [
         {
@@ -1352,6 +1383,7 @@
       "englishName": "Virtually stage an empty property with furniture and decor",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "खाली कमरों की तस्वीरें → अंतरिक्ष के परिप्रेक्ष्य के अनुरूप फर्नीचर तैयार करें → घर का वर्तमान एकल आभासी लेआउट",
       "roles": [
         {
@@ -1398,6 +1430,7 @@
       "englishName": "Turn a casual room photo into a polished property listing image",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "अव्यवस्था वाले कमरे की एक यादृच्छिक तस्वीर → अव्यवस्था हटाएं, कमरे को साफ करें और जगह को वास्तविक रखें → वर्तमान संपत्ति की एक एकल, सुव्यवस्थित बिक्री प्रस्तुति",
       "roles": [
         {
@@ -1444,6 +1477,7 @@
       "englishName": "Create an architectural facade concept from text or a sketch",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "वास्तुशिल्प स्केच या ब्लॉक आरेख + वास्तुशिल्प उपयोग और डिजाइन कीवर्ड → सामग्री, पर्यावरण और प्रकाश उत्पन्न करें → वर्तमान एकल वास्तुशिल्प अवधारणा प्रतिपादन",
       "roles": [
         {
@@ -1497,6 +1531,7 @@
       "englishName": "Turn an interior or architectural sketch into a realistic render",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "आंतरिक या वास्तुशिल्प स्केच/सीएडी वायरफ्रेम + अंतरिक्ष उपयोग और स्केच अर्थ → संरचना और पूरक सामग्री और प्रकाश व्यवस्था को बनाए रखें → वर्तमान एकल यथार्थवादी स्थान प्रतिपादन",
       "roles": [
         {
@@ -1553,6 +1588,7 @@
       "englishName": "Create a mood board for an architecture or interior project",
       "group": "spaces",
       "category": "घर और जगह",
+      "inputMode": "task-specific",
       "inputSummary": "स्थानिक वातावरण और सामग्री संदर्भ बोर्ड + परियोजना प्रकार और कीवर्ड → एक सुसंगत दृश्य दिशा व्यवस्थित करें और उत्पन्न करें → वर्तमान एकल मूड बोर्ड",
       "roles": [
         {
@@ -1610,6 +1646,7 @@
       "englishName": "Turn an ordinary product photo into a white-background listing image",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "मोबाइल फ़ोन से लिया गया 1 उत्पाद फ़ोटो",
       "roles": [
         {
@@ -1660,6 +1697,7 @@
       "englishName": "Create a reusable product PNG with a transparent background",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद फ़ोटो",
       "roles": [
         {
@@ -1710,6 +1748,7 @@
       "englishName": "Place a product in a realistic lifestyle scene",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद सफेद पृष्ठभूमि चित्र",
       "roles": [
         {
@@ -1760,6 +1799,7 @@
       "englishName": "Turn an ordinary photo into a professional studio product shot",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद फ़ोटो",
       "roles": [
         {
@@ -1810,6 +1850,7 @@
       "englishName": "Create Christmas, Black Friday, or seasonal product imagery",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद फोटो + 1 अवकाश या प्रचार थीम",
       "roles": [
         {
@@ -1866,6 +1907,7 @@
       "englishName": "Create commercial photography for food, cakes, pizza, or drinks",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 भोजन फोटो या उत्पाद विवरण",
       "roles": [
         {
@@ -1913,6 +1955,7 @@
       "englishName": "Turn flat-lay clothing into an on-model image",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 कपड़े की टाइल",
       "roles": [
         {
@@ -1963,6 +2006,7 @@
       "englishName": "Show a product being held or used",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद चित्र",
       "roles": [
         {
@@ -2013,6 +2057,7 @@
       "englishName": "Create a product infographic with dimensions, features, and specifications",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "1 उत्पाद फोटो + सटीक आयाम, विक्रय बिंदु और पैरामीटर का 1 सेट",
       "roles": [
         {
@@ -2065,6 +2110,7 @@
       "englishName": "Create a long-form e-commerce detail image from product information",
       "group": "products",
       "category": "कमोडिटी और ई-कॉमर्स",
+      "inputMode": "task-specific",
       "inputSummary": "एक ही उत्पाद की एकाधिक तस्वीरें + विक्रय बिंदुओं का 1 सेट और सटीक कॉपी राइटिंग",
       "roles": [
         {
@@ -2136,6 +2182,7 @@
       "englishName": "Create a YouTube video thumbnail",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "वीडियो चरित्र या थीम ऑब्जेक्ट की मूल छवि + वीडियो थीम या शीर्षक → उच्च-कंट्रास्ट रचना और शीर्षक क्षेत्र उत्पन्न करें → वर्तमान एकल YouTube थंबनेल",
       "roles": [
         {
@@ -2187,6 +2234,7 @@
       "englishName": "Create a promotional poster from a topic and copy",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "इवेंट की मूल मुख्य दृश्य सामग्री + इवेंट का नाम, मुख्य जानकारी, समय और स्थान या भागीदारी विधि → पाठ और छवियों के साथ एक पोस्टर बनाएं → वर्तमान एकल इवेंट पोस्टर",
       "roles": [
         {
@@ -2238,6 +2286,7 @@
       "englishName": "Create a Mother's Day, Black Friday, or holiday sale poster",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "प्रचारक उत्पादों की मूल छवि + त्यौहार या बिक्री नोड, सामान या सेवाएँ, प्रचार संबंधी जानकारी → त्यौहार थीम लागू करें और लेआउट उत्पन्न करें → वर्तमान एकल नोड प्रचार छवि",
       "roles": [
         {
@@ -2295,6 +2344,7 @@
       "englishName": "Create a conference, exhibition, or speaking-event poster",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "वक्ताओं, प्रदर्शकों या प्रदर्शनों की मूल छवियां + घटना का शीर्षक, वक्ता या प्रदर्शक की जानकारी, समय, स्थान या भागीदारी विधि → मानकीकृत कार्यक्रम पोस्टर बनाएं → वर्तमान एकल सम्मेलन पोस्टर",
       "roles": [
         {
@@ -2337,6 +2387,7 @@
       "englishName": "Turn a complex concept into an infographic visual",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "मौजूदा सूचना संरचना स्केच + तथ्यात्मक सामग्री, सूचना संरचना या संबंध → प्रतीक, रचना और दृश्य पदानुक्रम उत्पन्न करें → वर्तमान पत्रक इन्फोग्राफिक",
       "roles": [
         {
@@ -2384,6 +2435,7 @@
       "englishName": "Create a newsletter header or article cover",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "लेख + लेख विषय में शामिल व्यक्ति, उत्पाद या घटना सामग्री की मूल छवि → क्षैतिज कवर और ब्रांडेड चित्र उत्पन्न करें → वर्तमान एकल लेख शीर्षलेख छवि",
       "roles": [
         {
@@ -2431,6 +2483,7 @@
       "englishName": "Create device mockups and app-store promotional images",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "लक्ष्य एप्लिकेशन + लक्ष्य डिवाइस और वास्तविक कार्यात्मक विक्रय बिंदुओं के वास्तविक इंटरफ़ेस के स्क्रीनशॉट → मोबाइल डिवाइस डालें और मार्केटिंग पृष्ठभूमि जोड़ें → वर्तमान एकल ऐप मॉकअप",
       "roles": [
         {
@@ -2483,6 +2536,7 @@
       "englishName": "Create restaurant menu visuals and dish imagery",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "वास्तविक व्यंजनों की मूल तस्वीरें + पकवान के नाम, सटीक कीमतें, श्रेणियां → लेआउट, चित्र और वास्तविक पकवान चित्र उत्पन्न करें → वर्तमान एकल मेनू",
       "roles": [
         {
@@ -2530,6 +2584,7 @@
       "englishName": "Create logo concepts from a brand description",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "मौजूदा ब्रांड लोगो और पहचान परिसंपत्तियां मूल ड्राफ्ट + ब्रांड नाम, ब्रांड स्थिति, लक्षित दर्शक → एकाधिक लोगो दिशानिर्देश उत्पन्न करें → वर्तमान एकल लोगो ड्राफ्ट",
       "roles": [
         {
@@ -2581,6 +2636,7 @@
       "englishName": "Create readable display lettering and title effects",
       "group": "design",
       "category": "रचनात्मकता और दृश्य डिजाइन",
+      "inputMode": "task-specific",
       "inputSummary": "फ़ॉन्ट या सामग्री फ़ॉन्ट प्रभाव टेम्पलेट + सटीक पाठ और उद्देश्य निर्दिष्ट करें → सामग्री और शैली के साथ पाठ उत्पन्न करें → वर्तमान एकल फ़ॉन्ट कला",
       "roles": [
         {
@@ -2624,6 +2680,2222 @@
       ],
       "publicationStatus": "draft",
       "websiteUrl": "https://dearsketch.com/hi/intent/i133-create-readable-display-lettering-and-title-effects.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i133_cta"
+    },
+    {
+      "id": "I054",
+      "title": "टेक्स्ट जेनरेशन चैनल अवतार",
+      "name": "यूट्यूब चैनल या लाइव प्रसारण अवतार बनाएं",
+      "englishName": "Create a profile picture for YouTube or streaming",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सृष्टिकर्ता अवतार",
+      "useCase": "यूट्यूब, लाइव प्रसारण मंच",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "किसी वास्तविक मेज़बान का चित्रण न करें या किसी मौजूदा चरित्र से समानता का दावा न करें।",
+      "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
+      "document": "docs/cases/i054-create-a-profile-picture-for-youtube-or-streaming.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "लोगों की तस्वीरें या मौजूदा पात्रों के चित्र",
+            "file": "assets/cases/i054-before-1.webp",
+            "sha256": "158fd0c5a855731caca41fbfd4311da7d97ca2f20d14d18ad9fcbea32dfabe39"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i054-after.webp",
+          "sha256": "993ae428751bde41666b11ab90ab9bef6fb7e0282c1f8c6b991278e0cf4c1ab8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta"
+    },
+    {
+      "id": "I057",
+      "title": "कस्टम इमोजी",
+      "name": "टेक्स्ट के आधार पर कस्टम इमोजी बनाएं",
+      "englishName": "Create a custom emoji from text",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कस्टम इमोजी",
+      "useCase": "समुदाय, चैट, सामग्री",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "छोटे आकार में अभिव्यक्ति की जाँच करें; प्लेटफ़ॉर्म इमोजी पैकेजिंग एक अलग कदम है।",
+      "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
+      "document": "docs/cases/i057-create-a-custom-emoji-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i057-after.webp",
+          "sha256": "a02888b0c3da700d0577e2d133e58ba9d432db8fb9c4a672b7e10a5fd6ae6122"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta"
+    },
+    {
+      "id": "I100",
+      "title": "परिधान निर्बाध मुद्रण",
+      "name": "कपड़ों के लिए निर्बाध प्रिंट और फैब्रिक पैटर्न तैयार करें",
+      "englishName": "Create seamless prints and fabric patterns for clothing",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कपड़े की छपाई",
+      "useCase": "वस्त्र उत्पादन, पीओडी",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "कपड़े के उत्पादन से पहले सीम, आकस्मिक धारियों और अजीब अंतराल के लिए 3-बाय-3 दोहराव का परीक्षण करें।",
+      "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
+      "document": "docs/cases/i100-create-seamless-prints-and-fabric-patterns-for-clothing.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i100-after.webp",
+          "sha256": "015459b67be436513fb08d0208a00179e9f9202c1b6c4a7c96567cef5cbe9133"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta"
+    },
+    {
+      "id": "I104",
+      "title": "सामाजिक पोस्ट मुख्य दृश्य",
+      "name": "सामाजिक प्लेटफ़ॉर्म के लिए उपयुक्त दैनिक पोस्ट विज़ुअल उत्पन्न करें",
+      "englishName": "Create everyday social media post visuals",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सोशल मीडिया पोस्ट",
+      "useCase": "इंस्टाग्राम, फेसबुक, ज़ियाहोंगशु",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "किसी वास्तविक उत्पाद, प्रशंसापत्र या समाचार घटना का आविष्कार न करें; शीर्षक को प्रूफ़रीड करें.",
+      "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
+      "document": "docs/cases/i104-create-everyday-social-media-post-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i104-after.webp",
+          "sha256": "8605f5086a4db0d9bafac47476a6e6fe97ebabe66c4155275abefb9fe9079749"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta"
+    },
+    {
+      "id": "I109",
+      "title": "इवेंट बैनर",
+      "name": "वेबसाइट, विज्ञापन और इवेंट बैनर तैयार करें",
+      "englishName": "Create a website, advertising, or event banner",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "बैनर",
+      "useCase": "वेबसाइट, प्रदर्शनी, विज्ञापन",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल प्रदत्त अभियान तथ्यों का ही उपयोग करें; छूट, दिनांक या समर्थन का आविष्कार न करें।",
+      "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
+      "document": "docs/cases/i109-create-a-website-advertising-or-event-banner.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i109-after.webp",
+          "sha256": "9e252b20640665af7e76f1e2e58ba58436b06e7b5649849d6f82cc9226c5f307"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta"
+    },
+    {
+      "id": "I113",
+      "title": "पाठ आमंत्रण",
+      "name": "शादी, जन्मदिन या पार्टी के निमंत्रण तैयार करें",
+      "englishName": "Create a wedding, birthday, or party invitation",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "निमंत्रण पत्र",
+      "useCase": "शादियाँ, जन्मदिन, पार्टियाँ",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "किसी भी अनिर्दिष्ट व्यक्तिगत विवरण को छोड़ दें; भेजने से पहले सभी घटना जानकारी को प्रूफ़रीड करें।",
+      "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
+      "document": "docs/cases/i113-create-a-wedding-birthday-or-party-invitation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i113-after.webp",
+          "sha256": "9c6a2e8ed3bd7762404803b9bce913560987fdc52c6dfd0bfb4cdf45fba96bd8"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फोटर फ़ंक्शन सेंटर",
+          "url": "https://www.fotor.com/features/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta"
+    },
+    {
+      "id": "I114",
+      "title": "अवकाश ग्रीटिंग कार्ड",
+      "name": "अवकाश या वैयक्तिकृत ग्रीटिंग कार्ड बनाएं",
+      "englishName": "Create a holiday or personalized greeting card",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "शुभकामना कार्ड",
+      "useCase": "छुट्टियों की शुभकामनाएँ, ग्राहक संबंध",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल अनुरोधित सांस्कृतिक प्रतीकों का उपयोग करें; प्राप्तकर्ता के धर्म या व्यक्तिगत परिस्थितियों के बारे में अनुमान न लगाएं।",
+      "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
+      "document": "docs/cases/i114-create-a-holiday-or-personalized-greeting-card.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "ग्रीटिंग कार्ड वैयक्तिकृत लोगों या पालतू जानवरों की तस्वीरें",
+            "file": "assets/cases/i114-before-1.webp",
+            "sha256": "9348c5cd9e3592e651b71c7a53e775713d2cf6ba0104853f088acf5ac69b90de"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i114-after.webp",
+          "sha256": "87b5021b56fafc10dd6e818d29a7534017a9a26c371c77d4bbbabde92d76684b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta"
+    },
+    {
+      "id": "I116",
+      "title": "कैम्पस इवेंट पोस्टर",
+      "name": "स्कूल कार्यक्रम या पाठ्यक्रम पोस्टर तैयार करें",
+      "englishName": "Create a school event or course poster",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कैम्पस पोस्टर",
+      "useCase": "कैम्पस की गतिविधियाँ, कक्षाएं",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "स्कूल के प्रतीक, स्टाफ की पहचान या अनुमोदन के दावों का आविष्कार न करें; प्रत्येक घटना के तथ्य को सत्यापित करें।",
+      "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
+      "document": "docs/cases/i116-create-a-school-event-or-course-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i116-after.webp",
+          "sha256": "f31f1036aa478020876d3a420917ff3af5cbda2bdd27859797f8aa924ea62faf"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta"
+    },
+    {
+      "id": "I117",
+      "title": "डेमो थीम चित्र",
+      "name": "पीपीटी के लिए थीम-मिलान छवियां बनाएं",
+      "englishName": "Create theme-matched visuals for a presentation",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "चित्रों के साथ पीपीटी",
+      "useCase": "व्यावसायिक प्रस्तुतियाँ, कक्षा रिपोर्टें",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "डेटा या लेबल का आविष्कार न करें; केवल प्रदत्त वैचारिक संबंध दिखाएं।",
+      "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
+      "document": "docs/cases/i117-create-theme-matched-visuals-for-a-presentation.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i117-after.webp",
+          "sha256": "58facce1335e5354d9da6c674ac4a9c5d91f31104ee60e47a2d1dac6dc119268"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta"
+    },
+    {
+      "id": "I120",
+      "title": "वेबसाइट हीरो अवधारणा दृश्य",
+      "name": "वेबसाइट होमपेज हीरो विज़न जेनरेट करें",
+      "englishName": "Create a website homepage hero visual",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "वेबसाइट हीरो छवि",
+      "useCase": "आधिकारिक वेबसाइट होम पेज",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "कोई वास्तविक इंटरफ़ेस, उपयोगकर्ता प्रशंसापत्र या उत्पाद सुविधा न बनाएं; इसे एक ब्रांड अवधारणा रखें.",
+      "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
+      "document": "docs/cases/i120-create-a-website-homepage-hero-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i120-after.webp",
+          "sha256": "bf2a4de3913ebe163cd712c8816c5283dba209a0bb43de65478c815136eaebd3"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta"
+    },
+    {
+      "id": "I122",
+      "title": "पाठ उद्धरण कार्ड",
+      "name": "पाठ के साथ उद्धरण कार्ड और ज्ञान कार्ड बनाएं",
+      "englishName": "Create quote cards and educational cards with text",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "उद्धरण कार्ड",
+      "useCase": "सोशल मीडिया",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "\"[CONFIRMED ATTRIBUTION OR NONE]\" को केवल आपूर्ति के अनुसार ही शामिल करें; उद्धरण स्रोत का आविष्कार न करें.",
+      "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
+      "document": "docs/cases/i122-create-quote-cards-and-educational-cards-with-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i122-after.webp",
+          "sha256": "2a117561d56d40cd09a063e010d079d82562fd1697998eef80f77bd578147516"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta"
+    },
+    {
+      "id": "I127",
+      "title": "नई आइकन शैली",
+      "name": "उत्पाद या इंटरफ़ेस आइकन उत्पन्न करें",
+      "englishName": "Create product or interface icons",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "आइकन संपत्ति",
+      "useCase": "ऐप्स, वेबसाइट, डेमो",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "इसे [TARGET PIXEL SIZE] पर जांचें; यह एक नई दिशा बनाता है और किसी अदृश्य आइकन सिस्टम से मेल नहीं खाता है।",
+      "detailPath": "/intent/i127-create-product-or-interface-icons.html",
+      "document": "docs/cases/i127-create-product-or-interface-icons.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i127-after.webp",
+          "sha256": "7627ac87fc6964bec5d0333339c981336a0a3b316c23ef5a883f0984f83e896b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta"
+    },
+    {
+      "id": "I128",
+      "title": "ज्यामितीय वेक्टर पवन चित्रण",
+      "name": "पाठ से संपादन योग्य वेक्टर चित्र बनाएं",
+      "englishName": "Create an editable vector illustration from text",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "वेक्टर चित्रण",
+      "useCase": "ब्रांड, मुद्रण, वेब पेज",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "रैस्टर पूर्वावलोकन एक संपादन योग्य एसवीजी नहीं है; यदि आवश्यक हो तो वेक्टर संपादक में पथों का निरीक्षण और पुनर्निर्माण करें।",
+      "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
+      "document": "docs/cases/i128-create-an-editable-vector-illustration-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i128-after.webp",
+          "sha256": "d28fa7c7b5cb1eb4d61f849f95c80945a9f69afff4c41e90da3702a0a366be28"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta"
+    },
+    {
+      "id": "I129",
+      "title": "कस्टम गैलरी अवधारणा",
+      "name": "थीम-विशिष्ट कस्टम गैलरी छवियां उत्पन्न करें",
+      "englishName": "Create custom stock imagery for a specific theme",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कस्टम स्टॉक छवि",
+      "useCase": "लेख, विज्ञापन, प्रस्तुतियाँ",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "काल्पनिक लोगों और गैर-ब्रांडेड वस्तुओं का उपयोग करें; किसी वास्तविक घटना या वास्तविक उत्पाद का प्रतिनिधित्व न करें।",
+      "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
+      "document": "docs/cases/i129-create-custom-stock-imagery-for-a-specific-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i129-after.webp",
+          "sha256": "6543306587dd83c34b86ceab0df6185a954720a7d3d5220f4752da7117762827"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta"
+    },
+    {
+      "id": "I134",
+      "title": "नई पैकेजिंग दृश्य अवधारणा",
+      "name": "पैकेजिंग लेबल और बॉक्स आकार के लिए दृश्य अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create packaging label and box concepts",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "पैकेजिंग डिजाइन अवधारणा",
+      "useCase": "नए उत्पाद प्रस्ताव और परीक्षण",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "प्रमाणीकरण, सामग्री या प्रदर्शन का अनुमान न लगाएं; यह कोई डाइलाइन या विनिर्माण फ़ाइल नहीं है.",
+      "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
+      "document": "docs/cases/i134-create-packaging-label-and-box-concepts.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i134-after.webp",
+          "sha256": "8cc806d6d7ced177e8f4141f48b94a9acf1abdde0da55b38dc3e97f2b631304f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta"
+    },
+    {
+      "id": "I135",
+      "title": "ब्रांड पृष्ठभूमि पैटर्न",
+      "name": "दोहराने योग्य पृष्ठभूमि, बनावट और ब्रांडिंग पैटर्न उत्पन्न करें",
+      "englishName": "Create repeatable backgrounds, textures, and brand patterns",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "पैटर्न और बनावट",
+      "useCase": "पैकेजिंग, वेब, प्रिंटिंग",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "यह अनदेखी ब्रांड कलाकृति को संरक्षित करने के बजाय एक नए पैटर्न को परिभाषित करता है; दोहराव का परीक्षण करें.",
+      "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
+      "document": "docs/cases/i135-create-repeatable-backgrounds-textures-and-brand-patterns.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i135-after.webp",
+          "sha256": "5d6f77bbadb952a57ba1c5adf6ce9953993123b0123396eb9ac2805a82f9515a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta"
+    },
+    {
+      "id": "I143",
+      "title": "पाठ्य पुस्तक कवर",
+      "name": "पुस्तक के शीर्षक और सामग्री के आधार पर पुस्तक कवर तैयार करें",
+      "englishName": "Create a book cover from its title and content",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "पुस्तक आवरण",
+      "useCase": "ई-पुस्तकें, कागजी पुस्तकें",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "समर्थन या श्रृंखला ब्रांडिंग का आविष्कार न करें; शीर्षक टाइपोग्राफी और वास्तविक प्रिंट आयामों को अलग से सत्यापित करें।",
+      "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
+      "document": "docs/cases/i143-create-a-book-cover-from-its-title-and-content.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i143-after.webp",
+          "sha256": "2cbcfc06ec66ffa87799fbffdf0013166f0da364e92099170e84873514c6bede"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Canva AI जनरेट किया गया पेज",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta"
+    },
+    {
+      "id": "I146",
+      "title": "नई कैरेक्टर सेट शीट",
+      "name": "चरित्र पत्रक और बहु-कोण दृश्य उत्पन्न करें",
+      "englishName": "Create a character sheet with multiple views",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "चरित्र पत्रक",
+      "useCase": "एनीमेशन, खेल, कहानियाँ",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है। साइट की शर्तें संदर्भ छवि चयन लागू नहीं।",
+      "check": "इससे एक नये चरित्र की स्थापना होती है; दृश्य निरंतरता की जाँच करें और एक अनदेखी मौजूदा पहचान का आविष्कार करने से बचें।",
+      "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
+      "document": "docs/cases/i146-create-a-character-sheet-with-multiple-views.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i146-after.webp",
+          "sha256": "f94946ce3b0bb33397570289229d252cb40f6333acec1d8155347f6711571d07"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "ओपनआर्ट छवि निर्माण",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta"
+    },
+    {
+      "id": "I147",
+      "title": "विश्वदृष्टि अवधारणा कला",
+      "name": "पाठ से मूवी, गेम या विज्ञापन अवधारणा कला उत्पन्न करें",
+      "englishName": "Create concept art for film, games, or advertising from text",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "संकल्पना कला",
+      "useCase": "प्रारंभिक विकास और प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "भूगोल, अग्रभूमि और पृष्ठभूमि को पठनीय बनाएं; मौजूदा फ्रैंचाइज़ परिसंपत्तियों के बजाय मूल डिज़ाइन का उपयोग करें।",
+      "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
+      "document": "docs/cases/i147-create-concept-art-for-film-games-or-advertising-from-text.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i147-after.webp",
+          "sha256": "f90d9e2297c50f0ed281778f68f0206bdd8f64fbdcd818bd62951528219c1f87"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "ओपनआर्ट छवि निर्माण",
+          "url": "https://openart.ai/ai-image-generator/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta"
+    },
+    {
+      "id": "I150",
+      "title": "वयस्क रंग पेज",
+      "name": "बैच वयस्क रंग भरने वाली किताबों के पन्ने तैयार करता है",
+      "englishName": "Create adult coloring book pages in batches",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "वयस्क रंग भरने वाली किताब",
+      "useCase": "Etsy, KDP",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "टूटी हुई लाइनें, न भरने योग्य स्लिवर्स और प्रिंट मार्जिन की जांच करें; यह रन एक पेज देता है, पूरी किताब नहीं।",
+      "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
+      "document": "docs/cases/i150-create-adult-coloring-book-pages-in-batches.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i150-after.webp",
+          "sha256": "af0a6adec0734f8cbb8f6d359a4008c6eb9056e899594e43a89d3a27d0030af5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI कलरिंग बुक",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta"
+    },
+    {
+      "id": "I151",
+      "title": "आयु-उपयुक्त पाठ्यपुस्तकों के लिए चित्र",
+      "name": "शिक्षण सामग्री या कार्यपत्रकों के लिए आयु-उपयुक्त चित्र बनाएं",
+      "englishName": "Create age-appropriate illustrations for textbooks or worksheets",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "शैक्षिक चित्रण",
+      "useCase": "कक्षा, शिक्षण सामग्री",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "असमर्थित वैज्ञानिक तथ्य या लेबल न जोड़ें; एक शिक्षक से अवधारणा और आयु उपयुक्तता की जाँच करवाएँ।",
+      "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
+      "document": "docs/cases/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i151-after.webp",
+          "sha256": "5f9b36c0e078ce47abce0b974ba479e3554504a64a17931b348251a3a72f0872"
+        }
+      },
+      "demandReferences": [],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta"
+    },
+    {
+      "id": "I152",
+      "title": "सांस्कृतिक कहानी चित्रण",
+      "name": "धार्मिक कहानियाँ, ऐतिहासिक या सांस्कृतिक थीम वाले चित्र बनाएं",
+      "englishName": "Create religious, historical, or cultural illustrations",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सांस्कृतिक कथा चित्रण",
+      "useCase": "प्रकाशन, शिक्षा, कार्यक्रम",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "अनिर्दिष्ट ऐतिहासिक विवरणों को कम करके रखें; इसे एक व्याख्या के रूप में पहचानें और सांस्कृतिक सटीकता की अलग से जाँच करें।",
+      "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
+      "document": "docs/cases/i152-create-religious-historical-or-cultural-illustrations.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i152-after.webp",
+          "sha256": "6d8730a65b421783cd2e22d59e27ad0c9b019776821be9283d948c733cd1272f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta"
+    },
+    {
+      "id": "I154",
+      "title": "लेख अवधारणा चित्रण",
+      "name": "लेखों, पत्रिकाओं और रिपोर्टों के लिए अवधारणा चित्रण तैयार करें",
+      "englishName": "Create editorial illustrations for articles, magazines, and reports",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "संपादकीय चित्रण",
+      "useCase": "मीडिया, रिपोर्ट",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "काल्पनिक कार्यों को तथ्यात्मक घटनाओं के रूप में चित्रित न करें या वास्तविक लोगों के चित्रों का आविष्कार न करें।",
+      "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
+      "document": "docs/cases/i154-create-editorial-illustrations-for-articles-magazines-and-reports.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i154-after.webp",
+          "sha256": "2619f24d13b94e891053cde5d58c2e31a47cf8e37f82d5aca289a1972bdf8997"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta"
+    },
+    {
+      "id": "I155",
+      "title": "संगीत रिलीज़ कवर",
+      "name": "एल्बम कवर और संगीत रिलीज़ विज़ुअल तैयार करें",
+      "englishName": "Create album cover art and music-release visuals",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "एल्बम कवर",
+      "useCase": "संगीत मंच, प्रचार",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल \"[EXACT TITLE AND ARTIST OR NO TEXT]\" जोड़ें; किसी समानता का आविष्कार न करें या किसी वास्तविक कलाकार के समर्थन का दावा न करें।",
+      "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
+      "document": "docs/cases/i155-create-album-cover-art-and-music-release-visuals.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मूल कलाकार फ़ोटो",
+            "file": "assets/cases/i155-before-1.webp",
+            "sha256": "6a6bb192a92ed9fa5a7e6dd3ded31ee13732f3bc08780437e0a5cb932ae3434d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i155-after.webp",
+          "sha256": "8225681c4c33302e5040e905a500e79823dc0ef56a56bd75672800080c2ae3f6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta"
+    },
+    {
+      "id": "I156",
+      "title": "मूल टी-शर्ट ग्राफ़िक",
+      "name": "मुद्रण योग्य टी-शर्ट ग्राफिक्स उत्पन्न करें",
+      "englishName": "Create a print-ready T-shirt design",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "टी-शर्ट की छपाई",
+      "useCase": "पीओडी दुकान, इवेंट परिधीय",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "परिधान मॉकअप के बिना कलाकृति दिखाएं; उत्पादन से पहले रिज़ॉल्यूशन, स्याही सीमा और फ़ाइल पारदर्शिता को सत्यापित करें।",
+      "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
+      "document": "docs/cases/i156-create-a-print-ready-t-shirt-design.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i156-after.webp",
+          "sha256": "7e9e610afde406e9533edaca7660979ab65f258c38c12cd4a96c441818e86b35"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        },
+        {
+          "label": "एडोब टी-शर्ट डिज़ाइन",
+          "url": "https://www.adobe.com/products/firefly/features/ai-graphic-design-generator/custom-t-shirt-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta"
+    },
+    {
+      "id": "I157",
+      "title": "मूल स्टिकर डिज़ाइन",
+      "name": "थीम वाले स्टिकर सेट तैयार करें",
+      "englishName": "Create a themed sticker set",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "स्टीकर पैक",
+      "useCase": "Etsy, सांस्कृतिक और रचनात्मक",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल एक स्टिकर वितरित करें; यह मानने के बजाय कि पूर्वावलोकन प्रिंट के लिए तैयार है, अल्फा को सत्यापित करें और रूपरेखा को अलग से काटें।",
+      "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
+      "document": "docs/cases/i157-create-a-themed-sticker-set.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i157-after.webp",
+          "sha256": "366e082ff8bd8d80d74e0abbdc6c372f4c6cc03466d480b2952ef5d0c2fb9632"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta"
+    },
+    {
+      "id": "I158",
+      "title": "चरित्र दीवार पेंटिंग",
+      "name": "मुद्रण योग्य दीवार कला और सजावटी कला उत्पन्न करें",
+      "englishName": "Create printable wall art and decorative artwork",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "दीवार कला",
+      "useCase": "Etsy, गृह सज्जा",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "किसी व्यक्तिगत स्मृति या वास्तविक स्थान का आविष्कार न करें; मुद्रण से पहले वितरित पिक्सेल, क्रॉप और प्रिंट प्रूफ़ की जाँच करें।",
+      "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
+      "document": "docs/cases/i158-create-printable-wall-art-and-decorative-artwork.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i158-after.webp",
+          "sha256": "5e38b9fb94f8bd68300bcb4f089429fc1a4cf044f03e40543e43316080b87485"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "Etsy AI दीवार कला",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta"
+    },
+    {
+      "id": "I159",
+      "title": "वैयक्तिकृत वॉलपेपर",
+      "name": "मोबाइल फोन या डेस्कटॉप के लिए वैयक्तिकृत वॉलपेपर बनाएं",
+      "englishName": "Create a personalized phone or desktop wallpaper",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "वॉलपेपर",
+      "useCase": "मोबाइल फ़ोन, डेस्कटॉप",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "वास्तविक डिवाइस क्रॉप और आइकन पठनीयता की जांच करें; किसी वास्तविक व्यक्ति या प्रदत्त फोटो की आवश्यकता नहीं है।",
+      "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
+      "document": "docs/cases/i159-create-a-personalized-phone-or-desktop-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i159-after.webp",
+          "sha256": "417a0df16163806c28f37213c710b0c30afd08b816086047303156b9a17c5109"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta"
+    },
+    {
+      "id": "I160",
+      "title": "कढ़ाई शैली पैटर्न अवधारणा",
+      "name": "टेक्स्ट या चित्रों को कढ़ाई पैटर्न दिशाओं में बदलें",
+      "englishName": "Turn text or an image into an embroidery design direction",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कढ़ाई डिजाइन",
+      "useCase": "कपड़े, बैज, हस्तशिल्प",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है। वेबसाइट के लिए केवल-टेक्स्ट थीम शाखा चुनें।",
+      "check": "यह एक दृश्य आकृति है, डिजीटल सिलाई निर्देश नहीं; सिलाई गिनती, घनत्व और मशीन फ़ाइलों को अलग-अलग काम की आवश्यकता होती है।",
+      "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
+      "document": "docs/cases/i160-turn-text-or-an-image-into-an-embroidery-design-direction.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "फोटो या मूल लोगो",
+            "file": "assets/cases/i160-before-1.webp",
+            "sha256": "bc47fd8fdd15534fccf3b793f81bd83ec06ecca8755e98c9008a505b60f87f61"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i160-after.webp",
+          "sha256": "fa554ac3b0cc37b35a46aec0522362c00e13be56ee338a059c3bc99f325f2953"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta"
+    },
+    {
+      "id": "I161",
+      "title": "मूल टैटू स्केच",
+      "name": "थीम के आधार पर कस्टम टैटू स्केच बनाएं",
+      "englishName": "Create a custom tattoo sketch from a theme",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "टैटू डिजाइन ड्राफ्ट",
+      "useCase": "टैटू परामर्श",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "वर्तनी और प्रतीक अर्थ की जाँच करें; एक टैटू कलाकार से लाइन स्पेसिंग और व्यावहारिक प्लेसमेंट का आकलन करवाएं।",
+      "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
+      "document": "docs/cases/i161-create-a-custom-tattoo-sketch-from-a-theme.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i161-after.webp",
+          "sha256": "247acbe783240c095f9680a97659c0a75d9584182778965efba966bec1a602b1"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        },
+        {
+          "label": "पिक्सआर्ट एआई उपकरण",
+          "url": "https://picsart.com/ai/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta"
+    },
+    {
+      "id": "I163",
+      "title": "टोट बैग या फोन केस पैटर्न",
+      "name": "हैंडबैग या मोबाइल फोन केस के लिए वैयक्तिकृत पैटर्न बनाएं",
+      "englishName": "Create personalized artwork for a tote bag or phone case",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "उत्पाद पैटर्न",
+      "useCase": "पीओडी, अनुकूलित उपहार",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "कलाकृति वितरित करें, उत्पाद मॉकअप नहीं; सटीक फिट के लिए निर्माता के टेम्पलेट और प्रिंट प्रूफ की आवश्यकता होती है।",
+      "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
+      "document": "docs/cases/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i163-after.webp",
+          "sha256": "c3a129d50971a2910705987b16daea77a8ff65f08aaf661b1c2e15f6f462951e"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI पालतू चित्र",
+          "url": "https://www.etsy.com/market/ai_pet_portrait"
+        },
+        {
+          "label": "Etsy AI मॉकअप",
+          "url": "https://www.etsy.com/market/ai_generated_mockups"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta"
+    },
+    {
+      "id": "I164",
+      "title": "अवकाश श्रृंखला ग्रीटिंग कार्ड पत्रक",
+      "name": "बिक्री योग्य अवकाश कार्ड पैकेज तैयार करें",
+      "englishName": "Create a sellable set of holiday greeting cards",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "मुद्रण योग्य ग्रीटिंग कार्ड",
+      "useCase": "Etsy, ब्रांडेड उपहार",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल यह प्रविष्टि बनाएँ; बाद के कार्डों को शैली में समान रखने के लिए इन लिखित नियमों का पुन: उपयोग करने और श्रृंखला की समीक्षा करने की आवश्यकता होती है।",
+      "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
+      "document": "docs/cases/i164-create-a-sellable-set-of-holiday-greeting-cards.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i164-after.webp",
+          "sha256": "574d8facd70daad8f3111f5b1217d090956f58f05ee8fcd8245fdb47b106eb77"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "कटआउट.प्रो",
+          "url": "https://www.cutout.pro/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta"
+    },
+    {
+      "id": "I165",
+      "title": "सजावटी निर्बाध पैटर्न",
+      "name": "कपड़े, रैपिंग पेपर और वॉलपेपर के लिए निर्बाध पैटर्न बनाएं",
+      "englishName": "Create seamless patterns for fabric, wrapping paper, or wallpaper",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "निर्बाध पैटर्न",
+      "useCase": "कपड़ा, पैकेजिंग, घरेलू साज-सज्जा",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "इच्छित भौतिक पैमाने पर बार-बार ग्रिड का निरीक्षण करें; प्रमाणित उत्पादन तत्परता का दावा न करें।",
+      "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
+      "document": "docs/cases/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i165-after.webp",
+          "sha256": "5c7a0af7d23c35554a0e2d4797fbc9f46e294d112ff3419e4fd7d46124f00a0f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta"
+    },
+    {
+      "id": "I166",
+      "title": "कटिंग लाइन ड्राइंग अवधारणा",
+      "name": "क्रिकट या लेजर कटिंग के लिए उपयुक्त वेक्टर लाइन आर्ट तैयार करें",
+      "englishName": "Create vector line art for Cricut or laser cutting",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "एसवीजी कटिंग फ़ाइल",
+      "useCase": "क्रिकट, लेजर कटिंग",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "छवि एक प्रारूपण संदर्भ है, निष्पादन योग्य कट फ़ाइल नहीं; कटिंग सॉफ़्टवेयर में वेक्टर पथों का पुनर्निर्माण और परीक्षण करें।",
+      "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
+      "document": "docs/cases/i166-create-vector-line-art-for-cricut-or-laser-cutting.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "मूल छवि परिवर्तित की जानी है",
+            "file": "assets/cases/i166-before-1.webp",
+            "sha256": "5b60ae3103e34ad380bda35d2a76249784ccd6477ba1df4e38680629e06f4bb1"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i166-after.webp",
+          "sha256": "89468bba6e49bc2ef3f2c701174a050eda37eeb8fd1853352560e17d72b294d2"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI दीवार कला",
+          "url": "https://www.etsy.com/market/ai_wall_art"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta"
+    },
+    {
+      "id": "I167",
+      "title": "बच्चों की रंग भरने वाली किताब का एक पेज",
+      "name": "केडीपी कलरिंग बुक के लिए पृष्ठों और कवरों का एक पूरा सेट तैयार करें",
+      "englishName": "Create a complete KDP coloring book with pages and a cover",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "केडीपी रंग भरने वाली किताब",
+      "useCase": "अमेज़न केडीपी",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "इस दौड़ में कोई कवर, पेज ग्रिड या पूरी किताब नहीं; आयु उपयुक्तता, लाइन निरंतरता और प्रिंट आयामों की समीक्षा करें।",
+      "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
+      "document": "docs/cases/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i167-after.webp",
+          "sha256": "bff8b4fb1ad7eebdf3be0a956ba5e94040f8b14eae067879134a90a164c42cf0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "Etsy AI कलरिंग बुक",
+          "url": "https://www.etsy.com/market/ai_coloring_book"
+        },
+        {
+          "label": "स्टेलर चिल्ड्रन स्टोरीबुक",
+          "url": "https://www.usestelar.com/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta"
+    },
+    {
+      "id": "I168",
+      "title": "पोस्टर विजुअल प्रिंट करें",
+      "name": "उच्च-रिज़ॉल्यूशन वाले मुद्रण योग्य पोस्टर बनाएं",
+      "englishName": "Create a high-resolution printable poster",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "प्रिंट-तैयार पोस्टर",
+      "useCase": "प्रदर्शनियाँ, दीवारें, कार्यक्रम",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "वास्तविक पिक्सेल आयाम, टाइपोग्राफी, ब्लीड और एक भौतिक प्रमाण की जाँच करें; केवल संकेत देना ही प्रिंट रिज़ॉल्यूशन की गारंटी नहीं दे सकता।",
+      "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
+      "document": "docs/cases/i168-create-a-high-resolution-printable-poster.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i168-after.webp",
+          "sha256": "e8518bbcc1362cca6945c70a5969bbb2bd0e7524271f1b8e6e2e0ff4bb8a68a6"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta"
+    },
+    {
+      "id": "I173",
+      "title": "व्यावसायिक स्थान के लिए नई डिज़ाइन दिशा",
+      "name": "रेस्तरां, स्टोर या शोरूम डिज़ाइन दिशानिर्देश तैयार करें",
+      "englishName": "Create design directions for a restaurant, shop, or showroom",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "वाणिज्यिक अंतरिक्ष अवधारणा मानचित्र",
+      "useCase": "स्टोर खोलना, नवीनीकरण, प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "बिना किसी साइट फोटो के यह एक काल्पनिक अंतरिक्ष अवधारणा है, न कि किसी वास्तविक संपत्ति या निर्माण योजना में कोई बदलाव।",
+      "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
+      "document": "docs/cases/i173-create-design-directions-for-a-restaurant-shop-or-showroom.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "व्यावसायिक अंतरिक्ष दृश्य का मूल चित्र",
+            "file": "assets/cases/i173-before-1.webp",
+            "sha256": "8f623b91bcaf5e68e8f55a74e7e3ffd9b36ba6387782f2117df3bc06cff4a74b"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i173-after.webp",
+          "sha256": "6f1b2fdb3fdd3bcec5a9ec10770be99ace4912f9d03b905b42100b3f44effffd"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एडोब रूम डिज़ाइन",
+          "url": "https://www.adobe.com/products/firefly/features/ai-room-design.html"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta"
+    },
+    {
+      "id": "I185",
+      "title": "उत्पाद स्टाइलिंग में नई दिशा",
+      "name": "मांग विवरण से अनेक उत्पाद स्टाइल निर्देश तैयार करें",
+      "englishName": "Create multiple product form directions from a brief",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "उत्पाद अवधारणा समूह",
+      "useCase": "विचार-मंथन और प्रारंभिक डिजाइन",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "प्रति रन एक दिशा चुनें; किसी अदृश्य मौजूदा उत्पाद के यांत्रिक सत्यापन या संरक्षण का दावा न करें।",
+      "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
+      "document": "docs/cases/i185-create-multiple-product-form-directions-from-a-brief.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i185-after.webp",
+          "sha256": "f2d99f2180dfabb1b736be8884befe00795e2193ef3c53f068d589fbdaa88918"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta"
+    },
+    {
+      "id": "I187",
+      "title": "पाठ कार आकार",
+      "name": "पाठ या रेखाचित्रों से कार स्टाइलिंग अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create a car design concept from text or a sketch",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कार अवधारणा चित्रण",
+      "useCase": "डिज़ाइन अन्वेषण, सामग्री",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "यह एक बाहरी अवधारणा है, मान्य वायुगतिकी, इंजीनियरिंग या किसी अनदेखे वास्तविक मॉडल का नया स्वरूप नहीं।",
+      "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
+      "document": "docs/cases/i187-create-a-car-design-concept-from-text-or-a-sketch.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "कार स्केच या बॉडी संदर्भ मूल ड्राइंग",
+            "file": "assets/cases/i187-before-1.webp",
+            "sha256": "015edd8d00dd90e1907df8f18220f543d4694e7b7b0ccd8d9791d2e5a53811cc"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i187-after.webp",
+          "sha256": "6fefebe2c3ea4fbcebca351ad1dcc9919debad9d4ce7e294c52d7e028efd607a"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "छवि के लिए ओपनआर्ट स्केच",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta"
+    },
+    {
+      "id": "I189",
+      "title": "जूता बैग सहायक उपकरण डिजाइन",
+      "name": "जूता, बैग और सहायक उपकरण डिज़ाइन अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create design concepts for shoes, bags, and accessories",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "सहायक उपकरण अवधारणा ड्राइंग",
+      "useCase": "श्रृंखला डिज़ाइन और प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "ब्रांड चिन्हों का आविष्कार न करें या फिट, मजबूती या विनिर्माण क्षमता का वादा न करें; भौतिक प्रोटोटाइप के विरुद्ध उनकी समीक्षा करें।",
+      "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
+      "document": "docs/cases/i189-create-design-concepts-for-shoes-bags-and-accessories.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "जूते और बैग के सामान का मूल स्केच",
+            "file": "assets/cases/i189-before-1.webp",
+            "sha256": "beef87e21fb9b63b1ff09dabe268f525e5a2a511c7838a5de4af145ebae2c7cd"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i189-after.webp",
+          "sha256": "8c6c04b616b6fc768100f913cca8e60e5adc3fa8e86eab94c211560407dc2a56"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "छवि के लिए ओपनआर्ट स्केच",
+          "url": "https://openart.ai/generator/sketch/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta"
+    },
+    {
+      "id": "I190",
+      "title": "पैकेजिंग संरचना और प्रदर्शन अवधारणाएँ",
+      "name": "विभिन्न पैकेजिंग संरचनाओं और शेल्फ प्रभावों का शीघ्र पता लगाएं",
+      "englishName": "Explore packaging structures and shelf presence",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "पैकेजिंग अवधारणा मानचित्र",
+      "useCase": "नए उत्पाद पर निर्णय लेना और परीक्षण करना",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है। साइट की शर्तें संदर्भ छवि चयन लागू नहीं।",
+      "check": "बार-बार पैक को लगातार बनाए रखें; परीक्षणित डाइलाइन, शेल्फ लोड रेटिंग या वास्तविक स्टॉक किए गए उत्पाद का संकेत न दें।",
+      "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
+      "document": "docs/cases/i190-explore-packaging-structures-and-shelf-presence.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद, लोगो और वास्तविक पैकेजिंग कॉपी राइटिंग",
+            "file": "assets/cases/i190-before-1.webp",
+            "sha256": "200267d2e135f7d97c2311cf2ab0bffe7da0a762fc839a67afb650a35f0fa00d"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i190-after.webp",
+          "sha256": "eb063e79165c04c9866dc9093a5d2021f6d7ffcd84cb0b0efce7340883a7f493"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta"
+    },
+    {
+      "id": "I191",
+      "title": "आभासी उत्पाद प्रोटोटाइप",
+      "name": "भौतिक वस्तुएँ बनाने से पहले प्रदर्शित करने योग्य उत्पाद प्रोटोटाइप तैयार करें",
+      "englishName": "Create a presentation-ready product prototype image before production",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "आभासी उत्पाद प्रोटोटाइप",
+      "useCase": "वित्तपोषण, उपयोगकर्ता साक्षात्कार, क्राउडफंडिंग",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "यह केवल लिखित संक्षिप्त की कल्पना करता है; यह आंतरिक इंजीनियरिंग, सुरक्षा या वास्तविक दुनिया के प्रदर्शन को स्थापित नहीं करता है।",
+      "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
+      "document": "docs/cases/i191-create-a-presentation-ready-product-prototype-image-before-production.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [
+          {
+            "label": "उत्पाद स्केच या संरचनात्मक पांडुलिपि",
+            "file": "assets/cases/i191-before-1.webp",
+            "sha256": "0bdb574406864f5123718ba2ad445200a2059d3bf45cf5da4d4d55c2bf70e19f"
+          }
+        ],
+        "result": {
+          "file": "assets/cases/i191-after.webp",
+          "sha256": "18d37e69528418bc2768aaa026ee92f7be22bcf6400caf1202a3a6b470985f8f"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "छवि के लिए ओपनआर्ट स्केच",
+          "url": "https://openart.ai/generator/sketch/"
+        },
+        {
+          "label": "इनमाइंड उत्पाद फोटोग्राफी",
+          "url": "https://www.insmind.com/image-tools/ai-product-photography"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta"
+    },
+    {
+      "id": "I193",
+      "title": "त्रि-आयामी शैली उत्पाद अवधारणा मानचित्र",
+      "name": "उत्पादों के स्थिर दृश्यों का 3डी रेंडरिंग तैयार करें",
+      "englishName": "Create a 3D-render-style product visual",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "3डी शैली उत्पाद छवियां",
+      "useCase": "विज्ञापन, प्रस्ताव",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "यह एक काल्पनिक उत्पाद विज़ुअलाइज़ेशन और एक सपाट छवि है, न कि किसी मौजूदा आइटम की तस्वीर या डाउनलोड करने योग्य 3डी मॉडल।",
+      "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
+      "document": "docs/cases/i193-create-a-3d-render-style-product-visual.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i193-after.webp",
+          "sha256": "92be8d810954b8d5b8815cbe75f17202555d737558ba3980f4e1d4287766e66b"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "Canva AI जनरेट किया गया पेज",
+          "url": "https://www.canva.com/help/ai-tools-pages/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta"
+    },
+    {
+      "id": "I194",
+      "title": "मूल 2डी स्प्राइट",
+      "name": "टेक्स्ट या संदर्भ छवियों से 2डी गेम स्प्राइट उत्पन्न करें",
+      "englishName": "Create a 2D game sprite from text or a reference image",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "खेल स्प्राइट",
+      "useCase": "प्रोटोटाइपिंग और गेम उत्पादन",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "केवल एक मुद्रा बनाएं; वास्तविक अल्फा चैनल, पिक्सेल आयाम और गेम-इंजन आयात को अलग से सत्यापित करें।",
+      "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
+      "document": "docs/cases/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i194-after.webp",
+          "sha256": "6c56dc6d46316a0736eab168acddba614272f784519138794b5b2f1c15a9684d"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एकता स्प्राइट पीढ़ी",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        },
+        {
+          "label": "लूडो.एआई गेम संपत्तियां",
+          "url": "https://ludo.ai/docs/game-asset-generation"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta"
+    },
+    {
+      "id": "I196",
+      "title": "टेक्स्ट पिक्सेल संपत्ति",
+      "name": "छवियों या विवरणों को पिक्सेल शैली गेम संपत्तियों में परिवर्तित करें",
+      "englishName": "Turn an image or description into pixel-art game assets",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "पिक्सेल आर्टएसेट",
+      "useCase": "रेट्रो गेम, प्रोटोटाइप",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "किसी अनदेखी तस्वीर का रूपांतरण या नकल न करें; गेम के उपयोग से पहले मूल आकार में वास्तविक पिक्सेल ग्रिड की जाँच करें।",
+      "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
+      "document": "docs/cases/i196-turn-an-image-or-description-into-pixel-art-game-assets.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i196-after.webp",
+          "sha256": "79b1cd9349befff01f211b21412e5c20589f3bdfc4d863c447fd08823edfd4f4"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "एकता स्प्राइट पीढ़ी",
+          "url": "https://unity.com/blog/unity-ai-sprite-generator"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta"
+    },
+    {
+      "id": "I197",
+      "title": "खेल चरित्र और पोशाक अवधारणाएँ",
+      "name": "खेल चरित्र अवधारणाएँ और पोशाक दिशा-निर्देश उत्पन्न करें",
+      "englishName": "Create game character concepts and outfit directions",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "चरित्र अवधारणा कला",
+      "useCase": "प्रारंभिक खेल विकास",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "लिखित संक्षिप्त से नए चरित्र डिज़ाइन का उपयोग करें; किसी अदृश्य मौजूदा चरित्र के साथ निरंतरता का दावा न करें।",
+      "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
+      "document": "docs/cases/i197-create-game-character-concepts-and-outfit-directions.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i197-after.webp",
+          "sha256": "99a0c192812913032553fa8f263a8932720235c648a1b033a84690391582ab65"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "ओपनआर्ट छवि निर्माण",
+          "url": "https://openart.ai/ai-image-generator/"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta"
+    },
+    {
+      "id": "I198",
+      "title": "बोर्ड गेम चरित्र चित्र",
+      "name": "डीएनडी या टेबलटॉप गेम कैरेक्टर पोर्ट्रेट जेनरेट करें",
+      "englishName": "Create a D&D or tabletop character portrait",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "डीएनडी चरित्र मानचित्र",
+      "useCase": "रनिंग ग्रुप, कैरेक्टर कार्ड",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "शरीर रचना विज्ञान और उपकरण को सुसंगत रखें; खिलाड़ी के फोटो की आवश्यकता के बिना एक नई काल्पनिक पहचान बनाएं।",
+      "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
+      "document": "docs/cases/i198-create-a-d-and-d-or-tabletop-character-portrait.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i198-after.webp",
+          "sha256": "68514597158e26c61f2760b6a5b73cb351854dccfed067a713849bcd48ffe1c0"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta"
+    },
+    {
+      "id": "I201",
+      "title": "गेम प्रॉप्स अवधारणा",
+      "name": "हथियार, प्रॉप्स और पिकअप अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create concepts for weapons, props, and pickups",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "गेम प्रॉप्स मानचित्र",
+      "useCase": "प्रोप सिस्टम, अवधारणा चरण",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "इसे [ON-SCREEN SIZE] पर पठनीय रखें; एक अवधारणा छवि कोई उत्पादन जाल या इंजीनियरिंग ड्राइंग नहीं है।",
+      "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
+      "document": "docs/cases/i201-create-concepts-for-weapons-props-and-pickups.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i201-after.webp",
+          "sha256": "20b578c21c1cd8608db77d40ccc78918c0d26a053ca7ea56b230c59332b50aa5"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta"
+    },
+    {
+      "id": "I202",
+      "title": "खेल के दृश्य और स्थलचिह्न",
+      "name": "खेल की पृष्ठभूमि, दृश्य और ऐतिहासिक अवधारणाएँ उत्पन्न करें",
+      "englishName": "Create concepts for game backgrounds, scenes, and landmarks",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "खेल पर्यावरण अवधारणा मानचित्र",
+      "useCase": "पूर्व-स्तरीय डिज़ाइन",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "स्थानिक पठनीयता और सुसंगत परिप्रेक्ष्य की जाँच करें; यह एक सपाट अवधारणा फ्रेम है, खेलने योग्य स्तर नहीं।",
+      "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
+      "document": "docs/cases/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i202-after.webp",
+          "sha256": "d231d3cdd0b67912ea81873d063eadb037bdfe91563be4eed8c97d1265559551"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "फ्रीपिक एआई",
+          "url": "https://www.freepik.com/ai"
+        },
+        {
+          "label": "पुनर्रचना",
+          "url": "https://www.recraft.ai/Generate"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta"
+    },
+    {
+      "id": "I203",
+      "title": "कार्ड के लिए मूल चित्र",
+      "name": "कार्ड गेम के लिए चरित्र और दृश्य चित्रण तैयार करें",
+      "englishName": "Create character and scene artwork for a card game",
+      "group": "text-only",
+      "category": "शुद्ध पाठ निर्माण · किसी संदर्भ चित्र की आवश्यकता नहीं",
+      "inputMode": "text-only",
+      "inputSummary": "केवल पाठ, किसी संदर्भ चित्र या अन्य अनुलग्नकों की आवश्यकता नहीं; नई अवधारणाएँ उत्पन्न करें।",
+      "roles": [
+        {
+          "kind": "text",
+          "label": "पाठ निर्माण संक्षिप्त: शीघ्र शब्दों में विषय, उद्देश्य और तथ्यात्मक पैरामीटर भरें",
+          "requirement": "required",
+          "quantity": "1 सर्विंग"
+        }
+      ],
+      "output": "कार्ड खेल कला",
+      "useCase": "भौतिक या डिजिटल कार्ड",
+      "deliveryNote": "एक समय में केवल एक छवि उत्पन्न होती है, छवियों को अपलोड करने की कोई आवश्यकता नहीं है।",
+      "check": "अलग लेआउट के लिए नियम पाठ, संख्याएँ और कार्ड फ़्रेम छोड़ें; यह मौजूदा डेक संदर्भ के बिना एक नई दृश्य दिशा बनाता है।",
+      "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
+      "document": "docs/cases/i203-create-character-and-scene-artwork-for-a-card-game.md",
+      "media": {
+        "kind": "existing-project-demo",
+        "generatedByPublicTutorial": false,
+        "references": [],
+        "result": {
+          "file": "assets/cases/i203-after.webp",
+          "sha256": "1d040a1932c98945bfacc663a32cf8e32e9eca5145d3bef8862402861f23ab30"
+        }
+      },
+      "demandReferences": [
+        {
+          "label": "सभी लाइटएक्स उपकरण",
+          "url": "https://www.lightxeditor.com/all-tools/all-tools/"
+        }
+      ],
+      "publicationStatus": "draft",
+      "websiteUrl": "https://dearsketch.com/hi/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta"
     }
   ],
   "locale": "hi"

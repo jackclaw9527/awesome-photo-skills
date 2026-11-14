@@ -5,7 +5,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-11 حالة خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
+9 حالات خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
 
 [الرجوع إلى المزيد من كتالوجات الحالات](./index.md) · [الرجوع إلى الصفحة الرئيسية للمستودع](../../../README.ar.md)
 
@@ -56,21 +56,6 @@
 
 ---
 
-## I054 · إنشاء قناة يوتيوب أو الصورة الرمزية للبث المباشر
-
-<table>
-<thead><tr><th width="50%">المواد المرجعية</th><th width="50%">مثال على النتائج</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>صور لأشخاص أو رسومات لشخصيات موجودة</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="أنشئ قناة على YouTube أو صورة رمزية للبث المباشر — مادة مرجعية 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/ar/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="أنشئ قناة على YouTube أو صورة رمزية مباشرة - أمثلة على النتائج" width="340"></a></td></tr></tbody>
-</table>
-
-- **نوع الإدخال:** يتضمن معاينة المواد المرجعية ومثال النتيجة
-- **متطلبات المواد:** صور لشخص واحد أو 0 أو صور شخصية موجودة + موضوع قناة واحد
-- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta)
-
----
-
 ## I055 · إنشاء صور رمزية طبيعية وجذابة لتطبيقات المواعدة
 
 <table>
@@ -83,20 +68,6 @@
 - **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
 
 [ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta)
-
----
-
-## I057 · قم بإنشاء رموز تعبيرية مخصصة بناءً على النص
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="قم بإنشاء رموز تعبيرية مخصصة من النص - نتائج الأمثلة" width="340"></a></p>
-<p>هذا المثال عبارة عن إدخال نص، ولم يتم إرفاق أي مرجع للصورة.</p>
-
-- **نوع الإدخال:** إدخال النص؛ يعرض هذا المثال أمثلة النتائج فقط
-- **المتطلبات المادية:** 1 عاطفة أو معنى + مجموعة واحدة من وصف الموضوع أو الرمز
-- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta)
 
 ---
 

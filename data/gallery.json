@@ -3,15 +3,15 @@
   "status": "draft",
   "site": "https://dearsketch.com",
   "summary": {
-    "totalCount": 262,
-    "activeCount": 260,
-    "selectedCount": 50,
-    "visibleCount": 247,
-    "additionalCount": 197,
-    "pairedCount": 175,
+    "totalCount": 246,
+    "activeCount": 246,
+    "selectedCount": 100,
+    "visibleCount": 246,
+    "additionalCount": 146,
+    "pairedCount": 174,
     "afterOnlyCount": 72,
-    "pendingCount": 13,
-    "archivedCount": 2
+    "pendingCount": 0,
+    "archivedCount": 0
   },
   "categories": [
     {
@@ -39,8 +39,8 @@
       "id": "category-04",
       "name": "社交娱乐与虚拟身份",
       "page": "docs/gallery/category-04.md",
-      "count": 11,
-      "selectedCount": 5
+      "count": 9,
+      "selectedCount": 7
     },
     {
       "id": "category-05",
@@ -53,57 +53,57 @@
       "id": "category-06",
       "name": "时尚、服装与虚拟试穿",
       "page": "docs/gallery/category-06.md",
-      "count": 14,
-      "selectedCount": 1
+      "count": 13,
+      "selectedCount": 2
     },
     {
       "id": "category-07",
       "name": "营销、广告与社媒内容",
       "page": "docs/gallery/category-07.md",
-      "count": 14,
-      "selectedCount": 8
+      "count": 6,
+      "selectedCount": 16
     },
     {
       "id": "category-08",
       "name": "品牌与平面设计资产",
       "page": "docs/gallery/category-08.md",
-      "count": 12,
-      "selectedCount": 2
+      "count": 7,
+      "selectedCount": 7
     },
     {
       "id": "category-09",
       "name": "插画、出版与故事",
       "page": "docs/gallery/category-09.md",
-      "count": 14,
-      "selectedCount": 0
+      "count": 6,
+      "selectedCount": 8
     },
     {
       "id": "category-10",
       "name": "POD与个性化商品",
       "page": "docs/gallery/category-10.md",
-      "count": 18,
-      "selectedCount": 0
+      "count": 6,
+      "selectedCount": 12
     },
     {
       "id": "category-11",
       "name": "空间、建筑与房地产",
       "page": "docs/gallery/category-11.md",
-      "count": 3,
-      "selectedCount": 9
+      "count": 2,
+      "selectedCount": 10
     },
     {
       "id": "category-12",
       "name": "产品概念与工业设计",
       "page": "docs/gallery/category-12.md",
-      "count": 10,
-      "selectedCount": 0
+      "count": 4,
+      "selectedCount": 6
     },
     {
       "id": "category-13",
       "name": "游戏与虚拟资产",
       "page": "docs/gallery/category-13.md",
-      "count": 11,
-      "selectedCount": 0
+      "count": 4,
+      "selectedCount": 7
     },
     {
       "id": "category-14",
@@ -116,116 +116,11 @@
       "id": "category-15",
       "name": "图片修复、编辑与再利用",
       "page": "docs/gallery/category-15.md",
-      "count": 23,
+      "count": 22,
       "selectedCount": 0
     }
   ],
-  "pendingResults": [
-    {
-      "id": "I006",
-      "name": "生成医疗申请ERAS标准头像",
-      "category": "职业与正式身份",
-      "detailPath": "/intent/i006-create-an-eras-compliant-medical-application-headshot.html",
-      "websiteUrl": "https://dearsketch.com/intent/i006-create-an-eras-compliant-medical-application-headshot.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i006_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I009",
-      "name": "制作签证或身份证件照片",
-      "category": "职业与正式身份",
-      "detailPath": "/intent/i009-create-a-visa-or-id-photo.html",
-      "websiteUrl": "https://dearsketch.com/intent/i009-create-a-visa-or-id-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i009_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I217",
-      "name": "生成医学或解剖概念插图",
-      "category": "教育与信息表达",
-      "detailPath": "/intent/i217-create-medical-or-anatomical-concept-illustrations.html",
-      "websiteUrl": "https://dearsketch.com/intent/i217-create-medical-or-anatomical-concept-illustrations.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i217_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I241",
-      "name": "按日期地点制作纪念星图",
-      "category": "家庭、纪念与情感",
-      "detailPath": "/intent/i241-create-a-commemorative-star-map-for-a-date-and-place.html",
-      "websiteUrl": "https://dearsketch.com/intent/i241-create-a-commemorative-star-map-for-a-date-and-place.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i241_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I242",
-      "name": "把城市、坐标或旅行路线制作成纪念地图",
-      "category": "家庭、纪念与情感",
-      "detailPath": "/intent/i242-create-a-keepsake-map-from-a-city-coordinates-or-travel-route.html",
-      "websiteUrl": "https://dearsketch.com/intent/i242-create-a-keepsake-map-from-a-city-coordinates-or-travel-route.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i242_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I245",
-      "name": "把歌曲或语音录音制作成声波纪念画",
-      "category": "家庭、纪念与情感",
-      "detailPath": "/intent/i245-turn-a-song-or-voice-recording-into-soundwave-art.html",
-      "websiteUrl": "https://dearsketch.com/intent/i245-turn-a-song-or-voice-recording-into-soundwave-art.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i245_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I267",
-      "name": "制作马克杯或杯身的全包围热升华图",
-      "category": "POD与个性化商品",
-      "detailPath": "/intent/i267-create-a-full-wrap-sublimation-design-for-a-mug-or-tumbler.html",
-      "websiteUrl": "https://dearsketch.com/intent/i267-create-a-full-wrap-sublimation-design-for-a-mug-or-tumbler.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i267_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I269",
-      "name": "把设计检查并整理为可印刷生产文件",
-      "category": "POD与个性化商品",
-      "detailPath": "/intent/i269-check-and-prepare-a-design-as-a-print-ready-production-file.html",
-      "websiteUrl": "https://dearsketch.com/intent/i269-check-and-prepare-a-design-as-a-print-ready-production-file.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i269_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I281",
-      "name": "制作手术步骤或药物机制插图",
-      "category": "教育与信息表达",
-      "detailPath": "/intent/i281-illustrate-a-surgical-procedure-or-drug-mechanism.html",
-      "websiteUrl": "https://dearsketch.com/intent/i281-illustrate-a-surgical-procedure-or-drug-mechanism.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i281_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I282",
-      "name": "把诊疗流程转成患者易懂的教育图",
-      "category": "教育与信息表达",
-      "detailPath": "/intent/i282-turn-a-clinical-workflow-into-a-patient-friendly-educational-graphic.html",
-      "websiteUrl": "https://dearsketch.com/intent/i282-turn-a-clinical-workflow-into-a-patient-friendly-educational-graphic.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i282_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I285",
-      "name": "把人物宠物或角色照片制作成亚克力立牌图稿",
-      "category": "POD与个性化商品",
-      "detailPath": "/intent/i285-create-acrylic-standee-artwork-from-a-person-pet-or-character-photo.html",
-      "websiteUrl": "https://dearsketch.com/intent/i285-create-acrylic-standee-artwork-from-a-person-pet-or-character-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i285_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I286",
-      "name": "把偶像或个人照片制作成收藏小卡",
-      "category": "POD与个性化商品",
-      "detailPath": "/intent/i286-turn-an-idol-or-personal-photo-into-a-collectible-photocard.html",
-      "websiteUrl": "https://dearsketch.com/intent/i286-turn-an-idol-or-personal-photo-into-a-collectible-photocard.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i286_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I288",
-      "name": "用人物照片制作菲律宾活动Tarpaulin背景",
-      "category": "营销、广告与社媒内容",
-      "detailPath": "/intent/i288-create-a-philippine-event-tarpaulin-from-a-portrait.html",
-      "websiteUrl": "https://dearsketch.com/intent/i288-create-a-philippine-event-tarpaulin-from-a-portrait.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i288_pending",
-      "status": "pending-result"
-    }
-  ],
+  "pendingResults": [],
   "cases": [
     {
       "id": "I001",
@@ -2261,8 +2156,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
-      "websiteUrl": "https://dearsketch.com/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -2390,8 +2285,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
-      "websiteUrl": "https://dearsketch.com/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta",
+      "selected": true,
       "inputType": "文字输入；本例仅展示结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -2897,7 +2792,7 @@
           "quantity": "1个"
         }
       ],
-      "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
+      "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i072-create-multiple-camera-angles-from-one-product-photo.html",
       "websiteUrl": "https://dearsketch.com/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta",
       "selected": false,
@@ -4024,8 +3919,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
-      "websiteUrl": "https://dearsketch.com/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4187,8 +4082,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
-      "websiteUrl": "https://dearsketch.com/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i104_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4307,8 +4202,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
-      "websiteUrl": "https://dearsketch.com/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i109_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4438,8 +4333,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
-      "websiteUrl": "https://dearsketch.com/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i113_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4478,8 +4373,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
-      "websiteUrl": "https://dearsketch.com/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i114_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -4564,8 +4459,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
-      "websiteUrl": "https://dearsketch.com/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i116_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4604,8 +4499,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
-      "websiteUrl": "https://dearsketch.com/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i117_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4724,8 +4619,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
-      "websiteUrl": "https://dearsketch.com/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i120_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4809,8 +4704,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
-      "websiteUrl": "https://dearsketch.com/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i122_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -4871,7 +4766,7 @@
       "category": "营销、广告与社媒内容",
       "categoryId": "category-07",
       "subcategory": "本地化",
-      "inputSummary": "完整原广告＋目标语言、市场与已审核译文 → 翻译文字、替换人物和文化元素 → 当前单张本地化广告素材",
+      "inputSummary": "1张完整原广告＋目标国家或地区（可补充指定语言、文化偏好或审校译文）",
       "roles": [
         {
           "kind": "image",
@@ -4881,12 +4776,18 @@
         },
         {
           "kind": "text",
-          "label": "目标语言、市场与已审核译文",
+          "label": "目标国家或地区",
           "requirement": "required",
-          "quantity": "1份"
+          "quantity": "1项"
+        },
+        {
+          "kind": "text",
+          "label": "指定语言、文化偏好或审校译文",
+          "requirement": "optional",
+          "quantity": "0或1份"
         }
       ],
-      "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
+      "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i125-adapt-one-ad-visual-for-different-languages-and-cultures.html",
       "websiteUrl": "https://dearsketch.com/intent/i125-adapt-one-ad-visual-for-different-languages-and-cultures.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i125_cta",
       "selected": false,
@@ -4974,8 +4875,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i127-create-product-or-interface-icons.html",
-      "websiteUrl": "https://dearsketch.com/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5007,8 +4908,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
-      "websiteUrl": "https://dearsketch.com/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta",
+      "selected": true,
       "inputType": "文字输入；本例仅展示结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -5047,8 +4948,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
-      "websiteUrl": "https://dearsketch.com/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5241,8 +5142,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
-      "websiteUrl": "https://dearsketch.com/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5281,8 +5182,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
-      "websiteUrl": "https://dearsketch.com/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5623,8 +5524,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
-      "websiteUrl": "https://dearsketch.com/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i143_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5755,8 +5656,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
-      "websiteUrl": "https://dearsketch.com/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i146_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5795,8 +5696,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
-      "websiteUrl": "https://dearsketch.com/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i147_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5913,8 +5814,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
-      "websiteUrl": "https://dearsketch.com/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i150_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta",
+      "selected": true,
       "inputType": "文字输入；本例仅展示结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -5953,8 +5854,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
-      "websiteUrl": "https://dearsketch.com/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i151_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -5993,8 +5894,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
-      "websiteUrl": "https://dearsketch.com/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i152_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6079,8 +5980,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
-      "websiteUrl": "https://dearsketch.com/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i154_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6119,8 +6020,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
-      "websiteUrl": "https://dearsketch.com/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i155_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -6165,8 +6066,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
-      "websiteUrl": "https://dearsketch.com/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i156_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6205,8 +6106,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
-      "websiteUrl": "https://dearsketch.com/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i157_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6245,8 +6146,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
-      "websiteUrl": "https://dearsketch.com/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i158_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6285,8 +6186,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
-      "websiteUrl": "https://dearsketch.com/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i159_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6332,8 +6233,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
-      "websiteUrl": "https://dearsketch.com/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i160_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -6378,8 +6279,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
-      "websiteUrl": "https://dearsketch.com/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i161_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6418,8 +6319,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
-      "websiteUrl": "https://dearsketch.com/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i163_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6458,8 +6359,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
-      "websiteUrl": "https://dearsketch.com/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i164_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6498,8 +6399,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
-      "websiteUrl": "https://dearsketch.com/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i165_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6538,8 +6439,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
-      "websiteUrl": "https://dearsketch.com/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i166_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -6577,8 +6478,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
-      "websiteUrl": "https://dearsketch.com/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i167_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta",
+      "selected": true,
       "inputType": "文字输入；本例仅展示结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -6617,8 +6518,8 @@
       ],
       "deliveryNote": "本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。",
       "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
-      "websiteUrl": "https://dearsketch.com/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i168_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -6820,7 +6721,7 @@
       "category": "空间、建筑与房地产",
       "categoryId": "category-11",
       "subcategory": "商业空间",
-      "inputSummary": "商业空间现场原图＋业态、品牌定位、核心功能与客流需求 → 生成符合业态的布局与氛围 → 当前单张商业空间概念图",
+      "inputSummary": "可选商业空间现场原图＋业态、目标设计方向、功能与客流需求",
       "roles": [
         {
           "kind": "image",
@@ -6831,15 +6732,15 @@
         },
         {
           "kind": "text",
-          "label": "业态、品牌定位、核心功能与客流需求",
+          "label": "业态、目标设计方向、功能与客流需求",
           "requirement": "required",
           "quantity": "1份"
         }
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
-      "websiteUrl": "https://dearsketch.com/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i173_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -7080,7 +6981,7 @@
       "category": "空间、建筑与房地产",
       "categoryId": "category-11",
       "subcategory": "方案比较",
-      "inputSummary": "基准空间图＋当前材料或灯光变量 → 替换材料、配色和光照 → 当前单张方案对比图",
+      "inputSummary": "1张基准空间图＋目标设计方向、表面材料与灯光要求",
       "roles": [
         {
           "kind": "image",
@@ -7090,9 +6991,9 @@
         },
         {
           "kind": "text",
-          "label": "当前材料或灯光变量",
+          "label": "目标设计方向、表面材料与灯光要求",
           "requirement": "required",
-          "quantity": "1个明确方案"
+          "quantity": "1个具体方案"
         }
       ],
       "deliveryNote": "每次只生成一张图片。",
@@ -7234,8 +7135,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
-      "websiteUrl": "https://dearsketch.com/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i185_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7319,8 +7220,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
-      "websiteUrl": "https://dearsketch.com/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i187_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -7410,8 +7311,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
-      "websiteUrl": "https://dearsketch.com/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i189_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -7456,8 +7357,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
-      "websiteUrl": "https://dearsketch.com/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i190_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -7502,8 +7403,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
-      "websiteUrl": "https://dearsketch.com/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i191_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta",
+      "selected": true,
       "inputType": "含参考素材预览与结果示例",
       "media": {
         "kind": "existing-project-demo",
@@ -7593,8 +7494,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
-      "websiteUrl": "https://dearsketch.com/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i193_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7633,8 +7534,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
-      "websiteUrl": "https://dearsketch.com/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i194_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7673,8 +7574,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
-      "websiteUrl": "https://dearsketch.com/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i196_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7713,8 +7614,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
-      "websiteUrl": "https://dearsketch.com/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i197_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7753,8 +7654,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
-      "websiteUrl": "https://dearsketch.com/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i198_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7879,8 +7780,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
-      "websiteUrl": "https://dearsketch.com/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i201_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7919,8 +7820,8 @@
       ],
       "deliveryNote": "每次只生成一张图片。",
       "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
-      "websiteUrl": "https://dearsketch.com/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i202_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -7959,8 +7860,8 @@
       ],
       "deliveryNote": "每次只生成当前选定的一张；系列中的其他图片分别执行。",
       "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
-      "websiteUrl": "https://dearsketch.com/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i203_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta",
+      "selected": true,
       "inputType": "本例仅展示结果示例；图片输入预览待补",
       "media": {
         "kind": "existing-project-demo",
@@ -8508,52 +8409,6 @@
       },
       "publicationStatus": "draft",
       "categoryPage": "docs/gallery/category-14.md"
-    },
-    {
-      "id": "I218",
-      "name": "自动移除人物或商品背景",
-      "englishName": "Remove the background from a person or product image",
-      "category": "图片修复、编辑与再利用",
-      "categoryId": "category-15",
-      "subcategory": "背景",
-      "inputSummary": "必需待抠图的人物或商品原照(1张)＋条件需保留的主体(1个)",
-      "roles": [
-        {
-          "kind": "image",
-          "label": "待抠图的人物或商品原照",
-          "requirement": "required",
-          "quantity": "1张"
-        },
-        {
-          "kind": "text",
-          "label": "需保留的主体",
-          "requirement": "conditional",
-          "quantity": "1个",
-          "condition": "原图含多个人物或商品候选主体时"
-        }
-      ],
-      "deliveryNote": "每次只生成一张图片。",
-      "detailPath": "/intent/i218-remove-the-background-from-a-person-or-product-image.html",
-      "websiteUrl": "https://dearsketch.com/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta",
-      "selected": false,
-      "inputType": "含参考素材预览与结果示例",
-      "media": {
-        "kind": "existing-project-demo",
-        "generatedByPublicTutorial": false,
-        "references": [
-          {
-            "label": "待抠图的人物或商品原照",
-            "file": "assets/cases/i218-before-1.webp",
-            "sha256": "5117479df6871943c4f28677b918bf3017515f8f9a23981af87a36a510c75427"
-          }
-        ],
-        "result": {
-          "file": "assets/cases/i218-after.webp",
-          "sha256": "12e82479a17907fd093616e3a57b2ecb0a27cfeab08d13689a3c9605f7a9a5da"
-        }
-      },
-      "publicationStatus": "draft",
-      "categoryPage": "docs/gallery/category-15.md"
     },
     {
       "id": "I219",

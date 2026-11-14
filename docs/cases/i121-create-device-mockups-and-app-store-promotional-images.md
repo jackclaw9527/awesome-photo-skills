@@ -25,6 +25,7 @@ Place a real app screenshot into a specified device presentation without alterin
 | 目标应用实际界面截图 | 图片 / Image | 当前设备画面1张 | 必需 / Required |
 | 目标设备与真实功能卖点 | 文字 / Text | 1份 | 必需 / Required |
 
+
 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
 
 ## 保留与改变 / Editing brief
@@ -71,4 +72,4 @@ Verify interface legibility and never imply an unimplemented feature.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

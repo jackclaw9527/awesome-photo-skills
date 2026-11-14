@@ -28,6 +28,7 @@ Arrange multiple real product views and approved copy into one long-form visual 
 | 同一商品图片组 | 图片 / Image | 多张 | 必需 / Required |
 | 卖点与准确文案 | 文字 / Text | 1组 | 必需 / Required |
 
+
 本次生成单张视觉预览。数据计算、精确排版、矢量或生产文件仍需对应工具校验。
 
 ## 保留与改变 / Editing brief
@@ -75,4 +76,4 @@ Verify copy, dimensions, channel rules, and final layout in a production tool.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

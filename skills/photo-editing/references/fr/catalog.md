@@ -3,10 +3,11 @@
 [中文](../../../../README.md) · [English](../../../../README.en.md) · [Português](../../../../README.pt.md) · [Español](../../../../README.es.md) · [Français](../../../../README.fr.md) · [Deutsch](../../../../README.de.md) · [عربي](../../../../README.ar.md) · [русский](../../../../README.ru.md) · [日本語](../../../../README.ja.md) · [हिंदी](../../../../README.hi.md)
 
 
-Choisissez la tâche en fonction du résultat attendu par l'utilisateur, et pas simplement en fonction d'une technique d'édition. Chaque groupe contient dix invites complètes.
+Choisissez la tâche en fonction du résultat attendu par l'utilisateur, et pas simplement en fonction d'une technique d'édition. Le groupe texte uniquement contient 50 invites ne nécessitant aucune pièce jointe ; les cinq autres groupes contiennent chacun dix invites spécifiques à une tâche.
 
 | Groupe | Utiliser pour | Référence |
 | --- | --- | --- |
+| Texte en image – Aucune référence nécessaire | 50 mémoires originaux basés sur des textes. Aucune image ou autre pièce jointe requise ; créer de nouveaux concepts à partir de faits écrits. | [Ouvrir les invites](./text-only.md) |
 | Animaux de compagnie et souvenirs de famille | Portraits d'animaux de compagnie, composites de famille, souvenirs de couple et images marquantes. | [Ouvrir les invites](./pets-family.md) |
 | Portraits et style personnel | Portraits professionnels, retouches vestimentaires, aperçus virtuels, avatars, autocollants et concepts d'affiches. | [Ouvrir les invites](./people.md) |
 | Maisons et espaces | Souvenirs de maison, aperçus intérieurs, présentation de propriétés, concepts paysagers et visualisation architecturale. | [Ouvrir les invites](./spaces.md) |

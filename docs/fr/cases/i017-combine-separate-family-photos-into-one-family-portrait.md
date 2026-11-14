@@ -26,6 +26,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Toutes les photos des membres inclus dans la photo | Photo/Image | Au moins 1 pour chaque membre | Obligatoire / Obligatoire |
 | Nombre de personnes, relation et disposition des personnages | Caractère / Texte | 1 groupe | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -73,4 +74,4 @@ Sens du résultat : Portrait de famille complet. Lorsque du texte exact, des fic
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

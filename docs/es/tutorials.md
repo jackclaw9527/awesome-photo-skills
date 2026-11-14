@@ -92,4 +92,4 @@ Aléjese para ver si todavía está claro y luego realice la marca denominativa,
 
 Primero complete un intento a pequeña escala para verificar si el tema y los hechos son correctos y luego cambie el estilo de la pintura, la composición u otras variables. Cuando encuentre nombre, precio, tamaño, fecha del evento y redacción precisa, debe verificarlos palabra por palabra y no dejar que el modelo los complete por usted.
 
-Si desea ver los requisitos de entrada por tareas específicas, puede ingresar a la página correspondiente del sitio web desde el directorio de casos [50 ](./prompts.md).
+Si desea ver los requisitos de entrada por tareas específicas, puede ingresar a la página correspondiente del sitio web desde el directorio de casos [100 ](./prompts.md).

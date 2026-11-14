@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-फ़ीचर्ड कैटलॉग के बाहर 14 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
+फ़ीचर्ड कैटलॉग के बाहर 13 मामले। यहां शीघ्र शब्दों का खुलासा नहीं किया गया है, केवल मौजूदा संदर्भ सामग्री, परिणाम निर्देश और न्यूनतम सामग्री आवश्यकताएं प्रदर्शित की गई हैं।
 
 [अधिक केस कैटलॉग पर लौटें](./index.md) · [वेयरहाउस होमपेज पर लौटें](../../../README.hi.md)
 
@@ -157,20 +157,6 @@
 - **विवरण:** एक समय में केवल एक ही चित्र उत्पन्न होता है।
 
 [ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta) बनाएं
-
----
-
-## I100 · परिधानों के लिए निर्बाध प्रिंट और फैब्रिक पैटर्न तैयार करें
-
-<p><strong>परिणामों का उदाहरण</strong></p>
-<p><a href="https://dearsketch.com/hi/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="कपड़ों के लिए निर्बाध प्रिंट और फैब्रिक पैटर्न तैयार करें - उदाहरण परिणाम" width="340"></a></p>
-<p>इस उदाहरण में चित्र संदर्भ शामिल नहीं है, और इनपुट पूर्वावलोकन पूरा किया जाना है; सामग्री संबंधी आवश्यकताएँ नीचे देखें।</p>
-
-- **इनपुट प्रकार:** यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है
-- **सामग्री आवश्यकताएँ:** थीम तत्वों का 1 सेट + 0 या 1 शैली संदर्भ
-- **विवरण:** इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है। डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।
-
-[ dearsketch में विशिष्ट आवश्यकताओं की जाँच करें और ](https://dearsketch.com/hi/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta) बनाएं
 
 ---
 

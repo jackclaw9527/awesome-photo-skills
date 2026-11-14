@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Original image of promotional product | Picture/Image | 0–1; multiple materials can be combined into one labeled reference board | Optional/Optional: When the node promotion image wants to display specific products |
 | Festivals or sales nodes, goods or services, promotional information | Character / Text | 1 serving | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -72,4 +73,4 @@ Result direction: node promotion graph. When exact text, transparent files, vect
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

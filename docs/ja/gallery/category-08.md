@@ -3,53 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-カタログ掲載外の12件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
+掲載カタログ外7件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
 
 [その他のケース カタログに戻る](./index.md) · [倉庫のホームページに戻る](../../../README.ja.md)
 
 > 参考資料と結果画像は視覚的なガイダンスのみを目的としています。同じ材料を使用して同じ効果が再現できるという保証はありません。
-
-## I127 · 製品またはインターフェースのアイコンを生成
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../../assets/cases/i127-after.webp" alt="製品またはインターフェイスのアイコンの生成 - 結果の例" width="340"></a></p>
-<p>この例には画像参照が含まれておらず、入力プレビューが完了する必要があります。以下の材料要件を参照してください。</p>
-
-- **入力タイプ:** この例は結果の例のみを示しています。画像入力プレビューを追加します
-- **マテリアル要件:** 既存のアイコン システム テンプレート + 機能リスト → 一貫したアイコン コレクションを生成 → 現在の単一アイコン アセット
-- **説明:** 今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta) を作成します
-
----
-
-## I128 · テキストから編集可能なベクター イラストを生成
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../../assets/cases/i128-after.webp" alt="テキストから編集可能なベクター イラストを生成 — 結果の例" width="340"></a></p>
-<p>この例はテキスト入力であり、画像参照は添付されていません。</p>
-
-- **入力タイプ:** テキスト入力。この例は結果の例のみを示しています
-- **マテリアルの要件:** イラストのテーマと目的 → SVG とレイヤー化されたジオメトリを生成 → 現在の単一のベクター イラスト
-- **説明:** 今回は、単一の視覚的なプレビューが生成されます。データ計算、正確な組版、ベクターまたは制作ファイルは、対応するツールで検証する必要があります。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta) を作成します
-
----
-
-## I129 · テーマ固有のカスタム ギャラリー画像を生成
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../../assets/cases/i129-after.webp" alt="テーマ固有のカスタム ギャラリー画像の生成 - 結果の例" width="340"></a></p>
-<p>この例には画像参照が含まれておらず、入力プレビューが完了する必要があります。以下の材料要件を参照してください。</p>
-
-- **入力タイプ:** この例は結果の例のみを示しています。画像入力プレビューを追加します
-- **素材要件:** シーンに埋め込む必要がある製品またはキャラクターのオリジナル画像 + 特定のシーンおよび使用コンテキスト → 既製のライブラリの制限なしで画像を生成 → 現在の単一のストック画像をカスタマイズ
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta) を作成します
-
----
 
 ## I130 · 再利用可能なブランド マスコット ブランド VI ビジュアル デザインを作成する
 
@@ -80,34 +38,6 @@
 - **説明:** 一度に生成されるのは、現在選択されているものだけです。シリーズの他の画像は個別に実行されます。
 
 [ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta) を作成します
-
----
-
-## I134 · 包装ラベルと箱のビジュアルコンセプトを生成
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../../assets/cases/i134-after.webp" alt="包装ラベルと箱の形状のビジュアルコンセプトの生成 - 結果の例" width="340"></a></p>
-<p>この例には画像参照が含まれておらず、入力プレビューが完了する必要があります。以下の材料要件を参照してください。</p>
-
-- **入力タイプ:** この例は結果の例のみを示しています。画像入力プレビューを追加します
-- **材料要件:** ブランドおよびパッケージ構造のオリジナルボード + 製品タイプ、ブランド名、パッケージコピー、容器または箱のタイプ → 読みやすいテキストを含むパッケージ方向を生成 → 現在の 1 枚シートのパッケージ設計コンセプト
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta) を作成します
-
----
-
-## I135 · 再現可能な背景、テクスチャ、ブランド パターンを生成します
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../../assets/cases/i135-after.webp" alt="再現可能な背景、テクスチャ、ブランド パターンの生成 - 結果の例" width="340"></a></p>
-<p>この例には画像参照が含まれておらず、入力プレビューが完了する必要があります。以下の材料要件を参照してください。</p>
-
-- **入力タイプ:** この例は結果の例のみを示しています。画像入力プレビューを追加します
-- **素材要件:** ブランドグラフィックユニットオリジナル + テーマ、アプリケーションシナリオ → シームレスパターンの生成 → 現在の単一のパターンとテクスチャ
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta) を作成します
 
 ---
 

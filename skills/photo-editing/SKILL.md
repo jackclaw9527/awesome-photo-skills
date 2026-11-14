@@ -13,6 +13,7 @@ Use the user's language when a matching localized reference directory exists: `r
 
 Read the matching `catalog.md`, choose the closest task, then read only that group's reference. The English entry point is [references/catalog.md](references/catalog.md):
 
+- [Text to Image — No Reference Needed](references/text-only.md) — 50 original text-led briefs. No image or other attachment required; create new concepts from written facts.
 - [Pets and Family Keepsakes](references/pets-family.md) — Pet portraits, family composites, couple keepsakes, and milestone images.
 - [Portraits and Personal Style](references/people.md) — Professional portraits, clothing edits, virtual previews, avatars, stickers, and poster concepts.
 - [Homes and Spaces](references/spaces.md) — House keepsakes, interior previews, property presentation, landscape concepts, and architectural visualization.

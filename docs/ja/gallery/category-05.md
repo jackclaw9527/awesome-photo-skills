@@ -33,7 +33,7 @@
 
 - **入力タイプ:** 参考資料のプレビューと結果の例が含まれます
 - **資料要件:** 単一角度の製品写真 1 枚 + 今回の対象観察角度 1 枚
-- **説明:** 一度に生成されるのは、現在選択されているものだけです。シリーズの他の画像は個別に実行されます。
+- **説明:** 一度に生成される画像は 1 つだけです。
 
 [ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta) を作成します
 

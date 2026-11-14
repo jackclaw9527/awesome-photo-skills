@@ -25,6 +25,7 @@ Visualize a landscape makeover for a photographed outdoor space.
 | 庭院或外部空间照片 | 图片 / Image | 1张；多角色或多视角可合并为一张已标注参考板 | 必需 / Required |
 | 使用需求、气候或所在地 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -65,4 +66,4 @@ Review climate suitability, drainage, dimensions, and construction separately.
 - [Preview different interior styles in a room photo · 房间装修风格预览](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Preview wall paint, flooring, and wallpaper · 墙漆与地板选材预览](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

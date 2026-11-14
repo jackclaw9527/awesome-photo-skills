@@ -28,6 +28,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Gleiche Produktbildgruppe | Bild/Bild | Mehrere Bilder | Erforderlich / Erforderlich |
 | Verkaufsargumente und präzises Texten | Zeichen / Text | 1 Gruppe | Erforderlich / Erforderlich |
 
+
 Diesmal wird eine einzelne visuelle Vorschau generiert. Datenberechnung, präziser Satz, Vektor- oder Produktionsdateien müssen noch durch entsprechende Tools überprüft werden.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -75,4 +76,4 @@ Ergebnisrichtung: Produktdetailseite. Wenn exakter Text, transparente Dateien, V
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

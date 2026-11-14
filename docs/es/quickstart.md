@@ -5,7 +5,7 @@
 
 ## Copiar un mensaje
 
-1. Seleccione tareas de las plantillas [50 ](./prompts.md) y abra la página del caso.
+1. Seleccione una tarea de las plantillas [100 ](./prompts.md) y abra la página del caso.
 2. Prepare los insumos requeridos en la tabla de materiales para confirmar si el material condicional se aplica a usted.
 3. Copie Public prompt y reemplace el contenido entre corchetes. Cuando necesite editar imágenes, adjunte la imagen correspondiente a su herramienta; El texto no puede reemplazar la imagen adjunta real.
 4. Produzca un resultado a la vez y acéptelo de acuerdo con los puntos de control para ese caso.
@@ -14,7 +14,7 @@ Elija una plantilla, adjunte los materiales necesarios en su herramienta de imá
 
 ## Agent Skill
 
-Skill es responsable de convertir "¿Qué quiero hacer?" en una lista de entrada clara, conservando puntos clave y palabras clave completas, y no llama a la interfaz de pago de forma predeterminada. Contiene su propia referencia de 50 plantillas y no depende de toda la biblioteca una vez instalada.
+Skill es responsable de convertir "Qué quiero hacer" en una lista de entrada clara, conservando los puntos clave y las palabras clave completas, y no llama a la interfaz de pago de forma predeterminada. Contiene su propia referencia de 100 plantillas y no depende de toda la biblioteca una vez instalada.
 
 ### Codex
 

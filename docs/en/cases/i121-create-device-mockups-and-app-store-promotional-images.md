@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Screenshot of the actual interface of the target application | Picture/Image | 1 picture of the current device | Required / Required |
 | Target device and real functional selling points | Character / Text | 1 serving | Required / Required |
 
+
 This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
 
 ## Retain and change / Editing brief
@@ -71,4 +72,4 @@ Result direction: App Mockup. When exact text, transparent files, vectors or pri
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

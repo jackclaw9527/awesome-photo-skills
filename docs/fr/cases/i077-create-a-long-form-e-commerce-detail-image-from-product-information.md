@@ -28,6 +28,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Même groupe d'images de produit | Photo/Image | Plusieurs images | Obligatoire / Obligatoire |
 | Points de vente et rédaction précise | Caractère / Texte | 1 groupe | Obligatoire / Obligatoire |
 
+
 Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.
 
 ## Conserver et modifier / Brief d'édition
@@ -75,4 +76,4 @@ Direction du résultat : page de détails du produit. Lorsque du texte exact, d
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

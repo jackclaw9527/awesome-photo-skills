@@ -5,7 +5,7 @@
 
 dearsketch organiza "Quais imagens eu quero completar" em um diretório navegável de requisitos. Cada requisito possui uma página independente que explica a finalidade, os materiais necessários e os requisitos de resultado; os usuários entram no processo de produção na página correspondente.
 
-Esta descrição descreve as responsabilidades do módulo e o fluxo de dados. A biblioteca de conteúdo público, os serviços do site e os modelos gerados realizam tarefas diferentes; este warehouse fornece casos públicos, 50 modelos recém-editados e Agent Skill, e a produção online é realizada no site.
+Esta descrição descreve as responsabilidades do módulo e o fluxo de dados. A biblioteca de conteúdo público, os serviços do site e os modelos gerados realizam tarefas diferentes; este warehouse fornece casos públicos, 100 modelos recém-editados e Agent Skill, e a produção online é realizada no site.
 
 ## Caminho do usuário
 

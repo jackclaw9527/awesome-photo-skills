@@ -26,6 +26,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | photos des membres de la famille | Photo/Image | Au moins 1 pour chaque membre | Obligatoire / Obligatoire |
 | photos d'animaux de compagnie | Photo/Image | Au moins 1 par animal | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -73,4 +74,4 @@ Direction du résultat : Photos d'animaux de compagnie. Lorsque du texte exact
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

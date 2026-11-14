@@ -27,6 +27,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Target Tattoo Designs | Picture/Image | 1 piece | Required / Required |
 | tattoo location | Character / Text | 1 item | Required / Required |
 
+
 Only one image is generated at a time.
 
 ## Retain and change / Editing brief
@@ -74,4 +75,4 @@ Results in the direction of: Tattoo upper body preview. When exact text, transpa
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

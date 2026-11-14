@@ -25,6 +25,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Fotos de personas, mascotas u objetos. | Imagen/Imagen | 1 pieza | Requerido / Requerido |
 | La acción o emoción de esta pegatina. | Carácter / Texto | 0 o 1 artículo | Opcional / Opcional |
 
+
 Sólo se genera a la vez la imagen actualmente seleccionada; Otras imágenes de la serie se ejecutan por separado.
 
 ## Conservar y cambiar / Editar resumen
@@ -71,4 +72,4 @@ Dirección del resultado: paquete de pegatinas de chat. Cuando se requiera texto
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

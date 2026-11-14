@@ -26,6 +26,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Tema y título del cartel original. | Carácter / Texto | 1 porción | Requerido / Requerido |
 | Firma y fecha | Carácter / Texto | 0 o 1 grupo | Opcional / Opcional |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -72,4 +73,4 @@ Dirección de resultados: carteles de películas personalizados. Cuando se requi
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

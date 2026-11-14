@@ -3,6 +3,12 @@
 [中文](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [عربي](README.ar.md) · [русский](README.ru.md) · [日本語](README.ja.md) · [हिंदी](README.hi.md)
 
 
+## 2026-11-14
+
+- Ampliado a 100 plantillas públicas, incluidos 50 resúmenes de solo texto que no requieren archivos adjuntos de referencia.
+- Se agregó una colección dedicada de solo texto y metadatos explícitos en modo de entrada. Las imágenes de ejemplo existentes siguen siendo ilustrativas; Las nuevas indicaciones no han sido probadas en generaciones.
+
+
 ## 2026-11-02
 
 - Se agregaron 50 plantillas públicas recién creadas, una para cada caso seleccionado, con objetivos de preservación y verificaciones de resultados. No han sido probados generacionalmente.

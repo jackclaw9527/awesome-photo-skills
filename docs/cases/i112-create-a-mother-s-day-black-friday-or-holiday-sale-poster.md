@@ -25,6 +25,7 @@ Create one sales-moment poster from confirmed promotion details and an optional 
 | 促销商品原图 | 图片 / Image | 0–1张；多素材可合并为一张已标注参考板 | 可选 / Optional：节点促销图要展示特定商品时 |
 | 节庆或销售节点、商品或服务、促销信息 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -72,4 +73,4 @@ Proofread offer details and never invent urgency or savings.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

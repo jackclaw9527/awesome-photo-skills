@@ -3,10 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-Choose the task by the user's intended result, not merely by an editing technique. Each group contains ten complete prompts.
+Choose the task by the user's intended result, not merely by an editing technique. The text-only group contains 50 prompts requiring no attachments; the other five groups each contain ten task-specific prompts.
 
 | Group | Use for | Reference |
 | --- | --- | --- |
+| Text to Image — No Reference Needed | 50 original text-led briefs. No image or other attachment required; create new concepts from written facts. | [Open prompts](./text-only.md) |
 | Pets and Family Keepsakes | Pet portraits, family composites, couple keepsakes, and milestone images. | [Open prompts](./pets-family.md) |
 | Portraits and Personal Style | Professional portraits, clothing edits, virtual previews, avatars, stickers, and poster concepts. | [Open prompts](./people.md) |
 | Homes and Spaces | House keepsakes, interior previews, property presentation, landscape concepts, and architectural visualization. | [Open prompts](./spaces.md) |

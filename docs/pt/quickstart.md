@@ -5,7 +5,7 @@
 
 ## Copiar um prompt
 
-1. Selecione tarefas dos modelos [50 ](./prompts.md) e abra a página do caso.
+1. Selecione uma tarefa nos modelos [100 ](./prompts.md) e abra a página do caso.
 2. Prepare as entradas necessárias na tabela de materiais para confirmar se o material condicional se aplica a você.
 3. Copie Public prompt e substitua o conteúdo entre colchetes. Quando precisar de edição de imagens, anexe a imagem correspondente à sua ferramenta; o texto não pode substituir o anexo de imagem real.
 4. Produza um resultado de cada vez e aceite-o de acordo com os pontos de verificação desse caso.
@@ -14,7 +14,7 @@ Escolha um modelo, anexe os materiais necessários em sua ferramenta de imagem, 
 
 ## Agent Skill
 
-Skill é responsável por converter "O que eu quero fazer" em uma lista de entrada clara, retendo pontos-chave e palavras completas de prompt, e não chama a interface de pagamento por padrão. Ele contém sua própria referência de 50 modelos e não depende de toda a biblioteca depois de instalada.
+Skill é responsável por converter "O que eu quero fazer" em uma lista de entrada clara, retendo pontos-chave e palavras completas de prompt, e não chama a interface de pagamento por padrão. Ele contém sua própria referência de 100 modelos e não depende de toda a biblioteca depois de instalada.
 
 ### Codex
 

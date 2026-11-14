@@ -25,6 +25,7 @@
 | 庭や屋外スペースの写真 | 写真/画像 | 1枚。複数のキャラクターまたはパースペクティブを 1 つのマーク付きリファレンス ボードに組み合わせることができます | 必須 / 必須 |
 | 使用要件、気候または場所 | 文字 / Text | 1食分 | 必須 / 必須 |
 
+
 一度に生成される画像は 1 つだけです。
 
 ## 保持および変更 / 編集概要
@@ -65,4 +66,4 @@ Deliver one finished exterior concept image only.
 - [部屋の写真でさまざまなインテリア スタイルをプレビュー · 部屋の装飾スタイルのプレビュー](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [壁塗装、床材、壁紙のプレビュー · 壁塗装と床材の選択プレビュー ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-写真や素材の使用範囲については、[コンテンツ説明](../content-policy.md)をご覧ください。 [50 個のテンプレートをすべて表示します (](../prompts.md))。
+写真や素材の使用範囲については、[コンテンツ説明](../content-policy.md)をご覧ください。 [100 個のテンプレートをすべて表示 ](../prompts.md)。

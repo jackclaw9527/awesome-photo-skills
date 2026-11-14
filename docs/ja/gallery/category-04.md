@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-カタログ掲載外の11件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
+カタログ掲載外の9件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
 
 [その他のケース カタログに戻る](./index.md) · [倉庫のホームページに戻る](../../../README.ja.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · YouTube チャンネルまたはライブブロードキャストのアバターを生成
-
-<table>
-<thead><tr><th width="50%">参考資料</th><th width="50%">結果の例</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>人物の写真や既存のキャラクターの絵</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="YouTube チャンネルまたは生放送アバターの生成 — 参考資料 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/ja/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="YouTube チャンネルまたはライブ アバターの生成 — 結果の例" width="340"></a></td></tr></tbody>
-</table>
-
-- **入力タイプ:** 参考資料のプレビューと結果の例が含まれます
-- **素材要件:** 0 または 1 人の人物写真または既存のキャラクター写真 + 1 つのチャンネルテーマ
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta) を作成します
-
----
-
 ## I055 · 出会い系アプリ用の自然で魅力的なアバターを生成
 
 <table>
@@ -81,20 +66,6 @@
 - **説明:** 一度に生成される画像は 1 つだけです。
 
 [ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta) を作成します
-
----
-
-## I057 · テキストに基づいてカスタム絵文字を生成
-
-<p><strong>結果の例</strong></p>
-<p><a href="https://dearsketch.com/ja/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="テキストからカスタム絵文字を生成 — 結果の例" width="340"></a></p>
-<p>この例はテキスト入力であり、画像参照は添付されていません。</p>
-
-- **入力タイプ:** テキスト入力。この例は結果の例のみを示しています
-- **資料の要件:** 1 つの感情または意味 + 1 セットの主題またはシンボルの説明
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta) を作成します
 
 ---
 

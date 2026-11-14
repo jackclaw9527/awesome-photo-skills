@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Originalbild der Videofigur oder des Themenobjekts | Bild/Bild | 0–1; Mehrere Materialien können zu einer beschrifteten Referenztafel kombiniert werden | Optional/Optional: Wenn eine bestimmte Person, ein bestimmtes Produkt oder ein bestimmtes Objekt im Miniaturbild erscheinen soll |
 | Thema oder Titel des Videos | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Es wird jeweils nur ein Bild generiert.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -71,4 +72,4 @@ Ergebnisrichtung: YouTube-Thumbnail. Wenn exakter Text, transparente Dateien, Ve
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

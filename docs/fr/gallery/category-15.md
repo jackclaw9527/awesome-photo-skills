@@ -3,26 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-23 caisses hors catalogue présenté. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
+22 caisses hors catalogue vedette. Les mots d'invite ne sont pas divulgués ici, seuls les matériaux de référence existants, les instructions de résultat et les exigences minimales en matière de matériaux sont affichés.
 
 [Retourner à d'autres catalogues de caisses](./index.md) · [Retourner à la page d'accueil de l'entrepôt](../../../README.fr.md)
 
 > Les documents de référence et les images des résultats sont uniquement à titre indicatif ; il n'y a aucune garantie que le même effet puisse être reproduit en utilisant les mêmes matériaux.
-
-## I218 · Supprimer automatiquement les arrière-plans des personnages ou des produits
-
-<table>
-<thead><tr><th width="50%">Matériel de référence</th><th width="50%">Exemple de résultats</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Photo originale de la personne ou du produit à découper</strong><br><img src="../../../assets/cases/i218-before-1.webp" alt="Supprimer automatiquement les arrière-plans de personnes ou de produits — matériel de référence 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/fr/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i218_image"><img src="../../../assets/cases/i218-after.webp" alt="Supprimer automatiquement les arrière-plans de personnes ou de produits - exemples de résultats" width="340"></a></td></tr></tbody>
-</table>
-
-- **Type d'entrée :** Comprend un aperçu du matériau de référence et un exemple de résultat
-- **Matériel requis :** Photos originales obligatoires de personnes ou de produits à découper (1 photo) + sujets à conserver (1 photo)
-- **Description :** Une seule image est générée à la fois.
-
-[ Vérifiez les exigences spécifiques dans dearsketch et créez ](https://dearsketch.com/fr/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta)
-
----
 
 ## I219 · Supprimez les passants, l'encombrement ou les éléments distrayants des photos
 

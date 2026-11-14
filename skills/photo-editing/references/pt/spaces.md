@@ -9,6 +9,7 @@ Lembranças de casas, visualizações de interiores, apresentação de proprieda
 
 Transforme uma foto de casa em uma lembrança em aquarela ou arte linear.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos da casa — obrigatório
 - **Preservar:** Mantenha a linha do telhado, as portas, as janelas, as proporções da fachada e as características distintivas do local.
 - **Alterar:** Altere o meio, a simplificação do plano de fundo, a ênfase do paisagismo e a paleta.
@@ -34,6 +35,7 @@ Deliver one finished keepsake image only.
 
 Visualize um novo estilo interior, mantendo a estrutura da sala fotografada.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos de quartos existentes — obrigatório
 - **Preservar:** Mantenha paredes, portas, janelas, teto, aberturas fixas e ponto de vista da câmera.
 - **Alterar:** Altere móveis, acabamentos, decoração, paleta e clima de iluminação.
@@ -59,6 +61,7 @@ Deliver one single-view room concept image only.
 
 Visualize uma reforma paisagística para um espaço ao ar livre fotografado.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do quintal ou espaço externo — obrigatório; requisitos de uso, clima ou localização - obrigatório
 - **Preservar:** Mantenha os limites do lote, construção, declives, acessos e estruturas fixas.
 - **Alteração:** Altere os conceitos de plantio, pavimentação, móveis, iluminação e comodidades.
@@ -84,6 +87,7 @@ Deliver one finished exterior concept image only.
 
 Substitua as superfícies especificadas da sala usando uma amostra fornecida ou uma descrição precisa de cor e material.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos do interior — obrigatórias; Amostras de materiais alvo – condicionais (quando texturas específicas ou amostras de produtos precisam ser reproduzidas); Superfícies alternativas e cores/materiais alvo — obrigatório
 - **Preservar:** Mantenha a estrutura da sala, a lógica de iluminação, o posicionamento dos objetos e as superfícies não desejadas.
 - **Alterar:** Altere apenas áreas nomeadas de paredes, pisos ou papel de parede.
@@ -109,6 +113,7 @@ Deliver one edited material-preview image only.
 
 Visualize uma reformulação de um escritório existente a partir de uma foto do local ou de um conceito de local de trabalho baseado em texto.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos do local do escritório — condicionais (ao reformar um escritório existente); descrições de equipe, área funcional, marca e filial - obrigatório
 - **Preservar:** Mantenha a estrutura e as restrições visíveis somente quando uma foto do local for fornecida.
 - **Alterar:** altere estações de trabalho, zonas, móveis, marca, acabamentos e iluminação.
@@ -134,6 +139,7 @@ Deliver one office concept image only and flag technical questions for professio
 
 Adicione móveis e decoração confiáveis ​​a uma foto de propriedade vazia.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos dos quartos disponíveis — obrigatório
 - **Preservar:** Mantenha a arquitetura real, as condições do ambiente, as janelas, as portas e a visão da câmera.
 - **Alteração:** Altere apenas móveis móveis, decoração, bens de consumo e apresentação de iluminação.
@@ -159,6 +165,7 @@ Deliver one staged room image only.
 
 Limpe a desordem visível enquanto preserva a condição e a estrutura verdadeiras de uma sala.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Fotos aleatórias de salas bagunçadas — obrigatório
 - **Preservar:** Manter layout, elementos fixos, superfícies, iluminação e defeitos de materiais.
 - **Alteração:** Remova apenas a desordem móvel listada e faça correções restritas na apresentação.
@@ -184,6 +191,7 @@ Deliver one cleaned property image only.
 
 Desenvolva uma fachada a partir de um esboço opcional ou de um resumo de uso do edifício e direção do projeto.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Esboço arquitetônico ou diagrama de blocos — opcional (quando o usuário já possui um esboço de forma de construção, abertura ou terreno); Uso arquitetônico, palavras-chave de design – obrigatório
 - **Preservar:** Mantenha a massa e as aberturas fornecidas somente quando existir um esboço ou referência de massa.
 - **Alterar:** Altere os materiais da fachada, a articulação, o ambiente, a paisagem e a luz.
@@ -209,6 +217,7 @@ Deliver one facade concept rendering only for design discussion.
 
 Renderize um desenho arquitetônico ou de linhas internas fornecido sem alterar a estrutura pretendida.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Esboço interior ou arquitetônico/wireframe CAD — obrigatório; Uso de espaço e significado do esboço – obrigatório
 - **Preservar:** mantenha aberturas, geometria, relações de layout e enquadramento da câmera.
 - **Alterar:** Altere materiais, iluminação, móveis, paisagem e atmosfera.
@@ -234,6 +243,7 @@ Deliver one realistic concept rendering only.
 
 Crie um quadro de direção de design a partir de referências opcionais ou de um tipo de projeto e um resumo de palavras-chave.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Atmosfera espacial e placa de referência de materiais — opcional (caso o usuário já possua materiais direcionais); tipo de projeto e palavras-chave - obrigatório
 - **Preservar:** Mantenha as cores de referência e as identidades dos materiais fornecidas somente quando existirem referências.
 - **Alterar:** altere o layout, a hierarquia, os cortes, as anotações e o suporte às amostras geradas.

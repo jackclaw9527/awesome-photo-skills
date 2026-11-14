@@ -25,6 +25,7 @@ The reference materials and results are used to illustrate the visual direction.
 | Product photos | Picture/Image | 1 piece | Required / Required |
 | Accurate dimensions, selling points and parameters | Character / Text | 1 group | Required / Required |
 
+
 This time a single visual preview is generated. Data calculation, precise typesetting, vector or production files still need to be verified by corresponding tools.
 
 ## Retain and change / Editing brief
@@ -71,4 +72,4 @@ Result direction: product infographic. When exact text, transparent files, vecto
 
 These links are only to aid in understanding the purpose and are not proof of the source or authorization of the images on this page.
 
-For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 50 templates ](../prompts.md).
+For the scope of use of pictures and materials, see [ content description ](../content-policy.md). [View all 100 templates ](../prompts.md).

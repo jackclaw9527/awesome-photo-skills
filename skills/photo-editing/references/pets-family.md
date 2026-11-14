@@ -9,6 +9,7 @@ Pet portraits, family composites, couple keepsakes, and milestone images. These 
 
 Turn one pet photo into a display-ready portrait.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 宠物照片 — required
 - **Preserve:** Keep the pet’s identity, markings, eye color, ear shape, and body proportions.
 - **Change:** Change the setting, lighting, palette, and artistic treatment.
@@ -34,6 +35,7 @@ Deliver one finished portrait image; do not create a sheet, sequence, or alterna
 
 Place a real pet in an original royal or historical portrait concept.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 宠物照片 — required
 - **Preserve:** Keep the pet’s face, coat pattern, eye color, and species-specific anatomy.
 - **Change:** Change clothing, props, background, and period-inspired atmosphere.
@@ -59,6 +61,7 @@ Deliver one finished portrait image only.
 
 Place a recognizable pet in a humorous bathroom, kitchen, or domestic scene.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 宠物照片 — required
 - **Preserve:** Keep identity, coat markings, anatomy, and scale consistent.
 - **Change:** Change environment, pose context, and playful props.
@@ -84,6 +87,7 @@ Deliver one finished image suitable for [PRINT OR DIGITAL USE].
 
 Create a quiet memorial image from a pet photo and confirmed remembrance details.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 宠物照片 — required
 - **Preserve:** Keep the pet’s identity and all supplied names and dates exact.
 - **Change:** Change background, light, floral details, and commemorative mood.
@@ -109,6 +113,7 @@ Deliver one finished memorial image only, and flag all rendered text for proofre
 
 Combine supplied family-member and pet references into one coherent portrait.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 家庭成员照片 — required; 宠物照片 — required
 - **Preserve:** Keep every person and pet individually recognizable, with correct count and markings.
 - **Change:** Change shared setting, wardrobe coordination, light, and arrangement.
@@ -134,6 +139,7 @@ Deliver one complete group portrait image only.
 
 Transform one couple photo into commemorative artwork.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 情侣照片 — required
 - **Preserve:** Keep both identities, relationship, pose logic, and confirmed names or dates.
 - **Change:** Change artistic medium, background, palette, and celebratory details.
@@ -159,6 +165,7 @@ Deliver one finished image only and mark any rendered text for manual proofreadi
 
 Assemble separately photographed relatives into one fictional but coherent family portrait.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 全部入画成员照片 — required; 人数、人物关系与排列 — required
 - **Preserve:** Keep all supplied identities, requested count, relationships, and arrangement.
 - **Change:** Change shared setting, pose integration, light, and coordinated styling.
@@ -184,6 +191,7 @@ Deliver one complete family portrait image only.
 
 Restyle a family photo for a specified holiday.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 家庭照片 — required; 节日名称或主题 — required
 - **Preserve:** Keep all people, identities, count, and unobscured facial features.
 - **Change:** Change decor, wardrobe accents, background, and holiday atmosphere.
@@ -209,6 +217,7 @@ Deliver one finished holiday portrait image only.
 
 Create a wedding-inspired portrait from a couple photo without presenting it as a real event record.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 情侣照片 — required
 - **Preserve:** Keep both identities, natural relationship, and body proportions.
 - **Change:** Change wardrobe, setting, floral styling, and ceremonial mood.
@@ -234,6 +243,7 @@ Deliver one finished portrait image only.
 
 Create one milestone image using a baby photo and parent-confirmed facts.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 宝宝照片 — required; 月龄或里程碑 — required
 - **Preserve:** Keep the baby’s identity, age-appropriate anatomy, and confirmed milestone wording.
 - **Change:** Change backdrop, props, color palette, and celebratory layout.

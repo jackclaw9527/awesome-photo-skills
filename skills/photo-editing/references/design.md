@@ -9,6 +9,7 @@ Thumbnails, posters, infographics, covers, mockups, menus, logos, and display le
 
 Create one high-contrast thumbnail around a verified video topic and optional subject image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 视频人物或主题物件原图 — optional (缩略图要出现特定人物、产品或实物时); 视频主题或标题 — required
 - **Preserve:** Keep supplied person or object identity and the exact approved title.
 - **Change:** Change composition, background, expression emphasis, color, and title treatment.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Create one event poster from confirmed event facts and optional approved visual material.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 活动主视觉素材原稿 — optional (海报要使用特定人物、商品、作品或品牌标志时); 活动名称、核心信息、时间与地点或参与方式 — required
 - **Preserve:** Keep supplied people, products, artwork, brand marks, and event facts exact.
 - **Change:** Change layout, background, image treatment, hierarchy, and decorative system.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Create one sales-moment poster from confirmed promotion details and an optional product image.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 促销商品原图 — optional (节点促销图要展示特定商品时); 节庆或销售节点、商品或服务、促销信息 — required
 - **Preserve:** Keep the product and every supplied price, discount, date, and condition exact.
 - **Change:** Change seasonal decor, composition, palette, emphasis, and promotional hierarchy.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Create one formal event poster using confirmed participants, exhibits, and logistics.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 讲者、参展人或展品原图 — optional (海报要展示真实讲者、参展人或展品时); 活动题目、讲者或参展信息、时间、地点或参与方式 — required
 - **Preserve:** Keep supplied portraits or exhibits and all names, titles, organizers, and facts exact.
 - **Change:** Change grid, visual hierarchy, background, palette, and image treatment.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Turn verified facts and relationships into one clear infographic visual.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 已有信息结构草图 — optional (用户已有流程、层级或关系草图时); 事实内容、信息结构或关系 — required
 - **Preserve:** Keep all facts, numbers, order, hierarchy, and relationships exactly as supplied.
 - **Change:** Change iconography, layout, color coding, visual grouping, and emphasis.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Create one horizontal cover image that accurately reflects a supplied article topic.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 文章涉及的人物、商品或事件素材原图 — optional (头图必须呈现文章中的特定人物、商品或事件素材时); 文章主题 — required
 - **Preserve:** Keep supplied people, products, events, and brand elements faithful.
 - **Change:** Change visual metaphor, composition, background, palette, and editorial treatment.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Place a real app screenshot into a specified device presentation without altering the interface.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 目标应用实际界面截图 — required; 目标设备与真实功能卖点 — required
 - **Preserve:** Keep screenshot content and all approved feature claims exact.
 - **Change:** Change device frame, background, composition, lighting, and marketing context.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Create one menu visual from confirmed dish names, prices, categories, and optional real food photography.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 真实菜品照片原图 — optional (菜单要展示餐厅实际菜品时); 菜品名称、准确价格、分类 — required
 - **Preserve:** Keep all menu facts and actual dish appearance exact.
 - **Change:** Change layout, background, decorative system, image crops, and hierarchy.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Create one original logo-concept presentation from a brand brief and optional existing identity assets.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 既有品牌标志与识别资产原稿 — optional (为已有品牌探索 Logo 延展而非从零创建时); 品牌名称、品牌定位、目标受众 — required
 - **Preserve:** Keep exact brand name and supplied identity assets; avoid third-party marks.
 - **Change:** Change symbol ideas, letterform direction, geometry, color, and presentation.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Render exact supplied wording as one decorative title treatment.
 
+- **Input mode:** Follow the task-specific requirements below
 - **Inputs:** 指定字形或材质字效样板 — optional (艺术字必须沿用既有字形语言或材质效果时); 准确文字、用途 — required
 - **Preserve:** Keep every character, spelling, order, and supplied letterform reference accurate.
 - **Change:** Change material effect, depth, lighting, background, and ornamental treatment.

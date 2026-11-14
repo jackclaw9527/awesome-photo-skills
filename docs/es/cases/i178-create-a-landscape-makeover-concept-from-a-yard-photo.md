@@ -25,6 +25,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | Fotos de su jardín o espacio exterior | Imagen/Imagen | 1 hoja; Se pueden combinar múltiples personajes o perspectivas en un tablero de referencia marcado. | Requerido / Requerido |
 | Requisitos de uso, clima o ubicación. | Carácter / Texto | 1 porción | Requerido / Requerido |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -65,4 +66,4 @@ Dirección del resultado: Representaciones paisajísticas. Cuando se requiera te
 - [Vista previa de diferentes estilos interiores en una foto de habitación · Vista previa del estilo de decoración de la habitación](./i169-preview-different-interior-styles-in-a-room-photo.md#public-prompt)
 - [Vista previa de pintura para paredes, pisos y papel tapiz · Vista previa de selección de pintura para paredes y materiales para pisos ](./i171-preview-wall-paint-flooring-and-wallpaper.md#public-prompt)
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

@@ -3,15 +3,15 @@
   "status": "draft",
   "site": "https://dearsketch.com",
   "summary": {
-    "totalCount": 262,
-    "activeCount": 260,
-    "selectedCount": 50,
-    "visibleCount": 247,
-    "additionalCount": 197,
-    "pairedCount": 175,
+    "totalCount": 246,
+    "activeCount": 246,
+    "selectedCount": 100,
+    "visibleCount": 246,
+    "additionalCount": 146,
+    "pairedCount": 174,
     "afterOnlyCount": 72,
-    "pendingCount": 13,
-    "archivedCount": 2
+    "pendingCount": 0,
+    "archivedCount": 0
   },
   "categories": [
     {
@@ -39,8 +39,8 @@
       "id": "category-04",
       "name": "सामाजिक मनोरंजन और आभासी पहचान",
       "page": "docs/gallery/category-04.md",
-      "count": 11,
-      "selectedCount": 5
+      "count": 9,
+      "selectedCount": 7
     },
     {
       "id": "category-05",
@@ -53,57 +53,57 @@
       "id": "category-06",
       "name": "फ़ैशन, कपड़े और वर्चुअल ट्राई-ऑन",
       "page": "docs/gallery/category-06.md",
-      "count": 14,
-      "selectedCount": 1
+      "count": 13,
+      "selectedCount": 2
     },
     {
       "id": "category-07",
       "name": "मार्केटिंग, विज्ञापन और सोशल मीडिया सामग्री",
       "page": "docs/gallery/category-07.md",
-      "count": 14,
-      "selectedCount": 8
+      "count": 6,
+      "selectedCount": 16
     },
     {
       "id": "category-08",
       "name": "ब्रांडिंग और ग्राफ़िक डिज़ाइन संपत्तियाँ",
       "page": "docs/gallery/category-08.md",
-      "count": 12,
-      "selectedCount": 2
+      "count": 7,
+      "selectedCount": 7
     },
     {
       "id": "category-09",
       "name": "चित्र, प्रकाशन और कहानियाँ",
       "page": "docs/gallery/category-09.md",
-      "count": 14,
-      "selectedCount": 0
+      "count": 6,
+      "selectedCount": 8
     },
     {
       "id": "category-10",
       "name": "POD और वैयक्तिकृत उत्पाद",
       "page": "docs/gallery/category-10.md",
-      "count": 18,
-      "selectedCount": 0
+      "count": 6,
+      "selectedCount": 12
     },
     {
       "id": "category-11",
       "name": "अंतरिक्ष, वास्तुकला और रियल एस्टेट",
       "page": "docs/gallery/category-11.md",
-      "count": 3,
-      "selectedCount": 9
+      "count": 2,
+      "selectedCount": 10
     },
     {
       "id": "category-12",
       "name": "उत्पाद अवधारणा और औद्योगिक डिजाइन",
       "page": "docs/gallery/category-12.md",
-      "count": 10,
-      "selectedCount": 0
+      "count": 4,
+      "selectedCount": 6
     },
     {
       "id": "category-13",
       "name": "खेल और आभासी संपत्ति",
       "page": "docs/gallery/category-13.md",
-      "count": 11,
-      "selectedCount": 0
+      "count": 4,
+      "selectedCount": 7
     },
     {
       "id": "category-14",
@@ -116,116 +116,11 @@
       "id": "category-15",
       "name": "छवि पुनर्स्थापना, संपादन और पुन: उपयोग",
       "page": "docs/gallery/category-15.md",
-      "count": 23,
+      "count": 22,
       "selectedCount": 0
     }
   ],
-  "pendingResults": [
-    {
-      "id": "I006",
-      "name": "चिकित्सा अनुप्रयोग के लिए ईआरएएस मानक अवतार उत्पन्न करें",
-      "category": "पेशा और औपचारिक स्थिति",
-      "detailPath": "/intent/i006-create-an-eras-compliant-medical-application-headshot.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i006-create-an-eras-compliant-medical-application-headshot.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i006_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I009",
-      "name": "वीज़ा या आईडी फोटो बनवाएं",
-      "category": "पेशा और औपचारिक स्थिति",
-      "detailPath": "/intent/i009-create-a-visa-or-id-photo.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i009-create-a-visa-or-id-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i009_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I217",
-      "name": "चिकित्सा या शरीर रचना अवधारणा चित्र तैयार करें",
-      "category": "शिक्षा एवं सूचना अभिव्यक्ति",
-      "detailPath": "/intent/i217-create-medical-or-anatomical-concept-illustrations.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i217-create-medical-or-anatomical-concept-illustrations.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i217_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I241",
-      "name": "दिनांक और स्थान के अनुसार एक स्मारक सितारा चार्ट बनाएं",
-      "category": "परिवार, स्मरण और भावना",
-      "detailPath": "/intent/i241-create-a-commemorative-star-map-for-a-date-and-place.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i241-create-a-commemorative-star-map-for-a-date-and-place.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i241_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I242",
-      "name": "शहरों, निर्देशांकों या यात्रा मार्गों को स्मारक मानचित्रों में बदलें",
-      "category": "परिवार, स्मरण और भावना",
-      "detailPath": "/intent/i242-create-a-keepsake-map-from-a-city-coordinates-or-travel-route.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i242-create-a-keepsake-map-from-a-city-coordinates-or-travel-route.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i242_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I245",
-      "name": "गाने या वॉयस रिकॉर्डिंग को ध्वनि स्मारक चित्रों में बदलें",
-      "category": "परिवार, स्मरण और भावना",
-      "detailPath": "/intent/i245-turn-a-song-or-voice-recording-into-soundwave-art.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i245-turn-a-song-or-voice-recording-into-soundwave-art.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i245_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I267",
-      "name": "एक मग या कप बॉडी की पूरी तरह से संलग्न ऊर्ध्वपातन छवि बनाएं",
-      "category": "POD और वैयक्तिकृत उत्पाद",
-      "detailPath": "/intent/i267-create-a-full-wrap-sublimation-design-for-a-mug-or-tumbler.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i267-create-a-full-wrap-sublimation-design-for-a-mug-or-tumbler.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i267_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I269",
-      "name": "डिज़ाइनों की समीक्षा करें और उन्हें मुद्रण योग्य उत्पादन फ़ाइलों में व्यवस्थित करें",
-      "category": "POD और वैयक्तिकृत उत्पाद",
-      "detailPath": "/intent/i269-check-and-prepare-a-design-as-a-print-ready-production-file.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i269-check-and-prepare-a-design-as-a-print-ready-production-file.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i269_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I281",
-      "name": "सर्जिकल चरणों या दवा तंत्र के चित्र बनाएं",
-      "category": "शिक्षा एवं सूचना अभिव्यक्ति",
-      "detailPath": "/intent/i281-illustrate-a-surgical-procedure-or-drug-mechanism.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i281-illustrate-a-surgical-procedure-or-drug-mechanism.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i281_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I282",
-      "name": "निदान और उपचार प्रक्रिया को एक शैक्षिक चार्ट में बदलें जो रोगियों के लिए समझने में आसान हो",
-      "category": "शिक्षा एवं सूचना अभिव्यक्ति",
-      "detailPath": "/intent/i282-turn-a-clinical-workflow-into-a-patient-friendly-educational-graphic.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i282-turn-a-clinical-workflow-into-a-patient-friendly-educational-graphic.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i282_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I285",
-      "name": "ऐक्रेलिक स्टैंड-अप कलाकृति में लोगों, पालतू जानवरों या पात्रों की तस्वीरें बनाएं",
-      "category": "POD और वैयक्तिकृत उत्पाद",
-      "detailPath": "/intent/i285-create-acrylic-standee-artwork-from-a-person-pet-or-character-photo.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i285-create-acrylic-standee-artwork-from-a-person-pet-or-character-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i285_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I286",
-      "name": "संग्रह कार्ड में मूर्ति या व्यक्तिगत फ़ोटो बनाएं",
-      "category": "POD और वैयक्तिकृत उत्पाद",
-      "detailPath": "/intent/i286-turn-an-idol-or-personal-photo-into-a-collectible-photocard.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i286-turn-an-idol-or-personal-photo-into-a-collectible-photocard.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i286_pending",
-      "status": "pending-result"
-    },
-    {
-      "id": "I288",
-      "name": "लोगों की तस्वीरों के साथ फिलीपीन इवेंट तिरपाल पृष्ठभूमि बनाएं",
-      "category": "मार्केटिंग, विज्ञापन और सोशल मीडिया सामग्री",
-      "detailPath": "/intent/i288-create-a-philippine-event-tarpaulin-from-a-portrait.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i288-create-a-philippine-event-tarpaulin-from-a-portrait.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i288_pending",
-      "status": "pending-result"
-    }
-  ],
+  "pendingResults": [],
   "cases": [
     {
       "id": "I001",
@@ -2261,8 +2156,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i054_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -2390,8 +2285,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i057-create-a-custom-emoji-from-text.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i057_cta",
+      "selected": true,
       "inputType": "पाठ इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है",
       "media": {
         "kind": "existing-project-demo",
@@ -2897,7 +2792,7 @@
           "quantity": "1"
         }
       ],
-      "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i072-create-multiple-camera-angles-from-one-product-photo.html",
       "websiteUrl": "https://dearsketch.com/hi/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta",
       "selected": false,
@@ -4024,8 +3919,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i100_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4187,8 +4082,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i104-create-everyday-social-media-post-visuals.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i104_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i104-create-everyday-social-media-post-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i104_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4307,8 +4202,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i109-create-a-website-advertising-or-event-banner.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i109_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i109-create-a-website-advertising-or-event-banner.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i109_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4438,8 +4333,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i113-create-a-wedding-birthday-or-party-invitation.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i113_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i113-create-a-wedding-birthday-or-party-invitation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i113_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4478,8 +4373,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i114-create-a-holiday-or-personalized-greeting-card.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i114_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i114-create-a-holiday-or-personalized-greeting-card.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i114_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -4564,8 +4459,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i116-create-a-school-event-or-course-poster.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i116_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i116-create-a-school-event-or-course-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i116_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4604,8 +4499,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i117-create-theme-matched-visuals-for-a-presentation.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i117_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i117-create-theme-matched-visuals-for-a-presentation.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i117_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4724,8 +4619,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i120-create-a-website-homepage-hero-visual.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i120_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i120-create-a-website-homepage-hero-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i120_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4809,8 +4704,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i122-create-quote-cards-and-educational-cards-with-text.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i122_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i122-create-quote-cards-and-educational-cards-with-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i122_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -4871,7 +4766,7 @@
       "category": "मार्केटिंग, विज्ञापन और सोशल मीडिया सामग्री",
       "categoryId": "category-07",
       "subcategory": "स्थानीयकरण",
-      "inputSummary": "संपूर्ण मूल विज्ञापन + लक्ष्य भाषा, बाज़ार और स्वीकृत अनुवाद → पाठ का अनुवाद करें, वर्ण और सांस्कृतिक तत्वों को बदलें → वर्तमान एकल स्थानीयकृत विज्ञापन क्रिएटिव",
+      "inputSummary": "1 पूर्ण मूल विज्ञापन + लक्षित देश या क्षेत्र (निर्दिष्ट भाषा, सांस्कृतिक प्राथमिकता या संशोधित अनुवाद जोड़ा जा सकता है)",
       "roles": [
         {
           "kind": "image",
@@ -4881,12 +4776,18 @@
         },
         {
           "kind": "text",
-          "label": "लक्षित भाषाएँ, बाज़ार और समीक्षित अनुवाद",
+          "label": "लक्ष्य देश या क्षेत्र",
           "requirement": "required",
-          "quantity": "1 सर्विंग"
+          "quantity": "1 समान"
+        },
+        {
+          "kind": "text",
+          "label": "भाषा, सांस्कृतिक प्राथमिकताएँ निर्दिष्ट करें या अनुवादों की समीक्षा करें",
+          "requirement": "optional",
+          "quantity": "0 या 1 सर्विंग"
         }
       ],
-      "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
+      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i125-adapt-one-ad-visual-for-different-languages-and-cultures.html",
       "websiteUrl": "https://dearsketch.com/hi/intent/i125-adapt-one-ad-visual-for-different-languages-and-cultures.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i125_cta",
       "selected": false,
@@ -4974,8 +4875,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i127-create-product-or-interface-icons.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i127_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5007,8 +4908,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i128-create-an-editable-vector-illustration-from-text.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i128_cta",
+      "selected": true,
       "inputType": "पाठ इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है",
       "media": {
         "kind": "existing-project-demo",
@@ -5047,8 +4948,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i129_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5241,8 +5142,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i134-create-packaging-label-and-box-concepts.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i134_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5281,8 +5182,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i135_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5623,8 +5524,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i143-create-a-book-cover-from-its-title-and-content.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i143_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i143_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5755,8 +5656,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i146-create-a-character-sheet-with-multiple-views.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i146_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i146_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5795,8 +5696,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i147_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i147_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5913,8 +5814,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i150-create-adult-coloring-book-pages-in-batches.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i150_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i150_cta",
+      "selected": true,
       "inputType": "पाठ इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है",
       "media": {
         "kind": "existing-project-demo",
@@ -5953,8 +5854,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i151_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i151_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -5993,8 +5894,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i152-create-religious-historical-or-cultural-illustrations.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i152_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i152_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6079,8 +5980,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i154_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i154_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6119,8 +6020,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i155-create-album-cover-art-and-music-release-visuals.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i155_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i155_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -6165,8 +6066,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i156-create-a-print-ready-t-shirt-design.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i156_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i156-create-a-print-ready-t-shirt-design.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i156_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6205,8 +6106,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i157-create-a-themed-sticker-set.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i157_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i157-create-a-themed-sticker-set.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i157_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6245,8 +6146,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i158-create-printable-wall-art-and-decorative-artwork.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i158_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i158-create-printable-wall-art-and-decorative-artwork.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i158_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6285,8 +6186,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i159_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i159-create-a-personalized-phone-or-desktop-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i159_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6332,8 +6233,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i160_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i160-turn-text-or-an-image-into-an-embroidery-design-direction.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i160_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -6378,8 +6279,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i161_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i161-create-a-custom-tattoo-sketch-from-a-theme.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i161_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6418,8 +6319,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i163_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i163-create-personalized-artwork-for-a-tote-bag-or-phone-case.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i163_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6458,8 +6359,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i164_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i164-create-a-sellable-set-of-holiday-greeting-cards.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i164_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6498,8 +6399,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i165_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i165-create-seamless-patterns-for-fabric-wrapping-paper-or-wallpaper.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i165_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6538,8 +6439,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i166_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i166-create-vector-line-art-for-cricut-or-laser-cutting.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i166_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -6577,8 +6478,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i167_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i167-create-a-complete-kdp-coloring-book-with-pages-and-a-cover.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i167_cta",
+      "selected": true,
       "inputType": "पाठ इनपुट; यह उदाहरण केवल परिणाम उदाहरण दिखाता है",
       "media": {
         "kind": "existing-project-demo",
@@ -6617,8 +6518,8 @@
       ],
       "deliveryNote": "इस बार एकल दृश्य पूर्वावलोकन तैयार किया गया है. डेटा गणना, सटीक टाइपसेटिंग, वेक्टर या उत्पादन फ़ाइलों को अभी भी संबंधित टूल द्वारा सत्यापित करने की आवश्यकता है।",
       "detailPath": "/intent/i168-create-a-high-resolution-printable-poster.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i168_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i168-create-a-high-resolution-printable-poster.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i168_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -6820,7 +6721,7 @@
       "category": "अंतरिक्ष, वास्तुकला और रियल एस्टेट",
       "categoryId": "category-11",
       "subcategory": "वाणिज्यिक अंतरिक्ष",
-      "inputSummary": "साइट पर वाणिज्यिक स्थान की मूल छवि + व्यवसाय प्रारूप, ब्रांड स्थिति, मुख्य कार्य और यात्री प्रवाह की आवश्यकताएं → एक लेआउट और वातावरण उत्पन्न करें जो व्यवसाय प्रारूप के अनुरूप हो → वर्तमान एकल वाणिज्यिक स्थान अवधारणा मानचित्र",
+      "inputSummary": "वैकल्पिक ऑन-साइट वाणिज्यिक स्थान की मूल ड्राइंग + व्यवसाय प्रारूप, लक्ष्य डिजाइन दिशा, कार्य और यात्री प्रवाह की मांग",
       "roles": [
         {
           "kind": "image",
@@ -6831,15 +6732,15 @@
         },
         {
           "kind": "text",
-          "label": "व्यवसाय प्रारूप, ब्रांड स्थिति, मुख्य कार्य और ग्राहक प्रवाह की आवश्यकताएं",
+          "label": "व्यवसाय प्रारूप, लक्ष्य डिज़ाइन दिशा, कार्य और ग्राहक प्रवाह आवश्यकताएँ",
           "requirement": "required",
           "quantity": "1 सर्विंग"
         }
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i173_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i173_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -7080,7 +6981,7 @@
       "category": "अंतरिक्ष, वास्तुकला और रियल एस्टेट",
       "categoryId": "category-11",
       "subcategory": "योजना तुलना",
-      "inputSummary": "बेसलाइन अंतरिक्ष मानचित्र + वर्तमान सामग्री या प्रकाश चर → ​​सामग्री का प्रतिस्थापन, रंग मिलान और प्रकाश व्यवस्था → वर्तमान एकल योजना तुलना चार्ट",
+      "inputSummary": "1 संदर्भ स्थान आरेख + लक्ष्य डिज़ाइन दिशा, सतह सामग्री और प्रकाश आवश्यकताएँ",
       "roles": [
         {
           "kind": "image",
@@ -7090,9 +6991,9 @@
         },
         {
           "kind": "text",
-          "label": "वर्तमान सामग्री या प्रकाश चर",
+          "label": "लक्ष्य डिज़ाइन दिशा, सतह सामग्री और प्रकाश आवश्यकताएँ",
           "requirement": "required",
-          "quantity": "1 स्पष्ट योजना"
+          "quantity": "1 विशिष्ट योजना"
         }
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
@@ -7234,8 +7135,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i185-create-multiple-product-form-directions-from-a-brief.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i185_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i185-create-multiple-product-form-directions-from-a-brief.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i185_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7319,8 +7220,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i187_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i187-create-a-car-design-concept-from-text-or-a-sketch.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i187_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -7410,8 +7311,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i189_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i189-create-design-concepts-for-shoes-bags-and-accessories.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i189_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -7456,8 +7357,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i190-explore-packaging-structures-and-shelf-presence.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i190_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i190-explore-packaging-structures-and-shelf-presence.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i190_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -7502,8 +7403,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i191_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i191-create-a-presentation-ready-product-prototype-image-before-production.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i191_cta",
+      "selected": true,
       "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
       "media": {
         "kind": "existing-project-demo",
@@ -7593,8 +7494,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i193-create-a-3d-render-style-product-visual.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i193_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i193-create-a-3d-render-style-product-visual.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i193_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7633,8 +7534,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i194_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i194-create-a-2d-game-sprite-from-text-or-a-reference-image.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i194_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7673,8 +7574,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i196_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i196-turn-an-image-or-description-into-pixel-art-game-assets.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i196_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7713,8 +7614,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i197-create-game-character-concepts-and-outfit-directions.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i197_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i197-create-game-character-concepts-and-outfit-directions.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i197_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7753,8 +7654,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i198_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i198-create-a-d-and-d-or-tabletop-character-portrait.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i198_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7879,8 +7780,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i201-create-concepts-for-weapons-props-and-pickups.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i201_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i201-create-concepts-for-weapons-props-and-pickups.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i201_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7919,8 +7820,8 @@
       ],
       "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
       "detailPath": "/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i202_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i202-create-concepts-for-game-backgrounds-scenes-and-landmarks.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i202_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -7959,8 +7860,8 @@
       ],
       "deliveryNote": "एक समय में केवल वर्तमान में चयनित छवि ही उत्पन्न होती है; श्रृंखला की अन्य छवियां अलग से निष्पादित की जाती हैं।",
       "detailPath": "/intent/i203-create-character-and-scene-artwork-for-a-card-game.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i203_cta",
-      "selected": false,
+      "websiteUrl": "https://dearsketch.com/hi/intent/i203-create-character-and-scene-artwork-for-a-card-game.html?utm_source=github&utm_medium=case&utm_campaign=dearsketch-public-cases&utm_content=i203_cta",
+      "selected": true,
       "inputType": "यह उदाहरण केवल परिणाम उदाहरण दिखाता है; छवि इनपुट पूर्वावलोकन जोड़ा जाना है।",
       "media": {
         "kind": "existing-project-demo",
@@ -8508,52 +8409,6 @@
       },
       "publicationStatus": "draft",
       "categoryPage": "docs/gallery/category-14.md"
-    },
-    {
-      "id": "I218",
-      "name": "लोगों या उत्पाद पृष्ठभूमियों को स्वचालित रूप से हटा दें",
-      "englishName": "Remove the background from a person or product image",
-      "category": "छवि पुनर्स्थापना, संपादन और पुन: उपयोग",
-      "categoryId": "category-15",
-      "subcategory": "पृष्ठभूमि",
-      "inputSummary": "उस व्यक्ति या उत्पाद की मूल फ़ोटो जिसे काटा जाना चाहिए (1 फ़ोटो) + वह विषय जिसे बनाए रखने की आवश्यकता है (1 फ़ोटो)",
-      "roles": [
-        {
-          "kind": "image",
-          "label": "काटे जाने वाले व्यक्ति या उत्पाद की मूल फ़ोटो",
-          "requirement": "required",
-          "quantity": "1 टुकड़ा"
-        },
-        {
-          "kind": "text",
-          "label": "रखे जाने वाले विषय",
-          "requirement": "conditional",
-          "quantity": "1",
-          "condition": "जब मूल छवि में एकाधिक वर्ण या उत्पाद उम्मीदवार हों"
-        }
-      ],
-      "deliveryNote": "एक समय में केवल एक ही छवि उत्पन्न होती है।",
-      "detailPath": "/intent/i218-remove-the-background-from-a-person-or-product-image.html",
-      "websiteUrl": "https://dearsketch.com/hi/intent/i218-remove-the-background-from-a-person-or-product-image.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i218_cta",
-      "selected": false,
-      "inputType": "संदर्भ सामग्री पूर्वावलोकन और परिणाम उदाहरण शामिल हैं",
-      "media": {
-        "kind": "existing-project-demo",
-        "generatedByPublicTutorial": false,
-        "references": [
-          {
-            "label": "काटे जाने वाले व्यक्ति या उत्पाद की मूल फ़ोटो",
-            "file": "assets/cases/i218-before-1.webp",
-            "sha256": "5117479df6871943c4f28677b918bf3017515f8f9a23981af87a36a510c75427"
-          }
-        ],
-        "result": {
-          "file": "assets/cases/i218-after.webp",
-          "sha256": "12e82479a17907fd093616e3a57b2ecb0a27cfeab08d13689a3c9605f7a9a5da"
-        }
-      },
-      "publicationStatus": "draft",
-      "categoryPage": "docs/gallery/category-15.md"
     },
     {
       "id": "I219",

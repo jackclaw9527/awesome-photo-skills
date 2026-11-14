@@ -24,6 +24,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Photos originales de vrais plats | Photo/Image | 0-1 ; plusieurs matériaux peuvent être combinés en un seul tableau de référence étiqueté | Facultatif/Facultatif : Lorsque le menu souhaite afficher les plats réels du restaurant |
 | Nom des plats, prix exact, classement | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Cette fois, un seul aperçu visuel est généré. Le calcul des données, la composition précise, les fichiers vectoriels ou de production doivent encore être vérifiés par les outils correspondants.
 
 ## Conserver et modifier / Brief d'édition
@@ -70,4 +71,4 @@ Direction des résultats : Menu. Lorsque du texte exact, des fichiers transpar
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

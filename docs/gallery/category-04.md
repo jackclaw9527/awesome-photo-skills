@@ -3,7 +3,7 @@
 [中文](../../README.md) · [English](../../README.en.md) · [Português](../../README.pt.md) · [Español](../../README.es.md) · [Français](../../README.fr.md) · [Deutsch](../../README.de.md) · [عربي](../../README.ar.md) · [русский](../../README.ru.md) · [日本語](../../README.ja.md) · [हिंदी](../../README.hi.md)
 
 
-精选目录之外的 11 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
+精选目录之外的 9 个案例。这里不公开提示词，只展示现有参考素材、结果方向与最少素材要求。
 
 [返回更多案例目录](./index.md) · [返回仓库首页](../../README.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · 生成YouTube频道或直播头像
-
-<table>
-<thead><tr><th width="50%">参考素材</th><th width="50%">结果示例</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>人物照片或既有角色图</strong><br><img src="../../assets/cases/i054-before-1.webp" alt="生成YouTube频道或直播头像 — 参考素材 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../assets/cases/i054-after.webp" alt="生成YouTube频道或直播头像 — 结果示例" width="340"></a></td></tr></tbody>
-</table>
-
-- **输入类型：** 含参考素材预览与结果示例
-- **素材要求：** 0或1张人物照片或既有角色图＋1项频道主题
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta)
-
----
-
 ## I055 · 为交友应用生成自然吸引人的头像
 
 <table>
@@ -81,20 +66,6 @@
 - **说明：** 每次只生成一张图片。
 
 [在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta)
-
----
-
-## I057 · 根据文字生成自定义Emoji
-
-<p><strong>结果示例</strong></p>
-<p><a href="https://dearsketch.com/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../assets/cases/i057-after.webp" alt="根据文字生成自定义Emoji — 结果示例" width="340"></a></p>
-<p>本例为文字输入，未附图片参考。</p>
-
-- **输入类型：** 文字输入；本例仅展示结果示例
-- **素材要求：** 1项情绪或含义＋1组主体或象征物描述
-- **说明：** 每次只生成一张图片。
-
-[在 dearsketch 查看具体要求并制作](https://dearsketch.com/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta)
 
 ---
 

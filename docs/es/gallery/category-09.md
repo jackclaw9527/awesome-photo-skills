@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 casos fuera del catálogo destacado. Las palabras clave no se divulgan aquí, solo se muestran los materiales de referencia existentes, las instrucciones de resultados y los requisitos mínimos de materiales.
+6 casos fuera del catálogo destacado. Las palabras clave no se divulgan aquí, solo se muestran los materiales de referencia existentes, las instrucciones de resultados y los requisitos mínimos de materiales.
 
 [Volver a más catálogos de casos](./index.md) · [Volver a la página de inicio del almacén](../../../README.es.md)
 
@@ -20,20 +20,6 @@
 - **Descripción:** Solo se genera el seleccionado actualmente a la vez; Otras imágenes de la serie están ejecutadas por separado.
 
 [ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i141-create-a-children-s-picture-book-with-consistent-characters-from-a-story.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i141_cta)
-
----
-
-## I143 · Generar portada de libro según el título y el contenido del libro
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i143_image"><img src="../../../assets/cases/i143-after.webp" alt="Generar portada de libro según el título y el contenido del libro: resultados de ejemplo" width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos de material:** Marca de la serie o manuscrito de carácter existente + título del libro, tipo de libro, introducción del contenido → Generar ilustración de portada y dirección de diseño → Portada del libro único actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i143-create-a-book-cover-from-its-title-and-content.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i143_cta)
 
 ---
 
@@ -62,34 +48,6 @@
 - **Descripción:** Esta vez se genera una única vista previa visual. Los cálculos de datos, la composición tipográfica precisa, los archivos vectoriales o de producción aún deben ser verificados por las herramientas correspondientes.
 
 [ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i145-turn-a-script-or-idea-into-a-film-storyboard.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i145_cta)
-
----
-
-## I146 · Generar hoja de personaje y vistas multiángulo
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i146_image"><img src="../../../assets/cases/i146-after.webp" alt="Genere hojas de personajes y vistas de múltiples ángulos: resultados de ejemplo" width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos de material:** Manuscrito de referencia de personaje existente + descripción del personaje, propósito y perspectiva de visualización requerida → Generar el anverso y el reverso de una apariencia unificada → Hoja de personaje única actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i146-create-a-character-sheet-with-multiple-views.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i146_cta)
-
----
-
-## I147 · Genera arte conceptual de películas, juegos o publicidad a partir de texto
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i147_image"><img src="../../../assets/cases/i147-after.webp" alt="Generar arte conceptual de películas, juegos o publicidad a partir de texto: ejemplo de resultados" width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos de materiales:** Personaje, ubicación o configuración del producto borrador original + tipo de proyecto, visión del mundo o creatividad del producto, estado de ánimo y propósito → Generar atmósfera, composición y visión del mundo → Arte conceptual único actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i147-create-concept-art-for-film-games-or-advertising-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i147_cta)
 
 ---
 
@@ -123,48 +81,6 @@
 
 ---
 
-## I150 · Generación por lotes de páginas de libros para colorear para adultos
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i150_image"><img src="../../../assets/cases/i150-after.webp" alt="Generación por lotes de páginas de libros para colorear para adultos: resultados de ejemplo" width="340"></a></p>
-<p>Este ejemplo es entrada de texto, no se adjunta ninguna referencia de imagen.</p>
-
-- **Tipo de entrada:** Entrada de texto; este ejemplo solo muestra ejemplos de resultados
-- **Requisitos de material:** Tema completo del libro, número de páginas → Generar series de dibujos lineales consistentes → Libro para colorear para adultos solteros actual
-- **Descripción:** Solo se genera el seleccionado actualmente a la vez; Otras imágenes de la serie están ejecutadas por separado.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i150-create-adult-coloring-book-pages-in-batches.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i150_cta)
-
----
-
-## I151 · Genera ilustraciones apropiadas para la edad de libros de texto u hojas de trabajo
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i151_image"><img src="../../../assets/cases/i151-after.webp" alt="Genere ilustraciones apropiadas para la edad para materiales didácticos u hojas de trabajo: ejemplos de resultados." width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos de materiales:** Bosquejo de hechos del material didáctico + tema de enseñanza, objetivos de aprendizaje, edad del estudiante → Generar ilustraciones claras y amigables → Ilustraciones educativas del folleto actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i151-create-age-appropriate-illustrations-for-textbooks-or-worksheets.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i151_cta)
-
----
-
-## I152 · Generar historias religiosas, ilustraciones de temática histórica o cultural.
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i152_image"><img src="../../../assets/cases/i152-after.webp" alt="Genere ilustraciones de historias religiosas, históricas o temas culturales: resultados de ejemplo" width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos materiales:** Imágenes de referencia de época, religión u objetos culturales + historias o eventos específicos, antecedentes culturales y de época, audiencia → Generar ilustraciones narrativas que respeten el contexto → Ilustración narrativa cultural única actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i152-create-religious-historical-or-cultural-illustrations.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i152_cta)
-
----
-
 ## I153 · Genera ilustraciones de tarot, juegos de mesa o cartas coleccionables
 
 <p><strong>Ejemplo de resultados</strong></p>
@@ -176,32 +92,3 @@
 - **Descripción:** Solo se genera el seleccionado actualmente a la vez; Otras imágenes de la serie están ejecutadas por separado.
 
 [ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i153-create-artwork-for-tarot-board-game-or-collectible-cards.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i153_cta)
-
----
-
-## I154 · Generar ilustraciones conceptuales para artículos, revistas e informes.
-
-<p><strong>Ejemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/es/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i154_image"><img src="../../../assets/cases/i154-after.webp" alt="Genere ilustraciones conceptuales para artículos, revistas e informes: ejemplos de resultados." width="340"></a></p>
-<p>Este ejemplo no incluye una referencia de imagen y la vista previa de entrada debe completarse; consulte los requisitos de materiales a continuación.</p>
-
-- **Tipo de entrada:** Este ejemplo solo muestra ejemplos de resultados; se agregará la vista previa de entrada de imagen
-- **Requisitos materiales:** Imágenes originales de los personajes u objetos involucrados en el artículo + el punto de vista central del artículo, tono y contexto de publicación → Generar ilustraciones abstractas o narrativas → Folleto actual Ilustración editorial
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i154-create-editorial-illustrations-for-articles-magazines-and-reports.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i154_cta)
-
----
-
-## I155 · Genera portadas de álbumes y visuales de lanzamientos musicales
-
-<table>
-<thead><tr><th width="50%">Material de referencia</th><th width="50%">Ejemplo de resultados</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Foto original del artista.</strong><br><img src="../../../assets/cases/i155-before-1.webp" alt="Generar imágenes de portada de álbum y lanzamiento musical: material de referencia 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/es/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i155_image"><img src="../../../assets/cases/i155-after.webp" alt="Generación de imágenes de carátulas de álbumes y lanzamientos musicales: resultados de ejemplo" width="340"></a></td></tr></tbody>
-</table>
-
-- **Tipo de entrada:** Incluye vista previa del material de referencia y ejemplo de resultados.
-- **Requisitos de material:** Foto original del artista + ambiente musical → Generar recursos visuales y de serie principales de portada → Portada del álbum único actual
-- **Descripción:** Solo se genera una imagen a la vez.
-
-[ Verifique los requisitos específicos en dearsketch y haga ](https://dearsketch.com/es/intent/i155-create-album-cover-art-and-music-release-visuals.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i155_cta)

@@ -5,7 +5,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-14 حالة خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
+13 حالة خارج الكتالوج المميز. لم يتم الكشف عن الكلمات السريعة هنا، بل يتم عرض فقط المواد المرجعية الموجودة وتوجيهات النتائج والحد الأدنى من متطلبات المواد.
 
 [الرجوع إلى المزيد من كتالوجات الحالات](./index.md) · [الرجوع إلى الصفحة الرئيسية للمستودع](../../../README.ar.md)
 
@@ -159,20 +159,6 @@
 - **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
 
 [ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i099-create-one-outfit-idea-around-a-garment.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i099_cta)
-
----
-
-## I100 · إنشاء مطبوعات وأنماط قماشية سلسة للملابس
-
-<p><strong>مثال على النتائج</strong></p>
-<p><a href="https://dearsketch.com/ar/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i100_image"><img src="../../../assets/cases/i100-after.webp" alt="قم بإنشاء مطبوعات وأنماط قماشية سلسة للملابس - أمثلة على النتائج" width="340"></a></p>
-<p>لا يتضمن هذا المثال مرجعًا للصورة، ويجب إكمال معاينة الإدخال؛ انظر متطلبات المواد أدناه.</p>
-
-- **نوع الإدخال:** يعرض هذا المثال أمثلة النتائج فقط؛ تتم إضافة معاينة إدخال الصورة
-- **متطلبات المواد:** مجموعة واحدة من عناصر السمة + 0 أو 1 مرجع للنمط
-- **الوصف:** هذه المرة يتم إنشاء معاينة مرئية واحدة. لا تزال هناك حاجة إلى التحقق من حساب البيانات أو التنضيد الدقيق أو ملفات المتجهات أو الإنتاج باستخدام الأدوات المقابلة.
-
-[ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i100-create-seamless-prints-and-fabric-patterns-for-clothing.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i100_cta)
 
 ---
 

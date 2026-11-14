@@ -35,7 +35,7 @@
 
 - **نوع الإدخال:** يتضمن معاينة المواد المرجعية ومثال النتيجة
 - **متطلبات المواد:** صورة واحدة للمنتج بزاوية واحدة + زاوية مراقبة مستهدفة واحدة لهذه المرة
-- **الوصف:** يتم إنشاء الخيار المحدد حاليًا فقط في كل مرة؛ يتم تنفيذ الصور الأخرى في السلسلة بشكل منفصل.
+- **الوصف:** يتم إنشاء صورة واحدة فقط في كل مرة.
 
 [ تحقق من المتطلبات المحددة في dearsketch وقم بإجراء ](https://dearsketch.com/ar/intent/i072-create-multiple-camera-angles-from-one-product-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i072_cta)
 

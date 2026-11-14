@@ -24,6 +24,7 @@ Die Referenzmaterialien und Ergebnisse dienen zur Veranschaulichung der visuelle
 | Der Originaltext des wichtigsten visuellen Materials der Veranstaltung | Bild/Bild | 0–1; Mehrere Materialien können zu einer beschrifteten Referenztafel kombiniert werden | Optional/Optional: Wenn das Poster ein bestimmtes Personen-, Produkt-, Werk- oder Markenlogo verwendet |
 | Veranstaltungsname, Kerninformationen, Zeit und Ort oder Teilnahmemethode | Zeichen / Text | 1 Portion | Erforderlich / Erforderlich |
 
+
 Diesmal wird eine einzelne visuelle Vorschau generiert. Datenberechnung, präziser Satz, Vektor- oder Produktionsdateien müssen noch durch entsprechende Tools überprüft werden.
 
 ## Behalten und ändern / Kurzfassung bearbeiten
@@ -71,4 +72,4 @@ Ergebnisrichtung: Veranstaltungsplakat. Wenn exakter Text, transparente Dateien,
 
 Diese Links dienen lediglich dem Verständnis des Zwecks und sind kein Beweis für die Quelle oder Autorisierung der Bilder auf dieser Seite.
 
-Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 50 Vorlagen anzeigen ](../prompts.md).
+Den Umfang der Nutzung von Bildern und Materialien finden Sie in der Inhaltsbeschreibung [ ](../content-policy.md). [Alle 100 Vorlagen anzeigen ](../prompts.md).

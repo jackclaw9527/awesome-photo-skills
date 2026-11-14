@@ -5,7 +5,7 @@
 
 ## Copy a prompt
 
-1. Select tasks from [50 templates ](./prompts.md) and open the case page.
+1. Select a task from [100 templates ](./prompts.md) and open the case page.
 2. Prepare the required inputs in the material table to confirm whether the conditional material applies to you.
 3. Copy Public prompt and replace the content in square brackets. When you need image editing, attach the corresponding image to your tool; text cannot replace the actual image attachment.
 4. Produce one result at a time and accept it according to the checkpoints for that case.
@@ -14,7 +14,7 @@ Choose a template, attach the required materials in your image tool, fill in its
 
 ## Agent Skill
 
-Skill is responsible for converting "What do I want to do" into a clear input list, retaining key points and complete prompt words, and does not call the payment interface by default. It contains its own reference of 50 templates and does not rely on the entire library once installed.
+Skill is responsible for converting "What do I want to do" into a clear input list, retaining key points and complete prompt words, and does not call the payment interface by default. It contains its own reference of 100 templates and does not rely on the entire library once installed.
 
 ### Codex
 

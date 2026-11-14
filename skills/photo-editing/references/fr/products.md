@@ -9,6 +9,7 @@ Liste des actifs, découpes transparentes, images de style de vie et de studio, 
 
 Isolez un produit réel dans une image épurée sur fond blanc de style marché.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos de produits prises avec des téléphones mobiles – obligatoires
 - **Préserver :** Conservez la forme, les proportions, la couleur, les étiquettes, les détails de la surface et les pièces incluses du produit.
 - **Modifier :** Modifiez l'arrière-plan, le recadrage, l'équilibre de l'éclairage et l'ombre restreinte.
@@ -34,6 +35,7 @@ Deliver one product image only.
 
 Extrayez un produit sous forme de découpe réutilisable avec un véritable canal alpha.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos du produit – obligatoire
 - **Préserver :** Conservez tous les bords, ouvertures, étiquettes, couleurs et détails transparents ou réfléchissants du produit.
 - **Modification :** Modifiez uniquement la suppression de l'arrière-plan, le nettoyage des bords et la gestion facultative des ombres neutres.
@@ -59,6 +61,7 @@ Deliver one cutout asset only; do not substitute a white-background image.
 
 Placez une découpe de produit inchangée dans un contexte d'utilisation crédible.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Image d'arrière-plan blanc du produit – obligatoire
 - **Préserver :** Conservez le modèle, la géométrie, la couleur, les étiquettes, les matériaux et les proportions du produit.
 - **Modification :** Modifiez l'environnement, le style, la lumière, le contexte de la caméra et les accessoires de support.
@@ -84,6 +87,7 @@ Deliver one finished lifestyle product image only.
 
 Remettez en scène une photo de produit avec un éclairage de studio professionnel tout en conservant les informations sur le produit.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos du produit – obligatoire
 - **Préserver :** Conservez la géométrie, les étiquettes, les couleurs, les matériaux, la texture et les composants inclus.
 - **Modification :** Modifiez la toile de fond, la disposition de la lumière, le polissage de l'appareil photo et le traitement des ombres.
@@ -109,6 +113,7 @@ Deliver one studio product image only.
 
 Construisez une scène de vacances ou de saison des soldes autour d’un produit réel.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos du produit – obligatoire ; Thèmes de vacances ou promotionnels – obligatoire
 - **Préserver :** Conservez l'identité, le design, l'étiquette, la couleur et les informations promotionnelles fournies du produit.
 - **Modifier :** Modifiez le décor, la toile de fond, la lumière, la palette et la composition de la campagne.
@@ -134,6 +139,7 @@ Deliver one finished promotional product image only.
 
 Créez une image promotionnelle appétissante à partir d’une photo de plat ou d’une description explicite du produit.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos d'aliments ou descriptions de produits – facultatif (la branche en texte brut peut être omise)
 - **Préserver :** Conservez la portion réelle, les ingrédients, l'emballage et l'apparence dans la branche photo.
 - **Modification :** Modifiez le placage, le décor, l'éclairage, l'arrière-plan et le traitement de la caméra.
@@ -159,6 +165,7 @@ Deliver one finished food or beverage image only.
 
 Visualisez un vêtement fourni sur un modèle sans modifier le design du vêtement.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrées :** Tuiles de vêtements — obligatoires
 - **Préserver :** Conservez la silhouette, la construction, la couleur, l'imprimé, les éléments de tissu, les bordures et l'image de marque.
 - **Modification :** Modifiez la présentation de la pose à plat au modèle, à la pose, au réglage et à l'éclairage.
@@ -184,6 +191,7 @@ Deliver one on-model image only.
 
 Montrez un produit réel détenu ou utilisé avec une échelle et un contact plausibles.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Image du produit – obligatoire
 - **Préserver :** Conservez la conception du produit, les indices de taille, l'étiquette, la couleur et la vérité fonctionnelle.
 - **Changer :** Changez de main, de contexte utilisateur, d'environnement, d'angle de caméra et de lumière.
@@ -209,6 +217,7 @@ Deliver one finished interaction image only.
 
 Créez une infographie de produit unique à partir d'une photo et de spécifications vérifiées.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Photos du produit – obligatoire ; Dimensions, arguments de vente et paramètres précis – requis
 - **Préserver :** Conservez l'apparence du produit et chaque numéro, unité et revendication fournis exacts.
 - **Modifier :** modifiez la mise en page, les légendes, les icônes, la hiérarchie et l'arrière-plan de support.
@@ -234,6 +243,7 @@ Deliver one infographic preview image only, not a verified vector or print-produ
 
 Organisez plusieurs vues de produits réels et copies approuvées en un seul concept visuel détaillé.
 
+- **Mode de saisie :** Suivez les exigences spécifiques à la tâche ci-dessous
 - **Entrée :** Même groupe d'images de produit – obligatoire ; Arguments de vente et rédaction précise – requis
 - **Préserver :** Gardez toutes les vues du produit cohérentes et toutes les allégations et formulations fournies exactes.
 - **Modifier :** modifiez l'ordre des sections, la hiérarchie graphique, les arrière-plans, les légendes et le contexte du style de vie.

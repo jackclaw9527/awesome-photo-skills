@@ -25,6 +25,7 @@ Os materiais de referência e resultados são usados ​​para ilustrar a dire�
 | Quadro de referência de atmosfera espacial e materiais | Foto/Imagem | 0 – Várias fotos; pode ser combinado em um painel de humor rotulado por categoria para entrada | Opcional/Opcional: Quando o usuário já possui material de direção |
 | Tipo de projeto e palavras-chave | Personagem/Texto | 1 porção | Obrigatório / Obrigatório |
 
+
 Apenas uma imagem é gerada por vez.
 
 ## Manter e alterar/Editar resumo
@@ -72,4 +73,4 @@ Resultados na direção de: Mood Board. Quando for necessário texto exato, arqu
 
 Esses links servem apenas para auxiliar na compreensão do propósito e não são prova da origem ou autorização das imagens desta página.
 
-Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Veja todos os 50 modelos ](../prompts.md).
+Para o escopo de uso de imagens e materiais, consulte a descrição do conteúdo [ ](../content-policy.md). [Ver todos os 100 modelos ](../prompts.md).

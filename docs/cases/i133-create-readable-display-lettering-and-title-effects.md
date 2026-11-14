@@ -24,6 +24,7 @@ Render exact supplied wording as one decorative title treatment.
 | 指定字形或材质字效样板 | 图片 / Image | 0–1张；多素材可合并为一张已标注参考板 | 可选 / Optional：艺术字必须沿用既有字形语言或材质效果时 |
 | 准确文字、用途 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -71,4 +72,4 @@ Proofread character by character and rebuild editable type separately.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

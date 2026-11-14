@@ -10,7 +10,7 @@ Ce référentiel utilise des démonstrations sélectionnées pour illustrer les 
 - Avant affiche les documents de référence organisés en fonction des enregistrements de révision des exigences, et Après affiche des exemples de résultats existants ; cet affichage ne constitue pas un enregistrement complet de traçabilité des entrées au niveau de la tâche.
 - Plusieurs images de référence sont affichées séparément par rôle ; si aucune référence d’image n’est jointe, elle est clairement marquée et n’est pas falsifiée. Les exigences avec des résultats manquants sont placées dans le backlog.
 - Les exemples ne prouvent pas qu’une tâche donnée permet d’obtenir la même qualité pour toutes les entrées, et ne constituent pas non plus une comparaison des performances du modèle.
-- Les 50 mots d'invite publics et les 5 modèles d'introduction sont tous des didacticiels écrits séparément qui n'ont pas été testés un par un et ne sont pas les mots d'invite générés à l'origine pour les exemples d'images.
+- Les 100 mots d'invite publics et les 5 modèles d'introduction sont tous des didacticiels écrits séparément qui n'ont pas encore été testés sur chaque image. Il ne s'agit pas des mots d'invite générés à l'origine pour les exemples d'images.
 - Lorsqu'un texte précis, une transparence, des dimensions physiques, des vecteurs ou une livraison de production sont requis, le fichier réel doit être inspecté et non confirmé uniquement par des vignettes.
 
 ## Source de l'image et champ d'utilisation

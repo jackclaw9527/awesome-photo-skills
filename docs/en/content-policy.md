@@ -10,7 +10,7 @@ This repository uses selected demonstrations to illustrate the input, output, an
 - Before displays reference materials organized according to requirements review records, and After displays existing result examples; this display is not a complete task-level input traceability record.
 - Multiple reference pictures are displayed separately by role; if no picture reference is attached, it is clearly marked and is not forged. Requirements with missing results are placed on the backlog.
 - The examples do not prove that any one task achieves the same quality for all inputs, nor do they constitute a comparison of model performance.
-- The 50 public prompt words and the 5 introductory templates are all separately written tutorials that have not been tested one by one, and are not the original generated prompt words for the sample pictures.
+- The 100 public prompt words and the 5 introductory templates are all separately written tutorials that have not yet been tested on each picture. They are not the original generated prompt words for the sample pictures.
 - When accurate text, transparency, physical dimensions, vectors or production delivery are required, the actual file should be inspected and not confirmed by thumbnails alone.
 
 ## Image source and scope of use

@@ -9,6 +9,7 @@ Miniaturansichten, Poster, Infografiken, Cover, Modelle, Menüs, Logos und Displ
 
 Erstellen Sie ein kontrastreiches Miniaturbild rund um ein verifiziertes Videothema und optional ein Betreffbild.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalbild der Videofigur oder des Themenobjekts – optional (wenn eine bestimmte Figur, ein bestimmtes Produkt oder ein bestimmtes Objekt im Miniaturbild erscheinen soll); Videothema oder Titel – erforderlich
 - **Bewahren:** Behalten Sie die angegebene Personen- oder Objektidentität und den genauen genehmigten Titel bei.
 - **Änderung:** Komposition, Hintergrund, Ausdrucksbetonung, Farbe und Titelbehandlung ändern.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Erstellen Sie ein Veranstaltungsplakat aus bestätigten Veranstaltungsfakten und optionalem genehmigtem Bildmaterial.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Das ursprüngliche visuelle Hauptmaterial der Veranstaltung – optional (wenn das Poster bestimmte Personen, Produkte, Werke oder Markenlogos verwendet); Veranstaltungsname, Kerninformationen, Zeit und Ort oder Teilnahmemethoden – erforderlich
 - **Bewahren:** Halten Sie die bereitgestellten Personen, Produkte, Grafiken, Marken und Veranstaltungsdaten genau.
 - **Änderung:** Layout, Hintergrund, Bildbehandlung, Hierarchie und dekoratives System ändern.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Erstellen Sie ein Verkaufsplakat aus bestätigten Werbedetails und einem optionalen Produktbild.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalbild von Werbeartikeln – optional (wenn das Knoten-Werbebild bestimmte Produkte anzeigen muss); Festival- oder Verkaufsknotenpunkte, Waren oder Dienstleistungen, Werbeinformationen – erforderlich
 - **Aufbewahren:** Halten Sie das Produkt und alle angegebenen Preise, Rabatte, Daten und Konditionen genau.
 - **Änderung:** Saisonales Dekor, Komposition, Farbpalette, Schwerpunkt und Werbehierarchie ändern.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Erstellen Sie ein formelles Veranstaltungsplakat unter Verwendung bestätigter Teilnehmer, Exponate und Logistik.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalbilder von Rednern, Ausstellern oder Exponaten – optional (wenn das Poster echte Redner, Aussteller oder Exponate zeigen muss); Veranstaltungstitel, Informationen zum Redner oder Aussteller, Zeit, Ort oder Teilnahmemethode – erforderlich
 - **Bewahren:** Halten Sie die bereitgestellten Porträts oder Ausstellungen sowie alle Namen, Titel, Organisatoren und Fakten korrekt.
 - **Änderung:** Raster, visuelle Hierarchie, Hintergrund, Palette und Bildbehandlung ändern.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Verwandeln Sie verifizierte Fakten und Zusammenhänge in ein klares Infografik-Bild.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Vorhandene Informationsstrukturskizze – optional (wenn der Benutzer bereits über eine Prozess-, Hierarchie- oder Beziehungsskizze verfügt); Sachinhalt, Informationsstruktur oder Beziehung – erforderlich
 - **Beibehalten:** Behalten Sie alle Fakten, Zahlen, Reihenfolgen, Hierarchien und Beziehungen genau wie angegeben bei.
 - **Änderung:** Ikonographie, Layout, Farbcodierung, visuelle Gruppierung und Hervorhebung ändern.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Erstellen Sie ein horizontales Titelbild, das das Thema eines bereitgestellten Artikels genau wiedergibt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalbild der Person, des Produkts oder des Veranstaltungsmaterials, die in den Artikel involviert sind – optional (das Kopfzeilenbild muss die spezifische Person, das Produkt oder das Veranstaltungsmaterial im Artikel darstellen); Artikelthema – erforderlich
 - **Bewahren:** Bewahren Sie die Treue der bereitgestellten Personen, Produkte, Veranstaltungen und Markenelemente.
 - **Änderung:** Ändern Sie visuelle Metapher, Komposition, Hintergrund, Palette und redaktionelle Behandlung.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Platzieren Sie einen echten App-Screenshot in einer bestimmten Gerätepräsentation, ohne die Benutzeroberfläche zu verändern.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Screenshot der tatsächlichen Schnittstelle der Zielanwendung – erforderlich; Verkaufsargumente des Zielgeräts und echte Funktionen – erforderlich
 - **Beibehalten:** Halten Sie den Screenshot-Inhalt und alle genehmigten Funktionsansprüche genau.
 - **Änderung:** Geräterahmen, Hintergrund, Komposition, Beleuchtung und Marketingkontext ändern.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Erstellen Sie ein visuelles Menü aus bestätigten Gerichtsnamen, Preisen, Kategorien und optionaler Fotografie von echten Lebensmitteln.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Originalfotos echter Gerichte – optional (wenn die Speisekarte die tatsächlichen Gerichte des Restaurants zeigen muss); Namen der Gerichte, genaue Preise, Kategorien – erforderlich
 - **Konservieren:** Halten Sie alle Angaben auf der Speisekarte und das tatsächliche Erscheinungsbild des Gerichts genau.
 - **Änderung:** Layout, Hintergrund, dekoratives System, Bildausschnitte und Hierarchie ändern.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Erstellen Sie eine originelle Logo-Konzept-Präsentation aus einem Markenbriefing und optional vorhandenen Identitätsressourcen.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Ursprüngliches Markenlogo und Identitätsressourcen – optional (wenn Sie Logoerweiterungen für eine bestehende Marke erkunden, anstatt eine von Grund auf neu zu erstellen); Markenname, Markenpositionierung, Zielgruppe – erforderlich
 - **Behalten:** Behalten Sie den genauen Markennamen und die bereitgestellten Identitätsressourcen bei; Vermeiden Sie Fremdmarken.
 - **Änderung:** Symbolideen, Buchstabenformrichtung, Geometrie, Farbe und Darstellung ändern.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Geben Sie den exakten vorgegebenen Wortlaut als eine dekorative Titelbehandlung wieder.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Glyphen- oder Materialeffektvorlage angeben – optional (wenn die Schriftart der vorhandenen Glyphensprache oder dem vorhandenen Materialeffekt folgen muss); Präziser Text und Zweck – erforderlich
 - **Beibehalten:** Achten Sie darauf, dass jedes Zeichen, jede Schreibweise, jede Reihenfolge und jede bereitgestellte Buchstabenreferenz korrekt ist.
 - **Änderung:** Materialeffekt, Tiefe, Beleuchtung, Hintergrund und Ornamentbehandlung ändern.

@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-11 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
+9 cases outside the featured catalogue. The prompt words are not disclosed here, only the existing reference materials, result directions and minimum material requirements are displayed.
 
 [Return to more case catalogs](./index.md) · [Return to warehouse homepage](../../../README.en.md)
 
@@ -54,21 +54,6 @@
 
 ---
 
-## I054 · Generate YouTube channel or live broadcast avatar
-
-<table>
-<thead><tr><th width="50%">Reference material</th><th width="50%">Example of results</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>Photos of people or drawings of existing characters</strong><br><img src="../../../assets/cases/i054-before-1.webp" alt="Generate YouTube channel or live broadcast avatar — reference material 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/en/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i054_image"><img src="../../../assets/cases/i054-after.webp" alt="Generate YouTube channel or live avatar — example results" width="340"></a></td></tr></tbody>
-</table>
-
-- **Input type:** Includes reference material preview and result example
-- **Material requirements:** 0 or 1 person photos or existing character pictures + 1 channel theme
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i054-create-a-profile-picture-for-youtube-or-streaming.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i054_cta)
-
----
-
 ## I055 · Generate natural and attractive avatars for dating apps
 
 <table>
@@ -81,20 +66,6 @@
 - **Description:** Only one picture is generated at a time.
 
 [ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i055-create-a-natural-appealing-dating-profile-photo.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i055_cta)
-
----
-
-## I057 · Generate custom Emoji based on text
-
-<p><strong>Example of results</strong></p>
-<p><a href="https://dearsketch.com/en/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i057_image"><img src="../../../assets/cases/i057-after.webp" alt="Generate custom Emoji from text — example results" width="340"></a></p>
-<p>This example is text input, no picture reference is attached.</p>
-
-- **Input type:** Text input; this example only shows result examples
-- **Material requirements:** 1 emotion or meaning + 1 set of subject or symbol description
-- **Description:** Only one picture is generated at a time.
-
-[ Check the specific requirements in dearsketch and make ](https://dearsketch.com/en/intent/i057-create-a-custom-emoji-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i057_cta)
 
 ---
 

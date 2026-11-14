@@ -25,6 +25,7 @@ Build a design-direction board from optional references or from a project type a
 | 空间氛围与材料参考板 | 图片 / Image | 0–多张；可合成一张按类别标注的情绪板输入 | 可选 / Optional：用户已有方向素材时 |
 | 项目类型与关键词 | 文字 / Text | 1份 | 必需 / Required |
 
+
 每次只生成一张图片。
 
 ## 保留与改变 / Editing brief
@@ -72,4 +73,4 @@ Treat the board as inspiration, not a confirmed product or procurement list.
 
 这些链接仅帮助理解用途，不是本页图片的来源或授权证明。
 
-图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 50 个模板](../prompts.md)。
+图片与素材使用范围见[内容说明](../content-policy.md)。[查看全部 100 个模板](../prompts.md)。

@@ -25,6 +25,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Croquis d'intérieur ou d'architecture/wireframes CAO | Photo/Image | 1 pièce | Obligatoire / Obligatoire |
 | Utilisation de l'espace et signification du croquis | Caractère / Texte | 1 portion | Obligatoire / Obligatoire |
 
+
 Une seule image est générée à la fois.
 
 ## Conserver et modifier / Brief d'édition
@@ -72,4 +73,4 @@ Sens du résultat : rendu spatial réaliste. Lorsque du texte exact, des fichier
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

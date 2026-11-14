@@ -3,53 +3,11 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-12 cases fora do catálogo em destaque. As palavras de aviso não são divulgadas aqui, apenas os materiais de referência existentes, instruções de resultados e requisitos mínimos de materiais são exibidos.
+7 cases fora do catálogo em destaque. As palavras de aviso não são divulgadas aqui, apenas os materiais de referência existentes, instruções de resultados e requisitos mínimos de materiais são exibidos.
 
 [Voltar para mais catálogos de casos](./index.md) · [Voltar para a página inicial do armazém](../../../README.pt.md)
 
 > Os materiais de referência e as imagens dos resultados são apenas para orientação visual; não há garantia de que o mesmo efeito possa ser reproduzido utilizando os mesmos materiais.
-
-## I127 · Gerar ícone de produto ou interface
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i127-create-product-or-interface-icons.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i127_image"><img src="../../../assets/cases/i127-after.webp" alt="Gerar ícones de produto ou interface – resultados de exemplo" width="340"></a></p>
-<p>Este exemplo não inclui uma referência de imagem e a visualização da entrada deve ser concluída; veja os requisitos de material abaixo.</p>
-
-- **Tipo de entrada:** Este exemplo mostra apenas exemplos de resultados; a visualização da entrada da imagem deve ser adicionada
-- **Requisitos de material:** Modelo de sistema de ícones existente + lista de funções → Gerar uma coleção de ícones consistente → Ativo de ícone único atual
-- **Descrição:** Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i127-create-product-or-interface-icons.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i127_cta)
-
----
-
-## I128 · Gere ilustrações vetoriais editáveis ​​a partir de texto
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i128_image"><img src="../../../assets/cases/i128-after.webp" alt="Gere ilustrações vetoriais editáveis ​​a partir de texto — exemplo de resultados" width="340"></a></p>
-<p>Este exemplo é uma entrada de texto, nenhuma referência de imagem está anexada.</p>
-
-- **Tipo de entrada:** Entrada de texto; este exemplo mostra apenas exemplos de resultados
-- **Requisitos de material:** Tema e finalidade da ilustração → Gerar SVG e geometria em camadas → Ilustração vetorial única atual
-- **Descrição:** Desta vez, uma única visualização visual é gerada. Cálculo de dados, composição tipográfica precisa, arquivos vetoriais ou de produção ainda precisam ser verificados pelas ferramentas correspondentes.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i128-create-an-editable-vector-illustration-from-text.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i128_cta)
-
----
-
-## I129 · Gere imagens de galeria personalizadas específicas do tema
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i129_image"><img src="../../../assets/cases/i129-after.webp" alt="Gere imagens de galeria personalizadas específicas do tema — resultados de exemplo" width="340"></a></p>
-<p>Este exemplo não inclui uma referência de imagem e a visualização da entrada deve ser concluída; veja os requisitos de material abaixo.</p>
-
-- **Tipo de entrada:** Este exemplo mostra apenas exemplos de resultados; a visualização da entrada da imagem deve ser adicionada
-- **Requisitos de material:** Imagens originais de produtos ou personagens que precisam ser incorporados em cenas + cenas específicas e contexto de uso → Gerar imagens sem restrições de biblioteca pronta → Personalizar o único Stock Image atual
-- **Descrição:** Apenas uma imagem é gerada por vez.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i129-create-custom-stock-imagery-for-a-specific-theme.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i129_cta)
-
----
 
 ## I130 · Criar design visual reutilizável do mascote da marca VI
 
@@ -80,34 +38,6 @@
 - **Descrição:** Somente o atualmente selecionado é gerado por vez; outras fotos da série são executadas separadamente.
 
 [ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i131-keep-a-set-of-images-consistent-with-one-brand-style.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i131_cta)
-
----
-
-## I134 · Gerar rótulos de embalagens e conceitos visuais de caixas
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i134_image"><img src="../../../assets/cases/i134-after.webp" alt="Gerando conceitos visuais para rótulos de embalagens e formatos de caixas - resultados de exemplo" width="340"></a></p>
-<p>Este exemplo não inclui uma referência de imagem e a visualização da entrada deve ser concluída; veja os requisitos de material abaixo.</p>
-
-- **Tipo de entrada:** Este exemplo mostra apenas exemplos de resultados; a visualização da entrada da imagem deve ser adicionada
-- **Requisitos de material:** Placa original da marca e estrutura da embalagem + tipo de produto, nome da marca, cópia da embalagem, recipiente ou tipo de caixa → Gerar direção da embalagem com texto legível → Conceito atual de design de embalagem em folha única
-- **Descrição:** Apenas uma imagem é gerada por vez.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i134-create-packaging-label-and-box-concepts.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i134_cta)
-
----
-
-## I135 · Gere planos de fundo, texturas e padrões de marca repetíveis
-
-<p><strong>Exemplo de resultados</strong></p>
-<p><a href="https://dearsketch.com/pt/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i135_image"><img src="../../../assets/cases/i135-after.webp" alt="Gere planos de fundo, texturas e padrões de marca repetíveis – exemplos de resultados" width="340"></a></p>
-<p>Este exemplo não inclui uma referência de imagem e a visualização da entrada deve ser concluída; veja os requisitos de material abaixo.</p>
-
-- **Tipo de entrada:** Este exemplo mostra apenas exemplos de resultados; a visualização da entrada da imagem deve ser adicionada
-- **Requisitos de material:** Unidade gráfica da marca original + tema, cenário de aplicação → Gerar padrão contínuo → Padrão e textura únicos atuais
-- **Descrição:** Apenas uma imagem é gerada por vez.
-
-[ Verifique os requisitos específicos em dearsketch e faça ](https://dearsketch.com/pt/intent/i135-create-repeatable-backgrounds-textures-and-brand-patterns.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i135_cta)
 
 ---
 

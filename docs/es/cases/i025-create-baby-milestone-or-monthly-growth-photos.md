@@ -25,6 +25,7 @@ Los materiales de referencia y los resultados se utilizan para ilustrar la direc
 | fotos de bebe | Imagen/Imagen | 1 pieza | Requerido / Requerido |
 | Edad mensual o hito | Carácter / Texto | 1 artículo | Requerido / Requerido |
 
+
 Sólo se genera una imagen a la vez.
 
 ## Conservar y cambiar / Editar resumen
@@ -71,4 +72,4 @@ Resultados en la dirección de: Fotografías conmemorativas de hitos. Cuando se 
 
 Estos enlaces son solo para ayudar a comprender el propósito y no son prueba de la fuente o autorización de las imágenes en esta página.
 
-Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 50 plantillas ](../prompts.md).
+Para conocer el alcance de uso de imágenes y materiales, consulte la descripción del contenido [ ](../content-policy.md). [Ver las 100 plantillas ](../prompts.md).

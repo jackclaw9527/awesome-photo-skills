@@ -25,6 +25,7 @@ Les matériaux de référence et les résultats sont utilisés pour illustrer la
 | Photos de personnes, d'animaux ou d'objets | Photo/Image | 1 pièce | Obligatoire / Obligatoire |
 | L'action ou l'émotion de cet autocollant | Caractère / Texte | 0 ou 1 article | Facultatif / Facultatif |
 
+
 Seule l'image actuellement sélectionnée est générée à la fois ; les autres images de la série sont exécutées séparément.
 
 ## Conserver et modifier / Brief d'édition
@@ -71,4 +72,4 @@ Direction du résultat : pack d'autocollants de chat. Lorsque du texte exact, d
 
 Ces liens sont uniquement destinés à aider à comprendre le but et ne constituent pas une preuve de la source ou de l'autorisation des images présentes sur cette page.
 
-Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Voir les 50 modèles ](../prompts.md).
+Pour connaître le champ d'utilisation des images et du matériel, voir la description du contenu de [ ](../content-policy.md). [Afficher les 100 modèles ](../prompts.md).

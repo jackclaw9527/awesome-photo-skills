@@ -9,6 +9,7 @@ Recuerdos de casas, vistas previas de interiores, presentación de propiedades, 
 
 Transforme una foto de una casa en un recuerdo de acuarela o arte lineal.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de la casa: obligatorias
 - **Preservar:** Mantenga la línea del techo, las puertas, las ventanas, las proporciones de la fachada y las características distintivas del sitio.
 - **Cambio:** Cambia el medio, la simplificación del fondo, el énfasis del paisajismo y la paleta.
@@ -34,6 +35,7 @@ Deliver one finished keepsake image only.
 
 Obtenga una vista previa de un nuevo estilo interior conservando la estructura de la habitación fotografiada.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de habitaciones existentes: requeridas
 - **Preservar:** Mantenga paredes, puertas, ventanas, techos, aberturas fijas y puntos de vista de las cámaras.
 - **Cambio:** Cambie muebles, acabados, decoración, paleta y ambiente de iluminación.
@@ -59,6 +61,7 @@ Deliver one single-view room concept image only.
 
 Visualice un cambio de imagen del paisaje para un espacio al aire libre fotografiado.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Aportaciones:** Fotos del jardín o espacio exterior: obligatorias; requisitos de uso, clima o ubicación: requerido
 - **Preservar:** Mantenga los límites del lote, la construcción, las pendientes, el acceso y las estructuras fijas.
 - **Cambio:** Cambiar los conceptos de plantación, pavimento, mobiliario, iluminación y comodidades.
@@ -84,6 +87,7 @@ Deliver one finished exterior concept image only.
 
 Reemplace las superficies de la habitación especificadas utilizando una muestra suministrada o una descripción precisa del color y el material.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos del interior: obligatorias; Muestras de material objetivo: condicionales (cuando es necesario reproducir texturas específicas o muestras de productos); Superficies alternativas y colores/materiales de destino: obligatorios
 - **Preservar:** Mantenga la estructura de la habitación, la lógica de iluminación, la ubicación de los objetos y las superficies no objetivo.
 - **Cambiar:** Cambie solo las paredes, el piso o las áreas de papel tapiz con nombre.
@@ -109,6 +113,7 @@ Deliver one edited material-preview image only.
 
 Visualice el rediseño de una oficina existente a partir de una fotografía del sitio o un concepto de lugar de trabajo basado en texto.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotografías del sitio de la oficina: condicional (cuando se remodela una oficina existente); descripciones de equipo, área funcional, marca y sucursal: obligatorias
 - **Preservar:** Mantenga la estructura y las restricciones visibles solo cuando se proporcione una fotografía del sitio.
 - **Cambio:** Cambia estaciones de trabajo, zonas, mobiliario, marca, acabados e iluminación.
@@ -134,6 +139,7 @@ Deliver one office concept image only and flag technical questions for professio
 
 Agregue muebles y decoración creíbles a la foto de una propiedad vacía.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos de las habitaciones disponibles: obligatorias
 - **Preservar:** Mantenga la arquitectura real, el estado de la habitación, las ventanas, las puertas y la vista de la cámara.
 - **Cambio:** Cambie únicamente el mobiliario móvil, la decoración, los artículos textiles y la presentación de la iluminación.
@@ -159,6 +165,7 @@ Deliver one staged room image only.
 
 Limpie el desorden visible mientras preserva la verdadera condición y estructura de una habitación.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Fotos aleatorias de habitaciones desordenadas: obligatorias
 - **Conservar:** Conservar disposición, elementos fijos, superficies, iluminación y defectos de materiales.
 - **Cambio:** Elimine solo el desorden móvil enumerado y realice correcciones restringidas en la presentación.
@@ -184,6 +191,7 @@ Deliver one cleaned property image only.
 
 Desarrolle una fachada a partir de un boceto opcional o de un resumen sobre el uso del edificio y la dirección del diseño.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Croquis arquitectónico o diagrama de bloques: opcional (cuando el usuario ya tiene la forma del edificio, la abertura o el croquis del sitio); Uso arquitectónico, palabras clave de diseño: obligatorio
 - **Conservar:** Mantenga las masas y las aberturas proporcionadas solo cuando exista un boceto o una referencia de masa.
 - **Cambio:** Cambia los materiales de la fachada, la articulación, el entorno, el paisaje y la luz.
@@ -209,6 +217,7 @@ Deliver one facade concept rendering only for design discussion.
 
 Renderice un dibujo lineal arquitectónico o interior suministrado sin cambiar su estructura prevista.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Insumos:** Boceto interior o arquitectónico/estructura alámbrica CAD: obligatorio; Uso del espacio y significado del boceto: obligatorio
 - **Conservar:** Conserva las aberturas, la geometría, las relaciones de diseño y el encuadre de la cámara.
 - **Cambio:** Cambia materiales, iluminación, mobiliario, paisaje y atmósfera.
@@ -234,6 +243,7 @@ Deliver one realistic concept rendering only.
 
 Cree un tablero de dirección de diseño a partir de referencias opcionales o de un resumen del tipo de proyecto y de las palabras clave.
 
+- **Modo de entrada:** Siga los requisitos específicos de la tarea a continuación
 - **Entradas:** Atmósfera espacial y tablero de referencia de materiales: opcional (si el usuario ya tiene materiales de dirección); tipo de proyecto y palabras clave: obligatorio
 - **Conservar:** Mantenga los colores de referencia suministrados y las identidades de los materiales solo cuando existan referencias.
 - **Cambio:** Cambie el diseño, la jerarquía, los recortes, las anotaciones y el soporte de las muestras generadas.

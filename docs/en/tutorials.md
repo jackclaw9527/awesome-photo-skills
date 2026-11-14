@@ -92,4 +92,4 @@ Zoom out to see if it is still clear, and then do the word mark, vector arrangem
 
 First complete a small-scale attempt to check whether the subject and facts are correct, and then change the painting style, composition or other variables. When encountering name, price, size, event date and accurate copywriting, you should check them word for word and do not let the model fill them in for you.
 
-If you want to view the input requirements by specific tasks, you can enter the corresponding page of the website from the [50 case directory ](./prompts.md).
+If you want to view the input requirements by specific tasks, you can enter the corresponding page of the website from the [100 case directory ](./prompts.md).

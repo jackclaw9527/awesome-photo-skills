@@ -9,6 +9,7 @@ Miniaturas, pôsteres, infográficos, capas, maquetes, menus, logotipos e letras
 
 Crie uma miniatura de alto contraste em torno de um tópico de vídeo verificado e de uma imagem de assunto opcional.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Imagem original do personagem do vídeo ou objeto do tema — opcional (quando um personagem, produto ou objeto específico deve aparecer na miniatura); Tema ou título do vídeo – obrigatório
 - **Preservar:** Mantenha a identidade da pessoa ou objeto fornecida e o título exato aprovado.
 - **Alterar:** Altere a composição, o plano de fundo, a ênfase da expressão, a cor e o tratamento do título.
@@ -34,6 +35,7 @@ Deliver one thumbnail image only.
 
 Crie um pôster do evento a partir de fatos confirmados do evento e material visual opcional aprovado.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Material visual principal original do evento — opcional (quando o pôster utiliza logotipos de pessoas, produtos, obras ou marcas específicas); nome do evento, informações principais, horário e local ou métodos de participação - obrigatório
 - **Preservar:** Mantenha exatas as pessoas, produtos, obras de arte, marcas e fatos do evento fornecidos.
 - **Alterar:** Alterar layout, plano de fundo, tratamento de imagem, hierarquia e sistema decorativo.
@@ -59,6 +61,7 @@ Deliver one poster preview image only.
 
 Crie um pôster do momento de vendas com detalhes confirmados da promoção e uma imagem opcional do produto.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Imagem original de produtos promocionais — opcional (quando a imagem promocional do nó precisa exibir produtos específicos); nós de festivais ou vendas, bens ou serviços, informações promocionais - obrigatório
 - **Preservar:** Mantenha o produto e todos os preços, descontos, datas e condições fornecidos exatos.
 - **Alterar:** Altere a decoração sazonal, a composição, a paleta, a ênfase e a hierarquia promocional.
@@ -84,6 +87,7 @@ Deliver one sale-poster preview image only.
 
 Crie um pôster formal do evento usando participantes confirmados, exposições e logística.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Imagens originais de palestrantes, expositores ou exposições — opcional (quando o pôster precisar mostrar palestrantes, expositores ou exposições reais); título do evento, informações do palestrante ou expositor, horário, local ou método de participação - obrigatório
 - **Preservar:** Mantenha exatos os retratos ou exposições fornecidos e todos os nomes, títulos, organizadores e fatos.
 - **Alterar:** Altere a grade, a hierarquia visual, o plano de fundo, a paleta e o tratamento da imagem.
@@ -109,6 +113,7 @@ Deliver one event-poster preview image only.
 
 Transforme fatos e relacionamentos verificados em um infográfico visual claro.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Esboço de estrutura de informação existente — opcional (quando o usuário já possui um esboço de processo, hierarquia ou relacionamento); conteúdo factual, estrutura de informação ou relacionamento - obrigatório
 - **Preservar:** Mantenha todos os fatos, números, ordem, hierarquia e relacionamentos exatamente como fornecidos.
 - **Alterar:** Altere a iconografia, o layout, o código de cores, o agrupamento visual e a ênfase.
@@ -134,6 +139,7 @@ Deliver one infographic preview image only.
 
 Crie uma imagem de capa horizontal que reflita com precisão o tópico do artigo fornecido.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Imagem original da pessoa, produto ou material do evento envolvido no artigo — opcional (a imagem do cabeçalho deve apresentar a pessoa, produto ou material do evento específico no artigo); Tópico do artigo – obrigatório
 - **Preservar:** Mantenha fiéis as pessoas, produtos, eventos e elementos da marca fornecidos.
 - **Alterar:** Altere a metáfora visual, a composição, o plano de fundo, a paleta e o tratamento editorial.
@@ -159,6 +165,7 @@ Deliver one cover image only.
 
 Coloque uma captura de tela real do aplicativo em uma apresentação de dispositivo específica sem alterar a interface.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Captura de tela da interface real do aplicativo de destino — obrigatório; Pontos de venda do dispositivo alvo e funções reais – obrigatório
 - **Preservar:** Mantenha exato o conteúdo da captura de tela e todas as reivindicações de recursos aprovadas.
 - **Alterar:** altere a moldura, o plano de fundo, a composição, a iluminação e o contexto de marketing do dispositivo.
@@ -184,6 +191,7 @@ Deliver one mockup preview image only.
 
 Crie um visual de menu a partir de nomes de pratos confirmados, preços, categorias e fotografias opcionais de comida real.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Insumos:** Fotos originais de pratos reais — opcional (quando o cardápio precisa mostrar os pratos reais do restaurante); nomes de pratos, preços precisos, categorias – obrigatório
 - **Preservar:** Mantenha todos os dados do menu e a aparência real do prato exatos.
 - **Alterar:** Altere o layout, o plano de fundo, o sistema decorativo, os cortes de imagens e a hierarquia.
@@ -209,6 +217,7 @@ Deliver one menu preview image only.
 
 Crie uma apresentação de conceito de logotipo original a partir de um resumo da marca e de ativos de identidade opcionais existentes.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Logotipo da marca original e ativos de identidade — opcional (ao explorar extensões de logotipo para uma marca existente em vez de criar uma do zero); Nome da marca, posicionamento da marca, público-alvo – obrigatório
 - **Preservar:** Mantenha o nome exato da marca e os ativos de identidade fornecidos; evite marcas de terceiros.
 - **Alterar:** altere ideias de símbolos, direção do formato das letras, geometria, cor e apresentação.
@@ -234,6 +243,7 @@ Deliver one logo-concept image only, not final trademark clearance or production
 
 Renderize o texto exato fornecido como um tratamento de título decorativo.
 
+- **Modo de entrada:** Siga os requisitos específicos da tarefa abaixo
 - **Entradas:** Especifique o modelo de glifo ou efeito de material — opcional (quando a arte da fonte deve seguir a linguagem de glifo ou efeito de material existente); texto e propósito precisos - obrigatório
 - **Preservar:** Mantenha todos os caracteres, ortografia, ordem e referência de formato de letra fornecidos precisos.
 - **Alterar:** Altere o efeito do material, a profundidade, a iluminação, o plano de fundo e o tratamento ornamental.

@@ -9,6 +9,7 @@ Auflistung von Assets, transparenten Ausschnitten, Lifestyle- und Studiobildern,
 
 Isolieren Sie ein echtes Produkt in einem sauberen Bild mit weißem Hintergrund im Marktplatzstil.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Mit Mobiltelefonen aufgenommene Produktfotos – erforderlich
 - **Beibehalten:** Produktform, Proportionen, Farbe, Etiketten, Oberflächendetails und enthaltene Teile bleiben erhalten.
 - **Änderung:** Hintergrund, Zuschnitt, Lichtbalance und begrenzte Schatten ändern.
@@ -34,6 +35,7 @@ Deliver one product image only.
 
 Extrahieren Sie ein Produkt als wiederverwendbaren Ausschnitt mit einem echten Alphakanal.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Produktfotos – erforderlich
 - **Bewahren:** Behalten Sie alle Produktkanten, Öffnungen, Etiketten, Farben und transparenten oder reflektierenden Details bei.
 - **Änderung:** Es wurden nur die Hintergrundentfernung, die Kantenbereinigung und die optionale neutrale Schattenbehandlung geändert.
@@ -59,6 +61,7 @@ Deliver one cutout asset only; do not substitute a white-background image.
 
 Platzieren Sie einen unveränderten Produktausschnitt in einem glaubwürdigen Nutzungskontext.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Weißes Hintergrundbild des Produkts – erforderlich
 - **Beibehalten:** Produktmodell, Geometrie, Farbe, Etiketten, Materialien und Proportionen beibehalten.
 - **Änderung:** Umgebung, Stil, Licht, Kamerakontext und unterstützende Requisiten ändern.
@@ -84,6 +87,7 @@ Deliver one finished lifestyle product image only.
 
 Inszenieren Sie ein Produktfoto mit professioneller Studiobeleuchtung neu und behalten Sie dabei die Produktfakten bei.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Produktfotos – erforderlich
 - **Beibehalten:** Geometrie, Beschriftungen, Farben, Materialien, Textur und enthaltene Komponenten bleiben erhalten.
 - **Änderung:** Hintergrund, Lichtanordnung, Kamerapolitur und Schattenbehandlung ändern.
@@ -109,6 +113,7 @@ Deliver one studio product image only.
 
 Erstellen Sie eine Weihnachts- oder Verkaufssaisonszene rund um ein echtes Produkt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Produktfotos – erforderlich; Feiertags- oder Werbethemen – erforderlich
 - **Bewahren:** Behalten Sie Produktidentität, Design, Etikett, Farbe und bereitgestellte Werbeinformationen bei.
 - **Änderung:** Dekor, Hintergrund, Licht, Farbpalette und Kampagnenkomposition ändern.
@@ -134,6 +139,7 @@ Deliver one finished promotional product image only.
 
 Erstellen Sie ein appetitliches Werbebild aus einem Lebensmittelfoto oder einer expliziten Produktbeschreibung.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Lebensmittelfotos oder Produktbeschreibungen – optional (einfacher Textzweig kann weggelassen werden)
 - **Bewahren:** Behalten Sie die tatsächliche Portion, die Zutaten, die Verpackung und das Aussehen im Fotozweig bei.
 - **Änderung:** Beschichtung, Bühnenbild, Beleuchtung, Hintergrund und Kamerabehandlung ändern.
@@ -159,6 +165,7 @@ Deliver one finished food or beverage image only.
 
 Visualisieren Sie ein geliefertes Kleidungsstück an einem Modell, ohne das Kleidungsstückdesign zu ändern.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Kleidungsplättchen – erforderlich
 - **Beibehalten:** Behalten Sie Silhouette, Konstruktion, Farbe, Druck, Stoffmerkmale, Besätze und Branding bei.
 - **Änderung:** Präsentation von Flachlage auf Modell, Pose, Einstellung und Beleuchtung umstellen.
@@ -184,6 +191,7 @@ Deliver one on-model image only.
 
 Zeigen Sie ein reales Produkt, das gehalten oder verwendet wird, mit plausiblem Maßstab und Kontakt.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Produktbild – erforderlich
 - **Beibehalten:** Behalten Sie Produktdesign, Größenangaben, Etikett, Farbe und Funktionswahrheit bei.
 - **Änderung:** Hände, Benutzerkontext, Umgebung, Kamerawinkel und Licht ändern.
@@ -209,6 +217,7 @@ Deliver one finished interaction image only.
 
 Erstellen Sie eine einzelne Produktinfografik aus einem Foto und überprüften Spezifikationen.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Produktfotos – erforderlich; Genaue Abmessungen, Verkaufsargumente und Parameter – erforderlich
 - **Bewahren:** Achten Sie darauf, dass das Erscheinungsbild des Produkts und jede angegebene Anzahl, Einheit und Angabe genau sind.
 - **Änderung:** Layout, Beschriftungen, Symbole, Hierarchie und unterstützenden Hintergrund ändern.
@@ -234,6 +243,7 @@ Deliver one infographic preview image only, not a verified vector or print-produ
 
 Ordnen Sie mehrere reale Produktansichten und genehmigte Kopien in einem umfassenden visuellen Konzept an.
 
+- **Eingabemodus:** Befolgen Sie die nachstehenden aufgabenspezifischen Anforderungen
 - **Eingaben:** Gleiche Produktbildgruppe – erforderlich; Verkaufsargumente und genaues Verfassen von Texten – erforderlich
 - **Beibehalten:** Halten Sie alle Produktansichten konsistent und alle bereitgestellten Angaben und Formulierungen genau.
 - **Änderung:** Abschnittsreihenfolge, grafische Hierarchie, Hintergründe, Beschriftungen und Lifestyle-Kontext ändern.

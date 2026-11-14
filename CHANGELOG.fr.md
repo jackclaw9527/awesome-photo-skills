@@ -3,6 +3,12 @@
 [中文](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [عربي](README.ar.md) · [русский](README.ru.md) · [日本語](README.ja.md) · [हिंदी](README.hi.md)
 
 
+## 2026-11-14
+
+- Étendu à 100 modèles publics, dont 50 mémoires en texte uniquement ne nécessitant aucune pièce jointe de référence.
+- Ajout d'une collection dédiée au texte uniquement et de métadonnées explicites en mode saisie. Les exemples d'images existants restent illustratifs ; les nouvelles invites n'ont pas été testées par génération.
+
+
 ## 2026-11-02
 
 - Ajout de 50 modèles publics nouvellement créés, un pour chaque cas sélectionné, avec des objectifs de préservation et des vérifications des résultats. Ils n’ont pas été testés générationnellement.

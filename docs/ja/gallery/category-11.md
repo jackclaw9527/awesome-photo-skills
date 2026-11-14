@@ -3,7 +3,7 @@
 [中文](../../../README.md) · [English](../../../README.en.md) · [Português](../../../README.pt.md) · [Español](../../../README.es.md) · [Français](../../../README.fr.md) · [Deutsch](../../../README.de.md) · [عربي](../../../README.ar.md) · [русский](../../../README.ru.md) · [日本語](../../../README.ja.md) · [हिंदी](../../../README.hi.md)
 
 
-カタログ掲載外の3件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
+掲載カタログ外の2件。ここではプロンプトの言葉は開示されていません。既存の参考資料、結果の指示、および最小限の材料要件のみが表示されます。
 
 [その他のケース カタログに戻る](./index.md) · [倉庫のホームページに戻る](../../../README.ja.md)
 
@@ -24,21 +24,6 @@
 
 ---
 
-## I173 · レストラン、店舗、ショールームのデザインの方向性を生成する
-
-<table>
-<thead><tr><th width="50%">参考資料</th><th width="50%">結果の例</th></tr></thead>
-<tbody><tr><td valign="top"><p><strong>商業スペースシーンのオリジナル画像</strong><br><img src="../../../assets/cases/i173-before-1.webp" alt="レストラン、ショップ、ショールームのデザイン指示を作成する - 参考資料 1" width="340"></p></td><td valign="top"><a href="https://dearsketch.com/ja/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=dearsketch-public-cases&amp;utm_content=i173_image"><img src="../../../assets/cases/i173-after.webp" alt="レストラン、店舗、ショールームのデザイン指示を生成 - 結果の例" width="340"></a></td></tr></tbody>
-</table>
-
-- **入力タイプ:** 参考資料のプレビューと結果の例が含まれます
-- **マテリアル要件:** 商空間＋業態、ブランドポジショニング、核となる機能、旅客動線のオリジナルの現地イメージ → 業態に合わせたレイアウトや雰囲気づくり → 現状の単一商空間コンセプトマップ
-- **説明:** 一度に生成される画像は 1 つだけです。
-
-[ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i173-create-design-directions-for-a-restaurant-shop-or-showroom.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i173_cta) を作成します
-
----
-
 ## I180 · 同じ空間で複数のマテリアルと光の方向を生成
 
 <table>
@@ -47,7 +32,7 @@
 </table>
 
 - **入力タイプ:** 参考資料のプレビューと結果の例が含まれます
-- **マテリアル要件:** ベースライン空間マップ + 現在のマテリアルまたは照明変数 → 代替マテリアル、カラー マッチングおよび照明 → 現在の単一プランの比較表
+- **材料要件:** 1 つの基準空間図面 + ターゲット設計方向、表面材料および照明要件
 - **説明:** 一度に生成される画像は 1 つだけです。
 
 [ dearsketch の特定の要件を確認し、](https://dearsketch.com/ja/intent/i180-create-material-and-lighting-variations-for-the-same-space.html?utm_source=github&utm_medium=gallery&utm_campaign=dearsketch-public-cases&utm_content=i180_cta) を作成します
